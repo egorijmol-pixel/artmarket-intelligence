@@ -1,0 +1,39 @@
+{
+  "last_attempt_utc": "2026-11-15T23:35:29.992566+00:00",
+  "sources_checked": 5,
+  "sources_ok": 4,
+  "candidates_count": 103,
+  "verified_automatic": 0,
+  "checks": [
+    {
+      "name": "Bonhams news RSS",
+      "status": "error",
+      "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Google News: auction \"sold for\" \"million\"",
+      "status": "ok",
+      "articles_seen": 84,
+      "new_candidates": 56
+    },
+    {
+      "name": "Google News: collectible auction \"sells for\"",
+      "status": "ok",
+      "articles_seen": 46,
+      "new_candidates": 24
+    },
+    {
+      "name": "Google News: auction \"achieves\" \"$\"",
+      "status": "ok",
+      "articles_seen": 54,
+      "new_candidates": 12
+    },
+    {
+      "name": "Google News: private sale art collectible \"million\"",
+      "status": "ok",
+      "articles_seen": 35,
+      "new_candidates": 11
+    }
+  ],
+  "notice": "RSS-публикации являются кандидатами, не подтверждёнными продажами."
+}
