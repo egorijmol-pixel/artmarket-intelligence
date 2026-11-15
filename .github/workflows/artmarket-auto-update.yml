@@ -1,1 +1,226 @@
-.github/workflows/artmarket-auto-update.yml
+name: ArtMarket free RSS updates
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 */6 * * *'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: artmarket-updates
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Load repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Find sale leads from public RSS feeds
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import datetime as dt
+          import hashlib
+          import html
+          import json
+          import re
+          import urllib.error
+          import urllib.parse
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from email.utils import parsedate_to_datetime
+          from pathlib import Path
+
+          DATA = Path('data')
+          DATA.mkdir(exist_ok=True)
+          UTC = dt.timezone.utc
+          NOW = dt.datetime.now(UTC).isoformat()
+          # Only public feeds; posts are unverified leads, not confirmed transactions.
+          SEARCHES = [
+              'auction "sold for" "million"',
+              'collectible auction "sells for"',
+              'auction "achieves" "$"',
+              'private sale art collectible "million"',
+          ]
+          FEEDS = [
+              ('Bonhams news RSS', 'https://www.bonhams.com/rss/headlines.xml'),
+          ]
+          for term in SEARCHES:
+              q = urllib.parse.urlencode({'q': term, 'hl': 'en-US', 'gl': 'US', 'ceid': 'US:en'})
+              FEEDS.append(('Google News: ' + term, 'https://news.google.com/rss/search?' + q))
+
+          USD = re.compile(r'(?:US\s*)?\$\s*(\d{1,3}(?:,\d{3})*(?:\.\d+)?|\d+(?:\.\d+)?)\s*(billion|million|thousand|bn|m|k)?\b', re.I)
+          SOLD = re.compile(r'\b(sold|sells|selling for|achieved|achieves|realized|realised|fetched|fetches|hammered|auction record|sale results?)\b', re.I)
+          PRESALE = re.compile(r'\b(expected to|estimate(?:d)?|hopes? to|could fetch|may fetch|pre-sale|to be sold)\b', re.I)
+          TOTAL = re.compile(r'\b(sale total|auction total|overall total|combined total|total sales|auction achieves|sales totaled)\b', re.I)
+
+
+          def strip(s):
+              return html.unescape(re.sub(r'<[^>]*>', ' ', s or '')).replace('\n', ' ').strip()[:600]
+
+
+          def price_values(s):
+              result = []
+              for m in USD.finditer(s):
+                  try:
+                      value = float(m.group(1).replace(',', ''))
+                      unit = (m.group(2) or '').lower()
+                      value *= {'billion': 1e9, 'bn': 1e9, 'million': 1e6, 'm': 1e6, 'thousand': 1e3, 'k': 1e3}.get(unit, 1)
+                      if value >= 300000:
+                          result.append(round(value))
+                  except (ValueError, OverflowError):
+                      pass
+              return result
+
+
+          def classify(s):
+              s = s.lower()
+              tags = [
+                  ('watch', ['watch', 'patek', 'rolex', 'timepiece', 'journe']),
+                  ('cars', ['car ', 'ferrari', 'porsche', 'automobile', 'bugatti']),
+                  ('jewelry', ['diamond', 'jewel', 'ruby', 'sapphire']),
+                  ('coins', ['coin', 'numismatic', 'banknote']),
+                  ('wine', ['wine', 'whisky', 'whiskey']),
+                  ('books', ['book', 'manuscript', 'first edition']),
+                  ('art', ['painting', 'artist', 'picasso', 'warhol', 'monet', 'canvas']),
+              ]
+              return next((k for k, terms in tags if any(t in s for t in terms)), 'other')
+
+
+          def timestamp(s):
+              if not s:
+                  return ''
+              try:
+                  return parsedate_to_datetime(s).astimezone(UTC).isoformat()
+              except (ValueError, TypeError, OverflowError):
+                  try:
+                      return dt.datetime.fromisoformat(s.replace('Z', '+00:00')).astimezone(UTC).isoformat()
+                  except (ValueError, TypeError):
+                      return ''
+
+
+          def node_text(node, name):
+              x = node.find(name)
+              return (x.text or '').strip() if x is not None else ''
+
+
+          def entries(content):
+              root = ET.fromstring(content)
+              result = []
+              if root.find('channel') is not None:
+                  for i in root.findall('./channel/item')[:100]:
+                      result.append((node_text(i, 'title'), node_text(i, 'description'), node_text(i, 'link'), timestamp(node_text(i, 'pubDate'))))
+              else:
+                  ns = '{http://www.w3.org/2005/Atom}'
+                  for i in root.findall('.//' + ns + 'entry')[:100]:
+                      link = next((a.get('href', '') for a in i.findall(ns + 'link') if a.get('rel', 'alternate') == 'alternate'), '')
+                      result.append((node_text(i, ns + 'title'), node_text(i, ns + 'summary'), link, timestamp(node_text(i, ns + 'published') or node_text(i, ns + 'updated'))))
+              return result
+
+
+          def load(name, default):
+              try:
+                  return json.loads((DATA / name).read_text(encoding='utf-8'))
+              except (OSError, ValueError):
+                  return default
+
+
+          def store(name, value):
+              (DATA / name).write_text(json.dumps(value, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+
+          current = load('candidates.json', [])
+          if not isinstance(current, list):
+              current = []
+          found = {x['id']: x for x in current if isinstance(x, dict) and 'id' in x}
+          checks = []
+          for label, url in FEEDS:
+              count = 0
+              seen = 0
+              try:
+                  req = urllib.request.Request(url, headers={'User-Agent': 'ArtMarketIntelligence/4.1 personal RSS reader', 'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml'})
+                  with urllib.request.urlopen(req, timeout=16) as response:
+                      if response.status != 200:
+                          raise ValueError('HTTP ' + str(response.status))
+                      raw = response.read(2_000_001)
+                  if len(raw) > 2_000_000:
+                      raise ValueError('RSS larger than 2 MB')
+                  posts = entries(raw)
+                  seen = len(posts)
+                  for title, desc, link, published in posts:
+                      title, desc = strip(title), strip(desc)
+                      if not link.startswith('https://'):
+                          continue
+                      if not SOLD.search(title + ' ' + desc) or PRESALE.search(title):
+                          continue
+                      if TOTAL.search(title) and not re.search(r'\b(lot|watch|painting|car|diamond|ring|artwork|computer)\b', title, re.I):
+                          continue
+                      values = price_values(title) or price_values(desc)
+                      if not values:
+                          continue
+                      key = hashlib.sha256(link.encode('utf-8')).hexdigest()[:16]
+                      if key in found:
+                          continue
+                      found[key] = {'id': key, 'title': title, 'summary': desc[:350], 'url': link,
+                                    'published_at': published, 'indicative_usd': max(values),
+                                    'category_hint': classify(title + ' ' + desc),
+                                    'source_name': label, 'status': 'candidate',
+                                    'note': 'Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены.'}
+                      count += 1
+                  checks.append({'name': label, 'status': 'ok', 'articles_seen': seen, 'new_candidates': count})
+              except Exception as e:
+                  checks.append({'name': label, 'status': 'error', 'reason': str(e)[:160]})
+
+          items = sorted(found.values(), key=lambda x: (x.get('published_at') or '', x.get('id') or ''), reverse=True)[:500]
+          store('candidates.json', items)
+          if not (DATA / 'records.json').exists():
+              store('records.json', [])
+          status = {'last_attempt_utc': NOW, 'sources_checked': len(checks),
+                    'sources_ok': sum(x['status'] == 'ok' for x in checks),
+                    'candidates_count': len(items), 'verified_automatic': 0,
+                    'checks': checks,
+                    'notice': 'RSS-публикации являются кандидатами, не подтверждёнными продажами.'}
+          store('status.json', status)
+          print(json.dumps(status, ensure_ascii=False, indent=2))
+          PY
+
+      - name: Commit public data files
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/candidates.json data/status.json data/records.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update public feed candidates and check status'
+            git push
+          fi
+
+      - name: Prepare static site
+        shell: bash
+        run: |
+          mkdir -p _site/data
+          cp index.html _site/index.html
+          cp data/*.json _site/data/
+          touch _site/.nojekyll
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
+        
