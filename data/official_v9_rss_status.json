@@ -1,0 +1,73 @@
+{
+  "checked_utc": "2026-11-16T21:08:30.129721+00:00",
+  "mode": "Official-publisher RSS headline evidence, no direct auction-house requests",
+  "sources_checked": 8,
+  "sources_ok": 7,
+  "new_rss_candidates": 34,
+  "total_rss_review_leads": 35,
+  "confirmed_sales_added": 0,
+  "minimum_sale_price_usd": 300000,
+  "phillips_excluded_from_new_collection": true,
+  "preserves_existing_sales": true,
+  "notices": [
+    "RSS publication date is not sale date.",
+    "Headlines or corroborating news are not confirmation of a lot.",
+    "No automatic verified records are created until original lot-level evidence is available."
+  ],
+  "checks": [
+    {
+      "source": "Heritage Auctions",
+      "status": "ok",
+      "rss_articles_seen": 57,
+      "new_candidates": 3,
+      "previously_known": 0
+    },
+    {
+      "source": "Heritage Auctions",
+      "status": "ok",
+      "rss_articles_seen": 54,
+      "new_candidates": 22,
+      "previously_known": 1
+    },
+    {
+      "source": "Stack's Bowers",
+      "status": "error",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "source": "Stack's Bowers",
+      "status": "ok",
+      "rss_articles_seen": 60,
+      "new_candidates": 3,
+      "previously_known": 0
+    },
+    {
+      "source": "Christie's",
+      "status": "ok",
+      "rss_articles_seen": 62,
+      "new_candidates": 1,
+      "previously_known": 1
+    },
+    {
+      "source": "Sotheby's",
+      "status": "ok",
+      "rss_articles_seen": 60,
+      "new_candidates": 5,
+      "previously_known": 0
+    },
+    {
+      "source": "Bonhams",
+      "status": "ok",
+      "rss_articles_seen": 56,
+      "new_candidates": 0,
+      "previously_known": 0
+    },
+    {
+      "source": "Goldin",
+      "status": "ok",
+      "rss_articles_seen": 47,
+      "new_candidates": 0,
+      "previously_known": 0
+    }
+  ]
+}
