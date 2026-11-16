@@ -1,0 +1,393 @@
+name: ArtMarket official Phillips results
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["ArtMarket RSS and evidence triage"]
+    types: [completed]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: artmarket-updates
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Load website
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - name: Install free PDF parser
+        run: python3 -m pip install --disable-pip-version-check 'pypdf>=5.5,<7'
+      - name: Check published official USD results
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          #!/usr/bin/env python3
+          """Import independently checkable Phillips individual-lot results from official USD PDFs.
+
+          Free, conservative importer for ArtMarket Intelligence. This is NOT a general
+          web scraper or an RSS-to-sales classifier. Only officially published USD lot
+          result sheets are counted, and only after structural/reconciliation checks.
+          """
+          from __future__ import annotations
+
+          import datetime as dt
+          import io
+          import html
+          import json
+          import os
+          import re
+          import urllib.parse
+          import urllib.request
+          from pathlib import Path
+
+          from pypdf import PdfReader
+
+          DATA = Path(os.environ.get("ARTMARKET_DATA_DIR", "data"))
+          UTC = dt.timezone.utc
+          NOW = dt.datetime.now(UTC)
+          MIN_USD = 300_000
+          MAX_DOC_BYTES = 8_000_000
+          MAX_DOCS = 15
+
+          # Confirmed, public Phillips price-result sheets. Add newer official PDF URLs
+          # to data/official_sources.json without changing this script.
+          DEFAULT_SOURCES = [
+              "https://dist.phillips.com/content/web/auction-results/auctionResultsFile_NY010326.pdf",
+              "https://dist.phillips.com/content/web/auction-results/auctionResultsFile_NY050226.pdf",
+              "https://dist.phillips.com/content/web/auction-results/auctionResultsFile_NY080326.pdf",
+          ]
+
+          MONTHS = r"(?:January|February|March|April|May|June|July|August|September|October|November|December)"
+          DATE_RE = re.compile(rf"\b({MONTHS}\s+\d{{1,2}},\s+20\d{{2}})\b", re.I)
+          CODE_RE = re.compile(r"\b(NY\d{6})\b", re.I)
+          TOTAL_RE = re.compile(r"Total\s+Sold\s*\(\s*including\s+premium\s*\)\s*:\s*\$\s*([\d,]+)", re.I)
+          PAIR_RE = re.compile(r"(?<![\w,])([1-9]\d{0,3}[A-Za-z]?)\s+([1-9]\d{0,2}(?:,\d{3})+)(?!\d)")
+
+
+          def read_json(path: Path, default):
+              try:
+                  return json.loads(path.read_text(encoding="utf-8"))
+              except (FileNotFoundError, ValueError, OSError):
+                  return default
+
+
+          def write_json(path: Path, obj):
+              path.parent.mkdir(parents=True, exist_ok=True)
+              path.write_text(json.dumps(obj, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+          def validated_url(url: str) -> str:
+              if not isinstance(url, str) or len(url) > 500:
+                  raise ValueError("Invalid source URL")
+              p = urllib.parse.urlparse(url)
+              if (p.scheme != "https" or p.netloc.lower() not in ("dist.phillips.com", "www.dist.phillips.com")
+                      or not re.fullmatch(r"/content/web/auction-results/auctionResultsFile_NY\d{6}\.pdf", p.path)
+                      or p.query or p.fragment):
+                  raise ValueError("Not an approved official Phillips USD sale-results PDF URL")
+              return url
+
+
+          def discover_calendar() -> list[str]:
+              """Best-effort discovery from Phillips' public calendar. Often JS-rendered.
+
+              Access failures are not bypassed. Discovery can be empty; curated sources
+              still work, and calendar text itself is NEVER evidence of a sold lot.
+              """
+              url = "https://www.phillips.com/calendar/results"
+              req = urllib.request.Request(url, headers={"User-Agent": "ArtMarketIntelligence/7.0 personal results monitor", "Accept": "text/html"})
+              with urllib.request.urlopen(req, timeout=12) as response:
+                  if response.status != 200:
+                      raise ValueError(f"Calendar HTTP {response.status}")
+                  raw = response.read(2_000_001)
+              if len(raw) > 2_000_000:
+                  raise ValueError("Calendar HTML too large")
+              page = html.unescape(raw.decode("utf-8", errors="replace").replace("\\/", "/"))
+              matches = re.findall(r"(?:https://(?:www\.)?dist\.phillips\.com)?/content/web/auction-results/auctionResultsFile_NY\d{6}\.pdf", page, re.I)
+              discovered = []
+              for match in matches:
+                  url = match if match.startswith("https://") else "https://dist.phillips.com" + match
+                  try:
+                      url = validated_url(url)
+                  except ValueError:
+                      continue
+                  if url not in discovered:
+                      discovered.append(url)
+              # Prefer newer publication-year suffixes, not sale-number ordering as dates.
+              return sorted(discovered, key=lambda u: (u[-6:-4], u), reverse=True)[:12]
+
+
+          def sources(data_dir: Path, discovered=()) -> list[str]:
+              cfg = read_json(data_dir / "official_sources.json", [])
+              if not isinstance(cfg, list):
+                  raise ValueError("official_sources.json must be a JSON array of official PDF URLs")
+              result = []
+              for u in DEFAULT_SOURCES + list(cfg) + list(discovered):
+                  try:
+                      u = validated_url(u)
+                  except ValueError:
+                      # Never fetch user-provided arbitrary hosts or file URLs.
+                      continue
+                  if u not in result:
+                      result.append(u)
+              return result[:MAX_DOCS]
+
+
+          def fetch_pdf(url: str) -> bytes:
+              # No cookies, no logins, no anti-bot bypass. A denied request is reported.
+              request = urllib.request.Request(url, headers={
+                  "User-Agent": "ArtMarketIntelligence/7.0 (+https://github.com/egorijmol-pixel/artmarket-intelligence) research, periodic public PDF check",
+                  "Accept": "application/pdf",
+              })
+              with urllib.request.urlopen(request, timeout=20) as resp:
+                  if resp.status != 200:
+                      raise ValueError(f"HTTP {resp.status}")
+                  final = urllib.parse.urlparse(resp.geturl())
+                  if final.scheme != "https" or final.hostname not in ("dist.phillips.com", "www.dist.phillips.com"):
+                      raise ValueError("Unexpected PDF redirect host")
+                  raw = resp.read(MAX_DOC_BYTES + 1)
+              if len(raw) > MAX_DOC_BYTES:
+                  raise ValueError("PDF larger than 8 MB")
+              if not raw.startswith(b"%PDF-"):
+                  raise ValueError("Response is not a PDF")
+              return raw
+
+
+          def extract(pdf_bytes: bytes) -> str:
+              reader = PdfReader(io.BytesIO(pdf_bytes), strict=False)
+              if not 1 <= len(reader.pages) <= 10:
+                  raise ValueError("Unexpected PDF page count")
+              parts = []
+              for page in reader.pages:
+                  text = page.extract_text() or ""
+                  parts.append(text)
+              return "\n".join(parts)
+
+
+          def category_of(title: str) -> str:
+              t = title.lower()
+              if "watch" in t or "timepiece" in t:
+                  return "watch"
+              if "jewel" in t or "diamond" in t:
+                  return "jewelry"
+              if "edition" in t or "book" in t or "manuscript" in t:
+                  return "books"
+              if "design" in t or "furniture" in t:
+                  return "antiques"
+              if "photograph" in t:
+                  return "art"
+              return "art" if "art" in t or "painting" in t else "other"
+
+
+          def pdf_lots(text: str, source: str, now: dt.datetime = NOW) -> tuple[list[dict], dict]:
+              if len(text) < 100:
+                  raise ValueError("PDF contains too little extractable text")
+              fname = re.search(r"auctionResultsFile_(NY\d{6})\.pdf", source, re.I)
+              code = CODE_RE.search(text[:1400])
+              if not fname or not code or fname.group(1).upper() != code.group(1).upper():
+                  raise ValueError("Sale number mismatch between PDF and URL")
+              code_s = code.group(1).upper()
+              if not re.search(r"\bNEW\s+YORK\b", text[:1400], re.I):
+                  raise ValueError("This converter only handles USD New York sale results")
+              date_match = DATE_RE.search(text[:1800])
+              if not date_match:
+                  raise ValueError("Sale date not found in official report")
+              sale_date = dt.datetime.strptime(" ".join(date_match.group(1).replace(",", ", ").split()), "%B %d, %Y").date()
+              if sale_date > now.date() or sale_date < dt.date(2020, 1, 1):
+                  raise ValueError("Sale date outside allowed range")
+              total_match = TOTAL_RE.search(text)
+              if not total_match:
+                  raise ValueError("USD sale total including buyer's premium not found")
+              total = int(total_match.group(1).replace(",", ""))
+              if total < MIN_USD or total >= 10_000_000_000:
+                  raise ValueError("Sale total out of bounds")
+              # Header is the auction title; never infer a specific object title from PDF.
+              lines = [x.strip() for x in text[:800].splitlines() if x.strip()]
+              title_lines = []
+              for line in lines:
+                  if re.search(r"\bNEW\s+YORK\b|Sale\s+Number", line, re.I):
+                      break
+                  if line.upper() == "PHILLIPS":
+                      continue
+                  title_lines.append(line)
+              auction_title = " ".join(title_lines).strip()[:140] or "Phillips sale"
+              # Require numerous explicit lot-number/price pairs and check the sum against
+              # the independently stated grand total to avoid column alignment errors.
+              pairs = PAIR_RE.findall(text[total_match.end():])
+              values: dict[str, int] = {}
+              for lot_raw, raw_price in pairs:
+                  lot = lot_raw.upper()
+                  amount = int(raw_price.replace(",", ""))
+                  if amount <= 0 or amount > total:
+                      continue
+                  if lot in values and values[lot] != amount:
+                      raise ValueError(f"Ambiguous prices for lot {lot}")
+                  values[lot] = amount
+              if len(values) < 5:
+                  raise ValueError(f"Too few unambiguous lot prices extracted ({len(values)})")
+              reported = sum(values.values())
+              error = abs(reported - total) / total
+              if error > 0.02:
+                  raise ValueError(f"Lot subtotal disagrees with official sale total ({error:.1%}); do not import")
+              category = category_of(auction_title)
+              lot_rows = []
+              for lot, amount in sorted(values.items(), key=lambda p: (int(re.match(r"\d+", p[0]).group()), p[0])):
+                  if amount < MIN_USD:
+                      continue
+                  lot_rows.append({
+                      "id": f"PHILLIPS-{code_s}-{lot}",
+                      "category": category,
+                      "title": f"Лот № {lot} — {auction_title} (название предмета требует уточнения)",
+                      "usd": amount,
+                      "original": amount,
+                      "currency": "USD",
+                      "fee": None,
+                      "price_basis": "reported_premium_included",
+                      "sale_date": sale_date.isoformat(),
+                      "sale_timestamp": "",  # Exact lot time unknown: exclude from last-24h claims.
+                      "event": code_s,
+                      "lot_number": lot,
+                      "house": "Phillips",
+                      "country": "США",
+                      "method": "Аукцион",
+                      "source": source,
+                      "status": "verified",
+                      "origin": "official_results_pdf",
+                      "verified_on": now.date().isoformat(),
+                      "fx_rate": "",
+                      "fx_note": "USD в официальной ведомости; цена включает комиссию покупателя; время отдельного лота неизвестно",
+                      "photo_url": "",
+                      "photo_rights": "unconfirmed",
+                      "lot_title_verified": False,
+                      "source_document_verified": True,
+                  })
+              return lot_rows, {
+                  "sale_id": code_s,
+                  "auction_title": auction_title,
+                  "sale_date": sale_date.isoformat(),
+                  "total_lot_rows": len(values),
+                  "source_grand_total_usd": total,
+                  "parsed_lot_total_usd": reported,
+                  "grand_total_discrepancy_pct": round(error * 100, 3),
+                  "above_threshold": len(lot_rows),
+              }
+
+
+          def run(data_dir: Path = DATA, now: dt.datetime = NOW, getter=fetch_pdf, discoverer=None, input_sources=None):
+              data_dir.mkdir(parents=True, exist_ok=True)
+              discovered = []
+              discovery_status = "not_requested"
+              if discoverer is not None:
+                  try:
+                      discovered = discoverer()
+                      discovery_status = "ok" if discovered else "empty"
+                  except Exception as err:
+                      discovery_status = "error: " + str(err)[:100]
+              existing = read_json(data_dir / "records.json", [])
+              if not isinstance(existing, list):
+                  existing = []
+              official = {str(x.get("id")): x for x in existing if isinstance(x, dict) and x.get("origin") == "official_results_pdf" and x.get("id")}
+              other = [x for x in existing if not (isinstance(x, dict) and x.get("origin") == "official_results_pdf" and x.get("id"))]
+              old = read_json(data_dir / "official_status.json", {})
+              prior = old.get("sources", []) if isinstance(old, dict) else []
+              earlier = {x.get("url"): x for x in prior if isinstance(x, dict)}
+              rows = []
+              for url in (sources(data_dir, discovered) if input_sources is None else input_sources):
+                  prev = earlier.get(url, {})
+                  # Verified official finalized prices do not require re-downloading 4x/day;
+                  # re-check weekly for corrections and accept new sources immediately.
+                  last_ok = prev.get("last_ok_utc", "")
+                  fresh = False
+                  try:
+                      stamp = dt.datetime.fromisoformat(last_ok.replace("Z", "+00:00"))
+                      fresh = (now - stamp).total_seconds() < 7 * 86400 and any(r.get("source") == url for r in official.values())
+                  except (ValueError, TypeError):
+                      pass
+                  if fresh and os.environ.get("ARTMARKET_FORCE_RESCAN", "") != "1":
+                      rows.append({**prev, "url": url, "status": "cached", "note": "Official PDF processed previously"})
+                      continue
+                  try:
+                      pdf = getter(url)
+                      entries, meta = pdf_lots(extract(pdf), url, now)
+                      for item in entries:
+                          official[item["id"]] = item
+                      # If an official PDF removes a lot in a corrected release, remove
+                      # stale results from that same source to avoid overcounting.
+                      current_ids = {e["id"] for e in entries}
+                      for key in list(official):
+                          if official[key].get("source") == url and key not in current_ids:
+                              del official[key]
+                      rows.append({"url": url, "status": "ok", "last_ok_utc": now.isoformat(), **meta})
+                  except Exception as error:
+                      rows.append({"url": url, "status": "error", "reason": str(error)[:180],
+                                   **({"last_ok_utc": last_ok} if last_ok else {})})
+              merged = other + sorted(official.values(), key=lambda x: (x["sale_date"], x["id"]), reverse=True)
+              # Treat this as an audit log, not a complete world-market census.
+              status = {
+                  "last_attempt_utc": now.isoformat(),
+                  "source_type": "Phillips official price-results PDF",
+                  "is_complete_market_coverage": False,
+                  "threshold_usd_inclusive": MIN_USD,
+                  "source_documents": len(rows),
+                  "calendar_discovery": discovery_status,
+                  "calendar_pdf_links_found": len(discovered),
+                  "successful_documents_this_run": sum(x["status"] == "ok" for x in rows),
+                  "cached_documents": sum(x["status"] == "cached" for x in rows),
+                  "failed_documents": sum(x["status"] == "error" for x in rows),
+                  "official_lots_total": len(official),
+                  "official_lots_usd_total": sum(int(x["usd"]) for x in official.values()),
+                  "new_official_lots": len(set(official) - {x.get("id") for x in existing if isinstance(x, dict)}),
+                  "sources": rows,
+                  "notice": "Only Phillips PDF lot prices with reconciled totals; item names may need enrichment. No precise lot times; do not use for last-24h claims.",
+              }
+              write_json(data_dir / "records.json", merged)
+              write_json(data_dir / "official_status.json", status)
+              # The RSS collector rewrites status.json each run; updating here keeps its
+              # verified_automatic field grounded in actual official records.
+              rss_status = read_json(data_dir / "status.json", {})
+              if isinstance(rss_status, dict):
+                  rss_status["verified_automatic"] = len(official)
+                  rss_status["verified_source"] = "Phillips official USD price-result sheets, separate from news RSS"
+                  write_json(data_dir / "status.json", rss_status)
+              print(json.dumps(status, ensure_ascii=False, indent=2))
+              return status
+
+
+          if __name__ == "__main__":
+              run(discoverer=discover_calendar)
+          PY
+      - name: Save verified lot records
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/records.json data/official_status.json data/status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update official Phillips sold-lot results'
+            git push
+          fi
+      - name: Prepare static site
+        run: |
+          mkdir -p _site/data
+          cp index.html _site/index.html
+          cp data/*.json _site/data/
+          touch _site/.nojekyll
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Deploy to GitHub Pages
+        id: dep
