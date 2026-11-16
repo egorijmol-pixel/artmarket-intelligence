@@ -66,5 +66,6 @@
       "new_candidates": 0
     }
   ],
-  "notice": "RSS-публикации являются кандидатами, не подтверждёнными продажами."
+  "notice": "RSS-публикации являются кандидатами, не подтверждёнными продажами.",
+  "verified_source": "Official results from Heritage Auctions and Stack's Bowers; historical seed entries excluded from this count"
 }

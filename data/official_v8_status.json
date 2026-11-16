@@ -1,0 +1,28 @@
+{
+  "checked_utc": "2026-11-16T20:09:59.790683+00:00",
+  "sources": [
+    "Heritage Auctions",
+    "Stack's Bowers"
+  ],
+  "threshold_usd": 300000,
+  "source_pages_found": 0,
+  "articles_checked": 0,
+  "new_verified_lots": 0,
+  "new_review_leads": 0,
+  "errors": [
+    {
+      "source": "Heritage Auctions",
+      "stage": "listing",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Stack's Bowers",
+      "stage": "listing",
+      "message": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "notes": "Official USD sale statements only. Missing/ambiguous auction dates are not represented as confirmed daily sales. Phillips is excluded; historical Phillips seed records remain.",
+  "total_verified_in_records": 0,
+  "total_review_leads": 0,
+  "complete_market_coverage": false
+}
