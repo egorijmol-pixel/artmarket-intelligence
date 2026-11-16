@@ -1,4 +1,4 @@
-name: ArtMarket free RSS updates
+name: ArtMarket RSS and evidence triage
 
 on:
   workflow_dispatch:
@@ -52,10 +52,15 @@ jobs:
               'collectible auction "sells for"',
               'auction "achieves" "$"',
               'private sale art collectible "million"',
+              'vintage car auction "sold for"',
+              'rare coin auction "sold"',
+              'jewelry diamond auction "sold for"',
+              'sports card collectible auction "sold for"',
+              'comic book auction "sold for"',
+              'watch auction "sold for" million',
           ]
-          FEEDS = [
-              ('Bonhams news RSS', 'https://www.bonhams.com/rss/headlines.xml'),
-          ]
+          # Bonhams RSS returned HTTP 403: do not request a blocked feed.
+          FEEDS = []
           for term in SEARCHES:
               q = urllib.parse.urlencode({'q': term, 'hl': 'en-US', 'gl': 'US', 'ceid': 'US:en'})
               FEEDS.append(('Google News: ' + term, 'https://news.google.com/rss/search?' + q))
@@ -120,12 +125,13 @@ jobs:
               result = []
               if root.find('channel') is not None:
                   for i in root.findall('./channel/item')[:100]:
-                      result.append((node_text(i, 'title'), node_text(i, 'description'), node_text(i, 'link'), timestamp(node_text(i, 'pubDate'))))
+                      origin = i.find('source')
+                      result.append((node_text(i, 'title'), node_text(i, 'description'), node_text(i, 'link'), timestamp(node_text(i, 'pubDate')), (origin.text or '').strip() if origin is not None else '', (origin.get('url') or '') if origin is not None else ''))
               else:
                   ns = '{http://www.w3.org/2005/Atom}'
                   for i in root.findall('.//' + ns + 'entry')[:100]:
                       link = next((a.get('href', '') for a in i.findall(ns + 'link') if a.get('rel', 'alternate') == 'alternate'), '')
-                      result.append((node_text(i, ns + 'title'), node_text(i, ns + 'summary'), link, timestamp(node_text(i, ns + 'published') or node_text(i, ns + 'updated'))))
+                      result.append((node_text(i, ns + 'title'), node_text(i, ns + 'summary'), link, timestamp(node_text(i, ns + 'published') or node_text(i, ns + 'updated')), '', ''))
               return result
 
 
@@ -158,7 +164,7 @@ jobs:
                       raise ValueError('RSS larger than 2 MB')
                   posts = entries(raw)
                   seen = len(posts)
-                  for title, desc, link, published in posts:
+                  for title, desc, link, published, publisher_name, publisher_url in posts:
                       title, desc = strip(title), strip(desc)
                       if not link.startswith('https://'):
                           continue
@@ -175,7 +181,7 @@ jobs:
                       found[key] = {'id': key, 'title': title, 'summary': desc[:350], 'url': link,
                                     'published_at': published, 'indicative_usd': max(values),
                                     'category_hint': classify(title + ' ' + desc),
-                                    'source_name': label, 'status': 'candidate',
+                                    'source_name': label, 'publisher_name': publisher_name, 'publisher_url': publisher_url, 'status': 'candidate',
                                     'note': 'Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены.'}
                       count += 1
                   checks.append({'name': label, 'status': 'ok', 'articles_seen': seen, 'new_candidates': count})
@@ -195,32 +201,212 @@ jobs:
           print(json.dumps(status, ensure_ascii=False, indent=2))
           PY
 
-      - name: Commit public data files
+      - name: Prepare review queue and suspected duplicate groups
         shell: bash
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/candidates.json data/status.json data/records.json
-          if ! git diff --cached --quiet; then
-            git commit -m 'Update public feed candidates and check status'
-            git push
-          fi
-
-      - name: Prepare static site
-        shell: bash
-        run: |
-          mkdir -p _site/data
-          cp index.html _site/index.html
-          cp data/*.json _site/data/
-          touch _site/.nojekyll
-
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
-      - name: Upload static site
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: _site
-      - name: Deploy to GitHub Pages
-        id: deploy
-        uses: actions/deploy-pages@v4
-        
+          python3 - <<'PY'
+          """Local, standard-library-only RSS candidate triage for ArtMarket Intelligence.
+          
+          This code does NOT verify auctions or turn RSS headlines into verified sales.
+          It groups likely duplicates and creates an evidence-review queue, to avoid
+          counting repeated press coverage as multiple lots.
+          """
+          from __future__ import annotations
+          
+          import datetime as dt
+          import hashlib
+          import json
+          import re
+          import unicodedata
+          from pathlib import Path
+          from urllib.parse import urlparse
+          
+          DATA = Path('data')
+          NOW = dt.datetime.now(dt.timezone.utc)
+          BASE = {
+              'auction', 'auctions', 'sold', 'sells', 'sale', 'record', 'fetches', 'fetched',
+              'reaches', 'achieves', 'achieved', 'for', 'million', 'millions', 'nearly',
+              'about', 'more', 'than', 'over', 'the', 'and', 'with', 'from', 'this', 'that',
+              'year', 'its', 'his', 'her', 'lot', 'news', 'worth', 'price', 'world',
+              'highest', 'ever', 'historic', 'at', 'by', 'as', 'in', 'of', 'a', 'an',
+              'is', 'it', 'to', 'on', 'up', 'us', 'usd', 'new', 'up', 'first',
+              'christies', 'sothebys', 'phillips', 'bonhams', 'heritage', 'billion',
+              'млн', 'продан', 'торги', 'аукцион', 'миллионов', 'долларов', 'за', 'и',
+          }
+          PRICE = re.compile(r"(?<!\w)(?:\$\s*)?\d+(?:[,.]\d+)*(?:\s*(?:million|billion|thousand|millions|m|bn|k))?\b", re.I)
+          PUBLISHER_TAIL = re.compile(r"\s+[-–—]\s+[^\-–—]{2,65}$")
+          AGGREGATE = re.compile(r"\b(?:auction total|sale total|total sales|combined sales|grossed|auction achieves|auction house reports|auction brings|sales reach|totaled)\b", re.I)
+          PRESALE = re.compile(r"\b(?:estimate|estimated|expected to|could fetch|may fetch|pre.sale|will sell|upcoming)\b", re.I)
+          REVIEW_LIMIT = 800
+          
+          
+          def words(title):
+              t = PUBLISHER_TAIL.sub('', title or '')
+              t = unicodedata.normalize('NFKD', t).lower()
+              t = ''.join(c for c in t if not unicodedata.combining(c))
+              t = PRICE.sub(' ', t)
+              t = re.sub(r"[^a-zа-яё0-9]+", ' ', t, flags=re.I)
+              out = {w for w in t.split() if len(w) > 2 and w not in BASE and not w.isdigit()}
+              return out
+          
+          
+          def clean_text(s, maxlen=300):
+              return re.sub(r'\s+', ' ', str(s or '')).strip()[:maxlen]
+          
+          
+          def norm_url(u):
+              if not isinstance(u, str) or len(u) > 2048:
+                  return ''
+              try:
+                  p = urlparse(u)
+                  if p.scheme != 'https' or not p.hostname:
+                      return ''
+                  return u
+              except ValueError:
+                  return ''
+          
+          
+          def date_of(item):
+              try:
+                  d = dt.datetime.fromisoformat(str(item.get('published_at','')).replace('Z','+00:00'))
+                  if d.tzinfo is None:
+                      return None
+                  return d.astimezone(dt.timezone.utc)
+              except (ValueError, TypeError):
+                  return None
+          
+          
+          def norm_price(item):
+              try:
+                  p = float(item.get('indicative_usd') or 0)
+                  return round(p) if p >= 300000 and p < 1e12 else 0
+              except (ValueError, TypeError, OverflowError):
+                  return 0
+          
+          
+          def compatible(a, b):
+              ta = a['_words']; tb = b['_words']
+              if len(ta) < 2 or len(tb) < 2:
+                  return False
+              common = len(ta & tb)
+              if common < 2:
+                  return False
+              jaccard = common / len(ta | tb)
+              containment = common / min(len(ta), len(tb))
+              if jaccard < 0.52 and containment < 0.72:
+                  return False
+              if a.get('category_hint') != b.get('category_hint') and 'other' not in (a.get('category_hint'),b.get('category_hint')):
+                  return False
+              pa, pb = norm_price(a), norm_price(b)
+              if not pa or not pb or abs(pa-pb)/max(pa,pb) > 0.18:
+                  return False
+              da, db = date_of(a), date_of(b)
+              if da and db and abs((da-db).days) > 45:
+                  return False
+              return True
+          
+          
+          def sanitize(item):
+              if not isinstance(item, dict):
+                  return None
+              title = clean_text(item.get('title'), 300)
+              url = norm_url(item.get('url'))
+              if not title or not url or norm_price(item) < 300000:
+                  return None
+              # ID uniquely anchors original news article, NOT an auction transaction.
+              key = clean_text(item.get('id'), 64) or hashlib.sha256(url.encode()).hexdigest()[:20]
+              return {
+                  'id': key, 'title': title, 'url': url,
+                  'source_name': clean_text(item.get('source_name'), 130),
+                  'published_at': clean_text(item.get('published_at'), 50),
+                  'indicative_usd': norm_price(item),
+                  'category_hint': clean_text(item.get('category_hint'), 40) or 'other',
+                  'publisher_name': clean_text(item.get('publisher_name'), 100) or clean_text((PUBLISHER_TAIL.search(title).group(0) if PUBLISHER_TAIL.search(title) else '').strip(' -–—'), 100),
+                  'publisher_url': norm_url(item.get('publisher_url')),
+                  '_words': words(title),
+              }
+          
+          
+          def groups_from(items):
+              clean=[]; seen=set()
+              for item in items:
+                  x = sanitize(item)
+                  if not x or x['id'] in seen:
+                      continue
+                  seen.add(x['id']); clean.append(x)
+              clean.sort(key=lambda x: (x['published_at'],x['id']), reverse=True)
+              groups=[]
+              for x in clean[:REVIEW_LIMIT]:
+                  # Compare to existing group only using headline similarity; no transitive overmerging.
+                  matching = next((g for g in groups if compatible(x, g[0])), None)
+                  if matching is None:
+                      groups.append([x])
+                  else:
+                      matching.append(x)
+              output=[]
+              for g in groups:
+                  main=g[0]
+                  vals=sorted(set(norm_price(x) for x in g))
+                  percent=round(100*(max(vals)-min(vals))/max(vals), 1) if vals else 0
+                  title=main['title']
+                  pubs={str(x.get('publisher_name') or x.get('source_name') or '').strip().lower() for x in g}
+                  pubs.discard('')
+                  flags=['Не найден проверенный результат конкретного лота из официального источника']
+                  if percent>4:
+                      flags.append('Различающиеся суммы из публикаций — проверить округление и комиссию')
+                  if AGGREGATE.search(title):
+                      flags.append('Возможный общий итог аукциона, не цена одного предмета')
+                  if PRESALE.search(title):
+                      flags.append('Возможная предварительная оценка, не подтвержденная продажа')
+                  if not any(x['publisher_url'] for x in g):
+                      flags.append('Не указан адрес оригинального издателя')
+                  priority = 2 if len(pubs)>1 else 1
+                  if AGGREGATE.search(title) or PRESALE.search(title):
+                      priority=0
+                  urls = [{'candidate_id': x['id'], 'title': x['title'], 'url': x['url'], 'publisher_name':x['publisher_name'], 'publisher_url':x['publisher_url'], 'published_at':x['published_at'], 'indicative_usd':x['indicative_usd']} for x in g[:20]]
+                  output.append({
+                      'group_id': hashlib.sha256('|'.join(sorted(x['id'] for x in g)).encode()).hexdigest()[:16],
+                      'title':title, 'category_hint': main['category_hint'],
+                      'articles': len(g), 'publishers': len(pubs),
+                      'indicative_usd_values': vals, 'amount_variation_pct': percent,
+                      'last_publication_at': main['published_at'], 'priority':priority,
+                      'checks_needed': flags,
+                      'decision':'needs_official_primary_source',
+                      'is_verified_sale':False,
+                      'candidate_ids':[x['id'] for x in g],
+                      'links':urls,
+                  })
+              output.sort(key=lambda x:(x['priority'],x['articles'],x['last_publication_at']),reverse=True)
+              return clean, output
+          
+          
+          def write_json(path, value):
+              path.parent.mkdir(parents=True,exist_ok=True)
+              path.write_text(json.dumps(value,ensure_ascii=False,indent=2) + '\n',encoding='utf-8')
+          
+          
+          def build(data=DATA):
+              try:
+                  candidates = json.loads((data/'candidates.json').read_text(encoding='utf-8'))
+                  if not isinstance(candidates,list): candidates=[]
+              except (ValueError,OSError):
+                  candidates=[]
+              clean, groups=groups_from(candidates)
+              summary={
+                  'generated_at_utc':NOW.isoformat(),
+                  'candidate_messages':len(clean),
+                  'potential_sale_groups':len(groups),
+                  'potential_repeats':len(clean)-len(groups),
+                  'groups_with_multiple_publishers':sum(g['publishers']>1 for g in groups),
+                  'groups_with_price_conflicts':sum(g['amount_variation_pct']>4 for g in groups),
+                  'officially_verified_by_this_step':0,
+                  'status':'triage_only',
+                  'note':'Автоматическая группировка публикаций и поиск противоречий. Никакая группа не считается подтвержденной продажей без сверки официального результата конкретного лота.',
+              }
+              write_json(data/'review_queue.json',groups)
+              write_json(data/'review_status.json',summary)
+              print(json.dumps(summary,ensure_ascii=False,indent=2))
+              return summary
+          
+          
+          if __name__=='_
