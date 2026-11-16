@@ -1,0 +1,83 @@
+{
+  "last_attempt_utc": "2026-11-16T18:27:18.751542+00:00",
+  "source_type": "Phillips official price-results PDF",
+  "is_complete_market_coverage": false,
+  "threshold_usd_inclusive": 300000,
+  "source_documents": 13,
+  "calendar_discovery": "ok",
+  "calendar_pdf_links_found": 12,
+  "successful_documents_this_run": 0,
+  "cached_documents": 0,
+  "failed_documents": 13,
+  "official_lots_total": 0,
+  "official_lots_usd_total": 0,
+  "new_official_lots": 0,
+  "sources": [
+    {
+      "url": "https://dist.phillips.com/content/web/auction-results/auctionResultsFile_NY010326.pdf",
+      "status": "error",
+      "reason": "Too few unambiguous lot prices extracted (0)"
+    },
+    {
+      "url": "https://dist.phillips.com/content/web/auction-results/auctionResultsFile_NY050226.pdf",
+      "status": "error",
+      "reason": "Too few unambiguous lot prices extracted (0)"
+    },
+    {
+      "url": "https://dist.phillips.com/content/web/auction-results/auctionResultsFile_NY080326.pdf",
+      "status": "error",
+      "reason": "Too few unambiguous lot prices extracted (0)"
+    },
+    {
+      "url": "https://www.dist.phillips.com/content/web/auction-results/auctionResultsFile_NY030226.pdf",
+      "status": "error",
+      "reason": "Sale total out of bounds"
+    },
+    {
+      "url": "https://www.dist.phillips.com/content/web/auction-results/auctionResultsFile_NY030126.pdf",
+      "status": "error",
+      "reason": "Sale number mismatch between PDF and URL"
+    },
+    {
+      "url": "https://www.dist.phillips.com/content/web/auction-results/auctionResultsFile_NY010126.pdf",
+      "status": "error",
+      "reason": "Sale number mismatch between PDF and URL"
+    },
+    {
+      "url": "https://dist.phillips.com/content/web/auction-results/auctionResultsFile_NY080426.pdf",
+      "status": "error",
+      "reason": "Too few unambiguous lot prices extracted (0)"
+    },
+    {
+      "url": "https://dist.phillips.com/content/web/auction-results/auctionResultsFile_NY080126.pdf",
+      "status": "error",
+      "reason": "Sale number mismatch between PDF and URL"
+    },
+    {
+      "url": "https://dist.phillips.com/content/web/auction-results/auctionResultsFile_NY060326.pdf",
+      "status": "error",
+      "reason": "Sale number mismatch between PDF and URL"
+    },
+    {
+      "url": "https://dist.phillips.com/content/web/auction-results/auctionResultsFile_NY060126.pdf",
+      "status": "error",
+      "reason": "Too few unambiguous lot prices extracted (0)"
+    },
+    {
+      "url": "https://dist.phillips.com/content/web/auction-results/auctionResultsFile_NY050126.pdf",
+      "status": "error",
+      "reason": "Too few unambiguous lot prices extracted (0)"
+    },
+    {
+      "url": "https://dist.phillips.com/content/web/auction-results/auctionResultsFile_NY040426.pdf",
+      "status": "error",
+      "reason": "Too few unambiguous lot prices extracted (0)"
+    },
+    {
+      "url": "https://dist.phillips.com/content/web/auction-results/auctionResultsFile_NY040326.pdf",
+      "status": "error",
+      "reason": "Sale number mismatch between PDF and URL"
+    }
+  ],
+  "notice": "Only Phillips PDF lot prices with reconciled totals; item names may need enrichment. No precise lot times; do not use for last-24h claims."
+}
