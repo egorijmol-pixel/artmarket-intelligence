@@ -390,4 +390,5 @@ jobs:
         with:
           path: _site
       - name: Deploy to GitHub Pages
-        id: dep
+        id: deploy
+        uses: actions/deploy-pages@v4
