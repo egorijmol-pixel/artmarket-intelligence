@@ -1110,6 +1110,38 @@
     ]
   },
   {
+    "group_id": "fd6b6f6de063b089",
+    "title": "This rare 24-carat pink diamond sold for more than $20 million at an auction - CTV News",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      20000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-12T12:18:52+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "14eadc1369371664"
+    ],
+    "links": [
+      {
+        "candidate_id": "14eadc1369371664",
+        "title": "This rare 24-carat pink diamond sold for more than $20 million at an auction - CTV News",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaUlhdjVjV1RyMFpqUHdUckxWUkxhMk91TF9vRFlHNE96VGFDaGp2X2Y4cEZxVTFJTTZ0MVB0bU53ZnVteDJvZVZkVFJFRUcwU29qLTJ5RkYwREdhaWNPTnl6eGdQcTFzSXlKbHMxNXd5LTlNcGRVQnlzWEROTGIzcmdWRWNOM25vNktKelNlNjhOZTh0T0cwV3h6SV9PdDgyOUFaM0dmNXBnR0k4VXR3RXdPUFdEekk?oc=5",
+        "publisher_name": "CTV News",
+        "publisher_url": "https://www.ctvnews.ca",
+        "published_at": "2026-11-12T12:18:52+00:00",
+        "indicative_usd": 20000000
+      }
+    ]
+  },
+  {
     "group_id": "1ca8907b96c8648b",
     "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - ABC News - Breaking News, Latest News and Videos",
     "category_hint": "jewelry",
@@ -2412,6 +2444,38 @@
     ]
   },
   {
+    "group_id": "4dfd7582b7b2c9d8",
+    "title": "Pink Floyd Guitar Is Sold for a Record $14.55 Million - The New York Times",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      14550000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-03-13T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "92c3a5009bad1339"
+    ],
+    "links": [
+      {
+        "candidate_id": "92c3a5009bad1339",
+        "title": "Pink Floyd Guitar Is Sold for a Record $14.55 Million - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMHozSFg3Vk1lczlEN3phWURDYmZjQVREdXBCU0liTERrOTNoVHJiLXZyME9QSnozU1V1cEI2anA4eDBvZTExdXhEUUU1b3JFMU9TME9mMTJIbk1JYVJucjhMTFdqdlhRUDNFR1lfanZqQTQxMlNoQlNOUXJveWNiUnZqdHVvN0JMMkJEazdzRQ?oc=5",
+        "publisher_name": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "published_at": "2026-03-13T07:00:00+00:00",
+        "indicative_usd": 14550000
+      }
+    ]
+  },
+  {
     "group_id": "e6d2947c399eff79",
     "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 2 Detroit",
     "category_hint": "other",
@@ -2933,6 +2997,38 @@
     ]
   },
   {
+    "group_id": "4817d77349b5ebfd",
+    "title": "Fabergé egg fetches record $30.2 million at rare auction - CNN",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      30200000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-12-02T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "03f2c6cd0d8645d6"
+    ],
+    "links": [
+      {
+        "candidate_id": "03f2c6cd0d8645d6",
+        "title": "Fabergé egg fetches record $30.2 million at rare auction - CNN",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZam5mM3VsYXJURnFVOUJ2UnRlM0F0U3l1T25Ld3pxVTF6eGxabVE5VlNLazhYczgya1M2X3FmamZRTVAzTC0zMldrbjhRelVBNG95cFZLdGlzazNwa1l3WTJtbTBMUHJUaXpZalhZMG93cXBNRDdV?oc=5",
+        "publisher_name": "CNN",
+        "publisher_url": "https://www.cnn.com",
+        "published_at": "2025-12-02T08:00:00+00:00",
+        "indicative_usd": 30200000
+      }
+    ]
+  },
+  {
     "group_id": "3f9ed7459826da98",
     "title": "A rare copy of ‘Superman No. 1' from 1939 sells for more than $9 million - AP News",
     "category_hint": "other",
@@ -3123,6 +3219,38 @@
         "publisher_url": "https://nationaljeweler.com",
         "published_at": "2025-11-12T08:00:00+00:00",
         "indicative_usd": 7000000
+      }
+    ]
+  },
+  {
+    "group_id": "44e3d83e0845d5df",
+    "title": "This Diamond Sold for the Bargain Price of $25.6 Million (Published 2025) - The New York Times",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      25600000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-11-12T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "78c3dc879b0e9f8b"
+    ],
+    "links": [
+      {
+        "candidate_id": "78c3dc879b0e9f8b",
+        "title": "This Diamond Sold for the Bargain Price of $25.6 Million (Published 2025) - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPakVhcVdibWIwV2JvVkVDdjNiYVd0UE5CS3FRRWhDZEFGTHJXNk1Oem9zREhMaV9ja1BMNGktVGFqbmRaVlFINS00X1ZPaWdnQmJDdXV5WGd0U0RIYWR0b0tiaFBsQ0Y2anV3YU9Ec2ZRc29MdmZ0TDk2c0E1WDVNR3JiQmVWX1hoZkE?oc=5",
+        "publisher_name": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "published_at": "2025-11-12T08:00:00+00:00",
+        "indicative_usd": 25600000
       }
     ]
   },
@@ -3448,6 +3576,38 @@
         "publisher_url": "https://bleedingcool.com",
         "published_at": "2025-06-26T07:00:00+00:00",
         "indicative_usd": 400000
+      }
+    ]
+  },
+  {
+    "group_id": "9271bab01ed71cb5",
+    "title": "A Purple-Pink Diamond Just Sold for a Record $13.98 Million at Auction - Robb Report",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      13980000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-06-18T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "ecdb741601bd8bbb"
+    ],
+    "links": [
+      {
+        "candidate_id": "ecdb741601bd8bbb",
+        "title": "A Purple-Pink Diamond Just Sold for a Record $13.98 Million at Auction - Robb Report",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUUVQNE11QmFUWWNJNFlhNzdFY0lJRlhnTHllREg5alFmV3J1cUR4YmRIdVNvQjNyQUl3NXl5ZWRETlFUMFZKSlRCaG9BTndmQ05hakhNcTRSQzk2dkZoWEh5cV80Q012S2JPbHNSbkNSQUlzdWR4TGV5RFo2X05nVXhUNm9nUmF5TXc1WGhEb2NyVEhNNm12LQ?oc=5",
+        "publisher_name": "Robb Report",
+        "publisher_url": "https://robbreport.com",
+        "published_at": "2025-06-18T07:00:00+00:00",
+        "indicative_usd": 13980000
       }
     ]
   },
