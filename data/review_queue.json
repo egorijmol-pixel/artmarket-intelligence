@@ -4591,6 +4591,38 @@
     ]
   },
   {
+    "group_id": "1f4d5e41144ef185",
+    "title": "Pear pulped: Digital therapeutics maker's assets sold for $6M at auction after bankruptcy filing - Fierce Biotech",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      6000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2023-05-19T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "66d3644ee35931dc"
+    ],
+    "links": [
+      {
+        "candidate_id": "66d3644ee35931dc",
+        "title": "Pear pulped: Digital therapeutics maker's assets sold for $6M at auction after bankruptcy filing - Fierce Biotech",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV1hBY043M28wTTNlU1ZGWVpWamhneWJPSGk0MHBhUVZXREZ1X2dwc2hUbkRRYUpRaDR0VDd0T09VZURVdFlYQXJtWWs2NW5GREdvelRBeDdqaGhfbkRaek43eWhNNUpSeE40bXFzdllkNXJsdFQ4OHVqV19EcDdZTDMxN0dIMFdXTEUwVHRwVUdfTjBkRW9aMzdZQzBSbVpMN2xlQWZ3cVFqZnNPOGVGMFZiTDFIYVNSMDk4bUw4OHRoQQ?oc=5",
+        "publisher_name": "Fierce Biotech",
+        "publisher_url": "https://www.fiercebiotech.com",
+        "published_at": "2023-05-19T07:00:00+00:00",
+        "indicative_usd": 6000000
+      }
+    ]
+  },
+  {
     "group_id": "78ebc5ef5819d171",
     "title": "Heritage Auctions Achieves $1.45 Billion in Record Year for Collectibles | Penta - Barron's",
     "category_hint": "other",
