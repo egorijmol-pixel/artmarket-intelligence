@@ -2672,6 +2672,20 @@
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
   {
+    "id": "8df48b151a117ece",
+    "title": "Famous Hawaii Five-O 1913 Liberty Head Nickel Sold for Over $4 Million by Stack's Bowers Galleries - Stack's Bowers",
+    "summary": "Famous Hawaii Five-O 1913 Liberty Head Nickel Sold for Over $4 Million by Stack's Bowers Galleries Stack's Bowers",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXhFM2s0anI2S1lkazM1bGtSRlU4eUNyMHE2UWhiMFVhcWFXZGY1d28tQ1hHUXN4d19xem10QWd3Ujh6UTJISUFOQ2FFSzlsRnNLTnZXWlZLaVZibFY4Y0J2TV9TaEc3a1RXU0tHLVhYUXliZ21Wd2NmWUc5ZGR3QUtEYkY3ZkZyYUtsY19YSnRWclBBR3Voc2NOV1ppbHVjOG1RVjhPeFV3MXBBX01r?oc=5",
+    "published_at": "2021-11-08T08:00:00+00:00",
+    "indicative_usd": 4000000,
+    "category_hint": "other",
+    "source_name": "Google News (official publisher): Stack's Bowers",
+    "publisher_name": "Stack's Bowers",
+    "publisher_url": "https://stacksbowers.com",
+    "status": "candidate",
+    "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
+  },
+  {
     "id": "19ac8a2648a5945f",
     "title": "Al Capone memorabilia sells for $3m at auction - BBC",
     "summary": "Al Capone memorabilia sells for $3m at auction    BBC",
@@ -2708,6 +2722,34 @@
     "publisher_url": "https://www.hollywoodreporter.com",
     "status": "candidate",
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
+  },
+  {
+    "id": "74cb2a0fc339df7f",
+    "title": "The Finest 1804 Silver Dollar Sells for $7.68 Million at Stack’s Bowers Galleries - Stack's Bowers",
+    "summary": "The Finest 1804 Silver Dollar Sells for $7.68 Million at Stack’s Bowers Galleries Stack's Bowers",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWGdub3BOMlJZUE9vSE9BN2FKdVdFUWtzWXBVNGRfVERQVWlmQzdqaWt1bkdRZTRXc3NsandPSjAyYjBpV2dXdDVkcExIaW1GWUxFUTdyZGlaYnViZWl0M2NuR3I1XzlIQ1N2ZGYxQlBvTFNHSmVTc3Y0UFdELXY3RzEzeWhObTFEVm1Z?oc=5",
+    "published_at": "2021-08-19T07:00:00+00:00",
+    "indicative_usd": 7680000,
+    "category_hint": "other",
+    "source_name": "Google News (official publisher): Stack's Bowers",
+    "publisher_name": "Stack's Bowers",
+    "publisher_url": "https://stacksbowers.com",
+    "status": "candidate",
+    "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
+  },
+  {
+    "id": "bec13b72df92e26a",
+    "title": "The Finest 1804 Silver Dollar Sells for $7.68 Million at Stack’s Bowers Galleries - Stack's Bowers",
+    "summary": "The Finest 1804 Silver Dollar Sells for $7.68 Million at Stack’s Bowers Galleries Stack's Bowers",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR25KTWQtN3gteVJ5a2p0eUdrR1JnY2pPdk5zZXNrazhRR3J2cFVHVW9ILW5ab1NYQTcwZExUUXlYVFVVZ3kyTHNSWEZlWE1oTVM2M3BMblhYZ3U1Q3FPNnNRUmJkMXBGMUZIWmJfQWFqWTJCZjJoZll5Y1hEUkNVV19LYngteXBLdnhEbHhqUkdZd3dzdzJ3bVhkLWtWbkNvSVEwTUNrQlhObWNPVWE4WlhqcDZLWVBscUpGb3pQRlBZMldwYlE?oc=5",
+    "published_at": "2021-08-18T07:00:00+00:00",
+    "indicative_usd": 7680000,
+    "category_hint": "other",
+    "source_name": "Google News (official publisher): Stack's Bowers",
+    "publisher_name": "Stack's Bowers",
+    "publisher_url": "https://stacksbowers.com",
+    "status": "candidate",
+    "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
   },
   {
     "id": "5e72e1b8391d868d",
@@ -2812,6 +2854,20 @@
     "source_name": "Google News (official publisher): Sotheby's",
     "publisher_name": "Sotheby's",
     "publisher_url": "https://www.sothebys.com",
+    "status": "candidate",
+    "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
+  },
+  {
+    "id": "d0ae53ba10b7d5f6",
+    "title": "1797 Half Dollar Sold for $1.68 Million in the Stack’s Bowers Galleries March 2021 Auction - Stack's Bowers",
+    "summary": "1797 Half Dollar Sold for $1.68 Million in the Stack’s Bowers Galleries March 2021 Auction Stack's Bowers",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUDZzbW5keWNORlJkbnI5TkEyb1k4Q01QMEtYWkh3aWdKTENSNGI5NWtjV3JMZ0dacHpjSGhxc2ljSEhsY1l1RlI1YklZUHAzMGFOajFhbldaY3FzMkVCejlNVk1YdDF0MHBFbWNXRFRIRVVGbFZNUzFzcHZMNFBScC1pTmktcVdJZ0E1TXNTdlVzZktGLWJHZVQxMzJGT28?oc=5",
+    "published_at": "2021-04-08T07:00:00+00:00",
+    "indicative_usd": 1680000,
+    "category_hint": "other",
+    "source_name": "Google News (official publisher): Stack's Bowers",
+    "publisher_name": "Stack's Bowers",
+    "publisher_url": "https://stacksbowers.com",
     "status": "candidate",
     "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
   },
@@ -3382,6 +3438,20 @@
     "source_name": "Google News (official publisher): Heritage Auctions",
     "publisher_name": "Heritage Auctions",
     "publisher_url": "https://comics.ha.com",
+    "status": "candidate",
+    "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
+  },
+  {
+    "id": "b933ab1942b6699e",
+    "title": "Rare Dime Sells For Record $1.84 Million at Auction in Philadelphia - Stack's Bowers",
+    "summary": "Rare Dime Sells For Record $1.84 Million at Auction in Philadelphia Stack's Bowers",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KekIwM3dEVXVGUlNyUFFnNjFYeFQtU2FYU3k5elNxdnJVdi16MFNiRnZvSVJnUFFzMlpYOUFSSFBSRUc0bFRobjAxNEZTWE1lTjNoc1JtNXlsNWl0WXZ5NGpERkVYa2YyY1VDS3JmVjlPajZRNUVyNjVHaC0?oc=5",
+    "published_at": "2012-08-14T07:00:00+00:00",
+    "indicative_usd": 1840000,
+    "category_hint": "coins",
+    "source_name": "Google News (official publisher): Stack's Bowers",
+    "publisher_name": "Stack's Bowers",
+    "publisher_url": "https://stacksbowers.com",
     "status": "candidate",
     "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
   },
