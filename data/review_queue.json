@@ -144,6 +144,130 @@
     ]
   },
   {
+    "group_id": "a532692a684ecfae",
+    "title": "Darth Vader’s lightsaber sold for $4.8 million, setting a \"Star Wars\" record - Українські Національні Новини (УНН)",
+    "category_hint": "other",
+    "articles": 10,
+    "publishers": 10,
+    "indicative_usd_values": [
+      4800000,
+      4875000,
+      5000000
+    ],
+    "amount_variation_pct": 4.0,
+    "last_publication_at": "2026-11-13T21:05:47+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "22e321bf18ae4826",
+      "56cfdc11e3e22bb9",
+      "3224f5f4910b6f3b",
+      "abf4672cf17c5273",
+      "9de8779b7f640ae6",
+      "88194b6a88c13084",
+      "d8c036185422dace",
+      "482591e7aecb8ee2",
+      "7579904b8e29cc66",
+      "e196bdeb43f952fa"
+    ],
+    "links": [
+      {
+        "candidate_id": "22e321bf18ae4826",
+        "title": "Darth Vader’s lightsaber sold for $4.8 million, setting a \"Star Wars\" record - Українські Національні Новини (УНН)",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVFXMEUtRGpiTTVxS1NpNVhqLS1NTVloSkZvbVFmTWNiR0VJbGlmNk9vaDZDMGc2UHlTRldfUGRkR0s4cHFfazBfNF80VWt6aDFwX3JtbUdZWkRCbUJxaFcyYmZ5S0l0LTNTQ2RYMzh1NVpjTFlfUVpJd19RZ09ETmtMdWpVdExIMTFUNTBud1RVSWVwZ0ltcTRRWVVtanJv0gGfAUFVX3lxTE5veVV3ZjBCcG1tMjRackhKWktOTkFocUlQSE9ab0Y1SlNyNFR0d3hldXhNOVpRRzM5T2VWNWZVYThuVk1abDNyS2pnNTVndloxWDJnc0lpZWtHYmhvU2w4UTJZOHlRVC02c3ZadFhhNXhURGtTa01fUEdxVTFBckhYT2FDT1JMR0phM0daRUpfOHNQUEpEUThnRWh3bjg2dw?oc=5",
+        "publisher_name": "Українські Національні Новини (УНН)",
+        "publisher_url": "",
+        "published_at": "2026-11-13T21:05:47+00:00",
+        "indicative_usd": 4800000
+      },
+      {
+        "candidate_id": "56cfdc11e3e22bb9",
+        "title": "Darth Vader's Actual Lightsaber Just Sold for $4.875 Million, Breaking Star Wars Auction Records - IGN",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdUkzc09EbVJwY2RaUE9QT1MtREk2UUYxdmtEYW9oMWtQVS1oSGZDTGFsWDRDRTVBM1RHQXZ5X2VPUE5CTUFBU2FiNkJtX2gwWGFESWNIZThXOTVxeFpndW5VUTFvRFIwSWNvcC1sbzNpN1VHWUZZYVh3WTRJamlZVDFTU0tldW5ZanhoRnZMLURzZnprTTFQa1VoaFhlanRnSFU0MXFNemxVUjFXbjJRLXhvandJVlM5SzFFMGhn?oc=5",
+        "publisher_name": "IGN",
+        "publisher_url": "",
+        "published_at": "2026-11-13T19:41:21+00:00",
+        "indicative_usd": 4875000
+      },
+      {
+        "candidate_id": "3224f5f4910b6f3b",
+        "title": "Darth Vader’s screen-used lightsaber sets a new \"Star Wars\" auction record, selling for $4.875 million. - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWHV2M3kyMW9mSVRGS2RMcEpNck93VGxWSHN2UWFHTERaLVNiSWlQOU12czFoRVZaVE9GeEozejJkMUJnY0ZrWG9yZWlwQ3N1SFE5dU1nOEhkaTh2SmpORmtnd3Fsa3A0aUZ4blNlYlI5RF8wR29qem5EZ3VLbVJMTEw0TDVjd2JXZWVMbVVXREpRalRFa09NeVVocXcxNS1LQ2lLUXVmT1ZRZXZfcFEtYmxxVWxRLUpsNW5hdFg4c0JIY3htbUJJOTBLWnlUMmVaOTRjazdNUkhpZw?oc=5",
+        "publisher_name": "Facebook",
+        "publisher_url": "",
+        "published_at": "2026-11-13T18:58:54+00:00",
+        "indicative_usd": 4875000
+      },
+      {
+        "candidate_id": "abf4672cf17c5273",
+        "title": "Darth Vader’s Lightsaber Sets ‘Star Wars’ Auction Record Selling for Nearly $5 Million - The Hollywood Reporter",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkVuQmE2SVludTNDdE5WVkxBTVhvQlJVSmQzZ0hPcE1DeEZ3YTR6VWdjSl9RM01RY0Y2Z3B0Mm1naVI4N2NJMGVCTXZ0S2tvMlEzTmVkVEY3akZaemQyUW1DV2w5aXhLNWZrNUhRVk5IbnlScGwtZVVUVF91NF8taU9TTHh5RS1fYnZ3anlSZHg4eTBEYkF1ejhBQ0dicjlUN1pydmJMQ0wtU3ZmMU04dA?oc=5",
+        "publisher_name": "The Hollywood Reporter",
+        "publisher_url": "",
+        "published_at": "2026-11-13T18:39:31+00:00",
+        "indicative_usd": 5000000
+      },
+      {
+        "candidate_id": "9de8779b7f640ae6",
+        "title": "Darth Vader Lightsaber Sets $4.875 Million Star Wars Auction Record - https://streamlinefeed.co.ke/",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSHlpN3dxSG1jaWkyNTBOb3pNRjhwN3VSOTVXckxmeUxsa0dLLWhPMkFqVzhYOUVSa0JfaTc0U2JxUjUyVXhoUlgyaVdnTGVvNU9NRldwN1p0d3J2NFYwM2ZTSlluVzllZ0p5NVR6OFNuMlVCSWNlb2s3akRaMW85SElXdldvb2t5Znd5MUlXN05YSy1MNG5JZVpwelBLb1ly?oc=5",
+        "publisher_name": "https://streamlinefeed.co.ke/",
+        "publisher_url": "",
+        "published_at": "2026-11-13T12:15:00+00:00",
+        "indicative_usd": 4875000
+      },
+      {
+        "candidate_id": "88194b6a88c13084",
+        "title": "Darth Vader’s lightsaber has been sold for $4.875 million — a new «Star Wars» record» - UkrMedia News",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnhtQm81TVFDdml1M0hJZG9YcldNU2pRcngxZk9NQU1scmVfU3lzX0NVTml0YUxUWTdTV1RjZ0R4UHZ1NFhQbWpjc0xsbWhLVGpaZmhqUGVUZ3ROOVhyMGluV0I5eS1zNS1lRndicm0wZ3poZ09GbkFrSzVVYzFxQzV3?oc=5",
+        "publisher_name": "UkrMedia News",
+        "publisher_url": "",
+        "published_at": "2026-11-13T10:04:38+00:00",
+        "indicative_usd": 4875000
+      },
+      {
+        "candidate_id": "d8c036185422dace",
+        "title": "\"Star Wars\" Record: Darth Vader's lightsaber sold at auction for nearly $5 million - LIGA.net",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORXVEekNaRm0wdmVrblBPV2ZHV1p5QkdLZGVBZlVxTzV0aUpSbmlYbkV3Rkp3NWV4N19XeTBScWhlNjJDZWoyZEowX1A5Y010ZXhXV1RMaWpNTUEwdUJHVUpRMEhBanVBa0NZU3MwVm9NTExleXFPN2ttYmtNb0JLQ0hFLTJ5S2pFNzBTeFlXTjVrM255MmVhWUk2LTZZVDZDTERtdmU0Q2wySWJKQUpNSWEycVZDUdIBuwFBVV95cUxPd2VJV2d4aVBLeUtYd093TlJjQjNSWXRwN3RPUGIwYkk3Mi1mT29IVjRaNk9COFVFQjFDWDBNTDdIQ2pCb19paXVEMFJrTHNfRXNFd2YyOXRiY1AtN0x2NnJqdzl4b1Q0dnQ4ek9LUkt2R0FVaUhFUE5oRm1HLXNvWWdWUm13VkY0MnQ0TE1sX3ZjTDVUdU1lNWg2M05qWUtSMmRmaW9Oc3NfeHB0d0VtY0tJSnRMeVJyUGh3?oc=5",
+        "publisher_name": "LIGA.net",
+        "publisher_url": "",
+        "published_at": "2026-11-13T08:02:31+00:00",
+        "indicative_usd": 5000000
+      },
+      {
+        "candidate_id": "482591e7aecb8ee2",
+        "title": "'Star Wars' lightsaber used by Darth Vader sells for a record $4.8 million - Mathrubhumi English",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmdmNm1FalFFcFpZbHdNV014M1lud2piRzRIdXJMd0MwMkVENU9oVm9pazlRbDJnRzE1M2J2YjFLOUtzeTQ2WV9yUzBRWnJ4WVhfclFVQXlkMWZ5Mk5MaWxXSjJBMzlsbEsyQ21wOG9VOU1lVGsyYkRGNXltSDJTQ1FQbktoRDItQThkSk5ZMW1fd2dQMVRTRE5lN3pJWTI0SFlNV0xDZnd3UGI5QUUtaDF0Q2g1SVB0bmQ1SXBmZ0nSAcYBQVVfeXFMUEM1MGFqMXJpMW9MSS1IcklhSk5fdmU5bERwVjZPRzRIdHM3LWw4WVcyMFZBalMwRlNBLS1VNWNyM0FyeXNPcl9ORENxaFRUUllFQzFOVEd3VVEzbDZoNlZXdU92VlFVUWhxblZYZ3JYYWZvNzVpSXUxZi02eGFjRnlzbF9keWZuTGR0U1pfaHVZZHhBWjI5U093ZTBBSmlvdTIwN09Hc1pQdTd6SnMyVTJPY1duemtCYVlBY1FtVDZMOEE0dklB?oc=5",
+        "publisher_name": "Mathrubhumi English",
+        "publisher_url": "",
+        "published_at": "2026-11-13T07:25:37+00:00",
+        "indicative_usd": 4800000
+      },
+      {
+        "candidate_id": "7579904b8e29cc66",
+        "title": "Darth Vader’s Lightsaber Fetches Nearly $5 Million at Auction Ahead of ‘Star Wars’ 50th Anniversary - People.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1Z6SC1qVWpKTmpiSHh6NEhKN3YtYTdTRHJjX0gtcm5ReFNKTDJhQlBnV2ROcmxSdnlhUUNXT0N3RUZiNXR5YlhyUVR4X0JyMEkwRDFwblVxc2ZPTXBqMDVSZTdaWmVGNjNtYlZCbXFHQkh1M3JLY2ZFdFJ0VmlacUlUNDZjUndWa24wYjFVdW9CZE5qYTdic0lpQmZXdU9XTThtU0VRRGRBME0?oc=5",
+        "publisher_name": "People.com",
+        "publisher_url": "",
+        "published_at": "2026-11-13T05:54:45+00:00",
+        "indicative_usd": 5000000
+      },
+      {
+        "candidate_id": "e196bdeb43f952fa",
+        "title": "Darth Vader's lightsaber reclaims Star Wars auction record at nearly $5 million - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdTFkd0lRLU04NlVXM1doZGRHSFdyT2VhbV9nTEViX1hRZGNXcGhsc0N4ZFNqRF9zLXVoYkRSaVRYanIxaHpGU0pZdnFLQW9QdFFxcXk2b1MzemhzRXUybGhNcjI4c2dlQWdaR3RoRmlTLW5HSFp4N0FYRVRRUS1jRjdsMUEyeWRNWUpzbllVcTV6UmhmeUlYVGk5WVpCekxpRHZzYVpxc2ZpSUdCZkEzYlNjaG9lWlBnclE4VU83TjNjWFE5cmZPNm5Gc0xZTU5kSzFpS01aZzUtRGRVMU9qTmgwX0hQMkxNamRHT3pTZXJ1RzN2WWl6elh30gH6AUFVX3lxTE9sSG9PM0x2NUNTLWE0c0d0TjZVMjF2Ul9iZ2ZvT2tXdHQyOHJrVDIyalFYSllxekpLYUt6SnVGUHg2cm9EZlhvQUhRNnhwaE15NjE0UGJ2S0ZCVjhUQ3Z0d2RBZnc3Qk5acmpHWmVGM05ReE1HMzNDeWVubmRqa1U3eHVfY0xVREdpS2tFYTVxSUY5aHlyQkNjSndIZmNld3E0ekhQQmdRY1dzU3VJZFhpRVRlV1p5eXYzV1l5b0ZZLUNUbVJkM1NROE9GR0ViUlFCckJLOEE4NmdhbzgxSkg4V1NEeXRBTWtpLWRLdzhqajhoWHZBVlZCQ2c?oc=5",
+        "publisher_name": "DW.com",
+        "publisher_url": "https://www.dw.com",
+        "published_at": "2026-11-13T02:29:17+00:00",
+        "indicative_usd": 5000000
+      }
+    ]
+  },
+  {
     "group_id": "abfd2f9158f046be",
     "title": "‘I am your father’: Darth Vader's iconic lightsaber sells for nearly $5 million - Ynetnews",
     "category_hint": "other",
@@ -253,121 +377,6 @@
         "publisher_name": "South China Morning Post",
         "publisher_url": "",
         "published_at": "2026-11-12T23:32:29+00:00",
-        "indicative_usd": 5000000
-      }
-    ]
-  },
-  {
-    "group_id": "1e800fbd3c6c4dee",
-    "title": "Darth Vader’s lightsaber sold for $4.8 million, setting a \"Star Wars\" record - Українські Національні Новини (УНН)",
-    "category_hint": "other",
-    "articles": 9,
-    "publishers": 9,
-    "indicative_usd_values": [
-      4800000,
-      4875000,
-      5000000
-    ],
-    "amount_variation_pct": 4.0,
-    "last_publication_at": "2026-11-13T21:05:47+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "22e321bf18ae4826",
-      "56cfdc11e3e22bb9",
-      "3224f5f4910b6f3b",
-      "abf4672cf17c5273",
-      "9de8779b7f640ae6",
-      "88194b6a88c13084",
-      "d8c036185422dace",
-      "482591e7aecb8ee2",
-      "7579904b8e29cc66"
-    ],
-    "links": [
-      {
-        "candidate_id": "22e321bf18ae4826",
-        "title": "Darth Vader’s lightsaber sold for $4.8 million, setting a \"Star Wars\" record - Українські Національні Новини (УНН)",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVFXMEUtRGpiTTVxS1NpNVhqLS1NTVloSkZvbVFmTWNiR0VJbGlmNk9vaDZDMGc2UHlTRldfUGRkR0s4cHFfazBfNF80VWt6aDFwX3JtbUdZWkRCbUJxaFcyYmZ5S0l0LTNTQ2RYMzh1NVpjTFlfUVpJd19RZ09ETmtMdWpVdExIMTFUNTBud1RVSWVwZ0ltcTRRWVVtanJv0gGfAUFVX3lxTE5veVV3ZjBCcG1tMjRackhKWktOTkFocUlQSE9ab0Y1SlNyNFR0d3hldXhNOVpRRzM5T2VWNWZVYThuVk1abDNyS2pnNTVndloxWDJnc0lpZWtHYmhvU2w4UTJZOHlRVC02c3ZadFhhNXhURGtTa01fUEdxVTFBckhYT2FDT1JMR0phM0daRUpfOHNQUEpEUThnRWh3bjg2dw?oc=5",
-        "publisher_name": "Українські Національні Новини (УНН)",
-        "publisher_url": "",
-        "published_at": "2026-11-13T21:05:47+00:00",
-        "indicative_usd": 4800000
-      },
-      {
-        "candidate_id": "56cfdc11e3e22bb9",
-        "title": "Darth Vader's Actual Lightsaber Just Sold for $4.875 Million, Breaking Star Wars Auction Records - IGN",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdUkzc09EbVJwY2RaUE9QT1MtREk2UUYxdmtEYW9oMWtQVS1oSGZDTGFsWDRDRTVBM1RHQXZ5X2VPUE5CTUFBU2FiNkJtX2gwWGFESWNIZThXOTVxeFpndW5VUTFvRFIwSWNvcC1sbzNpN1VHWUZZYVh3WTRJamlZVDFTU0tldW5ZanhoRnZMLURzZnprTTFQa1VoaFhlanRnSFU0MXFNemxVUjFXbjJRLXhvandJVlM5SzFFMGhn?oc=5",
-        "publisher_name": "IGN",
-        "publisher_url": "",
-        "published_at": "2026-11-13T19:41:21+00:00",
-        "indicative_usd": 4875000
-      },
-      {
-        "candidate_id": "3224f5f4910b6f3b",
-        "title": "Darth Vader’s screen-used lightsaber sets a new \"Star Wars\" auction record, selling for $4.875 million. - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWHV2M3kyMW9mSVRGS2RMcEpNck93VGxWSHN2UWFHTERaLVNiSWlQOU12czFoRVZaVE9GeEozejJkMUJnY0ZrWG9yZWlwQ3N1SFE5dU1nOEhkaTh2SmpORmtnd3Fsa3A0aUZ4blNlYlI5RF8wR29qem5EZ3VLbVJMTEw0TDVjd2JXZWVMbVVXREpRalRFa09NeVVocXcxNS1LQ2lLUXVmT1ZRZXZfcFEtYmxxVWxRLUpsNW5hdFg4c0JIY3htbUJJOTBLWnlUMmVaOTRjazdNUkhpZw?oc=5",
-        "publisher_name": "Facebook",
-        "publisher_url": "",
-        "published_at": "2026-11-13T18:58:54+00:00",
-        "indicative_usd": 4875000
-      },
-      {
-        "candidate_id": "abf4672cf17c5273",
-        "title": "Darth Vader’s Lightsaber Sets ‘Star Wars’ Auction Record Selling for Nearly $5 Million - The Hollywood Reporter",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkVuQmE2SVludTNDdE5WVkxBTVhvQlJVSmQzZ0hPcE1DeEZ3YTR6VWdjSl9RM01RY0Y2Z3B0Mm1naVI4N2NJMGVCTXZ0S2tvMlEzTmVkVEY3akZaemQyUW1DV2w5aXhLNWZrNUhRVk5IbnlScGwtZVVUVF91NF8taU9TTHh5RS1fYnZ3anlSZHg4eTBEYkF1ejhBQ0dicjlUN1pydmJMQ0wtU3ZmMU04dA?oc=5",
-        "publisher_name": "The Hollywood Reporter",
-        "publisher_url": "",
-        "published_at": "2026-11-13T18:39:31+00:00",
-        "indicative_usd": 5000000
-      },
-      {
-        "candidate_id": "9de8779b7f640ae6",
-        "title": "Darth Vader Lightsaber Sets $4.875 Million Star Wars Auction Record - https://streamlinefeed.co.ke/",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSHlpN3dxSG1jaWkyNTBOb3pNRjhwN3VSOTVXckxmeUxsa0dLLWhPMkFqVzhYOUVSa0JfaTc0U2JxUjUyVXhoUlgyaVdnTGVvNU9NRldwN1p0d3J2NFYwM2ZTSlluVzllZ0p5NVR6OFNuMlVCSWNlb2s3akRaMW85SElXdldvb2t5Znd5MUlXN05YSy1MNG5JZVpwelBLb1ly?oc=5",
-        "publisher_name": "https://streamlinefeed.co.ke/",
-        "publisher_url": "",
-        "published_at": "2026-11-13T12:15:00+00:00",
-        "indicative_usd": 4875000
-      },
-      {
-        "candidate_id": "88194b6a88c13084",
-        "title": "Darth Vader’s lightsaber has been sold for $4.875 million — a new «Star Wars» record» - UkrMedia News",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnhtQm81TVFDdml1M0hJZG9YcldNU2pRcngxZk9NQU1scmVfU3lzX0NVTml0YUxUWTdTV1RjZ0R4UHZ1NFhQbWpjc0xsbWhLVGpaZmhqUGVUZ3ROOVhyMGluV0I5eS1zNS1lRndicm0wZ3poZ09GbkFrSzVVYzFxQzV3?oc=5",
-        "publisher_name": "UkrMedia News",
-        "publisher_url": "",
-        "published_at": "2026-11-13T10:04:38+00:00",
-        "indicative_usd": 4875000
-      },
-      {
-        "candidate_id": "d8c036185422dace",
-        "title": "\"Star Wars\" Record: Darth Vader's lightsaber sold at auction for nearly $5 million - LIGA.net",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORXVEekNaRm0wdmVrblBPV2ZHV1p5QkdLZGVBZlVxTzV0aUpSbmlYbkV3Rkp3NWV4N19XeTBScWhlNjJDZWoyZEowX1A5Y010ZXhXV1RMaWpNTUEwdUJHVUpRMEhBanVBa0NZU3MwVm9NTExleXFPN2ttYmtNb0JLQ0hFLTJ5S2pFNzBTeFlXTjVrM255MmVhWUk2LTZZVDZDTERtdmU0Q2wySWJKQUpNSWEycVZDUdIBuwFBVV95cUxPd2VJV2d4aVBLeUtYd093TlJjQjNSWXRwN3RPUGIwYkk3Mi1mT29IVjRaNk9COFVFQjFDWDBNTDdIQ2pCb19paXVEMFJrTHNfRXNFd2YyOXRiY1AtN0x2NnJqdzl4b1Q0dnQ4ek9LUkt2R0FVaUhFUE5oRm1HLXNvWWdWUm13VkY0MnQ0TE1sX3ZjTDVUdU1lNWg2M05qWUtSMmRmaW9Oc3NfeHB0d0VtY0tJSnRMeVJyUGh3?oc=5",
-        "publisher_name": "LIGA.net",
-        "publisher_url": "",
-        "published_at": "2026-11-13T08:02:31+00:00",
-        "indicative_usd": 5000000
-      },
-      {
-        "candidate_id": "482591e7aecb8ee2",
-        "title": "'Star Wars' lightsaber used by Darth Vader sells for a record $4.8 million - Mathrubhumi English",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmdmNm1FalFFcFpZbHdNV014M1lud2piRzRIdXJMd0MwMkVENU9oVm9pazlRbDJnRzE1M2J2YjFLOUtzeTQ2WV9yUzBRWnJ4WVhfclFVQXlkMWZ5Mk5MaWxXSjJBMzlsbEsyQ21wOG9VOU1lVGsyYkRGNXltSDJTQ1FQbktoRDItQThkSk5ZMW1fd2dQMVRTRE5lN3pJWTI0SFlNV0xDZnd3UGI5QUUtaDF0Q2g1SVB0bmQ1SXBmZ0nSAcYBQVVfeXFMUEM1MGFqMXJpMW9MSS1IcklhSk5fdmU5bERwVjZPRzRIdHM3LWw4WVcyMFZBalMwRlNBLS1VNWNyM0FyeXNPcl9ORENxaFRUUllFQzFOVEd3VVEzbDZoNlZXdU92VlFVUWhxblZYZ3JYYWZvNzVpSXUxZi02eGFjRnlzbF9keWZuTGR0U1pfaHVZZHhBWjI5U093ZTBBSmlvdTIwN09Hc1pQdTd6SnMyVTJPY1duemtCYVlBY1FtVDZMOEE0dklB?oc=5",
-        "publisher_name": "Mathrubhumi English",
-        "publisher_url": "",
-        "published_at": "2026-11-13T07:25:37+00:00",
-        "indicative_usd": 4800000
-      },
-      {
-        "candidate_id": "7579904b8e29cc66",
-        "title": "Darth Vader’s Lightsaber Fetches Nearly $5 Million at Auction Ahead of ‘Star Wars’ 50th Anniversary - People.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1Z6SC1qVWpKTmpiSHh6NEhKN3YtYTdTRHJjX0gtcm5ReFNKTDJhQlBnV2ROcmxSdnlhUUNXT0N3RUZiNXR5YlhyUVR4X0JyMEkwRDFwblVxc2ZPTXBqMDVSZTdaWmVGNjNtYlZCbXFHQkh1M3JLY2ZFdFJ0VmlacUlUNDZjUndWa24wYjFVdW9CZE5qYTdic0lpQmZXdU9XTThtU0VRRGRBME0?oc=5",
-        "publisher_name": "People.com",
-        "publisher_url": "",
-        "published_at": "2026-11-13T05:54:45+00:00",
         "indicative_usd": 5000000
       }
     ]
@@ -1370,6 +1379,38 @@
     ]
   },
   {
+    "group_id": "4ca8e31c1d094cc6",
+    "title": "Old stamp sold for $525,000 at auction - AL.com",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      525000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-06T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "cdd10034509623d6"
+    ],
+    "links": [
+      {
+        "candidate_id": "cdd10034509623d6",
+        "title": "Old stamp sold for $525,000 at auction - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxV1dQNG9NWklLYTA3bWU5c1V0LTNxV0tpNlFaU1dxZ3NzVWlMUEFLQktiblFRMU1Ddk0zcFoyRDlOLTFqaUk4cDh1aEhQOGtibWtxeFBmUWtpS3dWY1dtMGo5aENmODItbldkT01BS3hGNWhkT3FpLUZTUEtWd9IBkgFBVV95cUxQN251Y3VTQ0t4QnZFQ3owWDRmck9NdkxtQng1cjVoTHpTV1RhaFhaeDN3UXpFb3N0UGJUa05EeXFNTmo0d3l2UWphbXVvMjJ3RlY5dXJLZnkxQzdFSmVzX2dOS3hzaWVnNHFLTElYN3lDTzRKbnZ0SUMydFJMcVNWV0NKTWFadERTZnJmVlZQQ3Jadw?oc=5",
+        "publisher_name": "AL.com",
+        "publisher_url": "https://www.al.com",
+        "published_at": "2026-10-06T07:00:00+00:00",
+        "indicative_usd": 525000
+      }
+    ]
+  },
+  {
     "group_id": "21e53de0b3eb74dc",
     "title": "Mellon Blue Diamond: The Ultra Rare Stone Sells for $25M - Natural Diamond Council",
     "category_hint": "jewelry",
@@ -1462,6 +1503,38 @@
         "publisher_url": "https://robbreport.com",
         "published_at": "2026-09-29T07:00:00+00:00",
         "indicative_usd": 49500000
+      }
+    ]
+  },
+  {
+    "group_id": "8b2eaa6e622ccf83",
+    "title": "Ultra-Rare Cartier Cheich Watch Sells for $3.4M - nationaljeweler.com",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      3400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-09-21T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "5d30a72a2bae2983"
+    ],
+    "links": [
+      {
+        "candidate_id": "5d30a72a2bae2983",
+        "title": "Ultra-Rare Cartier Cheich Watch Sells for $3.4M - nationaljeweler.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFVOVURqQXIwNDJpWndoLVZ6blBVYVQ4M2JDeFRGTWFKbzV3V2dDT21mMUxSdlRHSmNsOE9TZi1vN1RNRGx5b1RPT1VNdTN4YUdLUHhOWmhEd3RRZ0tBMXpYcXFJak8xQ2xjSXJBcGN2NFY4SDNIUlVFMmtsT21oU1h2ekNXWVJWWkFKOHhFY0RpNGc?oc=5",
+        "publisher_name": "nationaljeweler.com",
+        "publisher_url": "https://nationaljeweler.com",
+        "published_at": "2026-09-21T07:00:00+00:00",
+        "indicative_usd": 3400000
       }
     ]
   },
