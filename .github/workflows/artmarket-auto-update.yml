@@ -408,7 +408,7 @@ jobs:
               print(json.dumps(summary,ensure_ascii=False,indent=2))
               return summary
           
-                    build()
+          build()
           PY
 
       - name: Commit public data files
