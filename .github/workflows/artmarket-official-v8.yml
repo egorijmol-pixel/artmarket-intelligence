@@ -1,0 +1,301 @@
+name: ArtMarket official Heritage and Stacks Bowers results
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["ArtMarket RSS and evidence triage"]
+    types: [completed]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: artmarket-updates
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Checkout website
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - name: Check official Heritage and Stacks Bowers release results
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          #!/usr/bin/env python3
+          """Conservative official-report collector: Heritage and Stack's Bowers only.
+
+          A press release is a source, not automatically a confirmed individual sale.
+          Only exact USD prices, unique sale subject, completed-sales wording and
+          credible auction date are promoted to records.json. All others are review leads.
+          """
+          import datetime as dt
+          import html
+          from html.parser import HTMLParser
+          import hashlib
+          import json
+          from pathlib import Path
+          import re
+          from urllib.parse import urljoin, urlparse, parse_qs
+          from urllib.request import Request, urlopen
+
+          DATA = Path('data')
+          DATA.mkdir(exist_ok=True)
+          TODAY = dt.datetime.now(dt.timezone.utc).date()
+          MIN_USD = 300000
+          SOURCES = [
+           ('Heritage Auctions', 'https://www.ha.com/heritage-auctions-press-releases-and-news.s?nocache=1'),
+           ("Stack's Bowers", 'https://stacksbowers.com/about-us/press-release-feed/'),
+          ]
+          HEADERS = {'User-Agent':'Mozilla/5.0 (compatible; ArtMarketIntelligence/8.0; public result verification)', 'Accept':'text/html,application/xhtml+xml'}
+          MONTH = {x.lower():i for i,x in enumerate(['January','February','March','April','May','June','July','August','September','October','November','December'],1)}
+          MONTH.update({x[:3]:i for x,i in list(MONTH.items())})
+          MON = r'(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)'
+          VERBS = r'(?:sold\s+for|realized|brought|fetched|commanded|went\s+for|achieved|changed\s+hands\s+for)'
+          PRICE = r'\$\s*(\d{1,3}(?:,\d{3})+|\d+(?:\.\d+)?)\s*(million|m)?\b'
+          SALE_CONTEXT = re.compile(r'\b(auction|sold|realized|sale|session|held|concluded|bidding)\b',re.I)
+          FUTURE_CONTEXT = re.compile(r'\b(will be|will go|upcoming|expected to|estimated|estimate|pre-sale|to be offered|to be sold|could fetch|may fetch)\b',re.I)
+          GENERAL = re.compile(r'\b(auction|auctions|event|events|sale|sales|session|sessions|lots|total|totals|week|market|firm|galleries|bidders|annual|year|collectors|generated|combined)\b',re.I)
+
+          class Page(HTMLParser):
+              def __init__(self):
+                  super().__init__(convert_charrefs=True)
+                  self.links=[];self.ps=[];self.titles=[];self.meta={};self.doctext=[];self.a=None;self.p=None;self.h=None
+                  self.skip=0
+              def handle_starttag(self,tag, attrs):
+                  a=dict(attrs)
+                  if tag in ('script','style','noscript','svg'):
+                      self.skip+=1
+                  if tag=='time' and a.get('datetime'):
+                      self.meta.setdefault('time:datetime',a['datetime'])
+                  if tag=='meta':
+                      for k in ('property','name'):
+                          if a.get(k) and a.get('content'):self.meta[a[k].lower()]=a['content']
+                  if self.skip:return
+                  if tag=='a' and a.get('href'):self.a=[a['href'],[]]
+                  if tag=='p' and self.p is None:self.p=[]
+                  if tag in ('h1','h2') and self.h is None:self.h=[]
+              def handle_endtag(self,tag):
+                  if tag in ('script','style','noscript','svg'):
+                      self.skip=max(0,self.skip-1);return
+                  if self.skip:return
+                  if tag=='a' and self.a:
+                      self.links.append((self.a[0],normalize(' '.join(self.a[1]))));self.a=None
+                  if tag=='p' and self.p is not None:
+                      p=normalize(' '.join(self.p))
+                      if p:self.ps.append(p)
+                      self.p=None
+                  if tag in ('h1','h2') and self.h is not None:
+                      v=normalize(' '.join(self.h))
+                      if v:self.titles.append(v)
+                      self.h=None
+              def handle_data(self,data):
+                  if self.skip:return
+                  if data.strip() and len(self.doctext)<9000:self.doctext.append(data)
+                  if self.a is not None:self.a[1].append(data)
+                  if self.p is not None:self.p.append(data)
+                  if self.h is not None:self.h.append(data)
+
+          def normalize(text):return re.sub(r'\s+',' ',html.unescape(text)).strip()
+          def fetch(url):
+              with urlopen(Request(url,headers=HEADERS),timeout=23) as response:
+                  if response.status != 200:raise ValueError('HTTP '+str(response.status))
+                  content=response.read(1_500_001)
+                  if len(content)>1_500_000:raise ValueError('Page too large')
+                  return content.decode('utf-8','replace')
+
+          def parse_doc(text):
+              p=Page();p.feed(text);return p
+
+          def article_url(url,house):
+              p=urlparse(url)
+              if p.scheme !='https':return False
+              if house=='Heritage Auctions':
+                  return p.hostname in ('ha.com','www.ha.com') and bool(re.search(r'/heritage-auctions-press-releases-and-news/[^/]+\.s$',p.path))
+              return p.hostname in ('stacksbowers.com','www.stacksbowers.com') and p.path.startswith('/sbpressreleases/') and len(p.path)>20
+
+          def listing_links(page,base,house):
+              seen=set();found=[]
+              for href,title in page.links:
+                  url=urljoin(base,href)
+                  if article_url(url,house) and url not in seen:
+                      seen.add(url);found.append((url,title))
+              return found[:22]
+
+          def pub_date(p):
+              for k in ('article:published_time','datepublished','date','pubdate','time:datetime'):
+                  v=p.meta.get(k,'')
+                  m=re.search(r'\b(20\d\d)-(\d\d)-(\d\d)',v)
+                  if m:
+                      try:return dt.date(*map(int,m.groups()))
+                      except ValueError:pass
+              for text in p.ps[:8]+[normalize(' '.join(p.doctext))[:18000]]:
+                  m=re.search(r'Press Release\s*[-–:]\s*('+MON+r')\.?\s+(\d{1,2}),\s*(20\d\d)',text,re.I)
+                  if m:
+                      try:return dt.date(int(m[3]),MONTH[m[1].lower().rstrip('.')[:3]],int(m[2]))
+                      except (ValueError,KeyError):pass
+              return None
+
+          def auction_dates(paragraphs,publication):
+              """Only unambiguous past auction date in a sales context; never infer from article date alone."""
+              if not publication:return None
+              candidates=set()
+              for p in paragraphs[:7]:
+                  # The auction date must occur close to a signal such as 'sale' or 'auction'.
+                  for m in re.finditer(r'\b('+MON+r')\.?\s+(\d{1,2})(?:\s*[-–]\s*(\d{1,2}))?(?:,?\s*(20\d\d))?',p,re.I):
+                      context=p[max(0,m.start()-55):min(len(p),m.end()+65)]
+                      if not SALE_CONTEXT.search(context) or FUTURE_CONTEXT.search(context):continue
+                      mon=MONTH.get(m[1].lower()[:3]);year=int(m[4] or publication.year)
+                      if not mon:continue
+                      try:
+                          start=dt.date(year,mon,int(m[2]));end=dt.date(year,mon,int(m[3] or m[2]))
+                      except ValueError:continue
+                      if start>publication or end>publication or (publication-end).days>70:continue
+                      candidates.add((start.isoformat(),end.isoformat()))
+              return list(candidates)[0] if len(candidates)==1 else None
+
+          def dollars(amount,mult):
+              v=float(amount.replace(',',''))
+              if mult:v*=1_000_000
+              return round(v) if v >= MIN_USD and v.is_integer() else None
+
+          def classify(house,text):
+              if house=="Stack's Bowers":return 'coins'
+              text=text.lower()
+              for pattern,cat in [
+                (r'coin|numismatic|banknote|currency|half dime|silver dollar|gold dollar|dime|stater','coins'),
+                (r'watch|timepiece|clock|rolex|patek','watch'),
+                (r'jewel|diamond|gemstone|sapphire|emerald|birkin','jewelry'),
+                (r'comic|trading card|pokemon|pokémon|t206|sports card|baseball card|video game','cards'),
+                (r'painting|modern art|american art|fine art|picasso|rockwell|watercolor|oil on canvas','art'),
+                (r'jersey|sports memorabilia|sport collectible|championship belt','sports'),
+                (r'car auction|classic car|collector car|automobile','cars'),
+                (r'manuscript|rare book|first edition','books'),
+                (r'vintage guitar|musical instrument|stratocaster','instruments'),
+                (r'meteorite|fossil|mineral specimen|dinosaur','natural'),
+                (r'antique|furniture|design object','antiques'),
+              ]:
+                  if re.search(pattern,text):return cat
+              return ''
+
+          def extract_claims(page,house,source,publication):
+              claims=[];seen=set()
+              headline=page.meta.get('og:title') or (page.titles[-1] if page.titles else '')
+              date_range=auction_dates(page.ps,publication)
+              for para in page.ps:
+                  if len(para)>1800:continue
+                  # Protect common abbreviations (St. Louis, Fr. 2221, etc.) before splitting.
+                  protected=re.sub(r'\b(St|Fr|Mr|Ms|Dr|No|Oct|Nov|Sep|Aug|Jan|Feb|Mar|Apr|Jun|Jul|Dec)\.\s+', lambda a:a[1]+'§', para)
+                  for sentence in [x.replace('§','. ') for x in re.split(r'(?<=[.!?])\s+(?=[A-Z“‘0-9])',protected)]:
+                      if FUTURE_CONTEXT.search(sentence):continue
+                      # A separate unique object must precede a completed-sale verb and USD sum.
+                      expr=re.compile(r'(?P<sub>.{14,190}?)\s+(?P<verb>'+VERBS+r')\s+(?:at\s+|a\s+|an\s+)?'+PRICE,re.I)
+                      for m in expr.finditer(sentence):
+                          amount=dollars(m.group(3),m.group(4))
+                          if amount is None:continue
+                          sub=normalize(m.group('sub'))
+                          sub=re.split(r'(?:highest price was recorded when|top price went to|price honors went to|led by)\s+',sub,flags=re.I)[-1]
+                          # Avoid auction-level gross figures even when dates or years appear.
+                          if GENERAL.search(sub) and not re.search(r'\bLot\s*#?\s*\d{2,6}\b',sub,re.I):continue
+                          if re.search(r'\b(?:total|aggregate|collectively|together|overall|combined)\b',sub,re.I):continue
+                          lot=re.findall(r'\bLot\s*#?\s*(\d{2,6})\b',sub,re.I)
+                          if len(set(lot))>1:continue
+                          title=re.sub(r'^.*?\bLot\s*#?\s*\d{2,6}\s*[:.,–-]?\s*','',sub,flags=re.I) if lot else sub
+                          title=re.sub(r'^.*?\s+—\s+','',title)
+                          title=re.sub(r'^.*?\b(?:highlights? (?:included?|was)|the highest price was recorded when)\s+','',title,flags=re.I)
+                          title=re.split(r'(?:highest price was recorded when|top price went to|price honors went to|led by)\s+',title,flags=re.I)[-1]
+                          title=title.strip(' .,:;—-')
+                          if len(title)<14 or len(title)>200:continue
+                          if re.match(r'^(?:the |this |a |an )?(?:sale|auction|event|session|week|collection|firm|company)\b',title,re.I):continue
+                          category=classify(house,headline+' '+title)
+                          key=hashlib.sha256((house+'|'+source+'|'+(lot[0] if lot else title)+'|'+str(amount)).encode()).hexdigest()[:20]
+                          if key in seen:continue
+                          seen.add(key)
+                          claims.append(dict(id='V8-'+key,house=house,title=title,usd=amount,lot_number=lot[0] if lot else '',category=category,source=source,publication_date=publication.isoformat() if publication else '',sale_start=date_range[0] if date_range else '',sale_end=date_range[1] if date_range else '',source_type='official_press_release',evidence=sentence[:500],review_reason='' if (date_range and category) else ('sale_date_not_confirmed' if not date_range else 'category_uncertain')))
+              return claims
+
+          def load(name,default):
+              p=DATA/name
+              try:return json.loads(p.read_text(encoding='utf8'))
+              except (FileNotFoundError,ValueError):return default
+
+          def save(name,value):
+              (DATA/name).write_text(json.dumps(value,ensure_ascii=False,indent=2)+'\n',encoding='utf8')
+
+          def main():
+              old=load('records.json',[]);old=old if isinstance(old,list) else []
+              existing={str(x.get('id')) for x in old if isinstance(x,dict)}
+              recorded={(str(x.get('house','')).lower(),str(x.get('title','')).lower(),int(x.get('usd') or 0)) for x in old if isinstance(x,dict)}
+              leads=load('official_v8_review.json',[]);leads=leads if isinstance(leads,list) else []
+              pending={x.get('id'):x for x in leads if isinstance(x,dict) and x.get('id')}
+              status={'checked_utc':dt.datetime.now(dt.timezone.utc).isoformat(),'sources':['Heritage Auctions',"Stack's Bowers"],'threshold_usd':MIN_USD,'source_pages_found':0,'articles_checked':0,'new_verified_lots':0,'new_review_leads':0,'errors':[],'notes':'Official USD sale statements only. Missing/ambiguous auction dates are not represented as confirmed daily sales. Phillips is excluded; historical Phillips seed records remain.'}
+              for house,listing in SOURCES:
+                  try:links=listing_links(parse_doc(fetch(listing)),listing,house)
+                  except Exception as e:status['errors'].append({'source':house,'stage':'listing','message':str(e)[:200]});continue
+                  status['source_pages_found']+=len(links)
+                  for url,_ in links:
+                      try:
+                          page=parse_doc(fetch(url));publication=pub_date(page)
+                          if publication and publication>TODAY:continue
+                          claims=extract_claims(page,house,url,publication)
+                          status['articles_checked']+=1
+                          for c in claims:
+                              if c['id'] in existing or (house.lower(),c['title'].lower(),c['usd']) in recorded:continue
+                              if c['sale_start'] and c['category'] and c['publication_date']:
+                                  old.append({'id':c['id'],'category':c['category'],'title':c['title'],'usd':c['usd'],'original':c['usd'],'currency':'USD','price_basis':'official_reported_usd_premium_unconfirmed','sale_start':c['sale_start'],'sale_end':c['sale_end'],'sale_timestamp':'','event':'','lot_number':c['lot_number'],'house':house,'city':'','country':'','method':'Аукцион','source':url,'status':'verified','origin':'official_press_release','fx_note':'USD; inclusion of buyer premium not checked; date is auction date/range, exact lot time not confirmed','verified_on':TODAY.isoformat(),'photo_url':'','photo_rights':'unconfirmed'})
+                                  existing.add(c['id']);recorded.add((house.lower(),c['title'].lower(),c['usd']));pending.pop(c['id'],None);status['new_verified_lots']+=1
+                              elif c['id'] not in pending:
+                                  pending[c['id']]=c;status['new_review_leads']+=1
+                      except Exception as e:status['errors'].append({'source':house,'stage':'article','url':url,'message':str(e)[:160]})
+              save('records.json',old)
+              save('official_v8_review.json',list(pending.values())[-1000:])
+              status['total_verified_in_records']=sum(1 for x in old if isinstance(x,dict) and x.get('status')=='verified')
+              status['total_review_leads']=len(pending)
+              status['complete_market_coverage']=False
+              old_status=load('status.json',{})
+              if isinstance(old_status,dict):
+                  old_status['verified_automatic']=status['total_verified_in_records']
+                  old_status['verified_source']='Official results from Heritage Auctions and Stack\'s Bowers; historical seed entries excluded from this count'
+                  save('status.json',old_status)
+              save('official_v8_status.json',status)
+              print(json.dumps(status,ensure_ascii=False,indent=2))
+
+          if __name__=='__main__':main()
+          PY
+      - name: Save verified sales and review queue
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/records.json data/official_v8_review.json data/official_v8_status.json data/status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update Heritage and Stacks Bowers official sale results'
+            git push
+          fi
+      - name: Build website
+        shell: bash
+        run: |
+          mkdir -p _site/data
+          cp index.html _site/index.html
+          cp data/*.json _site/data/
+          touch _site/.nojekyll
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload website
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Publish website
+        id: deploy
+        uses: actions/deploy-pages@v4
+# END: ARTMARKET_OFFICIAL_V8_COMPLETE
