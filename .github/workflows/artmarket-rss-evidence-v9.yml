@@ -1,0 +1,235 @@
+name: ArtMarket official-source RSS evidence v9
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["ArtMarket RSS and evidence triage"]
+    types: [completed]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: artmarket-updates
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - name: Find source-focused RSS evidence without blocked direct websites
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          #!/usr/bin/env python3
+          """Source-focused RSS finder; never promotes headlines to verified sales."""
+          import datetime as dt
+          import hashlib
+          import html
+          import json
+          import re
+          from email.utils import parsedate_to_datetime
+          from pathlib import Path
+          from urllib.parse import urlencode, urlparse
+          from urllib.request import Request, urlopen
+          import xml.etree.ElementTree as ET
+          
+          DATA=Path('data')
+          DATA.mkdir(parents=True,exist_ok=True)
+          NOW=dt.datetime.now(dt.timezone.utc)
+          MIN_USD=300000
+          MAX_ITEMS_PER_FEED=100
+          MAX_CANDIDATES=500
+          MAX_REVIEW=500
+          # Only Google News' freely accessible RSS feeds are fetched. Never probe
+          # protected auction-house pages or attempt to bypass their 403 responses.
+          SEARCHES=[
+           ('Heritage Auctions','ha.com','site:ha.com auction "sold for"'),
+           ('Heritage Auctions','ha.com','site:ha.com auction "brings"'),
+           ("Stack's Bowers",'stacksbowers.com','site:stacksbowers.com auction "sold for"'),
+           ("Stack's Bowers",'stacksbowers.com','site:stacksbowers.com auction "realized"'),
+           ("Christie's",'christies.com','site:christies.com auction "sold for"'),
+           ("Sotheby's",'sothebys.com','site:sothebys.com auction "sold for"'),
+           ('Bonhams','bonhams.com','site:bonhams.com auction "sold for"'),
+           ('Goldin','goldin.co','site:goldin.co auction "sold for"'),
+          ]
+          # Explicitly exclude Phillips, even when mentioned in a headline.
+          SOLD=re.compile(r'\b(sold for|sells for|brought|brings|fetched|fetches|realized|realised|hammered for|achieved|auction record)\b',re.I)
+          FUTURE=re.compile(r'\b(will be|expected to|could fetch|may fetch|estimated|estimate|upcoming|to be offered|pre.sale|to be sold|hopes to|seeks to)\b',re.I)
+          TOTAL=re.compile(r'\b(auction total|sale total|overall total|combined total|total sales|sales totaled|annual sales|total revenue|total turnover|aggregate sales|auction house achieves)\b',re.I)
+          USD=re.compile(r'(?<![A-Za-z])(?:US\s*)?\$\s*(\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d+(?:\.\d+)?)\s*(billion|million|thousand|bn|m|k)?\b',re.I)
+          NOISE=set('the and for with from auction auctions sale sales sold sells record million brings fetches fetched achieves achieved realized realises first ever world historic this rare price us usd lots lot at in of by to a an on is as year new its his her more than above over nearly almost set sets press release breaks tops reaches reached vintage'.split())
+          
+          def read_file(name,default):
+           try:return json.loads((DATA/name).read_text(encoding='utf-8'))
+           except (OSError,ValueError):return default
+          
+          def save_file(name,data):
+           (DATA/name).write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          
+          def clean(s,n=350):
+           return re.sub(r'\s+',' ',html.unescape(re.sub(r'<[^>]*>',' ',str(s or '')))).strip()[:n]
+          
+          def host(u):
+           try:
+            p=urlparse(str(u or ''))
+            return p.hostname.lower() if p.scheme=='https' and p.hostname else ''
+           except ValueError:return ''
+          
+          def official_host(actual,expected):
+           return bool(actual) and (actual==expected or actual.endswith('.'+expected))
+          
+          def price(s):
+           amounts=[]
+           for m in USD.finditer(s):
+            try:
+             val=float(m.group(1).replace(',',''))*{'billion':1e9,'bn':1e9,'million':1e6,'m':1e6,'thousand':1000,'k':1000}.get((m.group(2) or '').lower(),1)
+             if MIN_USD<=val<1e12:amounts.append(round(val))
+            except (ValueError,OverflowError):pass
+           return amounts
+          
+          def when(s):
+           try:return parsedate_to_datetime(s).astimezone(dt.timezone.utc).isoformat()
+           except (ValueError,TypeError,OverflowError):return ''
+          
+          def tokens(title):
+           # Title-only similarity is an aid for reviewers, not sales verification.
+           s=re.sub(r'\s+[\-–—]\s+[^\-–—]{2,70}$','',title or '')
+           s=USD.sub(' ',s.lower())
+           s=re.sub(r'[^a-z0-9]+',' ',s)
+           return {x for x in s.split() if len(x)>=4 and x not in NOISE and not x.isdigit()}
+          
+          def item_text(n,tag):
+           e=n.find(tag)
+           return (e.text or '').strip() if e is not None else ''
+          
+          def classify(s):
+           s=s.lower()
+           hints=[('watch',['watch','rolex','patek','timepiece']),('cars',['ferrari','porsche','car ','bugatti','automobile']),('jewelry',['diamond','ruby','sapphire','jewel']),('coins',['coin','dime','quarter','numismatic','banknote']),('books',['manuscript','comic','first edition','book']),('sports',['sports card','baseball card','basketball card','jersey']),('art',['painting','warhol','picasso','banksy','sculpture']),('cards',['star wars','trading card','comic book'])]
+           return next((k for k,v in hints if any(x in s for x in v)),'other')
+          
+          def get_feed(q):
+           url='https://news.google.com/rss/search?'+urlencode({'q':q,'hl':'en-US','gl':'US','ceid':'US:en'})
+           req=Request(url,headers={'User-Agent':'ArtMarketIntelligence/9.0 (personal RSS reader)','Accept':'application/rss+xml, application/xml, text/xml'})
+           with urlopen(req,timeout=18) as r:
+            if r.status!=200:raise ValueError('HTTP '+str(r.status))
+            b=r.read(2_000_001)
+           if len(b)>2_000_000:raise ValueError('RSS larger than 2 MB')
+           return ET.fromstring(b).findall('./channel/item')[:MAX_ITEMS_PER_FEED]
+          
+          def classify_evidence(a,existing):
+           words=tokens(a['title'])
+           corroborations=[]
+           for x in existing:
+            if not isinstance(x,dict) or not x.get('url') or x.get('id')==a['id']:continue
+            if x.get('source_name','').startswith('Google News (official publisher)'):continue
+            try:usd=round(float(x.get('indicative_usd') or 0))
+            except (TypeError,ValueError,OverflowError):continue
+            if usd<MIN_USD or abs(usd-a['indicative_usd'])/max(usd,a['indicative_usd'])>0.05:continue
+            w=tokens(x.get('title',''))
+            if len(words&w)<2 or len(words&w)/max(1,min(len(words),len(w)))<0.52:continue
+            # Same wording from syndicated press releases is not independent evidence.
+            if (x.get('publisher_name') or '').lower() in (a['house'].lower(),a['publisher_name'].lower()):continue
+            corroborations.append({'publisher':clean(x.get('publisher_name') or x.get('title','').split(' - ')[-1],75),'url':x['url'],'indicative_usd':usd})
+            if len(corroborations)>=5:break
+           return corroborations
+          
+          existing=read_file('candidates.json',[])
+          if not isinstance(existing,list):existing=[]
+          found={x['id']:x for x in existing if isinstance(x,dict) and x.get('id')}
+          review_old=read_file('official_v9_rss_review.json',[])
+          if not isinstance(review_old,list):review_old=[]
+          review={x['id']:x for x in review_old if isinstance(x,dict) and x.get('id')}
+          checks=[]
+          new=0
+          for house,domain,query in SEARCHES:
+           try:
+            posts=get_feed(query)
+            added=0;retained=0
+            for item in posts:
+             origin=item.find('source')
+             publisher=clean((origin.text or '') if origin is not None else '',100)
+             publisher_url=(origin.get('url') or '') if origin is not None else ''
+             if not official_host(host(publisher_url),domain):continue
+             title=clean(item_text(item,'title'),300)
+             desc=clean(item_text(item,'description'),350)
+             link=item_text(item,'link')
+             if host(link)!='news.google.com' or 'phillips' in title.lower():continue
+             if not SOLD.search(title) or FUTURE.search(title) or TOTAL.search(title):continue
+             numbers=price(title)
+             if not numbers:continue
+             # 'Sold for' alone is insufficient to confirm sale: full lot, sale date and
+             # original source page still need a separate inspection.
+             amount=max(numbers)
+             publication=when(item_text(item,'pubDate'))
+             uid=hashlib.sha256(link.encode('utf-8')).hexdigest()[:16]
+             if uid in found:retained+=1
+             else:
+              found[uid]={'id':uid,'title':title,'summary':desc,'url':link,'published_at':publication,
+                'indicative_usd':amount,'category_hint':classify(title),'source_name':'Google News (official publisher): '+house,
+                'publisher_name':publisher,'publisher_url':publisher_url,'status':'candidate',
+                'note':'Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется.'}
+              added+=1;new+=1
+             found[uid].setdefault('status','candidate')
+             evidence=classify_evidence({'title':title,'id':uid,'indicative_usd':amount,'house':house,'publisher_name':publisher},existing)
+             review[uid]={'id':uid,'house':house,'title':title,'indicative_usd':amount,
+              'publication_at':publication,'google_news_article':link,'publisher_name':publisher,
+              'publisher_website':publisher_url,'corroborating_news':evidence,
+              'review_status':'needs_primary_source_full_text','is_verified_sale':False,
+              'checks_needed':['Открыть оригинальную публикацию и проверить цену отдельного лота','Установить дату самой продажи, не публикации','Проверить, не является ли сумма итогом аукциона или оценкой']}
+            checks.append({'source':house,'status':'ok','rss_articles_seen':len(posts),'new_candidates':added,'previously_known':retained})
+           except Exception as ex:
+            checks.append({'source':house,'status':'error','reason':str(ex)[:180]})
+          
+          # Keep all pre-existing candidates that fit within the previously used 500 cap.
+          items=sorted(found.values(),key=lambda x:(x.get('published_at') or '',x.get('id') or ''),reverse=True)[:MAX_CANDIDATES]
+          save_file('candidates.json',items)
+          ranked=sorted(review.values(),key=lambda x:(len(x.get('corroborating_news',[]))>0,x.get('publication_at') or ''),reverse=True)[:MAX_REVIEW]
+          save_file('official_v9_rss_review.json',ranked)
+          status={'checked_utc':NOW.isoformat(),'mode':'Official-publisher RSS headline evidence, no direct auction-house requests',
+           'sources_checked':len(SEARCHES),'sources_ok':sum(x['status']=='ok' for x in checks),
+           'new_rss_candidates':new,'total_rss_review_leads':len(ranked),'confirmed_sales_added':0,
+           'minimum_sale_price_usd':MIN_USD,'phillips_excluded_from_new_collection':True,
+           'preserves_existing_sales':True,'notices':['RSS publication date is not sale date.','Headlines or corroborating news are not confirmation of a lot.','No automatic verified records are created until original lot-level evidence is available.'],
+           'checks':checks}
+          save_file('official_v9_rss_status.json',status)
+          print(json.dumps(status,ensure_ascii=False,indent=2))
+          PY
+      - name: Commit RSS evidence and review queue
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/candidates.json data/official_v9_rss_review.json data/official_v9_rss_status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update official-source RSS evidence queue'
+            git push
+          fi
+      - name: Prepare public website
+        shell: bash
+        run: |
+          mkdir -p _site/data
+          cp index.html _site/index.html
+          cp data/*.json _site/data/
+          touch _site/.nojekyll
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Publish site
+        id: deploy
+        uses: actions/deploy-pages@v4
+# END ARTMARKET_V9_COMPLETE
