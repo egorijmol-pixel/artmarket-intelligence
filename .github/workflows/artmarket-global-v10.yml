@@ -367,7 +367,7 @@ jobs:
               byid={x['id']:x for x in existing if isinstance(x,dict) and x.get('id')}
               checked=[]
               added=0
-                            for offset in range(min(PER_RUN,len(registry))):
+              for offset in range(min(PER_RUN,len(registry))):
                   src=registry[(cursor+offset)%len(registry)]
                   stamp={'house':src['name'],'country':src['country'],'domain':src['domain']}
                   try:
