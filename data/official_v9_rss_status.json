@@ -1,9 +1,9 @@
 {
-  "checked_utc": "2026-11-17T07:43:51.719986+00:00",
+  "checked_utc": "2026-11-17T13:37:23.355605+00:00",
   "mode": "Official-publisher RSS headline evidence, no direct auction-house requests",
   "sources_checked": 8,
-  "sources_ok": 6,
-  "new_rss_candidates": 1,
+  "sources_ok": 8,
+  "new_rss_candidates": 0,
   "total_rss_review_leads": 41,
   "confirmed_sales_added": 0,
   "minimum_sale_price_usd": 300000,
@@ -18,16 +18,16 @@
     {
       "source": "Heritage Auctions",
       "status": "ok",
-      "rss_articles_seen": 57,
+      "rss_articles_seen": 58,
       "new_candidates": 0,
       "previously_known": 3
     },
     {
       "source": "Heritage Auctions",
       "status": "ok",
-      "rss_articles_seen": 54,
-      "new_candidates": 1,
-      "previously_known": 22
+      "rss_articles_seen": 55,
+      "new_candidates": 0,
+      "previously_known": 23
     },
     {
       "source": "Stack's Bowers",
@@ -45,13 +45,17 @@
     },
     {
       "source": "Christie's",
-      "status": "error",
-      "reason": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "rss_articles_seen": 62,
+      "new_candidates": 0,
+      "previously_known": 2
     },
     {
       "source": "Sotheby's",
-      "status": "error",
-      "reason": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "rss_articles_seen": 60,
+      "new_candidates": 0,
+      "previously_known": 5
     },
     {
       "source": "Bonhams",
