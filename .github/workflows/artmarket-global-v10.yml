@@ -367,4 +367,108 @@ jobs:
               byid={x['id']:x for x in existing if isinstance(x,dict) and x.get('id')}
               checked=[]
               added=0
-              for offset in range(min(PER_RUN,l
+                            for offset in range(min(PER_RUN,len(registry))):
+                  src=registry[(cursor+offset)%len(registry)]
+                  stamp={'house':src['name'],'country':src['country'],'domain':src['domain']}
+                  try:
+                      docs=news_feed(src)
+                      accepted=0
+                      for node in docs:
+                          source_el=node.find('source')
+                          if source_el is None:continue
+                          pub_url=source_el.get('url') or ''
+                          if not same_host(host(pub_url),src['domain']):continue
+                          title=html.unescape(item_text(node,'title'))[:320]
+                          link=item_text(node,'link')
+                          if host(link)!='news.google.com' or 'phillips' in title.lower():continue
+                          if not SOLD.search(title) or FUTURE.search(title):continue
+                          amount=parse_amount(title)
+                          if amount is None:continue
+                          if amount['indicative_usd'] is not None and amount['indicative_usd']<MIN_USD:continue
+                          cid=hashlib.sha256((src['domain']+'|'+link).encode('utf8')).hexdigest()[:20]
+                          if cid in byid:continue
+                          aggregate=bool(AGGREGATE.search(title))
+                          reason=['Требуется оригинальная страница с окончательной ценой конкретного лота',
+                                  'Дата публикации не считается датой продажи',
+                                  'Без официального результата запись не является подтверждённой']
+                          if aggregate: reason.append('В заголовке есть признаки суммы всего аукциона')
+                          if amount['multiple_amounts_in_headline']:reason.append('В заголовке несколько сумм: проверить стоимость именно лота')
+                          if amount['currency']!='USD':reason.append('Требуется конвертация валюты на дату продажи; порог $300 000 ещё не проверен')
+                          byid[cid]={'id':cid,'house':src['name'],'country':src['country'],'domain':src['domain'],
+                                     'source_type':src['type'],'category':kind(title,src['category']),
+                                     'title':title,'publication_at':iso_date(item_text(node,'pubDate')),
+                                     'google_news_url':link,'publisher_website':pub_url,
+                                     'native_amount':amount['amount_native'],'native_currency':amount['currency'],
+                                     'raw_price':amount['amount_text'],'indicative_usd':amount['indicative_usd'],
+                                     'possible_aggregate':aggregate,
+                                     'status':'needs_primary_source','verified_sale':False,'review_reasons':reason}
+                          accepted+=1;added+=1
+                      checked.append({**stamp,'status':'ok','rss_items':len(docs),'new_leads':accepted})
+                  except urllib.error.HTTPError as e:
+                      checked.append({**stamp,'status':'error','http_code':e.code,'reason':str(e)[:140]})
+                  except Exception as e:
+                      checked.append({**stamp,'status':'error','reason':str(e)[:140]})
+                  if offset<PER_RUN-1:time.sleep(2.4)
+              next_cursor=(cursor+len(checked))%len(registry)
+              state['cursor']=next_cursor
+              state['runs']=int(state.get('runs',0))+1
+              if next_cursor<=cursor:state['cycles']=int(state.get('cycles',0))+1
+              state['last_run_utc']=NOW.isoformat()
+              save('global_scan_state.json',state)
+              ranked=sorted(byid.values(),key=lambda x:(x.get('publication_at') or '',x.get('id') or ''),reverse=True)[:CAP]
+              save('global_review.json',ranked)
+              status={'checked_utc':NOW.isoformat(),'registry_sources':len(registry),'auctions_and_houses':sum(x['type']=='house' for x in registry),
+                      'discovery_platforms':sum(x['type']=='platform' for x in registry),
+                      'regions':sorted(set(x['country'] for x in registry)),'registry_coverage':'curated, not exhaustive',
+                      'batch_size':len(checked),'rss_ok':sum(x['status']=='ok' for x in checked),
+                      'rss_errors':sum(x['status']!='ok' for x in checked),'new_candidates':added,
+                      'candidate_queue_size':len(ranked),'verified_sales_added':0,'minimum_usd':MIN_USD,
+                      'next_cursor':next_cursor,'scan_cycles_completed':state['cycles'],
+                      'discovery_method':'official publisher-site filtered Google News RSS',
+                      'restrictions':['No direct requests to blocked auction sites','Headlines are not proof of a sale',
+                        'No automatic FX conversion or verified-sale promotion','Existing Phillips historical results are untouched'],
+                      'checks':checked}
+              save('global_status.json',status)
+              print(json.dumps(status,ensure_ascii=False,indent=2))
+              return status
+
+          if __name__=='__main__':
+              collect()
+          PY
+      - name: Build public global monitoring page
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import base64, gzip, pathlib
+          pathlib.Path('global.html').write_bytes(gzip.decompress(base64.b64decode('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')))
+          print('Created global.html')
+          PY
+      - name: Save registry, evidence and dashboard
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/global_sources.json data/global_review.json data/global_scan_state.json data/global_status.json global.html
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh global auction evidence and public dashboard'
+            git push origin main
+          fi
+      - name: Assemble static website without replacing main catalog
+        shell: bash
+        run: |
+          mkdir -p _site/data
+          cp index.html _site/index.html
+          cp global.html _site/global.html
+          cp data/*.json _site/data/
+          touch _site/.nojekyll
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload GitHub Pages files
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Deploy GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
+# ARTMARKET_V10_GLOBAL_COMPLETE
+
