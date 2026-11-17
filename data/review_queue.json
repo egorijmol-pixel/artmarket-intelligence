@@ -4129,6 +4129,38 @@
     ]
   },
   {
+    "group_id": "bfade28370b5b8d5",
+    "title": "Christie’s Magnificent Jewels Achieves $87.7 Million - 100% Sold, Highest Total Ever for a Various-Owner Jewelry Auction at Christie’s in the Americas - Christie's Press",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      87700000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-06-17T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "253b9a69bd72a8bf"
+    ],
+    "links": [
+      {
+        "candidate_id": "253b9a69bd72a8bf",
+        "title": "Christie’s Magnificent Jewels Achieves $87.7 Million - 100% Sold, Highest Total Ever for a Various-Owner Jewelry Auction at Christie’s in the Americas - Christie's Press",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNamlfRDlNQTJiUWRSYnQ4QWdydkhCaFB3OThpaWN4TDYtQXV4VXZZQUlDN2FSM2lFX3p5dWxMTHJsR1hlOUxMdmhfb01rYWYtdERfZzJ4cFlMRVhjUjRubGNFMVpzQndqcVFNeFc5LTA1dVRqWWNLcnJnT2Zxdzl5aWlTeDRWclhPTllFTlhtS0I4d1dabVdNanhLMThESl9wR01oTzZBdFVqb1d5VzBTZG5xZHVNUVFya0JIQmNxSUhZRHNhZm41SGRLaDk4LUN1MERWTmY0Szc3LVRoT2RyT09tWUh2dDN4c1k4Rk1qaGthWUJlMHAxR3UtYnJseWc?oc=5",
+        "publisher_name": "Christie's Press",
+        "publisher_url": "https://press.christies.com",
+        "published_at": "2025-06-17T07:00:00+00:00",
+        "indicative_usd": 87700000
+      }
+    ]
+  },
+  {
     "group_id": "9dba761f23f81465",
     "title": "'The Mediterranean Blue' Diamond Sells for $21M at Sotheby’s - nationaljeweler.com",
     "category_hint": "jewelry",
@@ -7262,6 +7294,38 @@
         "publisher_url": "https://www.nationaljeweler.com",
         "published_at": "2016-08-09T07:00:00+00:00",
         "indicative_usd": 6000000
+      }
+    ]
+  },
+  {
+    "group_id": "bd7244cc6375ed45",
+    "title": "Superman’s Debut, the ‘Holy Grail’ of Comics, Sells for Nearly $1 Million - Artnet News",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2016-08-05T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "2c3bcffa9d389548"
+    ],
+    "links": [
+      {
+        "candidate_id": "2c3bcffa9d389548",
+        "title": "Superman’s Debut, the ‘Holy Grail’ of Comics, Sells for Nearly $1 Million - Artnet News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vT1ZydzlWNHY2WHlBcGE0OEFNN1FVUHhodC1Pc043UjFBbVZ5SFpFMXFyei16aXQtZDFyQlBOeXhtM3ZmWEtuV1VsR1hjY2lCdzU2bGVRcUlXYmNKbEJ2Z05kNGdBT3dobjVTdlhVY1pWYUNvSm9MSHFn0gGCAUFVX3lxTE85V1ZMcjFnUWVEWmVHOEV6V3R4bXBVMlA0cWFJdkpFcS1ELU45bkluUTFlWFFYVmdna2RDdFNNLUdnYnROY3JUZHBMQ0FoemhDUFVyOVpKbUxYTzlRMWJCLUpMTGlwU0xVTjVsZVZJc2RNR2FBUGRzYXRJRmVtZjZQWHc?oc=5",
+        "publisher_name": "Artnet News",
+        "publisher_url": "https://news.artnet.com",
+        "published_at": "2016-08-05T07:00:00+00:00",
+        "indicative_usd": 1000000
       }
     ]
   },
