@@ -1,0 +1,287 @@
+name: ArtMarket conservative official verification v11
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["ArtMarket Global Auctions Discovery v10"]
+    types: [completed]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: artmarket-updates
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Checkout website
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - name: Verify full-text official results
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          #!/usr/bin/env python3
+          """Conservative official auction press-release verifier. No RSS headline-only promotion."""
+          import datetime as dt
+          import hashlib
+          import json
+          import re
+          import time
+          import urllib.error
+          import urllib.parse
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from html import unescape
+          from html.parser import HTMLParser
+          from pathlib import Path
+
+          DATA=Path('data'); DATA.mkdir(exist_ok=True)
+          UTC=dt.timezone.utc
+          NOW=dt.datetime.now(UTC)
+          MIN_USD=300000
+          # Two official publisher domains only; a failed fetch does not trigger a bypass.
+          FEEDS=[('Christie\'s','press.christies.com','https://press.christies.com/feed/'),
+                 ("Stack's Bowers",'stacksbowers.com','https://stacksbowers.com/feed/')]
+          SOLD=re.compile(r'\b(sold for|sells for|brings|brought|fetched|realized|realised|price realized)\b',re.I)
+          AGG=re.compile(r'\b(sale total|auction total|total sales|overall sale|total turnover|combined sales|annual sales|combined total|auction achieves|sales totaled|sale brings|sale realizes|sale realises|collection total|auction grosses|sales reach)\b',re.I)
+          FUTURE=re.compile(r'\b(estimate|estimated|expected|could fetch|may fetch|will sell|pre-sale|presale|to be auctioned|to be offered)\b',re.I)
+          PRICE=re.compile(r'\$\s*(\d{1,3}(?:,\d{3})+|\d+(?:\.\d+)?)\s*(million|billion|thousand|m|bn|k)?\b',re.I)
+          MONTHS='January February March April May June July August September October November December'
+          M='(?:'+ '|'.join(MONTHS.split()) +')'
+          DATE1=re.compile(r'\b(?:on\s+)(%s)\s+(\d{1,2})(?:st|nd|rd|th)?,?\s+(20\d{2})\b'%M,re.I)
+          DATE2=re.compile(r'\b(?:on\s+)(\d{1,2})(?:st|nd|rd|th)?\s+(%s)\s+(20\d{2})\b'%M,re.I)
+          STOP=set('sells sold brings brought fetched realized realises million billion thousand record auction auctions sale at by the of on in to for with from a an it this that and its over us usd lot lots one only highest setting new world first second historical historic results heritage christies stacks bowers galleries press release'.split())
+
+          def load(name,default):
+              try:return json.loads((DATA/name).read_text(encoding='utf-8'))
+              except (ValueError,OSError):return default
+
+          def save(name,value):
+              (DATA/name).write_text(json.dumps(value,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
+          def domain(url,hostname):
+              try:
+                  p=urllib.parse.urlparse(url)
+                  h=(p.hostname or '').lower()
+                  return p.scheme=='https' and (h==hostname or h.endswith('.'+hostname))
+              except ValueError:return False
+
+          def fetch(url,hostname,max_size=1100000):
+              if not domain(url,hostname):raise ValueError('Unofficial origin')
+              req=urllib.request.Request(url,headers={'User-Agent':'ArtMarketIntelligence/11.0 (+personal research; no mass crawling)','Accept':'text/html, application/rss+xml, text/xml'})
+              with urllib.request.urlopen(req,timeout=18) as f:
+                  if not domain(f.url,hostname):raise ValueError('Redirected outside official site')
+                  b=f.read(max_size+1)
+                  if len(b)>max_size:raise ValueError('Source size limit')
+                  return b.decode('utf-8',errors='replace')
+
+          class Paragraphs(HTMLParser):
+              def __init__(self):super().__init__();self.parts=[];self.cur=None;self.hidden=0
+              def handle_starttag(self,tag,attrs):
+                  if tag in ('script','style','noscript'):self.hidden+=1
+                  if not self.hidden and tag in ('p','h1','h2','h3') and self.cur is None:self.cur=[]
+              def handle_endtag(self,tag):
+                  if tag in ('script','style','noscript'):self.hidden=max(0,self.hidden-1)
+                  if not self.hidden and tag in ('p','h1','h2','h3') and self.cur is not None:
+                      s=re.sub(r'\s+',' ',unescape(''.join(self.cur))).strip()
+                      if s:self.parts.append(s[:2000])
+                      self.cur=None
+              def handle_data(self,data):
+                  if not self.hidden and self.cur is not None:self.cur.append(data)
+
+          def amount(text):
+              amounts=[]
+              for m in PRICE.finditer(text):
+                  try:
+                      v=float(m.group(1).replace(',',''))*{'million':1e6,'m':1e6,'billion':1e9,'bn':1e9,'thousand':1e3,'k':1e3}.get((m.group(2) or '').lower(),1)
+                      if 0<v<1e12:amounts.append((int(round(v)),m.start(),m.end()))
+                  except (ValueError,OverflowError):pass
+              return amounts
+
+          def tokens(text):
+              text=PRICE.sub(' ',text.lower())
+              return {w for w in re.findall(r'[a-z0-9]{4,}',text) if w not in STOP and not w.isdigit()}
+
+          def sold_date(sentence):
+              # Require a sale-specific date, not merely a release publication timestamp.
+              s=sentence.lower()
+              if not re.search(r'\b(sold|sale took place|auction took place|auction held|sold at auction|auction concluded|sold on)\b',s):return None
+              for m in DATE1.finditer(sentence):
+                  try:
+                      date=dt.datetime.strptime(' '.join(m.groups()),'%B %d %Y').date()
+                      if dt.date(2024,1,1)<=date<=NOW.date():return date.isoformat()
+                  except ValueError:pass
+              for m in DATE2.finditer(sentence):
+                  try:
+                      d,mon,y=m.groups(); date=dt.datetime.strptime(f'{mon} {d} {y}','%B %d %Y').date()
+                      if dt.date(2024,1,1)<=date<=NOW.date():return date.isoformat()
+                  except ValueError:pass
+              return None
+
+          def category(title):
+              s=title.lower()
+              rules={'cars':['ferrari','porsche','bugatti','automobile','car '],
+                 'coins':['coin','dime','quarter','dollar gold','numismatic'],
+                 'watch':['rolex','patek','watch','timepiece'],
+                 'jewelry':['diamond','sapphire','ruby','emerald','jewelry','jewel'],
+                 'books':['book','manuscript','comic'],
+                 'instruments':['guitar','violin','gibson','piano'],
+                 'sports':['baseball','sports card','jersey'],
+                 'art':['painting','picasso','warhol','drawing','sculpture','michelangelo'],
+                 'cards':['trading card','pokemon']}
+              return next((k for k,words in rules.items() if any(w in s for w in words)),'antiques')
+
+          def get_feed_items(xml):
+              root=ET.fromstring(xml)
+              items=root.findall('.//channel/item')
+              if not items:raise ValueError('RSS has no items')
+              result=[]
+              for i in items[:55]:
+                  def field(name):
+                      n=i.find(name);return (n.text or '').strip() if n is not None else ''
+                  result.append((unescape(field('title')),field('link')))
+              return result
+
+          def evidence(house,title,url,body):
+              if FUTURE.search(title) or AGG.search(title):return None,'Aggregate, presale or estimate wording'
+              if not SOLD.search(title):return None,'No completed-sale verb in headline'
+              nums=amount(title)
+              if len(nums)!=1 or nums[0][0]<MIN_USD:return None,'No unique exact USD lot price in headline'
+              price=nums[0][0]
+              if re.search(r'\b(over|more than|nearly|about|around|almost|exceeds|approximately)\s*\$\s*',title,re.I):return None,'Approximate, not exact price'
+              words=tokens(title)
+              if len(words)<2:return None,'Lot name insufficiently specific'
+              p=Paragraphs();p.feed(body)
+              valid=[];date_candidates=[]
+              for part in p.parts:
+                  if SOLD.search(part) and any(v[0]==price for v in amount(part)):
+                      overlap=words & tokens(part)
+                      if len(overlap)>=2 and len(overlap)/max(1,min(len(words),len(tokens(part))))>=0.4:
+                          valid.append(part)
+                          d=sold_date(part)
+                          if d:date_candidates.append(d)
+              if not valid:return None,'No matching sold-lot and price statement in original article'
+              if len(set(date_candidates))!=1:return None,'Missing or ambiguous explicit sale date'
+              if any(AGG.search(x) for x in valid):return None,'Matched statement may describe auction total'
+              # Do not classify a multi-lot roundup as a single-lot result without a separately named lot.
+              signature=' '.join(sorted(words))[:120]
+              result={'id':'AUTO11-'+hashlib.sha256((house+'|'+signature+'|'+str(price)).encode()).hexdigest()[:16],
+                'category':category(title),'title':re.sub(r'\s+[\-–—]\s+(?:Christie.s|Stack.s Bowers).*$', '',title,flags=re.I).strip()[:220],
+                'usd':price,'original':price,'currency':'USD','fee':None,'price_basis':'official_reported_price',
+                'sale_date':date_candidates[0],'sale_start':date_candidates[0],'sale_end':date_candidates[0],
+                'sale_timestamp':'','event':'Официальное сообщение о результатах','lot_number':'',
+                'house':house,'city':'Не указан','country':'Не уточнена','method':'Аукцион',
+                'source':url,'status':'verified','origin':'automatic_official_press_release_v11',
+                'verified_on':NOW.date().isoformat(),'evidence_level':'official_full_text_lot_price_and_explicit_sale_date',
+                'audit_note':'Полный текст официального сообщения: предмет, точная цена USD, формулировка о продаже и дата торгов; время лота не установлено',
+                'photo_url':'','photo_rights':'not_supplied'}
+              return result,'ok'
+
+          def duplicates(record,already):
+              a=tokens(record['title']);x=record['usd']
+              for z in already:
+                  if not isinstance(z,dict):continue
+                  if z.get('source')==record['source']:return True
+                  try:p=int(z.get('usd') or 0)
+                  except (ValueError,TypeError):continue
+                  if p!=x:continue
+                  ha=re.sub(r'[^a-z]','',z.get('house','').lower())
+                  hb=re.sub(r'[^a-z]','',record['house'].lower())
+                  if ha!=hb:continue
+                  if z.get('sale_date') and z['sale_date']!=record['sale_date']:continue
+                  b=tokens(str(z.get('title','')))
+                  if a and b and len(a&b)/min(len(a),len(b))>=0.6:return True
+              return False
+
+          def seed_records():
+              try:
+                  page=Path('index.html').read_text(encoding='utf8')
+                  data=re.search(r'<script id="seed" type="application/json">(.*?)</script>',page,re.S)
+                  return json.loads(data.group(1)) if data else []
+              except (ValueError,OSError,AttributeError):return []
+
+          def main():
+              old=load('records.json',[])
+              if not isinstance(old,list):raise ValueError('records.json must be a JSON array; no overwriting')
+              existing=old+seed_records()
+              report={'checked_utc':NOW.isoformat(),'threshold_usd':MIN_USD,'verified_added':0,
+                      'scope':'Christie\'s and Stack\'s Bowers official full-text releases only',
+                      'all_world_sources_verified':False,'sources':[],'reviewed':0,
+                      'note':'A missing date or inaccessible official page is not a verified sale. The global RSS queue remains unchanged.'}
+              review=[];seen=set();new=[]
+              for house,host,feed in FEEDS:
+                  result={'house':house,'feed':feed,'status':'ok','items':0,'articles_fetched':0,'added':0}
+                  try:
+                      items=get_feed_items(fetch(feed,host,max_size=1500000))
+                      result['items']=len(items)
+                      for title,url in items:
+                          if not domain(url,host) or url in seen:continue
+                          seen.add(url)
+                          if not SOLD.search(title) or len(amount(title))!=1:continue
+                          if AGG.search(title) or FUTURE.search(title):continue
+                          price=amount(title)[0][0]
+                          if price<MIN_USD:continue
+                          if result['articles_fetched']>=8:break
+                          result['articles_fetched']+=1
+                          try:
+                              body=fetch(url,host)
+                              row,reason=evidence(house,title,url,body)
+                              if row and duplicates(row,existing+new):reason='Already in historical catalog or records';row=None
+                              if row:new.append(row);result['added']+=1
+                              else:review.append({'house':house,'title':title,'url':url,'check':reason,'price_candidate_usd':price,'status':'needs_review'})
+                          except Exception as e:
+                              review.append({'house':house,'title':title,'url':url,'check':str(e)[:150],'status':'needs_review'})
+                          time.sleep(0.8)
+                  except Exception as e:
+                      result['status']='unavailable';result['error']=str(e)[:200]
+                  report['sources'].append(result)
+              # Stable, idempotent merging. Keep previous manual and automatic verified records.
+              save('records.json',old+new)
+              report['verified_added']=len(new)
+              report['verified_total_in_json']=len(old+new)
+              report['reviewed']=len(review)
+              save('official_v11_review.json',review)
+              save('official_v11_status.json',report)
+              print(json.dumps(report,ensure_ascii=False,indent=2))
+
+          if __name__=='__main__':main()
+          PY
+      - name: Save official verification results
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/records.json data/official_v11_review.json data/official_v11_status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update strictly verified auction sales v11'
+            git push origin main
+          fi
+      - name: Assemble site
+        run: |
+          mkdir -p _site/data
+          cp index.html _site/index.html
+          if [ -f global.html ]; then cp global.html _site/global.html; fi
+          cp data/*.json _site/data/
+          touch _site/.nojekyll
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload website
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Publish website
+        id: deploy
+        uses: actions/deploy-pages@v4
+# END_ARTMARKET_V11_COMPLETE
