@@ -1,9 +1,9 @@
 {
-  "checked_utc": "2026-11-16T21:21:45.595716+00:00",
+  "checked_utc": "2026-11-17T01:38:39.810641+00:00",
   "mode": "Official-publisher RSS headline evidence, no direct auction-house requests",
   "sources_checked": 8,
   "sources_ok": 7,
-  "new_rss_candidates": 5,
+  "new_rss_candidates": 0,
   "total_rss_review_leads": 40,
   "confirmed_sales_added": 0,
   "minimum_sale_price_usd": 300000,
@@ -27,19 +27,19 @@
       "status": "ok",
       "rss_articles_seen": 54,
       "new_candidates": 0,
-      "previously_known": 23
-    },
-    {
-      "source": "Stack's Bowers",
-      "status": "ok",
-      "rss_articles_seen": 60,
-      "new_candidates": 5,
-      "previously_known": 2
+      "previously_known": 22
     },
     {
       "source": "Stack's Bowers",
       "status": "error",
       "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "source": "Stack's Bowers",
+      "status": "ok",
+      "rss_articles_seen": 60,
+      "new_candidates": 0,
+      "previously_known": 3
     },
     {
       "source": "Christie's",
@@ -65,7 +65,7 @@
     {
       "source": "Goldin",
       "status": "ok",
-      "rss_articles_seen": 47,
+      "rss_articles_seen": 45,
       "new_candidates": 0,
       "previously_known": 0
     }
