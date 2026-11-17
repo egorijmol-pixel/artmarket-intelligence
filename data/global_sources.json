@@ -1,0 +1,2112 @@
+[
+  {
+    "id": "dfda64dbc112",
+    "name": "Sotheby's",
+    "domain": "sothebys.com",
+    "country": "Global",
+    "category": [
+      "art",
+      "luxury"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "4f70a78f4505",
+    "name": "Christie's",
+    "domain": "christies.com",
+    "country": "Global",
+    "category": [
+      "art",
+      "luxury"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "79b10f6e42bd",
+    "name": "Bonhams",
+    "domain": "bonhams.com",
+    "country": "Global",
+    "category": [
+      "art",
+      "cars",
+      "luxury"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "c2a06c56fc92",
+    "name": "Heritage Auctions",
+    "domain": "ha.com",
+    "country": "US",
+    "category": [
+      "collectibles",
+      "coins",
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "c696bc9eac15",
+    "name": "RM Sotheby's",
+    "domain": "rmsothebys.com",
+    "country": "Global",
+    "category": [
+      "cars"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "f4679f1af0a1",
+    "name": "Gooding Christie's",
+    "domain": "goodingco.com",
+    "country": "US",
+    "category": [
+      "cars"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "d15dabeb630d",
+    "name": "Broad Arrow Auctions",
+    "domain": "broadarrowauctions.com",
+    "country": "US",
+    "category": [
+      "cars"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "692f9c089772",
+    "name": "Mecum Auctions",
+    "domain": "mecum.com",
+    "country": "US",
+    "category": [
+      "cars"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "ee357d04fc48",
+    "name": "Barrett-Jackson",
+    "domain": "barrett-jackson.com",
+    "country": "US",
+    "category": [
+      "cars"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "6f721b5b7601",
+    "name": "Bring a Trailer",
+    "domain": "bringatrailer.com",
+    "country": "US",
+    "category": [
+      "cars"
+    ],
+    "type": "platform",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "65bb238901ac",
+    "name": "Cars & Bids",
+    "domain": "carsandbids.com",
+    "country": "US",
+    "category": [
+      "cars"
+    ],
+    "type": "platform",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "afcfaf50896a",
+    "name": "Artcurial",
+    "domain": "artcurial.com",
+    "country": "FR",
+    "category": [
+      "art",
+      "cars",
+      "luxury"
+    ],
+    "type": "house",
+    "language": "fr",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "f8dbbc55744d",
+    "name": "Tajan",
+    "domain": "tajan.com",
+    "country": "FR",
+    "category": [
+      "art",
+      "luxury"
+    ],
+    "type": "house",
+    "language": "fr",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "9bb7afd5d904",
+    "name": "Piasa",
+    "domain": "piasa.fr",
+    "country": "FR",
+    "category": [
+      "art",
+      "design"
+    ],
+    "type": "house",
+    "language": "fr",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "867266808837",
+    "name": "Aguttes",
+    "domain": "aguttes.com",
+    "country": "FR",
+    "category": [
+      "art",
+      "cars"
+    ],
+    "type": "house",
+    "language": "fr",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "55b737da6295",
+    "name": "Osenat",
+    "domain": "osenat.com",
+    "country": "FR",
+    "category": [
+      "art",
+      "cars"
+    ],
+    "type": "house",
+    "language": "fr",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "d208da4b7bce",
+    "name": "Millon",
+    "domain": "millon.com",
+    "country": "FR",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "fr",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "ecdb3fb8fbc5",
+    "name": "Ader",
+    "domain": "ader-paris.fr",
+    "country": "FR",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "fr",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "9bdb12c6ebae",
+    "name": "Rossini",
+    "domain": "rossini.fr",
+    "country": "FR",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "fr",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "23ac691f152d",
+    "name": "Drouot",
+    "domain": "drouot.com",
+    "country": "FR",
+    "category": [
+      "all"
+    ],
+    "type": "platform",
+    "language": "fr",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "b371ca7bdd0f",
+    "name": "Interencheres",
+    "domain": "interencheres.com",
+    "country": "FR",
+    "category": [
+      "all"
+    ],
+    "type": "platform",
+    "language": "fr",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "8532cd36b251",
+    "name": "Hôtel des Ventes de Monte-Carlo",
+    "domain": "hvmc.com",
+    "country": "MC",
+    "category": [
+      "art",
+      "luxury"
+    ],
+    "type": "house",
+    "language": "fr",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "0d39ec57dfba",
+    "name": "Lempertz",
+    "domain": "lempertz.com",
+    "country": "DE",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "13396329fd95",
+    "name": "Grisebach",
+    "domain": "grisebach.com",
+    "country": "DE",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "aa899e952005",
+    "name": "Ketterer Kunst",
+    "domain": "kettererkunst.com",
+    "country": "DE",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "5c9bb089e366",
+    "name": "Van Ham",
+    "domain": "van-ham.com",
+    "country": "DE",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "7396df14466a",
+    "name": "Neumeister",
+    "domain": "neumeister.com",
+    "country": "DE",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "06d1fa7ea9d2",
+    "name": "Hampel",
+    "domain": "hampel-auctions.com",
+    "country": "DE",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "92e909256f4c",
+    "name": "Nagel Auktionen",
+    "domain": "nagel-auctions.de",
+    "country": "DE",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "ab3989815035",
+    "name": "Quittenbaum",
+    "domain": "quittenbaum.de",
+    "country": "DE",
+    "category": [
+      "design"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "95a97e275a84",
+    "name": "Bassenge",
+    "domain": "bassenge.com",
+    "country": "DE",
+    "category": [
+      "art",
+      "books"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "a80e733db4d0",
+    "name": "Karl & Faber",
+    "domain": "karlundfaber.de",
+    "country": "DE",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "2123a3296813",
+    "name": "Henry's Auktionshaus",
+    "domain": "henrys.de",
+    "country": "DE",
+    "category": [
+      "art",
+      "luxury"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "3abf73bf8f7c",
+    "name": "Dorotheum",
+    "domain": "dorotheum.com",
+    "country": "AT",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "be9b6fb5dfe0",
+    "name": "Im Kinsky",
+    "domain": "imkinsky.com",
+    "country": "AT",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "874acce3e0f3",
+    "name": "WestLicht",
+    "domain": "westlicht-auction.com",
+    "country": "AT",
+    "category": [
+      "photography"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "a0510075a5b4",
+    "name": "Numismatik Naumann",
+    "domain": "numismatik-naumann.at",
+    "country": "AT",
+    "category": [
+      "coins"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "c08e9cfbf438",
+    "name": "Koller",
+    "domain": "kollerauktionen.ch",
+    "country": "CH",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "7a2b5b1ed23f",
+    "name": "Piguet",
+    "domain": "piguet.com",
+    "country": "CH",
+    "category": [
+      "art",
+      "luxury"
+    ],
+    "type": "house",
+    "language": "fr",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "22ad50318ba3",
+    "name": "Antiquorum",
+    "domain": "antiquorum.swiss",
+    "country": "CH",
+    "category": [
+      "watches"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "4b70358149bc",
+    "name": "Schuler Auktionen",
+    "domain": "schulerauktionen.ch",
+    "country": "CH",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "10fbf66fe700",
+    "name": "Galerie Kornfeld",
+    "domain": "kornfeld.ch",
+    "country": "CH",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "7f26fd095554",
+    "name": "Dreweatts",
+    "domain": "dreweatts.com",
+    "country": "GB",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "789b33928502",
+    "name": "Woolley & Wallis",
+    "domain": "woolleyandwallis.co.uk",
+    "country": "GB",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "1c6e20fb9712",
+    "name": "Sworders",
+    "domain": "sworder.co.uk",
+    "country": "GB",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "883c20a91944",
+    "name": "Chiswick Auctions",
+    "domain": "chiswickauctions.co.uk",
+    "country": "GB",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "97375954551d",
+    "name": "Roseberys",
+    "domain": "roseberys.co.uk",
+    "country": "GB",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "870c7f16fb4a",
+    "name": "Lyon & Turnbull",
+    "domain": "lyonandturnbull.com",
+    "country": "GB",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "88b47dcff4ab",
+    "name": "Forum Auctions",
+    "domain": "forumauctions.co.uk",
+    "country": "GB",
+    "category": [
+      "books",
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "e693f9f96068",
+    "name": "Dominic Winter",
+    "domain": "dominicwinter.co.uk",
+    "country": "GB",
+    "category": [
+      "books",
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "86b5275c852e",
+    "name": "Spink",
+    "domain": "spink.com",
+    "country": "GB",
+    "category": [
+      "coins",
+      "stamps",
+      "collectibles"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "4fba7f42e651",
+    "name": "Noonans",
+    "domain": "noonans.co.uk",
+    "country": "GB",
+    "category": [
+      "coins",
+      "medals"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "c23085bcb459",
+    "name": "Morton & Eden",
+    "domain": "mortonandeden.com",
+    "country": "GB",
+    "category": [
+      "coins",
+      "medals"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "c190b3627a21",
+    "name": "H&H Classics",
+    "domain": "handh.co.uk",
+    "country": "GB",
+    "category": [
+      "cars"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "b6d52c787517",
+    "name": "Iconic Auctioneers",
+    "domain": "iconicauctioneers.com",
+    "country": "GB",
+    "category": [
+      "cars"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "e615eae05963",
+    "name": "Collecting Cars",
+    "domain": "collectingcars.com",
+    "country": "GB",
+    "category": [
+      "cars"
+    ],
+    "type": "platform",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "6de187a62aca",
+    "name": "Whisky Auctioneer",
+    "domain": "whiskyauctioneer.com",
+    "country": "GB",
+    "category": [
+      "spirits"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "bae915f94d77",
+    "name": "The Saleroom",
+    "domain": "the-saleroom.com",
+    "country": "GB",
+    "category": [
+      "all"
+    ],
+    "type": "platform",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "3e1cdddc5b8c",
+    "name": "Invaluable",
+    "domain": "invaluable.com",
+    "country": "US",
+    "category": [
+      "all"
+    ],
+    "type": "platform",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "eca3236f3292",
+    "name": "LiveAuctioneers",
+    "domain": "liveauctioneers.com",
+    "country": "US",
+    "category": [
+      "all"
+    ],
+    "type": "platform",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "42e8daf06544",
+    "name": "AuctionZip",
+    "domain": "auctionzip.com",
+    "country": "US",
+    "category": [
+      "all"
+    ],
+    "type": "platform",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "67b27532ddaf",
+    "name": "Catawiki",
+    "domain": "catawiki.com",
+    "country": "NL",
+    "category": [
+      "all"
+    ],
+    "type": "platform",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "3956a584fc30",
+    "name": "Rago",
+    "domain": "ragoarts.com",
+    "country": "US",
+    "category": [
+      "art",
+      "design"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "9ba43cde7ac4",
+    "name": "Wright",
+    "domain": "wright20.com",
+    "country": "US",
+    "category": [
+      "art",
+      "design"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "731457ddb45d",
+    "name": "Doyle",
+    "domain": "doyle.com",
+    "country": "US",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "7d4e7e32c02e",
+    "name": "Swann Galleries",
+    "domain": "swanngalleries.com",
+    "country": "US",
+    "category": [
+      "books",
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "6b1a192055a8",
+    "name": "Freeman's",
+    "domain": "freemansauction.com",
+    "country": "US",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "6b533b9e4d48",
+    "name": "Hindman",
+    "domain": "hindmanauctions.com",
+    "country": "US",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "dba7a863080e",
+    "name": "Leland Little",
+    "domain": "lelandlittle.com",
+    "country": "US",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "7edeedd00556",
+    "name": "Brunk Auctions",
+    "domain": "brunkauctions.com",
+    "country": "US",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "1669f7eb330b",
+    "name": "Clars",
+    "domain": "clars.com",
+    "country": "US",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "7f565d3b9af9",
+    "name": "Julien's Auctions",
+    "domain": "juliensauctions.com",
+    "country": "US",
+    "category": [
+      "memorabilia"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "25a7c584b4d7",
+    "name": "Propstore",
+    "domain": "propstoreauction.com",
+    "country": "US",
+    "category": [
+      "memorabilia"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "22c6c36450ae",
+    "name": "RR Auction",
+    "domain": "rrauction.com",
+    "country": "US",
+    "category": [
+      "memorabilia"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "d9893aa6389d",
+    "name": "Goldin",
+    "domain": "goldin.co",
+    "country": "US",
+    "category": [
+      "sports",
+      "cards"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "aa9cc2c99de1",
+    "name": "Robert Edward Auctions",
+    "domain": "robertedwardauctions.com",
+    "country": "US",
+    "category": [
+      "sports",
+      "cards"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "280f3e23eac2",
+    "name": "Lelands",
+    "domain": "lelands.com",
+    "country": "US",
+    "category": [
+      "sports",
+      "memorabilia"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "e2bc96bc416f",
+    "name": "Pristine Auction",
+    "domain": "pristineauction.com",
+    "country": "US",
+    "category": [
+      "sports",
+      "memorabilia"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "14635c688cbf",
+    "name": "Stack's Bowers",
+    "domain": "stacksbowers.com",
+    "country": "US",
+    "category": [
+      "coins"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "4ba13de1ec51",
+    "name": "GreatCollections",
+    "domain": "greatcollections.com",
+    "country": "US",
+    "category": [
+      "coins"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "177544c4d1ac",
+    "name": "Legend Rare Coin Auctions",
+    "domain": "legendauctions.com",
+    "country": "US",
+    "category": [
+      "coins"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "77cfff289bb0",
+    "name": "Classical Numismatic Group",
+    "domain": "cngcoins.com",
+    "country": "US",
+    "category": [
+      "coins"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "d16764ee7190",
+    "name": "Goldberg Coins",
+    "domain": "goldbergcoins.com",
+    "country": "US",
+    "category": [
+      "coins"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "b1c5e1af9d82",
+    "name": "Stephen Album Rare Coins",
+    "domain": "stevealbum.com",
+    "country": "US",
+    "category": [
+      "coins"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "5cc75821bd23",
+    "name": "Acker Wines",
+    "domain": "ackerwines.com",
+    "country": "US",
+    "category": [
+      "wine"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "56db3d09b1b6",
+    "name": "Hart Davis Hart",
+    "domain": "hdhwine.com",
+    "country": "US",
+    "category": [
+      "wine"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "940fc9028a95",
+    "name": "Zachys",
+    "domain": "zachys.com",
+    "country": "US",
+    "category": [
+      "wine"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "6bb4b59af37c",
+    "name": "WineBid",
+    "domain": "winebid.com",
+    "country": "US",
+    "category": [
+      "wine"
+    ],
+    "type": "platform",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "80cf5177a01c",
+    "name": "Heffel",
+    "domain": "heffel.com",
+    "country": "CA",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "bf4bde7ac616",
+    "name": "Waddington's",
+    "domain": "waddingtons.ca",
+    "country": "CA",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "0c78fb1f76d4",
+    "name": "Cowley Abbott",
+    "domain": "cowleyabbott.ca",
+    "country": "CA",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "9bfcd789af12",
+    "name": "Finarte",
+    "domain": "finarte.it",
+    "country": "IT",
+    "category": [
+      "art",
+      "luxury"
+    ],
+    "type": "house",
+    "language": "it",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "e09849f552ba",
+    "name": "Pandolfini",
+    "domain": "pandolfini.it",
+    "country": "IT",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "it",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "a33c21a1b14c",
+    "name": "Cambi",
+    "domain": "cambiaste.com",
+    "country": "IT",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "it",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "c6e712fcd232",
+    "name": "Il Ponte",
+    "domain": "ilponteonline.com",
+    "country": "IT",
+    "category": [
+      "art",
+      "luxury"
+    ],
+    "type": "house",
+    "language": "it",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "38bfec26cba8",
+    "name": "Wannenes",
+    "domain": "wannenesgroup.com",
+    "country": "IT",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "it",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "b45549c75ff6",
+    "name": "Bertolami Fine Arts",
+    "domain": "bertolamifinearts.com",
+    "country": "IT",
+    "category": [
+      "coins",
+      "art"
+    ],
+    "type": "house",
+    "language": "it",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "91d4b707c886",
+    "name": "Bolaffi",
+    "domain": "bolaffi.it",
+    "country": "IT",
+    "category": [
+      "coins",
+      "stamps"
+    ],
+    "type": "house",
+    "language": "it",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "18da6e1fecc5",
+    "name": "Aste Boetto",
+    "domain": "asteboetto.it",
+    "country": "IT",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "it",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "82903435ca32",
+    "name": "Subastas Segre",
+    "domain": "subastassegre.es",
+    "country": "ES",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "es",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "6613fa63d6bf",
+    "name": "Fernando Durán",
+    "domain": "fernandoduran.com",
+    "country": "ES",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "es",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "5c57721c55b8",
+    "name": "Setdart",
+    "domain": "setdart.com",
+    "country": "ES",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "es",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "b142279f7091",
+    "name": "Balclis",
+    "domain": "balclis.com",
+    "country": "ES",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "es",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "b5668f2f57a3",
+    "name": "Ansorena",
+    "domain": "ansorena.com",
+    "country": "ES",
+    "category": [
+      "art",
+      "luxury"
+    ],
+    "type": "house",
+    "language": "es",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "0f0b94e60007",
+    "name": "Durán Subastas",
+    "domain": "duran-subastas.com",
+    "country": "ES",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "es",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "ac6eb7408c98",
+    "name": "Bukowskis",
+    "domain": "bukowskis.com",
+    "country": "SE",
+    "category": [
+      "art",
+      "design"
+    ],
+    "type": "house",
+    "language": "sv",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "7d8c08f55fd1",
+    "name": "Uppsala Auktionskammare",
+    "domain": "uppsalaauktion.se",
+    "country": "SE",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "sv",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "fb45c193a459",
+    "name": "Stockholms Auktionsverk",
+    "domain": "stockholmsauktionsverk.com",
+    "country": "SE",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "sv",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "bb674d35c5bf",
+    "name": "Bruun Rasmussen",
+    "domain": "bruun-rasmussen.dk",
+    "country": "DK",
+    "category": [
+      "art",
+      "design"
+    ],
+    "type": "house",
+    "language": "sv",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "e2910ca6b06d",
+    "name": "Blomqvist",
+    "domain": "blomqvist.no",
+    "country": "NO",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "sv",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "8aeba5273f0a",
+    "name": "Grev Wedels Plass",
+    "domain": "gwpa.no",
+    "country": "NO",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "sv",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "3850ad3e5360",
+    "name": "Hagelstam",
+    "domain": "hagelstam.fi",
+    "country": "FI",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "sv",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "ab2597d83786",
+    "name": "Helander",
+    "domain": "helander.com",
+    "country": "FI",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "sv",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "c0fafc26d3f3",
+    "name": "Venduehuis Den Haag",
+    "domain": "venduehuis.com",
+    "country": "NL",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "nl",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "0f4302fe5a86",
+    "name": "AAG Auctioneers",
+    "domain": "aagauctioneers.com",
+    "country": "NL",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "nl",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "109c753bc6af",
+    "name": "Bernaerts",
+    "domain": "bernaerts.eu",
+    "country": "BE",
+    "category": [
+      "art",
+      "design"
+    ],
+    "type": "house",
+    "language": "fr",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "9fc5752f4021",
+    "name": "De Vuyst",
+    "domain": "de-vuyst.com",
+    "country": "BE",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "fr",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "493894388211",
+    "name": "DESA Unicum",
+    "domain": "desa.pl",
+    "country": "PL",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "pl",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "a731ae6dde4a",
+    "name": "Agra-Art",
+    "domain": "agraart.pl",
+    "country": "PL",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "pl",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "ffc25779fb4b",
+    "name": "Polswiss Art",
+    "domain": "polswissart.pl",
+    "country": "PL",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "pl",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "2384ca156335",
+    "name": "Sopocki Dom Aukcyjny",
+    "domain": "sda.pl",
+    "country": "PL",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "pl",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "f879123ce02b",
+    "name": "Galerie KODL",
+    "domain": "galerie-kodl.cz",
+    "country": "CZ",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "11d8f0c8df69",
+    "name": "Arthouse Hejtmánek",
+    "domain": "arthouse-hejtmanek.cz",
+    "country": "CZ",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "de",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "90968d1fe5c1",
+    "name": "Seoul Auction",
+    "domain": "seoulauction.com",
+    "country": "KR",
+    "category": [
+      "art",
+      "luxury"
+    ],
+    "type": "house",
+    "language": "ko",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "6adf9fa3f155",
+    "name": "K Auction",
+    "domain": "k-auction.com",
+    "country": "KR",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "ko",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "9d8c16b7c727",
+    "name": "Ravenel",
+    "domain": "ravenel.com",
+    "country": "TW",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "zh",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "72d1e412933f",
+    "name": "Poly Auction Hong Kong",
+    "domain": "polyauction.com.hk",
+    "country": "HK",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "zh",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "3cd44bf5bf22",
+    "name": "Mainichi Auction",
+    "domain": "mainichi-auction.com",
+    "country": "JP",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "ja",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "605db7882dff",
+    "name": "SBI Art Auction",
+    "domain": "sbiartauction.co.jp",
+    "country": "JP",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "ja",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "34b0b6d67418",
+    "name": "Tokyo Chuo Auction",
+    "domain": "chuo-auction.co.jp",
+    "country": "JP",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "ja",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "87c25e6cc5bd",
+    "name": "Saffronart",
+    "domain": "saffronart.com",
+    "country": "IN",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "dad9dfaca3ae",
+    "name": "AstaGuru",
+    "domain": "astaguru.com",
+    "country": "IN",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "8746e9bcdaad",
+    "name": "Pundole's",
+    "domain": "pundoles.com",
+    "country": "IN",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "61ff70765ee2",
+    "name": "Strauss & Co",
+    "domain": "straussart.co.za",
+    "country": "ZA",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "c2e6ca711a8d",
+    "name": "Aspire Art",
+    "domain": "aspireart.net",
+    "country": "ZA",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "a076dc018d69",
+    "name": "Stephan Welz",
+    "domain": "swelco.co.za",
+    "country": "ZA",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "4d503d9c66af",
+    "name": "Leonard Joel",
+    "domain": "leonardjoel.com.au",
+    "country": "AU",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "d001a65687ec",
+    "name": "Deutscher and Hackett",
+    "domain": "deutscherandhackett.com",
+    "country": "AU",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "86330f4f4396",
+    "name": "Menzies Art Brands",
+    "domain": "menziesartbrands.com",
+    "country": "AU",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "2e6ac1fd3637",
+    "name": "Smith & Singer",
+    "domain": "smithandsinger.com.au",
+    "country": "AU",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "ac068622c617",
+    "name": "Shapiro Auctions",
+    "domain": "shapiro.com.au",
+    "country": "AU",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "aab0fb047fb6",
+    "name": "Noble Numismatics",
+    "domain": "noble.com.au",
+    "country": "AU",
+    "category": [
+      "coins"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "53a59d152d0c",
+    "name": "Webb's",
+    "domain": "webbs.co.nz",
+    "country": "NZ",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "6317712c8a8a",
+    "name": "Art+Object",
+    "domain": "artandobject.co.nz",
+    "country": "NZ",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "d0165dfe21be",
+    "name": "Dunbar Sloane",
+    "domain": "dunbarsloane.co.nz",
+    "country": "NZ",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "35546642b724",
+    "name": "Morton Subastas",
+    "domain": "mortonsubastas.com",
+    "country": "MX",
+    "category": [
+      "art",
+      "antiques"
+    ],
+    "type": "house",
+    "language": "es",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "544d27d46880",
+    "name": "Bolsa de Arte",
+    "domain": "bolsadearte.com",
+    "country": "BR",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "pt",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "84b6c5cd05b3",
+    "name": "Tiroche",
+    "domain": "tiroche.co.il",
+    "country": "IL",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "he",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "728128caeaf1",
+    "name": "Kedem",
+    "domain": "kedem-auctions.com",
+    "country": "IL",
+    "category": [
+      "books",
+      "collectibles"
+    ],
+    "type": "house",
+    "language": "he",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "4569600c8b3e",
+    "name": "Matsart",
+    "domain": "matsartauctioneers.com",
+    "country": "IL",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "fef059f7b3f9",
+    "name": "Литфонд",
+    "domain": "litfund.ru",
+    "country": "RU",
+    "category": [
+      "books",
+      "art"
+    ],
+    "type": "house",
+    "language": "ru",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "da316d388234",
+    "name": "Artinvestment",
+    "domain": "artinvestment.ru",
+    "country": "RU",
+    "category": [
+      "art"
+    ],
+    "type": "platform",
+    "language": "ru",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "c74f34022fdd",
+    "name": "Совком",
+    "domain": "sovcom.ru",
+    "country": "RU",
+    "category": [
+      "art"
+    ],
+    "type": "house",
+    "language": "ru",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "4b32b9ea03a4",
+    "name": "Монеты и медали",
+    "domain": "numismat.ru",
+    "country": "RU",
+    "category": [
+      "coins"
+    ],
+    "type": "house",
+    "language": "ru",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "cfee9ca69f51",
+    "name": "Auction.ru",
+    "domain": "auction.ru",
+    "country": "RU",
+    "category": [
+      "all"
+    ],
+    "type": "platform",
+    "language": "ru",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  },
+  {
+    "id": "50613ace6f64",
+    "name": "Bidspirit",
+    "domain": "bidspirit.com",
+    "country": "Global",
+    "category": [
+      "all"
+    ],
+    "type": "platform",
+    "language": "en",
+    "query_method": "Google News publisher-domain RSS",
+    "coverage_status": "discovery_only_not_confirmed"
+  }
+]

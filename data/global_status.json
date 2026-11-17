@@ -1,0 +1,162 @@
+{
+  "checked_utc": "2026-11-17T18:58:15.870067+00:00",
+  "registry_sources": 156,
+  "auctions_and_houses": 142,
+  "discovery_platforms": 14,
+  "regions": [
+    "AT",
+    "AU",
+    "BE",
+    "BR",
+    "CA",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "Global",
+    "HK",
+    "IL",
+    "IN",
+    "IT",
+    "JP",
+    "KR",
+    "MC",
+    "MX",
+    "NL",
+    "NO",
+    "NZ",
+    "PL",
+    "RU",
+    "SE",
+    "TW",
+    "US",
+    "ZA"
+  ],
+  "registry_coverage": "curated, not exhaustive",
+  "batch_size": 13,
+  "rss_ok": 13,
+  "rss_errors": 0,
+  "new_candidates": 12,
+  "candidate_queue_size": 12,
+  "verified_sales_added": 0,
+  "minimum_usd": 300000,
+  "next_cursor": 13,
+  "scan_cycles_completed": 0,
+  "discovery_method": "official publisher-site filtered Google News RSS",
+  "restrictions": [
+    "No direct requests to blocked auction sites",
+    "Headlines are not proof of a sale",
+    "No automatic FX conversion or verified-sale promotion",
+    "Existing Phillips historical results are untouched"
+  ],
+  "checks": [
+    {
+      "house": "Sotheby's",
+      "country": "Global",
+      "domain": "sothebys.com",
+      "status": "ok",
+      "rss_items": 65,
+      "new_leads": 2
+    },
+    {
+      "house": "Christie's",
+      "country": "Global",
+      "domain": "christies.com",
+      "status": "ok",
+      "rss_items": 72,
+      "new_leads": 5
+    },
+    {
+      "house": "Bonhams",
+      "country": "Global",
+      "domain": "bonhams.com",
+      "status": "ok",
+      "rss_items": 59,
+      "new_leads": 1
+    },
+    {
+      "house": "Heritage Auctions",
+      "country": "US",
+      "domain": "ha.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 3
+    },
+    {
+      "house": "RM Sotheby's",
+      "country": "Global",
+      "domain": "rmsothebys.com",
+      "status": "ok",
+      "rss_items": 57,
+      "new_leads": 0
+    },
+    {
+      "house": "Gooding Christie's",
+      "country": "US",
+      "domain": "goodingco.com",
+      "status": "ok",
+      "rss_items": 54,
+      "new_leads": 1
+    },
+    {
+      "house": "Broad Arrow Auctions",
+      "country": "US",
+      "domain": "broadarrowauctions.com",
+      "status": "ok",
+      "rss_items": 38,
+      "new_leads": 0
+    },
+    {
+      "house": "Mecum Auctions",
+      "country": "US",
+      "domain": "mecum.com",
+      "status": "ok",
+      "rss_items": 31,
+      "new_leads": 0
+    },
+    {
+      "house": "Barrett-Jackson",
+      "country": "US",
+      "domain": "barrett-jackson.com",
+      "status": "ok",
+      "rss_items": 59,
+      "new_leads": 0
+    },
+    {
+      "house": "Bring a Trailer",
+      "country": "US",
+      "domain": "bringatrailer.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Cars & Bids",
+      "country": "US",
+      "domain": "carsandbids.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Artcurial",
+      "country": "FR",
+      "domain": "artcurial.com",
+      "status": "ok",
+      "rss_items": 59,
+      "new_leads": 0
+    },
+    {
+      "house": "Tajan",
+      "country": "FR",
+      "domain": "tajan.com",
+      "status": "ok",
+      "rss_items": 60,
+      "new_leads": 0
+    }
+  ]
+}
