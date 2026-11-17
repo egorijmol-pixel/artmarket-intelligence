@@ -527,6 +527,112 @@
     ]
   },
   {
+    "group_id": "37f0c3418f09f53e",
+    "title": "Yayoi Kusama painting sells at auction for record $14.7 million - ProtoThema English",
+    "category_hint": "art",
+    "articles": 3,
+    "publishers": 3,
+    "indicative_usd_values": [
+      14700000,
+      15000000,
+      15100000
+    ],
+    "amount_variation_pct": 2.6,
+    "last_publication_at": "2026-11-17T10:00:27+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "7db146af4e66f9b9",
+      "0ca268fa36d2b80c",
+      "67d9b182a998c817"
+    ],
+    "links": [
+      {
+        "candidate_id": "7db146af4e66f9b9",
+        "title": "Yayoi Kusama painting sells at auction for record $14.7 million - ProtoThema English",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT0dvZVdNcWZDa194LTl6QzVYRUVjVUFjMGdMcHA0cm1LckZTdzhUNkhjM0hhcVdqWVd4a08wN2RGQVBnd0Z4WmluZ1R2YVl0aEx4Y0s3U3VmMXRmbUdMSTdxd0ZMdldnX2FOWW1NcWVEWGg0M2hyN1Q1bVJZT3lWTUg4Z0lfU2RhcWl2OW1CVmxRbXVtSW9VUzREVjVlUDg2?oc=5",
+        "publisher_name": "ProtoThema English",
+        "publisher_url": "https://en.protothema.gr",
+        "published_at": "2026-11-17T10:00:27+00:00",
+        "indicative_usd": 14700000
+      },
+      {
+        "candidate_id": "0ca268fa36d2b80c",
+        "title": "Japanese artist Yayoi Kusama painting fetches record US$15 million at Sotheby’s New York auction - The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFRjSFZiZ01zcnJtZzdOQ3RjakFvY0lhc0ptMlkwMTQxWmZLT1BCNmRxWDBSYkwzYWRhOTZBWHBOYXFVZFlZSDI0WnVRcEwyQ3gxVVpDNWpNRVl5UlA0a3pjcVJGUHA3ZDdWSGxFQ2drNUIxZjRidGdDaHg3YjNYYW45MXhYNjg2dHV1eEx4elY0Rlg2aU5GV3FEamFuRkd3ZUctcXlFdDJjREpPd1hfSEFMVWtxXzhDV3Y2eGpVRzJad3hlelZFSnplNy13Zw?oc=5",
+        "publisher_name": "The Straits Times",
+        "publisher_url": "https://www.straitstimes.com",
+        "published_at": "2026-11-17T08:02:00+00:00",
+        "indicative_usd": 15000000
+      },
+      {
+        "candidate_id": "67d9b182a998c817",
+        "title": "Yayoi Kusama ‘Infinity Net’ Painting Sells for $15.1 M. at Sotheby’s, Setting a Record - ARTnews.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNHZSOGhmek9tS3JfM25TajU4SmY1QmczR1ctU2hFaEl0WEI2dWxDT0JsQ19ZWXJBMERUS1BnTm5fQ095WUVSNENJempkX21MVEdUQU94cTg1dnBpbklxWTAxVzRVZXBKaDJlME0xNk9fdXRjUGlyRnJoM1M0Sm9FTExFU3BKNHBPOUJXZmVIRTZPdmpkTGQzMmdtTHZuNjZTSG9hUzZrZFZDeXc?oc=5",
+        "publisher_name": "ARTnews.com",
+        "publisher_url": "https://www.artnews.com",
+        "published_at": "2026-11-17T02:08:00+00:00",
+        "indicative_usd": 15100000
+      }
+    ]
+  },
+  {
+    "group_id": "8ad854b89bcf4ee0",
+    "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - WRAL",
+    "category_hint": "jewelry",
+    "articles": 3,
+    "publishers": 3,
+    "indicative_usd_values": [
+      4900000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-13T18:53:41+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "0f4e3f27d9e15854",
+      "2e4a6427c60d7df8",
+      "00146205996eb812"
+    ],
+    "links": [
+      {
+        "candidate_id": "0f4e3f27d9e15854",
+        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - WRAL",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1VrSXVrcmZ3Q2lodmRSRlBxTzJpVk5VSzB2LVQ5NF9ia2tjT0Z2b0gxUGdwdmFUMnMxWVNkUkM2UzlFb0F1N25icmJEVUJfXzFtaFRGeEwtRW84Tk9qWWxtUHRia1I5OG5vRWhaaEc1aVgwODhCWXJaM3docFBxaHZPemdTbGp3MDZvRm1zOWw0ZmdzX2xXZkxpZVRGbnRVS2trRHhicno?oc=5",
+        "publisher_name": "WRAL",
+        "publisher_url": "https://www.wral.com",
+        "published_at": "2026-11-13T18:53:41+00:00",
+        "indicative_usd": 4900000
+      },
+      {
+        "candidate_id": "2e4a6427c60d7df8",
+        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGhGVmU4WWxRbVdhTU1uSEVsdDgxMzVKS2duVzN6bXd5Ql9WU2J2ZURDZ0hFb3puSzJNakVGc0NCRWV4OWI4aDRmR3hQcF9PenFQckl0bFhEM0dvRU9fdTE3X0VLLVdmTEdXbThrS2tUdFVtbl9RN1U2UUlwTmtfSjBvLU5xeFVnNUVGUWZxVzVRVnZRdGRLcEFLY1VwN0pURFVHaXA2dzQxQdIBrwFBVV95cUxOLS1hVlJKVHlhcHZpbVFob3ZTNXpCQXlUWUR4YkJObFNfUGo4VkxFODNnSFpkRFlTd1ZEUUxfbFNZX0o4ZmZKeUV0eElYQ1JCNlJkYXExWjUyQUdPZTluVWxNTWZHeXFYNHBLYXIyOWc0Wmp2cmNEcWtpRHZJN2dRQXdUVi1OdDYwcUQ4UkgyeW9EOWhJVzdXR3VhaF8zM1VzeUgyMVlQVTVBRFRvSVEw?oc=5",
+        "publisher_name": "Breaking News, Latest News and Videos",
+        "publisher_url": "",
+        "published_at": "2026-11-12T08:34:42+00:00",
+        "indicative_usd": 4900000
+      },
+      {
+        "candidate_id": "00146205996eb812",
+        "title": "A Romanov Sapphire Bracelet Sells for $4.9 Million at a Geneva Auction - U.S. News & World Report",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSHVORThJb1AyWWN2RGl6VHpUZFEtZjR6T3RuN1l5S1YzZVhSZ2w1bS0xakVTRk93dHQ0TllsWHJsdEFjQUJlX1lkNkMzeVo5eGFSelhkaUdOMFFNYkx6X1B3dl9lREJ1ZFExblI1bkY5a0M3TVl4OWF6aU9iWVJuMG1ibjR6NmVEVVJHeVFEaVVBWTFiYnd2cHhtN21vbzlWVWhnMXFCYnJtYVcxTjJqblBnYWNvU0hnVkFQS3dPa3hxa1E2?oc=5",
+        "publisher_name": "U.S. News & World Report",
+        "publisher_url": "https://www.usnews.com",
+        "published_at": "2026-11-12T08:14:00+00:00",
+        "indicative_usd": 4900000
+      }
+    ]
+  },
+  {
     "group_id": "5243362527c7d0c6",
     "title": "Darth Vader’s Screen-Used Lightsaber From 'The Empire Strikes Back' Sells for a Record $4.875 Million USD - Hypebeast",
     "category_hint": "other",
@@ -629,48 +735,6 @@
         "publisher_url": "https://www.nbcnews.com",
         "published_at": "2025-11-23T08:00:00+00:00",
         "indicative_usd": 2300000
-      }
-    ]
-  },
-  {
-    "group_id": "59f19f0e87b3b48b",
-    "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - WRAL",
-    "category_hint": "jewelry",
-    "articles": 2,
-    "publishers": 2,
-    "indicative_usd_values": [
-      4900000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-11-13T18:53:41+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "0f4e3f27d9e15854",
-      "2e4a6427c60d7df8"
-    ],
-    "links": [
-      {
-        "candidate_id": "0f4e3f27d9e15854",
-        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - WRAL",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1VrSXVrcmZ3Q2lodmRSRlBxTzJpVk5VSzB2LVQ5NF9ia2tjT0Z2b0gxUGdwdmFUMnMxWVNkUkM2UzlFb0F1N25icmJEVUJfXzFtaFRGeEwtRW84Tk9qWWxtUHRia1I5OG5vRWhaaEc1aVgwODhCWXJaM3docFBxaHZPemdTbGp3MDZvRm1zOWw0ZmdzX2xXZkxpZVRGbnRVS2trRHhicno?oc=5",
-        "publisher_name": "WRAL",
-        "publisher_url": "https://www.wral.com",
-        "published_at": "2026-11-13T18:53:41+00:00",
-        "indicative_usd": 4900000
-      },
-      {
-        "candidate_id": "2e4a6427c60d7df8",
-        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGhGVmU4WWxRbVdhTU1uSEVsdDgxMzVKS2duVzN6bXd5Ql9WU2J2ZURDZ0hFb3puSzJNakVGc0NCRWV4OWI4aDRmR3hQcF9PenFQckl0bFhEM0dvRU9fdTE3X0VLLVdmTEdXbThrS2tUdFVtbl9RN1U2UUlwTmtfSjBvLU5xeFVnNUVGUWZxVzVRVnZRdGRLcEFLY1VwN0pURFVHaXA2dzQxQdIBrwFBVV95cUxOLS1hVlJKVHlhcHZpbVFob3ZTNXpCQXlUWUR4YkJObFNfUGo4VkxFODNnSFpkRFlTd1ZEUUxfbFNZX0o4ZmZKeUV0eElYQ1JCNlJkYXExWjUyQUdPZTluVWxNTWZHeXFYNHBLYXIyOWc0Wmp2cmNEcWtpRHZJN2dRQXdUVi1OdDYwcUQ4UkgyeW9EOWhJVzdXR3VhaF8zM1VzeUgyMVlQVTVBRFRvSVEw?oc=5",
-        "publisher_name": "Breaking News, Latest News and Videos",
-        "publisher_url": "",
-        "published_at": "2026-11-12T08:34:42+00:00",
-        "indicative_usd": 4900000
       }
     ]
   },
@@ -1341,6 +1405,38 @@
     ]
   },
   {
+    "group_id": "4b933538523b5a39",
+    "title": "The Robert Taylor Ranch sold at auction for $12 million in 2012; a hedge fund had taken it two years earlier over a $27.5 million claim - Parade Magazine",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      27500000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-30T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "a2ea0253186680fc"
+    ],
+    "links": [
+      {
+        "candidate_id": "a2ea0253186680fc",
+        "title": "The Robert Taylor Ranch sold at auction for $12 million in 2012; a hedge fund had taken it two years earlier over a $27.5 million claim - Parade Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNME1heGZhUFhCSkR1a2hJWTE2RTJzd0dDenFCaXRtOTNIQzN1MlJSaGlrMDFkN0VDTVNKXzhuM0FOS2JhekpsWjF5TEFKeEQ5dUVDdUFCYkdqTjVHM1o0QXgwY1pwSlJwMmhmOUtiWWw5Vk5XRmVQLUZmMEQ1SDBQVzFNQzRMdU9SXzNzTHIyUnYwZ1NKbWlxMWRNYnlqakVDb3JZ?oc=5",
+        "publisher_name": "Parade Magazine",
+        "publisher_url": "https://parade.com",
+        "published_at": "2026-10-30T07:00:00+00:00",
+        "indicative_usd": 27500000
+      }
+    ]
+  },
+  {
     "group_id": "2f88a120dbf6f391",
     "title": "Long Island's Oheka Castle sold for $72 million at private auction - ABC7 New York",
     "category_hint": "other",
@@ -1918,6 +2014,38 @@
         "publisher_url": "https://www.al.com",
         "published_at": "2026-09-02T07:00:00+00:00",
         "indicative_usd": 1250000
+      }
+    ]
+  },
+  {
+    "group_id": "b19b671b2c994d14",
+    "title": "A 1909 Honus Wagner Card With An Extremely Rare Advertisement On The Back Sold For Nearly $6 Million - BroBible",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      6000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-08-31T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "b5543db2fe4de9b5"
+    ],
+    "links": [
+      {
+        "candidate_id": "b5543db2fe4de9b5",
+        "title": "A 1909 Honus Wagner Card With An Extremely Rare Advertisement On The Back Sold For Nearly $6 Million - BroBible",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPME5GcC1rOWVzbGw3NVlMaTB2LVBON19IZjRQUnZxaFhqSkFJN3M3YmZOM0ZyMjBqMTY4c184UWJZLVdMMzNsa2hKNzRfZl96V3Q4S1NFd2JCdVlna2hTZ09ucFU2dHZCOG9JM1JKY1J2bjQ0SjYyeWZOcVlJX3JTNEU5ZUh6SmdtdlVab3FYcXNEM3FvVHc?oc=5",
+        "publisher_name": "BroBible",
+        "publisher_url": "https://brobible.com",
+        "published_at": "2026-08-31T07:00:00+00:00",
+        "indicative_usd": 6000000
       }
     ]
   },
@@ -6969,6 +7097,38 @@
         "publisher_url": "https://www.classic-car-auctions.info",
         "published_at": "2019-01-28T11:26:25+00:00",
         "indicative_usd": 20000000
+      }
+    ]
+  },
+  {
+    "group_id": "361aa22ea293f9e7",
+    "title": "Finest-Known 1885 Trade Dollar Brings $3.96 Million with Heritage Auctions - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      3960000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2019-01-11T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "4e830d4c153a8a16"
+    ],
+    "links": [
+      {
+        "candidate_id": "4e830d4c153a8a16",
+        "title": "Finest-Known 1885 Trade Dollar Brings $3.96 Million with Heritage Auctions - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSkZmNXFob0RFWjBMUGRsMnlpTU1hUUVlNlY4cUFTUnp3RWx3ZlYzVEJUQXhuT2xDQ0d6VDh1ZGkwb0Y1WExFT1FteF9lamc0cmdJdHlGZUlqT0Nsa29zeU1fcl83bS1OWmdyTm5KRzhfaEhHYm91QnphQzBDVXVHSnJfcTVhVTBnWWJ5VWJwMFhCRzN1aE9QSGhZb3lyd1g5TnlSZ2RpNHdXamdlbGZJS0ttOGxuN3JIb18tOG54MUg1MHRGQ2NSQ2sycnRFaEhFRFJ3NGdiX3pUMEpqWDZ6Vm04dDk1LTRP?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://coins.ha.com",
+        "published_at": "2019-01-11T08:00:00+00:00",
+        "indicative_usd": 3960000
       }
     ]
   },

@@ -1,14 +1,15 @@
 {
-  "last_attempt_utc": "2026-11-17T07:43:17.945094+00:00",
+  "last_attempt_utc": "2026-11-17T13:36:54.391409+00:00",
   "sources_checked": 10,
-  "sources_ok": 7,
-  "candidates_count": 270,
+  "sources_ok": 10,
+  "candidates_count": 277,
   "verified_automatic": 0,
   "checks": [
     {
       "name": "Google News: auction \"sold for\" \"million\"",
-      "status": "error",
-      "reason": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "articles_seen": 84,
+      "new_candidates": 5
     },
     {
       "name": "Google News: collectible auction \"sells for\"",
@@ -25,42 +26,44 @@
     {
       "name": "Google News: private sale art collectible \"million\"",
       "status": "ok",
-      "articles_seen": 34,
+      "articles_seen": 35,
       "new_candidates": 0
     },
     {
       "name": "Google News: vintage car auction \"sold for\"",
-      "status": "error",
-      "reason": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "articles_seen": 38,
+      "new_candidates": 0
     },
     {
       "name": "Google News: rare coin auction \"sold\"",
       "status": "ok",
-      "articles_seen": 36,
+      "articles_seen": 35,
       "new_candidates": 0
     },
     {
       "name": "Google News: jewelry diamond auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 68,
-      "new_candidates": 1
+      "articles_seen": 66,
+      "new_candidates": 0
     },
     {
       "name": "Google News: sports card collectible auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 36,
-      "new_candidates": 0
+      "articles_seen": 37,
+      "new_candidates": 1
     },
     {
       "name": "Google News: comic book auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 49,
-      "new_candidates": 1
+      "articles_seen": 50,
+      "new_candidates": 0
     },
     {
       "name": "Google News: watch auction \"sold for\" million",
-      "status": "error",
-      "reason": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "articles_seen": 58,
+      "new_candidates": 0
     }
   ],
   "notice": "RSS-публикации являются кандидатами, не подтверждёнными продажами."
