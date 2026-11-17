@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-17T21:26:40.360758+00:00",
+  "checked_utc": "2026-11-17T23:25:54.245343+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -44,7 +44,7 @@
   "candidate_queue_size": 12,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 39,
+  "next_cursor": 52,
   "scan_cycles_completed": 0,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
@@ -55,107 +55,107 @@
   ],
   "checks": [
     {
-      "house": "Neumeister",
-      "country": "DE",
-      "domain": "neumeister.com",
-      "status": "ok",
-      "rss_items": 59,
-      "new_leads": 0
-    },
-    {
-      "house": "Hampel",
-      "country": "DE",
-      "domain": "hampel-auctions.com",
-      "status": "ok",
-      "rss_items": 48,
-      "new_leads": 0
-    },
-    {
-      "house": "Nagel Auktionen",
-      "country": "DE",
-      "domain": "nagel-auctions.de",
-      "status": "ok",
-      "rss_items": 0,
-      "new_leads": 0
-    },
-    {
-      "house": "Quittenbaum",
-      "country": "DE",
-      "domain": "quittenbaum.de",
-      "status": "ok",
-      "rss_items": 58,
-      "new_leads": 0
-    },
-    {
-      "house": "Bassenge",
-      "country": "DE",
-      "domain": "bassenge.com",
-      "status": "ok",
-      "rss_items": 58,
-      "new_leads": 0
-    },
-    {
-      "house": "Karl & Faber",
-      "country": "DE",
-      "domain": "karlundfaber.de",
-      "status": "ok",
-      "rss_items": 52,
-      "new_leads": 0
-    },
-    {
-      "house": "Henry's Auktionshaus",
-      "country": "DE",
-      "domain": "henrys.de",
-      "status": "ok",
-      "rss_items": 39,
-      "new_leads": 0
-    },
-    {
-      "house": "Dorotheum",
-      "country": "AT",
-      "domain": "dorotheum.com",
-      "status": "ok",
-      "rss_items": 61,
-      "new_leads": 0
-    },
-    {
-      "house": "Im Kinsky",
-      "country": "AT",
-      "domain": "imkinsky.com",
+      "house": "Antiquorum",
+      "country": "CH",
+      "domain": "antiquorum.swiss",
       "status": "ok",
       "rss_items": 60,
       "new_leads": 0
     },
     {
-      "house": "WestLicht",
-      "country": "AT",
-      "domain": "westlicht-auction.com",
-      "status": "ok",
-      "rss_items": 0,
-      "new_leads": 0
-    },
-    {
-      "house": "Numismatik Naumann",
-      "country": "AT",
-      "domain": "numismatik-naumann.at",
-      "status": "ok",
-      "rss_items": 53,
-      "new_leads": 0
-    },
-    {
-      "house": "Koller",
+      "house": "Schuler Auktionen",
       "country": "CH",
-      "domain": "kollerauktionen.ch",
+      "domain": "schulerauktionen.ch",
       "status": "ok",
-      "rss_items": 60,
+      "rss_items": 58,
       "new_leads": 0
     },
     {
-      "house": "Piguet",
+      "house": "Galerie Kornfeld",
       "country": "CH",
-      "domain": "piguet.com",
+      "domain": "kornfeld.ch",
       "status": "ok",
-      "rss_items": 51,
+      "rss_items": 58,
+      "new_leads": 0
+    },
+    {
+      "house": "Dreweatts",
+      "country": "GB",
+      "domain": "dreweatts.com",
+      "status": "ok",
+      "rss_items": 44,
+      "new_leads": 0
+    },
+    {
+      "house": "Woolley & Wallis",
+      "country": "GB",
+      "domain": "woolleyandwallis.co.uk",
+      "status": "ok",
+      "rss_items": 9,
+      "new_leads": 0
+    },
+    {
+      "house": "Sworders",
+      "country": "GB",
+      "domain": "sworder.co.uk",
+      "status": "ok",
+      "rss_items": 11,
+      "new_leads": 0
+    },
+    {
+      "house": "Chiswick Auctions",
+      "country": "GB",
+      "domain": "chiswickauctions.co.uk",
+      "status": "ok",
+      "rss_items": 9,
+      "new_leads": 0
+    },
+    {
+      "house": "Roseberys",
+      "country": "GB",
+      "domain": "roseberys.co.uk",
+      "status": "ok",
+      "rss_items": 9,
+      "new_leads": 0
+    },
+    {
+      "house": "Lyon & Turnbull",
+      "country": "GB",
+      "domain": "lyonandturnbull.com",
+      "status": "ok",
+      "rss_items": 26,
+      "new_leads": 0
+    },
+    {
+      "house": "Forum Auctions",
+      "country": "GB",
+      "domain": "forumauctions.co.uk",
+      "status": "ok",
+      "rss_items": 17,
+      "new_leads": 0
+    },
+    {
+      "house": "Dominic Winter",
+      "country": "GB",
+      "domain": "dominicwinter.co.uk",
+      "status": "ok",
+      "rss_items": 11,
+      "new_leads": 0
+    },
+    {
+      "house": "Spink",
+      "country": "GB",
+      "domain": "spink.com",
+      "status": "ok",
+      "rss_items": 50,
+      "new_leads": 0
+    },
+    {
+      "house": "Noonans",
+      "country": "GB",
+      "domain": "noonans.co.uk",
+      "status": "ok",
+      "rss_items": 11,
       "new_leads": 0
     }
   ]
