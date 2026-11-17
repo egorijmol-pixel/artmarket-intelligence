@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-17T13:37:23.355605+00:00",
+  "checked_utc": "2026-11-17T19:27:02.736689+00:00",
   "mode": "Official-publisher RSS headline evidence, no direct auction-house requests",
   "sources_checked": 8,
   "sources_ok": 8,
@@ -18,16 +18,16 @@
     {
       "source": "Heritage Auctions",
       "status": "ok",
-      "rss_articles_seen": 58,
+      "rss_articles_seen": 57,
       "new_candidates": 0,
       "previously_known": 3
     },
     {
       "source": "Heritage Auctions",
       "status": "ok",
-      "rss_articles_seen": 55,
+      "rss_articles_seen": 57,
       "new_candidates": 0,
-      "previously_known": 23
+      "previously_known": 24
     },
     {
       "source": "Stack's Bowers",
@@ -60,7 +60,7 @@
     {
       "source": "Bonhams",
       "status": "ok",
-      "rss_articles_seen": 56,
+      "rss_articles_seen": 57,
       "new_candidates": 0,
       "previously_known": 0
     },
