@@ -633,6 +633,90 @@
     ]
   },
   {
+    "group_id": "59f19f0e87b3b48b",
+    "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - WRAL",
+    "category_hint": "jewelry",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      4900000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-13T18:53:41+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "0f4e3f27d9e15854",
+      "2e4a6427c60d7df8"
+    ],
+    "links": [
+      {
+        "candidate_id": "0f4e3f27d9e15854",
+        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - WRAL",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1VrSXVrcmZ3Q2lodmRSRlBxTzJpVk5VSzB2LVQ5NF9ia2tjT0Z2b0gxUGdwdmFUMnMxWVNkUkM2UzlFb0F1N25icmJEVUJfXzFtaFRGeEwtRW84Tk9qWWxtUHRia1I5OG5vRWhaaEc1aVgwODhCWXJaM3docFBxaHZPemdTbGp3MDZvRm1zOWw0ZmdzX2xXZkxpZVRGbnRVS2trRHhicno?oc=5",
+        "publisher_name": "WRAL",
+        "publisher_url": "https://www.wral.com",
+        "published_at": "2026-11-13T18:53:41+00:00",
+        "indicative_usd": 4900000
+      },
+      {
+        "candidate_id": "2e4a6427c60d7df8",
+        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGhGVmU4WWxRbVdhTU1uSEVsdDgxMzVKS2duVzN6bXd5Ql9WU2J2ZURDZ0hFb3puSzJNakVGc0NCRWV4OWI4aDRmR3hQcF9PenFQckl0bFhEM0dvRU9fdTE3X0VLLVdmTEdXbThrS2tUdFVtbl9RN1U2UUlwTmtfSjBvLU5xeFVnNUVGUWZxVzVRVnZRdGRLcEFLY1VwN0pURFVHaXA2dzQxQdIBrwFBVV95cUxOLS1hVlJKVHlhcHZpbVFob3ZTNXpCQXlUWUR4YkJObFNfUGo4VkxFODNnSFpkRFlTd1ZEUUxfbFNZX0o4ZmZKeUV0eElYQ1JCNlJkYXExWjUyQUdPZTluVWxNTWZHeXFYNHBLYXIyOWc0Wmp2cmNEcWtpRHZJN2dRQXdUVi1OdDYwcUQ4UkgyeW9EOWhJVzdXR3VhaF8zM1VzeUgyMVlQVTVBRFRvSVEw?oc=5",
+        "publisher_name": "Breaking News, Latest News and Videos",
+        "publisher_url": "",
+        "published_at": "2026-11-12T08:34:42+00:00",
+        "indicative_usd": 4900000
+      }
+    ]
+  },
+  {
+    "group_id": "41673487d97849c6",
+    "title": "Sealed Copy of ‘Super Mario Bros.’ Sells for Record $3 Million at Heritage Auctions - Intelligent Collector",
+    "category_hint": "other",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      3000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-06-16T15:42:14+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "35e5ab3a61360161",
+      "d5941f9c6cc148cc"
+    ],
+    "links": [
+      {
+        "candidate_id": "35e5ab3a61360161",
+        "title": "Sealed Copy of ‘Super Mario Bros.’ Sells for Record $3 Million at Heritage Auctions - Intelligent Collector",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZW5rbXVTYXpGN2xySGtGYkN5a0NRM00zeW11eGVpMFE4eUYxeFBWd2d6UE8zNVJwVVk5Wk4zQ0llVmpILVE2TVR4eVRqTkttdGNqcnBLb3l1MjRfT2RULVNMdFRCbG4zUjV4OFlvMWpaYkZHc0t0cFZoSGVRb2puYWt5b3ZQVE5YaFc4UldrQldjQ2YySFcxRmNtaEtxcnVaZG1TNGR3M0huV0RLajJpLV9Hbw?oc=5",
+        "publisher_name": "Intelligent Collector",
+        "publisher_url": "",
+        "published_at": "2026-06-16T15:42:14+00:00",
+        "indicative_usd": 3000000
+      },
+      {
+        "candidate_id": "d5941f9c6cc148cc",
+        "title": "Highest-Graded Super Mario Bros. Sells for Record $3 Million at Heritage Auctions - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWHIxeXpxTzZ2OW5ia2V0SGlnYThYRDEzdFgyRmlIRTA5WnI1TXRFcGptZlFqbjZpTGgtZmZRbzlnM3Nxbzh0ejRJWVFkd1hvRDFZN25pQU5hRDB4Y29VVW56Mm8tel9kU3NITFlvMk9ualFNZDFCb3BDaUR5dUwzckxGSnRXVUdiTWNFbzVRNlFTdGRTQVRGNDhWdzFacXAzWFZJTXFGcEZ6aXBWYW5RSTFkQURHa2ZPQnM4LTdwRUVYMVpwZWJfSmJPZUFSQ2VkeVFES3lrZ2M2SXZxVmFEY0R3Ty1FTFZLVUxOc3hKVVpCMGRiekhkb0trTkc?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://entertainment.ha.com",
+        "published_at": "2026-06-12T07:00:00+00:00",
+        "indicative_usd": 3000000
+      }
+    ]
+  },
+  {
     "group_id": "b3ba3198b83b35f1",
     "title": "Baseball card found in Cuyahoga Falls sells for $2 million at auction - Yahoo Sports",
     "category_hint": "other",
@@ -887,6 +971,48 @@
         "publisher_url": "https://nationaljeweler.com",
         "published_at": "2017-06-08T07:00:00+00:00",
         "indicative_usd": 850000
+      }
+    ]
+  },
+  {
+    "group_id": "938e3b3b656b1844",
+    "title": "The Finest 1804 Silver Dollar Sells for $7.68 Million at Stack’s Bowers Galleries - Stack's Bowers",
+    "category_hint": "other",
+    "articles": 2,
+    "publishers": 1,
+    "indicative_usd_values": [
+      7680000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2021-08-19T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "74cb2a0fc339df7f",
+      "bec13b72df92e26a"
+    ],
+    "links": [
+      {
+        "candidate_id": "74cb2a0fc339df7f",
+        "title": "The Finest 1804 Silver Dollar Sells for $7.68 Million at Stack’s Bowers Galleries - Stack's Bowers",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWGdub3BOMlJZUE9vSE9BN2FKdVdFUWtzWXBVNGRfVERQVWlmQzdqaWt1bkdRZTRXc3NsandPSjAyYjBpV2dXdDVkcExIaW1GWUxFUTdyZGlaYnViZWl0M2NuR3I1XzlIQ1N2ZGYxQlBvTFNHSmVTc3Y0UFdELXY3RzEzeWhObTFEVm1Z?oc=5",
+        "publisher_name": "Stack's Bowers",
+        "publisher_url": "https://stacksbowers.com",
+        "published_at": "2021-08-19T07:00:00+00:00",
+        "indicative_usd": 7680000
+      },
+      {
+        "candidate_id": "bec13b72df92e26a",
+        "title": "The Finest 1804 Silver Dollar Sells for $7.68 Million at Stack’s Bowers Galleries - Stack's Bowers",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR25KTWQtN3gteVJ5a2p0eUdrR1JnY2pPdk5zZXNrazhRR3J2cFVHVW9ILW5ab1NYQTcwZExUUXlYVFVVZ3kyTHNSWEZlWE1oTVM2M3BMblhYZ3U1Q3FPNnNRUmJkMXBGMUZIWmJfQWFqWTJCZjJoZll5Y1hEUkNVV19LYngteXBLdnhEbHhqUkdZd3dzdzJ3bVhkLWtWbkNvSVEwTUNrQlhObWNPVWE4WlhqcDZLWVBscUpGb3pQRlBZMldwYlE?oc=5",
+        "publisher_name": "Stack's Bowers",
+        "publisher_url": "https://stacksbowers.com",
+        "published_at": "2021-08-18T07:00:00+00:00",
+        "indicative_usd": 7680000
       }
     ]
   },
@@ -1151,39 +1277,6 @@
     ]
   },
   {
-    "group_id": "1ca8907b96c8648b",
-    "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - ABC News - Breaking News, Latest News and Videos",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      4900000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-11-12T08:34:42+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "2e4a6427c60d7df8"
-    ],
-    "links": [
-      {
-        "candidate_id": "2e4a6427c60d7df8",
-        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGhGVmU4WWxRbVdhTU1uSEVsdDgxMzVKS2duVzN6bXd5Ql9WU2J2ZURDZ0hFb3puSzJNakVGc0NCRWV4OWI4aDRmR3hQcF9PenFQckl0bFhEM0dvRU9fdTE3X0VLLVdmTEdXbThrS2tUdFVtbl9RN1U2UUlwTmtfSjBvLU5xeFVnNUVGUWZxVzVRVnZRdGRLcEFLY1VwN0pURFVHaXA2dzQxQdIBrwFBVV95cUxOLS1hVlJKVHlhcHZpbVFob3ZTNXpCQXlUWUR4YkJObFNfUGo4VkxFODNnSFpkRFlTd1ZEUUxfbFNZX0o4ZmZKeUV0eElYQ1JCNlJkYXExWjUyQUdPZTluVWxNTWZHeXFYNHBLYXIyOWc0Wmp2cmNEcWtpRHZJN2dRQXdUVi1OdDYwcUQ4UkgyeW9EOWhJVzdXR3VhaF8zM1VzeUgyMVlQVTVBRFRvSVEw?oc=5",
-        "publisher_name": "Breaking News, Latest News and Videos",
-        "publisher_url": "",
-        "published_at": "2026-11-12T08:34:42+00:00",
-        "indicative_usd": 4900000
-      }
-    ]
-  },
-  {
     "group_id": "10b451d61b172086",
     "title": "The ‘Mona Lisa of pink diamonds’ is one of the rarest on Earth — and just sold for $14.6M - New York Post",
     "category_hint": "jewelry",
@@ -1314,6 +1407,70 @@
     ]
   },
   {
+    "group_id": "1f9f29957bca60f1",
+    "title": "1959 Gibson Les Paul Brings $781,250 at Heritage, Setting World Auction Record for a Vintage... - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      781250
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-16T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "4d061c950233f292"
+    ],
+    "links": [
+      {
+        "candidate_id": "4d061c950233f292",
+        "title": "1959 Gibson Les Paul Brings $781,250 at Heritage, Setting World Auction Record for a Vintage... - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNZjV2d1pQdl9yTmpULWpQQW01ZUFBdTExVm5NdFRnYlZuakFzdzlMZmgwa3RSYm4ybVd5bkFrRmtZSk55TUhMNEZfcW1EX2xtRWQ3WU11bjVPbEJwUlpBRHZYQUViQjNrdlp5anljXzlfN1praUhNVUVlc2ZuWTV6Yks1WWpIaEwwZXBvTURGZmJrZVZab3BPdDRJN1R5UmlEWlZjUU1kR2NsQ0hyRmpuTDhiZFNpbjFHNlNFdV9WTmFSYkVNbmZld1JDOFFKTTVoSjkxdDdabmk2bTJoc3J2bUhjNkZhcDVaRW52WTV5LWRVTzBYVGRCaUlSeEd0WjN5SFZpY3NLeXdVN0NGS2dNVUVsMFhHT1BIaGZOQ05wbFJDWXJheGpQbmQ0eVFOOEk1azZvVTFpYVhNZw?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://entertainment.ha.com",
+        "published_at": "2026-10-16T07:00:00+00:00",
+        "indicative_usd": 781250
+      }
+    ]
+  },
+  {
+    "group_id": "0d612d281056eb92",
+    "title": "First Edition Harry Potter Brings $400,000 at Heritage Auctions - Heritage Auctions",
+    "category_hint": "books",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-16T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "20171fa0dabb952b"
+    ],
+    "links": [
+      {
+        "candidate_id": "20171fa0dabb952b",
+        "title": "First Edition Harry Potter Brings $400,000 at Heritage Auctions - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdWNkaUZhdWVjM0hXQ0IzMVhBcmtGSlc3blNCT1RWNzZmNFl0NWpjbVN3eGE0TTZnZlRKczZma19NdFptRnVOc0NBQV92bUI0MzNGai1KUTRCeks5ZnZ0QWFOeHdJMjR0MmpVc1p2dnpZUTZIWHBMbWl5bjVQN2VvU2xFM2RfOS01TFpmTWxxZ29Ja0xsc1ZoR25ZclRUS2tERFhoVzhCTm5HRnN1YlVwODZLbTZYN0tENE4yeTRGMHFqWnE0OXdxOWtsUzJYTEE1OC15NW15TQ?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://www.ha.com",
+        "published_at": "2026-10-16T07:00:00+00:00",
+        "indicative_usd": 400000
+      }
+    ]
+  },
+  {
     "group_id": "75b83df07cabd92a",
     "title": "Nazi-Looted Kandinsky Painting Sells for $42 Million at Auction - The New York Times",
     "category_hint": "art",
@@ -1343,6 +1500,38 @@
         "publisher_url": "",
         "published_at": "2026-10-15T07:00:00+00:00",
         "indicative_usd": 42000000
+      }
+    ]
+  },
+  {
+    "group_id": "d53e64dcef261c1a",
+    "title": "Historic 1792 Half Disme Brings Record $2.93 Million, Leads Heritage’s GACC Numismatic Auctions Above $19 Million - Heritage Auctions",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      19000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-12T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "5d018df10b3cd8d0"
+    ],
+    "links": [
+      {
+        "candidate_id": "5d018df10b3cd8d0",
+        "title": "Historic 1792 Half Disme Brings Record $2.93 Million, Leads Heritage’s GACC Numismatic Auctions Above $19 Million - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNMnAyZWRKN1NtWUZ6dHMxU1I2OFpULV9JLTdVNnVKRkxHcHRKODI4RE9TMVF6ZzlyQ1Njc1otRHU4VEdNUC0wWlF5R1ZaaW92UXFGY2hWZmdVTFdBUjdxMlByckliakU0azRzeDJ5bGpKOEg5UnFCWGt3NTdBWDdBVGdtYVhxa0pYTnFlUWpNMC1ueFF1Si1YNnJ3Nm1kSG5Tcl9BM1BuMnNmYmVmbFNMVWY5LU1Jd3cyejBsQ3FzQjEtWGprYkpUN2ZsUldnTEVTbGZiSjNRR05vTE9XS2FDam1MSXYzbm5tLUVVaTdaZEE1aWgyckhPal9YaWZHWC1Bcm5aczFHdUI4anVnWGNqZ2RLMzZKcmVkRkE?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://coins.ha.com",
+        "published_at": "2026-10-12T07:00:00+00:00",
+        "indicative_usd": 19000000
       }
     ]
   },
@@ -1568,6 +1757,38 @@
         "publisher_url": "",
         "published_at": "2026-09-18T07:00:00+00:00",
         "indicative_usd": 3400000
+      }
+    ]
+  },
+  {
+    "group_id": "e12ae0aee0c0cd2a",
+    "title": "NASA Engineer's Rolex 'Paul Newman' Daytona Brings $200,000 to Lead Heritage's $3.68 Million... - Heritage Auctions",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      3680000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-09-17T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "e8ada5a400557b19"
+    ],
+    "links": [
+      {
+        "candidate_id": "e8ada5a400557b19",
+        "title": "NASA Engineer's Rolex 'Paul Newman' Daytona Brings $200,000 to Lead Heritage's $3.68 Million... - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNaHlRX3BhMndfaXgxTGFVaG1Ebk5NMUF3TW1HWXgwZURYZnZHUHBvNEwtbm1KOFMtTENzMHhrSFZYYk5oUEpkdzhvak1NY2JGejBfekpHc2ZrSG9DQmZHdnhoZ214TFdzd3BSeWZTYm1Nai1za1dxMlJERjU0dVQ1SWpOTnpWbmpvOExzYnQtd1RObmluQlhmcG15V2RobHptVnVFSThVX0J6alN2NTV1bkc2Z3Z1cXItbkxSYzVPV1FtcG1iY0FmNG1teWNkUTdrbW5NMEpSNmpEVGVsVFdmYlBqVzNyVFJyREJ2VXlXa3dRQTJMcURYUDV3U0VnZlIyVFZBNjEyakg1RXY5NEU3QWh3eHR1MFpwQXhKX3RTMmNwR3pOWXBzX3h4eDRIcXM?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://jewelry.ha.com",
+        "published_at": "2026-09-17T07:00:00+00:00",
+        "indicative_usd": 3680000
       }
     ]
   },
@@ -1898,35 +2119,34 @@
     ]
   },
   {
-    "group_id": "dd7f01683ef908e7",
-    "title": "Sealed Copy of ‘Super Mario Bros.’ Sells for Record $3 Million at Heritage Auctions - Intelligent Collector",
-    "category_hint": "other",
+    "group_id": "6a3b41653cda0a1c",
+    "title": "Iron Man First Appearance Original Art Brings Comic Art Auction Record $3.875 Million at Heritage - Heritage Auctions",
+    "category_hint": "books",
     "articles": 1,
     "publishers": 1,
     "indicative_usd_values": [
-      3000000
+      3875000
     ],
     "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-06-16T15:42:14+00:00",
+    "last_publication_at": "2026-07-10T07:00:00+00:00",
     "priority": 1,
     "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
+      "Не найден проверенный результат конкретного лота из официального источника"
     ],
     "decision": "needs_official_primary_source",
     "is_verified_sale": false,
     "candidate_ids": [
-      "35e5ab3a61360161"
+      "d2677562e0bd8ea8"
     ],
     "links": [
       {
-        "candidate_id": "35e5ab3a61360161",
-        "title": "Sealed Copy of ‘Super Mario Bros.’ Sells for Record $3 Million at Heritage Auctions - Intelligent Collector",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZW5rbXVTYXpGN2xySGtGYkN5a0NRM00zeW11eGVpMFE4eUYxeFBWd2d6UE8zNVJwVVk5Wk4zQ0llVmpILVE2TVR4eVRqTkttdGNqcnBLb3l1MjRfT2RULVNMdFRCbG4zUjV4OFlvMWpaYkZHc0t0cFZoSGVRb2puYWt5b3ZQVE5YaFc4UldrQldjQ2YySFcxRmNtaEtxcnVaZG1TNGR3M0huV0RLajJpLV9Hbw?oc=5",
-        "publisher_name": "Intelligent Collector",
-        "publisher_url": "",
-        "published_at": "2026-06-16T15:42:14+00:00",
-        "indicative_usd": 3000000
+        "candidate_id": "d2677562e0bd8ea8",
+        "title": "Iron Man First Appearance Original Art Brings Comic Art Auction Record $3.875 Million at Heritage - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaFZpdUFFeVNacnNhRDVBYW0xRG9nNTBsbGJ3Y1MxNXJZVE5NQUFwVUFsbmN0SFNRX3hENDlibWdmbnVTSlZrckxScEtHQVpzdEptZ1gtenpvWF9iRWtFT2MwR2Z4ZmFSRXhPSVMzTHZ5bV81Yk9RUlJlUEJPcUsxYVlrRTlIYTNla3o2SUI4WGo5ejI3bzIySERTS2Mwd2p1b3dubXEtOTdoSVg3RWJoenc4SURSS1p3bUJNUW00MjVITFZXR1JJVU00bTBwNmpYMnROMUwwVGZjM1J5QUNnNW9NcHVBY3U1U3JyN1h2X3pST1FkWFhtN0dzYXcxNlRSLUFOUUp3ZVY?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://comics.ha.com",
+        "published_at": "2026-07-10T07:00:00+00:00",
+        "indicative_usd": 3875000
       }
     ]
   },
@@ -3070,6 +3290,38 @@
     ]
   },
   {
+    "group_id": "d7939f8543008b1c",
+    "title": "6.17-Carat Pink Diamond Brings $2.18 Million at Heritage Auctions - Heritage Auctions",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2180000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-12-05T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "85ae829d5f9d3d19"
+    ],
+    "links": [
+      {
+        "candidate_id": "85ae829d5f9d3d19",
+        "title": "6.17-Carat Pink Diamond Brings $2.18 Million at Heritage Auctions - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaTFjaVhFMUVsdWZWUWkzT0xZeDFFbURYc0dkaXhCNlNYTHNxRkZIbFZJZkVsQVlDSkJ1ZFJpd2RQSVg0ckpGTkctQnZySkZuWVlzRGJqWjhydmhiYk03QnZDUVRpdjU4dGEwVmNROG5WUDZQemdPVjVESlVFMFV1amhoVEVSNFdiSlE2TjBQcENUSTA5cU00ZmVFSGdxN20zc2twZTBIbGxuSXJQaDJNdnlXdzUycmdwSE1ob2RjdlhEdnhES3lwczA1NEh2dkVZXzJ5Z3V5WWRlSFUxMEM4?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://jewelry.ha.com",
+        "published_at": "2025-12-05T08:00:00+00:00",
+        "indicative_usd": 2180000
+      }
+    ]
+  },
+  {
     "group_id": "4817d77349b5ebfd",
     "title": "Fabergé egg fetches record $30.2 million at rare auction - CNN",
     "category_hint": "other",
@@ -3360,6 +3612,70 @@
     ]
   },
   {
+    "group_id": "4af0c858e3f85022",
+    "title": "'The Walking Dead Universe Auction' Brings $1.96 Million at Heritage Oct. 31-Nov. 1 - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1960000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-11-05T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "6fbe337303ac8e4f"
+    ],
+    "links": [
+      {
+        "candidate_id": "6fbe337303ac8e4f",
+        "title": "'The Walking Dead Universe Auction' Brings $1.96 Million at Heritage Oct. 31-Nov. 1 - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMi04cERycGR3dU9KdDVxOGo5SDlyRkViNVIzaDJpLXdlaDNqdUJLWGNNMVJVZUc5UW8xMzBJUEZ3ck85d3JuUVBlRWFBYU1QcnR0bEhOQ1ZoenFZTDNQdHZBZVJ1N3VhckFILXZsZExBQnNrTGxiOExPR3gzMXJSMFBYRlZ4RHVMM0dsRmFBdWVLNkRTTWFva2dpTkFFX0xVdThwSjFuMjZEU3RIS3hnM09iNm1KSEZKdGs1UzdMdXo0dERJc0VlRkNYVjNhTVpULXFOZFFUWjhsQ3BqZTFfc2FLOF9FUUQ5NGhJU3Q1TTQ?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://www.ha.com",
+        "published_at": "2025-11-05T08:00:00+00:00",
+        "indicative_usd": 1960000
+      }
+    ]
+  },
+  {
+    "group_id": "993727819e9402c9",
+    "title": "Todd McFarlane Batman Cover Brings Record $781,250 to Lead Heritage’s Keif Fromm Collection Comic... - Heritage Auctions",
+    "category_hint": "books",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      781250
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-10-21T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "c7d96a08abf13337"
+    ],
+    "links": [
+      {
+        "candidate_id": "c7d96a08abf13337",
+        "title": "Todd McFarlane Batman Cover Brings Record $781,250 to Lead Heritage’s Keif Fromm Collection Comic... - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOM21USUlPSWFEem82MEF1RVZWbmFLV2dSWnJfcHVfbXNBYUZTMDBkUzNjamR3RHRva2RkOVhBVDhDc0dfS211OHlkMUNzSDV1blRmdnJFbEZ5ZmFfSGZGNDdtYWlXNl83cG1QUHJicjdBNi1nbzJjX1hYcFJrZlp4emNJOHotTXNSRlRoazZoYndwTHVBMUVabTM1TzJic2pfRnlYOHlfQXU5dkEtcTdvUWRjdnphdC1LeDVyZzU5SnNXcnpiTk9PcDFPRXQySVFaX3F3Vlc5dmRNUldQRWVqcnlXZ0dLaWFfU0U4Q0w5eGxQWFpyempodm83VlFLX1JCdlA0aWJKZVEtbWx5WThVQVJXSTEtS3ZhaUNYU1h5ZGhSbjJJUUJ2dVFxdzFkRnJz?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://comics.ha.com",
+        "published_at": "2025-10-21T07:00:00+00:00",
+        "indicative_usd": 781250
+      }
+    ]
+  },
+  {
     "group_id": "e1e015b7d9bde028",
     "title": "This Legendary Gold Rolex Just Sold For $6.2 Million - GQ",
     "category_hint": "watch",
@@ -3555,6 +3871,70 @@
     ]
   },
   {
+    "group_id": "e134fd9a3161e030",
+    "title": "Art of Disney Auction Celebrating the Studio’s Greatest Artists Brings Record $5.19 Million,... - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      5190000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-08-13T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "bba7215709a30abf"
+    ],
+    "links": [
+      {
+        "candidate_id": "bba7215709a30abf",
+        "title": "Art of Disney Auction Celebrating the Studio’s Greatest Artists Brings Record $5.19 Million,... - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPSDd0bzhHOFpMWFh5ZXp2S2dCMGFWNFBoTnNWeTV2NTlOd1MxclFxMG9hZy1lX0U1R1ZrMlJWQkYyR21rTW9CSWFqSU11SDdzWV92eV9CbW04ak1tX0wtVjR6dmcyOFlrSk50clQ4VGc3Y0lzZ2VvTmVKZlhuLW1lV0piSFM4TEtQcU45LWJZUHAtRmRqUEVSRmZVX2pzUUtCWVI5TkszWHhhQnNRb2RpLW1rRWlHLUE1STBVWmZYMGtuSUcxRzZWMWlnVTFMVG9UYXVLb21LTlZhX1hfS2RMWU9LcHp0Z0swdXdJdFZrem9iNDlseXNwaW1sREdkYk0tTzgyTWxOWEdSTzBreFJ2TkthYzVjYTJRZ1doblVfc0owTnd6cXdKNnNqb1lUa0toWFFUUnNoN3hnM1FpZE1ZeFdn?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://fineart.ha.com",
+        "published_at": "2025-08-13T07:00:00+00:00",
+        "indicative_usd": 5190000
+      }
+    ]
+  },
+  {
+    "group_id": "43f23ebf07fc112b",
+    "title": "1955 Topps Roberto Clemente Rookie Card Brings Record $1.15 Million in Private Sale at Heritage... - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1150000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-08-07T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "74b7b91466eb657d"
+    ],
+    "links": [
+      {
+        "candidate_id": "74b7b91466eb657d",
+        "title": "1955 Topps Roberto Clemente Rookie Card Brings Record $1.15 Million in Private Sale at Heritage... - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSzhsV2pFTWJBZWpiZlhuSkE2VDNZelhTMlJiS2d5U1BzTTBOdW5aTk4tQ0VkQkItTWtJWjZ5VGw0b1JKM1dyaW5MM2FUQ1ZJU2pMOFlkZHVkYTFBVE1mc3NINFFKWGtkV0NzMzlwcF9jendsZ2pCd2tUQUZBemk4REtJS1hCQ2lzcUktaGZTYlBtTTRxTS12S203WFNVT0p2STE4NmFRVklOMnZYM3Q1M3hYelpFVXEyMS00QW5sSER5TEx5RmQ2dWdhZ1JJQktVTUpiYXJkSWxzSUJZOXY2UlZIYWo0c2RFckctYXd1MGJ0UkhoUXRmX0FkU19jcWVoT281bE9lMkpTMVNBR2JxWTBR?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://sports.ha.com",
+        "published_at": "2025-08-07T07:00:00+00:00",
+        "indicative_usd": 1150000
+      }
+    ]
+  },
+  {
     "group_id": "bc66c8667438a0a9",
     "title": "“Rosebud” Rides Again: Citizen Kane Sled Sells for $14.75M - Antique Trader",
     "category_hint": "other",
@@ -3617,6 +3997,38 @@
         "publisher_url": "",
         "published_at": "2025-07-18T07:00:00+00:00",
         "indicative_usd": 5300000
+      }
+    ]
+  },
+  {
+    "group_id": "644661e88a4650c5",
+    "title": "Rosebud, the Iconic Sled from Citizen Kane, Breaks Auction Records and Sells for $14.75 Million... - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      14750000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-07-16T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "1a5726e933d5430f"
+    ],
+    "links": [
+      {
+        "candidate_id": "1a5726e933d5430f",
+        "title": "Rosebud, the Iconic Sled from Citizen Kane, Breaks Auction Records and Sells for $14.75 Million... - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNdGJfd2JKWjBlaWlGTXd4YmRVZG9Wdmk0dVdkejFRNG52M05DVFZGR3d3NWVQa1VFeXhNa0RUNjR2allGTXI2ZXNfMTNoTC1yczZVcmV2MDROQVBIMkF6REZhWi1rNkF2NXpOamRiQ2dMakFwNEQ2QW5yTDNTd200UlY5NFVRV0hsSjFmQkkxc2FGMmZEUGM2cElNMExaZF9nS2g4Tld6NVhZSEo0VmM3b2lmOHlUd3I2aDQ1cTFJMmh5eV8wQ1dGd0lZWTdSUUFxaDlseWtSaldzaHJqcndNTU9Pd3BQdEVsZFgxYV8yUnJ4a1NZNGNvb1otdHBsZ3BPa011Tk9kNjRqb1NvZ29EdU1mNUQ0dUxHSHhVWXR5MEU3OVZWalJ5Xw?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://entertainment.ha.com",
+        "published_at": "2025-07-16T07:00:00+00:00",
+        "indicative_usd": 14750000
       }
     ]
   },
@@ -3912,6 +4324,38 @@
     ]
   },
   {
+    "group_id": "e9cab65324d86b80",
+    "title": "Local man’s ‘Star Wars’ memorabilia sells for over $1M, and there’s more to come - KDVR",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-01-23T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "343415d77b9c42ef"
+    ],
+    "links": [
+      {
+        "candidate_id": "343415d77b9c42ef",
+        "title": "Local man’s ‘Star Wars’ memorabilia sells for over $1M, and there’s more to come - KDVR",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU19GcGJkemY0VXZmMDVzNWZyNk9xQWNoa3NIMFJmUXhZekREc3NUZjRDYl93ZXI5Z2tiQW84NGdzMEJfcm9OYWdqR19sb3hVcFBDOGtPbmZJS0t2bEtzXzFjVkYxY3hUWjhGcUJhRzBzSnRNUzdwYlM5amg5TjBiX1B0bnNKbFdoMzhVbV9hWnoxYkNkZTY4b1Z3akRKR0ZBeU9hYnVR0gGrAUFVX3lxTE5VdnlrNXJvTDlFMzlSVmZVOXpHVEtkc2R5NWNtOEVlay12a3FKSFZiT0xac3RQYXFmVk5sX0Z5eUxaRWRfb2E5a1JKbnBTX0lCaHVfTGNrVkllSnY2MG1sWkp1bW1GeTA2cnMxaW9rRlE2a2NzR21heGlra0RPbVdXaG9iUVQzWFRQeVlMNGNTSU9aVWE1aXZTem14MWctRnZNb053aFA2WHdWNA?oc=5",
+        "publisher_name": "KDVR",
+        "publisher_url": "https://kdvr.com",
+        "published_at": "2025-01-23T08:00:00+00:00",
+        "indicative_usd": 1000000
+      }
+    ]
+  },
+  {
     "group_id": "a32cac4b309f3eae",
     "title": "Tom Brady’s collection of watches and memorabilia sells for $9 million at auction - The Athletic - The New York Times",
     "category_hint": "watch",
@@ -4138,6 +4582,38 @@
     ]
   },
   {
+    "group_id": "e98576726c476e4e",
+    "title": "Celebrated Ruth Nelkin Collection of Japanese Woodblock Prints Brings $2.2 Million at Heritage... - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2200000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2024-07-01T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "f35f5438474b0b6c"
+    ],
+    "links": [
+      {
+        "candidate_id": "f35f5438474b0b6c",
+        "title": "Celebrated Ruth Nelkin Collection of Japanese Woodblock Prints Brings $2.2 Million at Heritage... - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMFZZY25UNnBtY1hBeVVZUjQxU1RwaUwzZnpUUWQtczg1T1k1WHFyeFgwU0wwLVBaaVpHVmg4QlBNZi11MzFrQUJnWkVPZDltSmlwdlZaMkJ2MUdwUnZCZ1F0X3A4RndtUm9HajVjUmc2S2JETnZ0RkxqaDF2RjJrdVM3bkxWMlJDY3FDR1ZTTEtHQXQ1Ny1kblFKVE15VERpRDVwN0lyblJhZmt1TFo0bHVrNTR5NVRGa3lSUkt0TU9NeXBSTE4yMThqTjJKSzZuWlg0TE9tUlM1YVI2WUo5SzNJOGp6WWY0MzVLM0g5S0FRVkpQcXNfbV9VTEVvVGptZThzaFdsWmVfZGxq?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://www.ha.com",
+        "published_at": "2024-07-01T07:00:00+00:00",
+        "indicative_usd": 2200000
+      }
+    ]
+  },
+  {
     "group_id": "b8ae378fcd39144e",
     "title": "Van Cleef & Arpels Necklace From 1929 Sells for $3.6M at Auction - nationaljeweler.com",
     "category_hint": "jewelry",
@@ -4199,6 +4675,70 @@
         "publisher_url": "",
         "published_at": "2024-05-30T07:00:00+00:00",
         "indicative_usd": 2900000
+      }
+    ]
+  },
+  {
+    "group_id": "3c6f039b20276b0a",
+    "title": "Uncut Sheet of ‘Pokémon’ and ‘Magic: The Gathering’ Cards Brings Record $375,000 at Heritage’s... - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      375000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2024-05-20T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "7151ed1b14032e22"
+    ],
+    "links": [
+      {
+        "candidate_id": "7151ed1b14032e22",
+        "title": "Uncut Sheet of ‘Pokémon’ and ‘Magic: The Gathering’ Cards Brings Record $375,000 at Heritage’s... - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNbi1JRm55MzRjMDBsUVRIYzdtc00tU1NzZzVFN0kzUUtEZ1lxSldmVVFUS2oyc09LcExkM0h3N2hJa0FqbXp2VGZNLTNKNU5iOUt3OEdOWHdISjBrQzRfTldQc3V0blNiWnBScks2RDRpYlNXdTRHU2hKZ01BZGpzbXBHXzlzeS1WTkpJeDNOb3hicjdncE5qeHJQNG9qU3FLOTVrbkR3TGY4a2d4c2ptdlFCUEsyVWE4dU1FZDdPRWdoYmRYaGFVNjJOTEJzWENZMlFKNmYyOWNYekk4MU1Rd0FsNm5EQnZUY18tVXVucDg2SHlsOXhCekNiNGwxX0s3QnJDMmRDVUlWaTJsd3NSY1hTS0N0Y1RsZDgwdEEyMHZQdFNzZzBKNS1IWQ?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://entertainment.ha.com",
+        "published_at": "2024-05-20T07:00:00+00:00",
+        "indicative_usd": 375000
+      }
+    ]
+  },
+  {
+    "group_id": "e35e823c3408344f",
+    "title": "Queen of the Auction: 1891 Netherlands 25 Cents Brings Record $1.13 Million at Heritage... - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1130000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2024-05-16T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "903c96ec09c32243"
+    ],
+    "links": [
+      {
+        "candidate_id": "903c96ec09c32243",
+        "title": "Queen of the Auction: 1891 Netherlands 25 Cents Brings Record $1.13 Million at Heritage... - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOeUtteVFsWVMtdFRLaURsdXkxZlFVRkFtM3dXbEp0UENOU3dMdVltWVk5TTFVUDhqcWYyX3pCT3cwVzUwMG0ybmF5TmhiaVJjMmhzU25weWRabVNLX3dESVlMQXVuakV1aHJhYmRuZ1hKT19QbkNpaS1RaWxxNklJZTNibUh0TmlUZnpXWHVkYTB3Si1RSjBkMGdUM0hJR2pOS0VxUWpZZXBkM0JRQ0k0cTkwMmZxM2ZBZmNEdkw2TnBQbTFvTTZTLTRqUi15ZXFxMkRiZERXdmVwbDRjOVd5Qm9fa3N3azBWekF1ZE1FT0hNbjUwVW1raWdGSnFjV3B4dHNtbURmbWhQcmpUTWc?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://coins.ha.com",
+        "published_at": "2024-05-16T07:00:00+00:00",
+        "indicative_usd": 1130000
       }
     ]
   },
@@ -4425,6 +4965,38 @@
         "publisher_url": "",
         "published_at": "2024-03-27T07:00:00+00:00",
         "indicative_usd": 700000
+      }
+    ]
+  },
+  {
+    "group_id": "54833d93393eac03",
+    "title": "1969 Chappellet Brings $64,575 at Heritage, Leads Wine Auction Past $2.4 Million - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2024-03-26T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "47936532c4f7d244"
+    ],
+    "links": [
+      {
+        "candidate_id": "47936532c4f7d244",
+        "title": "1969 Chappellet Brings $64,575 at Heritage, Leads Wine Auction Past $2.4 Million - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYzRNb1dsbE5PMUJoWV9QVlFkTG5GQXdFZlpTdHcxQk1xdDgzUThXdE81bDBSSGlGNGhHbDhfRVlmZjV5WTZ1bEhMc21ISkhIemxBNUxFM01IcFI1bnJNZEF6dDcxdWY2MnJnTjB6OEdGc3FNMVJCaTdwcWM0aHoyVlNwLWEzSVl2OU81Z2drQVVxX1c4bVJXR0V4d0szVVZwVkQxSno0R1ZTcTJxcmxuRVRlMkZOM2FlRDhVXy0wa1ZMMVlsUEZXSk1rZzQ4MkNKeVBLMUowWUJlaTdtQUVkM2Q1SlRMTVdoR0NNYw?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://wine.ha.com",
+        "published_at": "2024-03-26T07:00:00+00:00",
+        "indicative_usd": 2400000
       }
     ]
   },
@@ -4850,6 +5422,70 @@
     ]
   },
   {
+    "group_id": "a1c2f138af9fb141",
+    "title": "‘The Rock,’ the Biggest White Diamond Ever Put Up for Auction, Sells for $22M - nationaljeweler.com",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      22000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2022-05-12T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "43026a1b8010be4e"
+    ],
+    "links": [
+      {
+        "candidate_id": "43026a1b8010be4e",
+        "title": "‘The Rock,’ the Biggest White Diamond Ever Put Up for Auction, Sells for $22M - nationaljeweler.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWWlnN3BnWGJnbm1VZDlxSFQ3aWs0RjZiQ2wzVjBVYlZFUzlSaW1zR3FzVjFqa1prLXpkczR0YWd0dy0tX0N3YTRVcldLSXhwMlJ0dTJzWTJCZ2UwNDlrcjhiQVZBaVd0Y2prd1N2ZXVQQTl4NmgwZlBZVEozTnF6T1RPRXJuNmExdWk4ckVvQ215MWNtSElWYXFINVZsTnQwSVI3REJhbGwtS0tzejcza2dCcTBlZw?oc=5",
+        "publisher_name": "nationaljeweler.com",
+        "publisher_url": "https://nationaljeweler.com",
+        "published_at": "2022-05-12T07:00:00+00:00",
+        "indicative_usd": 22000000
+      }
+    ]
+  },
+  {
+    "group_id": "a914d0a24ef2afad",
+    "title": "THE DE BEERS BLUE | Largest Fancy Vivid Blue Diamond Ever offered at Auction | Sells at Sotheby’s Hong Kong for HK$451m / US$57.5m | Among the Highest Prices Ever Achieved for Any Diamond Sold at Auction - Sotheby's",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      57500000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2022-04-27T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "c2648dd27fafe9a7"
+    ],
+    "links": [
+      {
+        "candidate_id": "c2648dd27fafe9a7",
+        "title": "THE DE BEERS BLUE | Largest Fancy Vivid Blue Diamond Ever offered at Auction | Sells at Sotheby’s Hong Kong for HK$451m / US$57.5m | Among the Highest Prices Ever Achieved for Any Diamond Sold at Auction - Sotheby's",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQZ3puUXRBRF8tc1BwT2J4cHNRcEtHM2wyU01XQkdTQ1BXSFhRMFRJbGttSE5RWkgxME84em85S2poZHYtM2xDTm80NHBqMnl1Vmk3dXJSdGc4TDJYMnBwSFZDdFBmdHhIWGNIODM2eTFUQkh3TWpJcUhJVVBmdzNxLU80XzNxeVQ3TzFpUHA5YVgzSnFuSDVrTkdIUWJUWFlhODA4N202bHgzOHY5UlQ1cDRFR3BaaHJuRVgyZUdrR0pCTkdFVlpqXzNXeDFQaTBxa19vRDZ4RG9iUGQ2WWlFUzI1OEhqSWptVW1zU01ZNFc3LWhSUnZMU1JSQjZoSVNwYTNfYXczZ0tPU1VmbUNVaXpSckhVa29nc0cyWVhLc1JHNVpYcEdpZnhrenZtUXA0VzN2dU5SOG5mb2NjcmNsS2VjMldxU2JVQzFpMmx0cFFsT3dyRmFBQlZaYldWM3hoYVhOUjRpZ3pFb2ZFYmZzWFp1dzE0RGFz?oc=5",
+        "publisher_name": "Sotheby's",
+        "publisher_url": "https://www.sothebys.com",
+        "published_at": "2022-04-27T07:00:00+00:00",
+        "indicative_usd": 57500000
+      }
+    ]
+  },
+  {
     "group_id": "2b98fd064c21d55c",
     "title": "First issue of Captain America comic sold for $3.12 million at auction - Spectrum News",
     "category_hint": "other",
@@ -5075,6 +5711,38 @@
     ]
   },
   {
+    "group_id": "5b682d994eb032d3",
+    "title": "Famous Hawaii Five-O 1913 Liberty Head Nickel Sold for Over $4 Million by Stack's Bowers Galleries - Stack's Bowers",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      4000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2021-11-08T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "8df48b151a117ece"
+    ],
+    "links": [
+      {
+        "candidate_id": "8df48b151a117ece",
+        "title": "Famous Hawaii Five-O 1913 Liberty Head Nickel Sold for Over $4 Million by Stack's Bowers Galleries - Stack's Bowers",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXhFM2s0anI2S1lkazM1bGtSRlU4eUNyMHE2UWhiMFVhcWFXZGY1d28tQ1hHUXN4d19xem10QWd3Ujh6UTJISUFOQ2FFSzlsRnNLTnZXWlZLaVZibFY4Y0J2TV9TaEc3a1RXU0tHLVhYUXliZ21Wd2NmWUc5ZGR3QUtEYkY3ZkZyYUtsY19YSnRWclBBR3Voc2NOV1ppbHVjOG1RVjhPeFV3MXBBX01r?oc=5",
+        "publisher_name": "Stack's Bowers",
+        "publisher_url": "https://stacksbowers.com",
+        "published_at": "2021-11-08T08:00:00+00:00",
+        "indicative_usd": 4000000
+      }
+    ]
+  },
+  {
     "group_id": "d0a581708ab6dbc7",
     "title": "Al Capone memorabilia sells for $3m at auction - BBC",
     "category_hint": "other",
@@ -5202,6 +5870,38 @@
         "publisher_url": "",
         "published_at": "2021-08-16T07:00:00+00:00",
         "indicative_usd": 6600000
+      }
+    ]
+  },
+  {
+    "group_id": "1571343888474d1d",
+    "title": "Believe It: Neal Schon’s Guitar Collection Brings More Than $4.2 Million at Heritage Auctions - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      4200000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2021-08-02T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "3bfacc7f9cdee15b"
+    ],
+    "links": [
+      {
+        "candidate_id": "3bfacc7f9cdee15b",
+        "title": "Believe It: Neal Schon’s Guitar Collection Brings More Than $4.2 Million at Heritage Auctions - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNT24tWHktMGo0ZTQxNl81cTJ3WGFlWkRCWXRsdlJUekcxTFhfTjZFYnJpd25XLTZrTWVMR3JhRWVqSlVfNjRPRjdfd3JkNDE5VjZIdXBXQ0tjTTF2cnlEWkxIVmlCNW9qV2tvQkZRS1QxbXhGRUg1U0FwclR5bmoxRlR2Z2tPb1BpcUdsUi1TRFNJUHk0eTZndFMzNlcxdjhOQm9DOG01VHpHZHJrbXFXMXZuS1dzUU5XLTJIWTYyd1otQlFycDNpV0pESThUaFEwM2Y4dEhyWHNyd1FVbW0tV21pOVJqdTdua1pwaGlkYXdfalFhMjBhNXhQeC00QXJvcWRLenZsWno2T2c?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://entertainment.ha.com",
+        "published_at": "2021-08-02T07:00:00+00:00",
+        "indicative_usd": 4200000
       }
     ]
   },
@@ -5336,6 +6036,102 @@
     ]
   },
   {
+    "group_id": "6ddb07ff49b0db6d",
+    "title": "Copper Prototype of First U.S. Dollar Brings $840,000 at Heritage Auctions - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      840000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2021-04-23T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "bb17748330aaebac"
+    ],
+    "links": [
+      {
+        "candidate_id": "bb17748330aaebac",
+        "title": "Copper Prototype of First U.S. Dollar Brings $840,000 at Heritage Auctions - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVHlUMzdONThtTUQ5cHQ2RnZVOF9xNm9hM0dsb1dKbXdPLWh5aTBLdUVnWU1HeElLanEwX2M3aU5GMGI3ZjZmSWY3R1lGeGhBZlZqY0pySFlQQmxua3JzRTEwWXpKaENFeTdVckd3R0JxWUstTGc4TkU2TUVkZVdrZENIVDhaRXUtbVB0MG1fNzQ3a1B2M0hYQ1BHM1lsc3cxUGRsZTZRaWJKMzlzZ2o3NXpVVzNvUE1Sc1prdlhLX1E3blNVTWF1MVJkWElRdEVkanVtNVM1TjRRVFdPNWNzVFhfeW1mcnAy?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://coins.ha.com",
+        "published_at": "2021-04-23T07:00:00+00:00",
+        "indicative_usd": 840000
+      }
+    ]
+  },
+  {
+    "group_id": "f1892ead65a5f413",
+    "title": "$17 Million Realized in Sotheby’s First NFT Sale with Digital Creator Pak - Sotheby's",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      17000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2021-04-16T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "927f45e9490705e5"
+    ],
+    "links": [
+      {
+        "candidate_id": "927f45e9490705e5",
+        "title": "$17 Million Realized in Sotheby’s First NFT Sale with Digital Creator Pak - Sotheby's",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVkyN1hhN016cVQtdTZhbHZOMkttcW5lcnMwLWctbG91UGpZZjhESkhkVzQwX3hPNXhoWmtONW5SVG9UQ2VOZmloOG5HTGZKMm5UbHhiVXdTR2E2OWItUGxjaGZFcTlzaHZiZmlnaS1sbWRIUG1nLWcwa2k4aUZyb3U4UVItMUw1Z3BBdXMtX09BY3B1V3VkZjY5aF9yYTBXUzJxaWtVZmoySjhl?oc=5",
+        "publisher_name": "Sotheby's",
+        "publisher_url": "https://www.sothebys.com",
+        "published_at": "2021-04-16T07:00:00+00:00",
+        "indicative_usd": 17000000
+      }
+    ]
+  },
+  {
+    "group_id": "558d3fdf0ae81526",
+    "title": "1797 Half Dollar Sold for $1.68 Million in the Stack’s Bowers Galleries March 2021 Auction - Stack's Bowers",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1680000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2021-04-08T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "d0ae53ba10b7d5f6"
+    ],
+    "links": [
+      {
+        "candidate_id": "d0ae53ba10b7d5f6",
+        "title": "1797 Half Dollar Sold for $1.68 Million in the Stack’s Bowers Galleries March 2021 Auction - Stack's Bowers",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUDZzbW5keWNORlJkbnI5TkEyb1k4Q01QMEtYWkh3aWdKTENSNGI5NWtjV3JMZ0dacHpjSGhxc2ljSEhsY1l1RlI1YklZUHAzMGFOajFhbldaY3FzMkVCejlNVk1YdDF0MHBFbWNXRFRIRVVGbFZNUzFzcHZMNFBScC1pTmktcVdJZ0E1TXNTdlVzZktGLWJHZVQxMzJGT28?oc=5",
+        "publisher_name": "Stack's Bowers",
+        "publisher_url": "https://stacksbowers.com",
+        "published_at": "2021-04-08T07:00:00+00:00",
+        "indicative_usd": 1680000
+      }
+    ]
+  },
+  {
     "group_id": "b147088f816598d4",
     "title": "Rare Super Mario Bros. cartridge sells for $660K, highest price ever for a video game - Polygon.com",
     "category_hint": "other",
@@ -5365,6 +6161,102 @@
         "publisher_url": "",
         "published_at": "2021-04-02T07:00:00+00:00",
         "indicative_usd": 660000
+      }
+    ]
+  },
+  {
+    "group_id": "9052e572e327cd26",
+    "title": "Record-Setting Paramount Collection Brings $41.94 Million at Heritage Auctions - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      41940000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2021-03-30T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "2c8e160e5e4ae215"
+    ],
+    "links": [
+      {
+        "candidate_id": "2c8e160e5e4ae215",
+        "title": "Record-Setting Paramount Collection Brings $41.94 Million at Heritage Auctions - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUkdILVlkSXpfNnJtRzNVYUxKdWhEeW9kV1liUkpTYWNJbGpzbVN3Wkd2bmNoRVZtc1ZqTEpxckdfeTYyenZTdmFYOHh3QXZZYnhrcEVoSlJHeS1kbjNDMVZITVFUZll5UV8zTV9jR1BpVGlNXzNhVXpqSzJtYkZyTmNxVWdtWFNZVjlQUUFMODE5bGtkYW8wVnBhQVE0M0JwdUZfNjhoUnFqNENqSlIwNU9GNGZUcWZxdklmWWI5WXJYYUVJN3dEZTk4cktjcGVFZUs3MkwybHR1bEtlRnRUUGVScWl1XzFoSG9LcnJB?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://coins.ha.com",
+        "published_at": "2021-03-30T07:00:00+00:00",
+        "indicative_usd": 41940000
+      }
+    ]
+  },
+  {
+    "group_id": "58b22bc580be5cba",
+    "title": "World’s Most Expensive British Coin Brings $2.28 Million at Heritage Auctions - Heritage Auctions",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2280000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2021-03-26T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "e750cc2f54d4f363"
+    ],
+    "links": [
+      {
+        "candidate_id": "e750cc2f54d4f363",
+        "title": "World’s Most Expensive British Coin Brings $2.28 Million at Heritage Auctions - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQndzV3Qxdm0zcHpjQldKM2hzTEJ6MXJSZ0JuMHJxeGFYVHp2VjVHM0ZUX19EeW5xbmtfUDZic0ptRE16MHhJc1Z0Q3I3TVVvYUdVQmo2OVZxQjNHV0pfVF9WNzVLWklMVlBHUkJkMDFvd3pZUXRLN2FHZFVQN0dFUkZRSG9KbFN0STRVMG1paHBWS0Fub3JRV3dXUnhsUjRGS2pkd3plajBURVRMX3M3REk2T3Q5Sms2cERJVW1udE1qd09xZW51NUZxMXh6QWRZdF9FalcteTJlb0V3MXZfNUVtVElrY0VMU3VKVg?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://coins.ha.com",
+        "published_at": "2021-03-26T07:00:00+00:00",
+        "indicative_usd": 2280000
+      }
+    ]
+  },
+  {
+    "group_id": "570ea1398a96d839",
+    "title": "Historic 1822 Half Eagle Sold for $8.4 Million in the Stack's Bowers Galleries March 2021 Auction - Stack's Bowers",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      8400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2021-03-26T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "4f65be8c2081e316"
+    ],
+    "links": [
+      {
+        "candidate_id": "4f65be8c2081e316",
+        "title": "Historic 1822 Half Eagle Sold for $8.4 Million in the Stack's Bowers Galleries March 2021 Auction - Stack's Bowers",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNWJWSmJ6cktuSWVMdGZQT1Bib0loTDZ0RnpHQTFDdTBJcGdaU3gwTW5jZFF3QVFRRVNVeEY1T2VncVhLbnRlZGlObkxNeDY3LXFwdndKYnFfU1dPck5UUE5PMm1DLXpKUnMxN1VOejloaWF2Ymp5N3VERnpKcXNOa2g1RE00eE5tUmp1VWpQY2NEN0dsOFMwaVZ4WjRWVjJmTU9oUjlR?oc=5",
+        "publisher_name": "Stack's Bowers",
+        "publisher_url": "https://stacksbowers.com",
+        "published_at": "2021-03-26T07:00:00+00:00",
+        "indicative_usd": 8400000
       }
     ]
   },
@@ -5631,6 +6523,102 @@
     ]
   },
   {
+    "group_id": "13807f07a74ec56c",
+    "title": "Over $5 Million Realized in the Stack’s Bowers Galleries June 2020 Santa Ana Auction - Stack's Bowers",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      5000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2020-06-26T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "40d1e4f0d9cc136a"
+    ],
+    "links": [
+      {
+        "candidate_id": "40d1e4f0d9cc136a",
+        "title": "Over $5 Million Realized in the Stack’s Bowers Galleries June 2020 Santa Ana Auction - Stack's Bowers",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56TXdJR2FSY01EZm5kV1FyQW9CenpVaHpFOUY3TDJrUV92dXdKT1NtTDEyY3pzcVZMejA0MGhoTHBTbFpPbGwxalpSN2xSdDB1NUxnTGMxQkZCdHZ6dFllNA?oc=5",
+        "publisher_name": "Stack's Bowers",
+        "publisher_url": "https://stacksbowers.com",
+        "published_at": "2020-06-26T07:00:00+00:00",
+        "indicative_usd": 5000000
+      }
+    ]
+  },
+  {
+    "group_id": "a55a3f34197fcf60",
+    "title": "The D. Brent Pogue Collection Sells for $131,298,560 Over Seven Auctions - Stack's Bowers",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      131298560
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2020-03-26T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "739af86853c88694"
+    ],
+    "links": [
+      {
+        "candidate_id": "739af86853c88694",
+        "title": "The D. Brent Pogue Collection Sells for $131,298,560 Over Seven Auctions - Stack's Bowers",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FbjgzMG5WXzRrLTh1WnpnWk8wNWhuV0l0T2ZXVE5TS3d5U3dvWEMxVzl3a1VzV2FJamhxckN4d0lLMEhiTU9CSG93SlpKQUpsLTJEdXZYQ2lZa0g1R3dOR1dmSWhmMEVmWGpvTGluUDludw?oc=5",
+        "publisher_name": "Stack's Bowers",
+        "publisher_url": "https://stacksbowers.com",
+        "published_at": "2020-03-26T07:00:00+00:00",
+        "indicative_usd": 131298560
+      }
+    ]
+  },
+  {
+    "group_id": "322f37275a55712e",
+    "title": "Marvel Comics #1 Brings Record $1.26 Million to Lead Heritage Auctions’ Comics & Comic Art... - Heritage Auctions",
+    "category_hint": "books",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1260000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2019-12-08T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "d1171b35b8a8a86d"
+    ],
+    "links": [
+      {
+        "candidate_id": "d1171b35b8a8a86d",
+        "title": "Marvel Comics #1 Brings Record $1.26 Million to Lead Heritage Auctions’ Comics & Comic Art... - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQei1sQjFPNTNRdjhDZUZFUVI0SWNBcFRNSWYxdElVZEJvWkpkM2pvLUE4VVRudlJSYVVsNnYtT0J3djlkZGNPVkRNS2ZiLXM0M2V2OXNKMWp3bjROZXpZWnZFazNHc0hKVWFreTRYWFljYkhyVFNrLXczV1lRakxEVS12N1NSNURlMHZqNGVGaGMwX2RfMmpEemJ2MnN2ZGpFS1BMQThGd1ltYndjTVZMS3BRYlVZVS1zdENqLW1BU2RJcDhRbTFwcEl2TlFBbGpRcHFNMkRzbjJUNW5qVW1lY0VjV2tzY0tUXzZmOTJCeGdBSTF5WkxhS2FRZ01OV08yODFSdWNjZzd0Q044YnNBeExYNXM2NHdrNmJiZm9CYWFkV0FJ?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://comics.ha.com",
+        "published_at": "2019-12-08T08:00:00+00:00",
+        "indicative_usd": 1260000
+      }
+    ]
+  },
+  {
     "group_id": "d5fd9b3f906fb957",
     "title": "A Patek Philippe ‘Grandmaster’ Watch Just Sold for an Astonishing $31 Million at Christie’s, Setting a New World Record - Artnet News",
     "category_hint": "watch",
@@ -5727,6 +6715,38 @@
     ]
   },
   {
+    "group_id": "3ac46c29d00e48b6",
+    "title": "The David Gilmour Guitar Collection sells for $21.5 million - Christie’s",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      21500000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2019-06-21T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "861cf02b9697f545"
+    ],
+    "links": [
+      {
+        "candidate_id": "861cf02b9697f545",
+        "title": "The David Gilmour Guitar Collection sells for $21.5 million - Christie’s",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNFR3RXFPdzJuRlI1RDBKdEdtVnE5ejAxUHg0aVZQNU5DMHdCbk50QkJ0Y2NHdDJfN1RvUkRBVkw5WllRSHpxVXpHVmo2WTV5bC1JeVpLNHJTNWVtMk1pYjFVMW1iMXNxYjF4T3VGaUVpMW1PNjhqREE2OTRkV2F6aERkX1ozN1cxVzJpUE02NEpzNmpDMUFEVFpSOVdFVk5OSzhpVzBqWk5ZYzdRTmRZ?oc=5",
+        "publisher_name": "Christie’s",
+        "publisher_url": "https://www.christies.com",
+        "published_at": "2019-06-21T07:00:00+00:00",
+        "indicative_usd": 21500000
+      }
+    ]
+  },
+  {
     "group_id": "179920998394405c",
     "title": "The 3-Carat ‘Bubble Gum Pink’ Diamond Sold for $7.5M - nationaljeweler.com",
     "category_hint": "jewelry",
@@ -5788,6 +6808,38 @@
         "publisher_url": "",
         "published_at": "2019-05-16T07:00:00+00:00",
         "indicative_usd": 91000000
+      }
+    ]
+  },
+  {
+    "group_id": "b5d19ac5bcb5227b",
+    "title": "Monet's \"Meules\" Sells for Astonishing $110.7 Million, a New Artist Record - Sotheby's",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      110700000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2019-05-14T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "6b9a838be6e73eba"
+    ],
+    "links": [
+      {
+        "candidate_id": "6b9a838be6e73eba",
+        "title": "Monet's \"Meules\" Sells for Astonishing $110.7 Million, a New Artist Record - Sotheby's",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWm5abjhnVXpUYmN2S0JlM3VSemlEYXVnSzdycEFYZFpwbzhPTlN3R0h1LUt1ajYtdGpZX1pTSmxqdC1veW05bnZDR3BwZ2hTX2ZDUVVUWjZ4UE40ODQwcU4yTVhjamhxWXY1VHAzMnoxSk9NX1BZUUFPVjFBblNRWUxrS2ozelVhNURIS25ObG1JS2NjQ25DbjJDXy05RDRvLWthQlF2MEpDQQ?oc=5",
+        "publisher_name": "Sotheby's",
+        "publisher_url": "https://www.sothebys.com",
+        "published_at": "2019-05-14T07:00:00+00:00",
+        "indicative_usd": 110700000
       }
     ]
   },
@@ -5918,6 +6970,70 @@
         "publisher_url": "",
         "published_at": "2018-11-15T08:00:00+00:00",
         "indicative_usd": 36000000
+      }
+    ]
+  },
+  {
+    "group_id": "ca99e0fd1644f912",
+    "title": "Contemporary Art Brings $362 Million, As New Records Are Set for Three African-American Artists - Sotheby's",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      362000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2018-11-14T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "140cb9b4c732472d"
+    ],
+    "links": [
+      {
+        "candidate_id": "140cb9b4c732472d",
+        "title": "Contemporary Art Brings $362 Million, As New Records Are Set for Three African-American Artists - Sotheby's",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQm52ZkRZRExFS3NSQzVBaTByM0NzUlZXSU90UkNzbHlKYnN1aVVKTElsYlBIYnRsYkc0OUNJZ2hHeGd1UElUaGNWR2VMeDJWXzkySTVqM29oYnAxU3RLSmRRX3FrX1J2YUstV3YzY1RTWkV6azlwN1drM0JWLUJDWUZpaGNNc0lWdG9RNm1ZaHZ3aFdERXNZa2FfRlNTb04xRXlYVzNXVmtMRG9zUVd2NEo1dGx0UWVkVkhycEJXa2UzZUYyVFJtc0JYTmM3UXVG?oc=5",
+        "publisher_name": "Sotheby's",
+        "publisher_url": "https://www.sothebys.com",
+        "published_at": "2018-11-14T08:00:00+00:00",
+        "indicative_usd": 362000000
+      }
+    ]
+  },
+  {
+    "group_id": "241ff5bd0fe1416b",
+    "title": "The Highest Auction Price at Sotheby's Achieved by a $157 Million Modigliani - Sotheby's",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      157000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2018-07-18T04:14:46+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "c2ff69f39b1deda1"
+    ],
+    "links": [
+      {
+        "candidate_id": "c2ff69f39b1deda1",
+        "title": "The Highest Auction Price at Sotheby's Achieved by a $157 Million Modigliani - Sotheby's",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWE2bnFRclByRHVhSklKOV8wSHZ2cTlBamxVZkVUOFo2YllHMTNtT240Y1NERFpaNlRVSnptUDZBOU9pR0pRNmhXaUN6VUtBWEtDaC01Q0EwUTAtUERDTmU2Q0JKY0wzRXMzTWt2dmswRWhZZ1J0djNDQmtEdDNXbmoxOFBpTmlsZFBNSlFaV1hRY01SY2c2a3hsXzlnUlhxVUxzM042Ym5zQ1pjbkphZkxTcw?oc=5",
+        "publisher_name": "Sotheby's",
+        "publisher_url": "https://www.sothebys.com",
+        "published_at": "2018-07-18T04:14:46+00:00",
+        "indicative_usd": 157000000
       }
     ]
   },
@@ -6211,6 +7327,200 @@
         "publisher_url": "",
         "published_at": "2015-02-05T08:00:00+00:00",
         "indicative_usd": 300000000
+      }
+    ]
+  },
+  {
+    "group_id": "93c058cdf7a4582e",
+    "title": "First Wolverine Art Page Brings World Record $657,250 At Heritage Auctions - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      657250
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2014-05-19T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "3dbed6e0e2719921"
+    ],
+    "links": [
+      {
+        "candidate_id": "3dbed6e0e2719921",
+        "title": "First Wolverine Art Page Brings World Record $657,250 At Heritage Auctions - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTndNWnFaaWVsNTU1M0E5My1YWm4zdDIwRGV5ZkhBb3MxYVpuRmRaQWI5cWc5bjV1alFYTjZzTF9ROXVraVhEUHpHczdRVm84cUF1MHRGS0VuWk1ScFNMTjVOdU9wSVYtLVUyRGlwQWVOY05zRi1KemFORFN6c3E0bGhneEs0UktqdUtySV9TWHdPZUdWSnF3aTNuTUZJWk90MFJod1M1UXQ3TkdqVkhGWTlmTnhTalZwaDJsdWI2WjNTLURmdmhlZXZWYmZ3LXd0UW1jSllsWlhkS04xN3FCRVJQWm8zWWJfblE?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://comics.ha.com",
+        "published_at": "2014-05-19T07:00:00+00:00",
+        "indicative_usd": 657250
+      }
+    ]
+  },
+  {
+    "group_id": "1854aa685e6509bf",
+    "title": "Rare Dime Sells For Record $1.84 Million at Auction in Philadelphia - Stack's Bowers",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1840000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2012-08-14T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "b933ab1942b6699e"
+    ],
+    "links": [
+      {
+        "candidate_id": "b933ab1942b6699e",
+        "title": "Rare Dime Sells For Record $1.84 Million at Auction in Philadelphia - Stack's Bowers",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KekIwM3dEVXVGUlNyUFFnNjFYeFQtU2FYU3k5elNxdnJVdi16MFNiRnZvSVJnUFFzMlpYOUFSSFBSRUc0bFRobjAxNEZTWE1lTjNoc1JtNXlsNWl0WXZ5NGpERkVYa2YyY1VDS3JmVjlPajZRNUVyNjVHaC0?oc=5",
+        "publisher_name": "Stack's Bowers",
+        "publisher_url": "https://stacksbowers.com",
+        "published_at": "2012-08-14T07:00:00+00:00",
+        "indicative_usd": 1840000
+      }
+    ]
+  },
+  {
+    "group_id": "e587e3609af53708",
+    "title": "Rare 1938 Gibson Advance Jumbo guitar brings $53,775 to lead $1.43 million Heritage Vintage... - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1430000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2011-11-02T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "8143a3c4a323dd82"
+    ],
+    "links": [
+      {
+        "candidate_id": "8143a3c4a323dd82",
+        "title": "Rare 1938 Gibson Advance Jumbo guitar brings $53,775 to lead $1.43 million Heritage Vintage... - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNaS1BbjdtUzJteklvLWZKTXZBeDE4bnl6RDU0ZmVqbFFFRUR0dEhta3Nhc2hsMnM3TTFUTUlqRU5KWTRydVYwS0ZITnE3SExWWWN2YlhWNmNuM2JHeWR1ZjBrZmVNX2o5S2stMDZjS0RRRGZUNlNtTUYzSnR0cFA5MHE2eGhrbFFiU1hIWjAwc0dNcm1DY1Jnams3SE92czJZV2JfMTNyd0JaclFDYVpJMEdOcE9oSWRpUm1nMjU1Vkl3V0ZyaVg5MUktdTBTRFd1cjQxWm5DNTFXOGd2OEpmWEFEUDJRVUlwbG9sUXNybFdfSGhRYWZqNVBoVkItRXdub1BNM2VXNm9acDNpZ2ZsaUFvd2hmM0JIUjh4Mw?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://entertainment.ha.com",
+        "published_at": "2011-11-02T07:00:00+00:00",
+        "indicative_usd": 1430000
+      }
+    ]
+  },
+  {
+    "group_id": "bc864d454232adcd",
+    "title": "World Record Bobby Orr Jersey brings $191,200; drives $4.2 million+ Sports Auction - Heritage Auctions",
+    "category_hint": "sports",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      4200000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2010-05-10T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "9bba9dc965333961"
+    ],
+    "links": [
+      {
+        "candidate_id": "9bba9dc965333961",
+        "title": "World Record Bobby Orr Jersey brings $191,200; drives $4.2 million+ Sports Auction - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaXpGLWJJRjJMTDBwNEt4bFNBZmFIdF8yc09zZ1VRVlRGYk11akZiUWVwaEZOWHpIaGVHQ0Z4TGhJUWVYNXJ6aC1BUjBsbHV2RktjVGl5eFJQOFRDZFZieUh6MmEwX0VpcWJMdFdwRU1qU25OU3FCQjBTYjdvaHV1c1V1aWdER2p4QU90MW5kaXZ0NEd3dklEcEJoVXYxMEN4bjlDVzI5TFZiTFFIb20zNjhfWklMZzZ4cVItZGp1THBac2FWOVZzV2Z4NVlmR0U3dW9BWEpCdk9KcTE2WkNGeTFNN1BUV19SczhPaVhENVo?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://sports.ha.com",
+        "published_at": "2010-05-10T07:00:00+00:00",
+        "indicative_usd": 4200000
+      }
+    ]
+  },
+  {
+    "group_id": "9c68a376fae8c7f6",
+    "title": "Christie’s Achieves Its Highest-Ever Watch Auction Total of $58.7M - Rapaport",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      58700000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-10T13:49:06+00:00",
+    "priority": 0,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника",
+      "Возможный общий итог аукциона, не цена одного предмета"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "7a85fc7ecffbf7e5"
+    ],
+    "links": [
+      {
+        "candidate_id": "7a85fc7ecffbf7e5",
+        "title": "Christie’s Achieves Its Highest-Ever Watch Auction Total of $58.7M - Rapaport",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHhZNTlrclQyXzh3b05xRHVKcFZ0cDN3dFNKWnNDaW9xU0h2MmlCN2hEc3ZQSVE0N2I5WjlIZVBOYVRwUDYzaEtKbS00WUVzM0poSUNXX2hKczRmSmtBUVlQVm5WRUQ5Q0NOXzBNbi04ZlRCcVR0OC1TX0xlLTRISUFOLWgtTUN3blRMS2lPOWVkVEszNXc?oc=5",
+        "publisher_name": "Rapaport",
+        "publisher_url": "https://rapaport.com",
+        "published_at": "2026-11-10T13:49:06+00:00",
+        "indicative_usd": 58700000
+      }
+    ]
+  },
+  {
+    "group_id": "11813054237ba730",
+    "title": "Guillermo del Toro’s ‘Bleak House’ Auction Brings $1.65 Million at Heritage Auctions - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1650000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-09-29T07:00:00+00:00",
+    "priority": 0,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника",
+      "Возможный общий итог аукциона, не цена одного предмета"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "7b0104a6355080ff"
+    ],
+    "links": [
+      {
+        "candidate_id": "7b0104a6355080ff",
+        "title": "Guillermo del Toro’s ‘Bleak House’ Auction Brings $1.65 Million at Heritage Auctions - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVzY0TXBSTTR6am1PUjFiaGtJd3RlZzlBa3c5VVR3SFB3MnNqUUdvZmdYWUJPaHZhaWFCcjZaczZoS2l5VGU4UkhiQlVaVklzTDNWOGQ5aHF3bkp1a3FsSHZ0RFlLZWRNeGNQbk4xMjluOHNuNXFaLXhMN29iZ1RjOFUtUk9veFdtTWZjUTVxNDN1LWxEdENHUzdKUk1Ickg3VFhBNWk1ZC14TEJZbEM3ODZ6MmppV1VwQWdGNy12TS05UWhXb0d3dXRNUmNrUXhXeWpsRVNtRGRGRWRBTzUwNUlxbVRKYXZJaWFmazRSTGo5eXFSVFV4eGRoclkyQQ?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://entertainment.ha.com",
+        "published_at": "2025-09-29T07:00:00+00:00",
+        "indicative_usd": 1650000
       }
     ]
   },
