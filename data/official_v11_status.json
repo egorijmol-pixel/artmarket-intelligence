@@ -1,0 +1,30 @@
+{
+  "checked_utc": "2026-11-17T21:27:39.995195+00:00",
+  "threshold_usd": 300000,
+  "verified_added": 0,
+  "scope": "Christie's and Stack's Bowers official full-text releases only",
+  "all_world_sources_verified": false,
+  "sources": [
+    {
+      "house": "Christie's",
+      "feed": "https://press.christies.com/feed/",
+      "status": "unavailable",
+      "items": 0,
+      "articles_fetched": 0,
+      "added": 0,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "house": "Stack's Bowers",
+      "feed": "https://stacksbowers.com/feed/",
+      "status": "unavailable",
+      "items": 0,
+      "articles_fetched": 0,
+      "added": 0,
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "reviewed": 0,
+  "note": "A missing date or inaccessible official page is not a verified sale. The global RSS queue remains unchanged.",
+  "verified_total_in_json": 5
+}
