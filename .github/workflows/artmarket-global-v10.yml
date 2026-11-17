@@ -1,0 +1,370 @@
+name: ArtMarket Global Auctions Discovery v10
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 */2 * * *'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: artmarket-updates
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Load existing ArtMarket files
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - name: Collect worldwide public RSS evidence, without fabricating sales
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          #!/usr/bin/env python3
+          """ArtMarket Global Discovery 10.0. Public Google News RSS only. No verified-sale promotion."""
+          import datetime as dt
+          import hashlib
+          import html
+          import json
+          import re
+          import time
+          import urllib.error
+          import urllib.parse
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+
+          ROOT = Path('data')
+          ROOT.mkdir(exist_ok=True)
+          NOW = dt.datetime.now(dt.timezone.utc)
+          MIN_USD = 300000
+          PER_RUN = 13
+          CAP = 2500
+          REGISTRY = '''
+          Sotheby's|sothebys.com|Global|art,luxury|house|en
+          Christie's|christies.com|Global|art,luxury|house|en
+          Bonhams|bonhams.com|Global|art,cars,luxury|house|en
+          Heritage Auctions|ha.com|US|collectibles,coins,art|house|en
+          RM Sotheby's|rmsothebys.com|Global|cars|house|en
+          Gooding Christie's|goodingco.com|US|cars|house|en
+          Broad Arrow Auctions|broadarrowauctions.com|US|cars|house|en
+          Mecum Auctions|mecum.com|US|cars|house|en
+          Barrett-Jackson|barrett-jackson.com|US|cars|house|en
+          Bring a Trailer|bringatrailer.com|US|cars|platform|en
+          Cars & Bids|carsandbids.com|US|cars|platform|en
+          Artcurial|artcurial.com|FR|art,cars,luxury|house|fr
+          Tajan|tajan.com|FR|art,luxury|house|fr
+          Piasa|piasa.fr|FR|art,design|house|fr
+          Aguttes|aguttes.com|FR|art,cars|house|fr
+          Osenat|osenat.com|FR|art,cars|house|fr
+          Millon|millon.com|FR|art,antiques|house|fr
+          Ader|ader-paris.fr|FR|art,antiques|house|fr
+          Rossini|rossini.fr|FR|art,antiques|house|fr
+          Drouot|drouot.com|FR|all|platform|fr
+          Interencheres|interencheres.com|FR|all|platform|fr
+          Hôtel des Ventes de Monte-Carlo|hvmc.com|MC|art,luxury|house|fr
+          Lempertz|lempertz.com|DE|art,antiques|house|de
+          Grisebach|grisebach.com|DE|art|house|de
+          Ketterer Kunst|kettererkunst.com|DE|art|house|de
+          Van Ham|van-ham.com|DE|art|house|de
+          Neumeister|neumeister.com|DE|art,antiques|house|de
+          Hampel|hampel-auctions.com|DE|art,antiques|house|de
+          Nagel Auktionen|nagel-auctions.de|DE|art,antiques|house|de
+          Quittenbaum|quittenbaum.de|DE|design|house|de
+          Bassenge|bassenge.com|DE|art,books|house|de
+          Karl & Faber|karlundfaber.de|DE|art|house|de
+          Henry's Auktionshaus|henrys.de|DE|art,luxury|house|de
+          Dorotheum|dorotheum.com|AT|art,antiques|house|de
+          Im Kinsky|imkinsky.com|AT|art|house|de
+          WestLicht|westlicht-auction.com|AT|photography|house|de
+          Numismatik Naumann|numismatik-naumann.at|AT|coins|house|de
+          Koller|kollerauktionen.ch|CH|art,antiques|house|de
+          Piguet|piguet.com|CH|art,luxury|house|fr
+          Antiquorum|antiquorum.swiss|CH|watches|house|en
+          Schuler Auktionen|schulerauktionen.ch|CH|art|house|de
+          Galerie Kornfeld|kornfeld.ch|CH|art|house|de
+          Dreweatts|dreweatts.com|GB|art,antiques|house|en
+          Woolley & Wallis|woolleyandwallis.co.uk|GB|art,antiques|house|en
+          Sworders|sworder.co.uk|GB|art,antiques|house|en
+          Chiswick Auctions|chiswickauctions.co.uk|GB|art,antiques|house|en
+          Roseberys|roseberys.co.uk|GB|art,antiques|house|en
+          Lyon & Turnbull|lyonandturnbull.com|GB|art,antiques|house|en
+          Forum Auctions|forumauctions.co.uk|GB|books,art|house|en
+          Dominic Winter|dominicwinter.co.uk|GB|books,art|house|en
+          Spink|spink.com|GB|coins,stamps,collectibles|house|en
+          Noonans|noonans.co.uk|GB|coins,medals|house|en
+          Morton & Eden|mortonandeden.com|GB|coins,medals|house|en
+          H&H Classics|handh.co.uk|GB|cars|house|en
+          Iconic Auctioneers|iconicauctioneers.com|GB|cars|house|en
+          Collecting Cars|collectingcars.com|GB|cars|platform|en
+          Whisky Auctioneer|whiskyauctioneer.com|GB|spirits|house|en
+          The Saleroom|the-saleroom.com|GB|all|platform|en
+          Invaluable|invaluable.com|US|all|platform|en
+          LiveAuctioneers|liveauctioneers.com|US|all|platform|en
+          AuctionZip|auctionzip.com|US|all|platform|en
+          Catawiki|catawiki.com|NL|all|platform|en
+          Rago|ragoarts.com|US|art,design|house|en
+          Wright|wright20.com|US|art,design|house|en
+          Doyle|doyle.com|US|art,antiques|house|en
+          Swann Galleries|swanngalleries.com|US|books,art|house|en
+          Freeman's|freemansauction.com|US|art,antiques|house|en
+          Hindman|hindmanauctions.com|US|art,antiques|house|en
+          Leland Little|lelandlittle.com|US|art,antiques|house|en
+          Brunk Auctions|brunkauctions.com|US|art,antiques|house|en
+          Clars|clars.com|US|art,antiques|house|en
+          Julien's Auctions|juliensauctions.com|US|memorabilia|house|en
+          Propstore|propstoreauction.com|US|memorabilia|house|en
+          RR Auction|rrauction.com|US|memorabilia|house|en
+          Goldin|goldin.co|US|sports,cards|house|en
+          Robert Edward Auctions|robertedwardauctions.com|US|sports,cards|house|en
+          Lelands|lelands.com|US|sports,memorabilia|house|en
+          Pristine Auction|pristineauction.com|US|sports,memorabilia|house|en
+          Stack's Bowers|stacksbowers.com|US|coins|house|en
+          GreatCollections|greatcollections.com|US|coins|house|en
+          Legend Rare Coin Auctions|legendauctions.com|US|coins|house|en
+          Classical Numismatic Group|cngcoins.com|US|coins|house|en
+          Goldberg Coins|goldbergcoins.com|US|coins|house|en
+          Stephen Album Rare Coins|stevealbum.com|US|coins|house|en
+          Acker Wines|ackerwines.com|US|wine|house|en
+          Hart Davis Hart|hdhwine.com|US|wine|house|en
+          Zachys|zachys.com|US|wine|house|en
+          WineBid|winebid.com|US|wine|platform|en
+          Heffel|heffel.com|CA|art|house|en
+          Waddington's|waddingtons.ca|CA|art,antiques|house|en
+          Cowley Abbott|cowleyabbott.ca|CA|art|house|en
+          Finarte|finarte.it|IT|art,luxury|house|it
+          Pandolfini|pandolfini.it|IT|art,antiques|house|it
+          Cambi|cambiaste.com|IT|art,antiques|house|it
+          Il Ponte|ilponteonline.com|IT|art,luxury|house|it
+          Wannenes|wannenesgroup.com|IT|art,antiques|house|it
+          Bertolami Fine Arts|bertolamifinearts.com|IT|coins,art|house|it
+          Bolaffi|bolaffi.it|IT|coins,stamps|house|it
+          Aste Boetto|asteboetto.it|IT|art,antiques|house|it
+          Subastas Segre|subastassegre.es|ES|art|house|es
+          Fernando Durán|fernandoduran.com|ES|art|house|es
+          Setdart|setdart.com|ES|art,antiques|house|es
+          Balclis|balclis.com|ES|art,antiques|house|es
+          Ansorena|ansorena.com|ES|art,luxury|house|es
+          Durán Subastas|duran-subastas.com|ES|art,antiques|house|es
+          Bukowskis|bukowskis.com|SE|art,design|house|sv
+          Uppsala Auktionskammare|uppsalaauktion.se|SE|art,antiques|house|sv
+          Stockholms Auktionsverk|stockholmsauktionsverk.com|SE|art,antiques|house|sv
+          Bruun Rasmussen|bruun-rasmussen.dk|DK|art,design|house|sv
+          Blomqvist|blomqvist.no|NO|art|house|sv
+          Grev Wedels Plass|gwpa.no|NO|art|house|sv
+          Hagelstam|hagelstam.fi|FI|art,antiques|house|sv
+          Helander|helander.com|FI|art,antiques|house|sv
+          Venduehuis Den Haag|venduehuis.com|NL|art,antiques|house|nl
+          AAG Auctioneers|aagauctioneers.com|NL|art|house|nl
+          Bernaerts|bernaerts.eu|BE|art,design|house|fr
+          De Vuyst|de-vuyst.com|BE|art|house|fr
+          DESA Unicum|desa.pl|PL|art|house|pl
+          Agra-Art|agraart.pl|PL|art|house|pl
+          Polswiss Art|polswissart.pl|PL|art|house|pl
+          Sopocki Dom Aukcyjny|sda.pl|PL|art|house|pl
+          Galerie KODL|galerie-kodl.cz|CZ|art|house|de
+          Arthouse Hejtmánek|arthouse-hejtmanek.cz|CZ|art,antiques|house|de
+          Seoul Auction|seoulauction.com|KR|art,luxury|house|ko
+          K Auction|k-auction.com|KR|art|house|ko
+          Ravenel|ravenel.com|TW|art|house|zh
+          Poly Auction Hong Kong|polyauction.com.hk|HK|art,antiques|house|zh
+          Mainichi Auction|mainichi-auction.com|JP|art|house|ja
+          SBI Art Auction|sbiartauction.co.jp|JP|art|house|ja
+          Tokyo Chuo Auction|chuo-auction.co.jp|JP|art,antiques|house|ja
+          Saffronart|saffronart.com|IN|art|house|en
+          AstaGuru|astaguru.com|IN|art,antiques|house|en
+          Pundole's|pundoles.com|IN|art|house|en
+          Strauss & Co|straussart.co.za|ZA|art|house|en
+          Aspire Art|aspireart.net|ZA|art|house|en
+          Stephan Welz|swelco.co.za|ZA|art|house|en
+          Leonard Joel|leonardjoel.com.au|AU|art,antiques|house|en
+          Deutscher and Hackett|deutscherandhackett.com|AU|art|house|en
+          Menzies Art Brands|menziesartbrands.com|AU|art|house|en
+          Smith & Singer|smithandsinger.com.au|AU|art|house|en
+          Shapiro Auctions|shapiro.com.au|AU|art|house|en
+          Noble Numismatics|noble.com.au|AU|coins|house|en
+          Webb's|webbs.co.nz|NZ|art|house|en
+          Art+Object|artandobject.co.nz|NZ|art,antiques|house|en
+          Dunbar Sloane|dunbarsloane.co.nz|NZ|art,antiques|house|en
+          Morton Subastas|mortonsubastas.com|MX|art,antiques|house|es
+          Bolsa de Arte|bolsadearte.com|BR|art|house|pt
+          Tiroche|tiroche.co.il|IL|art|house|he
+          Kedem|kedem-auctions.com|IL|books,collectibles|house|he
+          Matsart|matsartauctioneers.com|IL|art|house|en
+          Литфонд|litfund.ru|RU|books,art|house|ru
+          Artinvestment|artinvestment.ru|RU|art|platform|ru
+          Совком|sovcom.ru|RU|art|house|ru
+          Монеты и медали|numismat.ru|RU|coins|house|ru
+          Auction.ru|auction.ru|RU|all|platform|ru
+          Bidspirit|bidspirit.com|Global|all|platform|en
+          '''
+
+          LANGUAGE = {
+           'en': ('en-US','US','US:en','sold auction record realized brings fetched'),
+           'fr': ('fr','FR','FR:fr','vendu enchères adjugé record'),
+           'de': ('de','DE','DE:de','versteigert verkauft rekord auktion'),
+           'it': ('it','IT','IT:it','venduto asta aggiudicato record'),
+           'es': ('es','ES','ES:es','vendido subasta rematado récord'),
+           'sv': ('sv','SE','SE:sv','såld auktion rekord'),
+           'nl': ('nl','NL','NL:nl','verkocht veiling record'),
+           'pl': ('pl','PL','PL:pl','sprzedano aukcja rekord'),
+           'ru': ('ru','RU','RU:ru','продано аукцион рекорд'),
+           'pt': ('pt-BR','BR','BR:pt-419','vendido leilão recorde'),
+           'zh': ('zh-TW','TW','TW:zh-Hant','成交 拍賣 拍出'),
+           'ko': ('ko','KR','KR:ko','낙찰 경매 판매'),
+           'ja': ('ja','JP','JP:ja','落札 オークション 売却'),
+           'he': ('en-US','US','US:en','sold auction record'),
+          }
+          SOLD = re.compile(r'\b(sold|sells|brought|brings|fetched|fetches|realized|realised|hammered|knocked down|achieved|vendu|vendue|adjugé|verkauft|versteigert|venduto|aggiudicato|vendido|rematado|sprzedan[oaey]|såld|verkocht|продан[оыа]?|продали|уш[её]л|leilão)\b|成交|拍出|落札|売却|낙찰', re.I)
+          FUTURE = re.compile(r'\b(estimate|estimated|expects?|expected to|could fetch|may fetch|will fetch|to be offered|upcoming|pre.sale|asking price|for sale|offered for|could sell|preview)\b', re.I)
+          AGGREGATE = re.compile(r'\b(auction total|sale total|overall|aggregate|total sales|total revenue|overall sales|auction proceeds|sales totaled|combined sales|collection totals?|total turnover|annual revenue)\b', re.I)
+          NUM = r'(?P<n>\d{1,3}(?:[ ,.]\d{3})+(?:[.,]\d+)?|\d+(?:[.,]\d+)?)'
+          SUFFIX = r'\s*(?P<u>billion|million|thousand|bn|mn|m|k|млн|млрд|тыс)?\b'
+          PATTERNS = [
+           ('USD', re.compile(r'(?<![A-Za-z])(?:US\$|USD\s*|\$\s*)' + NUM + SUFFIX, re.I)),
+           ('EUR', re.compile(r'(?:€|EUR\s*)\s*' + NUM + SUFFIX, re.I)),
+           ('GBP', re.compile(r'(?:£|GBP\s*)\s*' + NUM + SUFFIX, re.I)),
+           ('CHF', re.compile(r'CHF\s*' + NUM + SUFFIX, re.I)),
+           ('HKD', re.compile(r'(?:HK\$|HKD\s*)\s*' + NUM + SUFFIX, re.I)),
+           ('CNY', re.compile(r'(?:CNY\s*|RMB\s*|CN¥\s*)\s*' + NUM + SUFFIX, re.I)),
+           ('JPY', re.compile(r'(?:JPY\s*|¥\s*)\s*' + NUM + SUFFIX, re.I)),
+           ('AUD', re.compile(r'(?:AU\$|AUD\s*)\s*' + NUM + SUFFIX, re.I)),
+           ('CAD', re.compile(r'(?:CA\$|CAD\s*)\s*' + NUM + SUFFIX, re.I)),
+           ('RUB', re.compile(r'(?:₽|RUB\s*|руб(?:лей|ля|\.)?\s*)\s*' + NUM + SUFFIX, re.I)),
+          ]
+          MULTIPLIERS={'billion':1e9,'млрд':1e9,'bn':1e9,'million':1e6,'mn':1e6,'млн':1e6,'m':1e6,'thousand':1000,'тыс':1000,'k':1000}
+
+
+          def parse_amount(title):
+              hits=[]
+              for code, pattern in PATTERNS:
+                  for match in pattern.finditer(title):
+                      number=match.group('n').replace(' ','')
+                      # Basic EU decimal handling; anything ambiguous stays a review lead.
+                      if ',' in number and '.' in number:
+                          if number.rfind(',')>number.rfind('.'):
+                              number=number.replace('.','').replace(',','.')
+                          else:
+                              number=number.replace(',','')
+                      elif ',' in number:
+                          if len(number.split(',')[-1])==3:
+                              number=number.replace(',','')
+                          else:
+                              number=number.replace(',','.')
+                      elif '.' in number and len(number.split('.')[-1])==3 and not match.group('u'):
+                          number=number.replace('.','')
+                      try:
+                          value=round(float(number)*MULTIPLIERS.get((match.group('u') or '').lower(),1))
+                      except (ValueError, OverflowError):
+                          continue
+                      if value>0:
+                          hits.append((match.start(),value,code,match.group(0).strip()))
+              if not hits: return None
+              # The first amount is more likely the individual item than the auction total;
+              # never use these candidates as a verified transaction without manual/primary proof.
+              pos,value,currency,raw=sorted(hits,key=lambda a:a[0])[0]
+              return {'currency':currency,'amount_native':value,'amount_text':raw,
+                      'indicative_usd': value if currency=='USD' else None,
+                      'multiple_amounts_in_headline':len(hits)>1}
+
+
+          def sources():
+              result=[]
+              seen=set()
+              for l in REGISTRY.splitlines():
+                  l=l.strip()
+                  if not l:continue
+                  name,domain,country,category,role,language=l.split('|')
+                  if domain in seen:raise ValueError('Duplicate domain: '+domain)
+                  if not re.fullmatch(r'[a-z0-9-]+(?:\.[a-z0-9-]+)+',domain):raise ValueError('Invalid domain: '+domain)
+                  if 'phillips' in domain.lower() or name.lower()=='phillips':raise ValueError('Excluded house in registry')
+                  seen.add(domain)
+                  result.append({'id':hashlib.sha256(domain.encode()).hexdigest()[:12], 'name':name,
+                                 'domain':domain,'country':country,'category':category.split(','),
+                                 'type':role,'language':language,'query_method':'Google News publisher-domain RSS',
+                                 'coverage_status':'discovery_only_not_confirmed'})
+              return result
+
+
+          def load(name,default):
+              try:return json.loads((ROOT/name).read_text(encoding='utf-8'))
+              except (OSError,ValueError):return default
+
+
+          def save(name,obj):
+              (ROOT/name).write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
+
+          def host(url):
+              try:
+                  p=urllib.parse.urlparse(url)
+                  return (p.hostname or '').lower() if p.scheme=='https' else ''
+              except ValueError:return ''
+
+
+          def same_host(hostname,domain):
+              return hostname==domain or hostname.endswith('.'+domain)
+
+
+          def item_text(node,name):
+              e=node.find(name)
+              return (e.text or '').strip() if e is not None else ''
+
+
+          def iso_date(s):
+              from email.utils import parsedate_to_datetime
+              try:return parsedate_to_datetime(s).astimezone(dt.timezone.utc).isoformat()
+              except (ValueError,OverflowError,TypeError):return ''
+
+
+          def kind(title,cat):
+              s=title.lower()
+              classifiers={
+                 'coins':['coin','coins','numismatic','dime','denar','monnaie','монет','münze'],
+                 'cars':['ferrari','porsche','lamborghini','mclaren','aston martin','car ','automobile','bmw'],
+                 'watches':['patek','rolex','watch','timepiece','horloger','uhr'],
+                 'books':['book','manuscript','first edition','rare book','комикс','comic'],
+                 'jewelry':['diamond','sapphire','ruby','jewel','brilliant','brillant','бриллиант'],
+                 'sports':['sports card','baseball','football jersey','michael jordan','sports memorabilia'],
+                 'wine':['wine','whisky','whiskey','bourgogne','champagne','vintage wine'],
+                 'art':['artwork','painting','picasso','warhol','sculpture','peinture','живопис','картина'],
+              }
+              return next((k for k,keys in classifiers.items() if any(w in s for w in keys)), cat[0] if cat and cat[0]!='all' else 'other')
+
+
+          def news_feed(source):
+              lang,gl,ceid,words=LANGUAGE.get(source['language'],LANGUAGE['en'])
+              q='site:'+source['domain']+' ('+' OR '.join(words.split())+')'
+              params=urllib.parse.urlencode({'q':q,'hl':lang,'gl':gl,'ceid':ceid})
+              url='https://news.google.com/rss/search?'+params
+              req=urllib.request.Request(url,headers={'User-Agent':'ArtMarketIntelligenceGlobal/10.0 (public RSS discovery)','Accept':'application/rss+xml, application/xml'})
+              with urllib.request.urlopen(req,timeout=20) as resp:
+                  buf=resp.read(1_750_001)
+                  if len(buf)>1_750_000:raise ValueError('RSS exceeded 1.75 MB')
+                  if resp.status!=200:raise ValueError('Unexpected HTTP '+str(resp.status))
+              return ET.fromstring(buf).findall('./channel/item')[:80]
+
+
+          def collect():
+              registry=sources()
+              save('global_sources.json', registry)
+              state=load('global_scan_state.json',{'cursor':0,'cycles':0,'runs':0})
+              if not isinstance(state,dict):state={'cursor':0,'cycles':0,'runs':0}
+              cursor=int(state.get('cursor',0))%len(registry)
+              existing=load('global_review.json',[])
+              if not isinstance(existing,list):existing=[]
+              byid={x['id']:x for x in existing if isinstance(x,dict) and x.get('id')}
+              checked=[]
+              added=0
+              for offset in range(min(PER_RUN,l
