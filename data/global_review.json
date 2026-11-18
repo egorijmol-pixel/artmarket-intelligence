@@ -365,6 +365,30 @@
     ]
   },
   {
+    "id": "7ad0ebbaf99fef465729",
+    "house": "Artinvestment",
+    "country": "RU",
+    "domain": "artinvestment.ru",
+    "source_type": "platform",
+    "category": "art",
+    "title": "«Кролик» Джеффа Кунса продан за рекордные $91,1 млн. - ARTinvestment.RU",
+    "publication_at": "2019-05-15T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4TmRQb1otTWpVV2tQNDZIZHdOVjBBTVkwTHQ0akVHYjFUbWNjaGdpQkdBTTF3RXZuY3l3WDRzTk5iNzJ2SlRHRS0xUWRyZzN6ZENDWTY2MEZaT2kyS0JQWHdteXg3Y2xBNnJtY0U4T1hjMFE?oc=5",
+    "publisher_website": "https://artinvestment.ru",
+    "native_amount": 91100000,
+    "native_currency": "USD",
+    "raw_price": "$91,1 млн",
+    "indicative_usd": 91100000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "88ab63828be14fae7895",
     "house": "Sotheby's",
     "country": "Global",
