@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-18T13:39:09.949238+00:00",
+  "checked_utc": "2026-11-18T19:21:43.818623+00:00",
   "mode": "Official-publisher RSS headline evidence, no direct auction-house requests",
   "sources_checked": 8,
   "sources_ok": 8,
@@ -27,7 +27,7 @@
       "status": "ok",
       "rss_articles_seen": 61,
       "new_candidates": 0,
-      "previously_known": 24
+      "previously_known": 23
     },
     {
       "source": "Stack's Bowers",
@@ -60,7 +60,7 @@
     {
       "source": "Bonhams",
       "status": "ok",
-      "rss_articles_seen": 57,
+      "rss_articles_seen": 60,
       "new_candidates": 0,
       "previously_known": 0
     },
