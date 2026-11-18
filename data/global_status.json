@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-18T17:32:34.030333+00:00",
+  "checked_utc": "2026-11-18T19:35:25.275819+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -38,13 +38,13 @@
   ],
   "registry_coverage": "curated, not exhaustive",
   "batch_size": 13,
-  "rss_ok": 13,
-  "rss_errors": 0,
-  "new_candidates": 1,
+  "rss_ok": 12,
+  "rss_errors": 1,
+  "new_candidates": 0,
   "candidate_queue_size": 18,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 13,
+  "next_cursor": 26,
   "scan_cycles_completed": 1,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
@@ -55,105 +55,105 @@
   ],
   "checks": [
     {
-      "house": "Sotheby's",
-      "country": "Global",
-      "domain": "sothebys.com",
-      "status": "ok",
-      "rss_items": 72,
-      "new_leads": 0
-    },
-    {
-      "house": "Christie's",
-      "country": "Global",
-      "domain": "christies.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 1
-    },
-    {
-      "house": "Bonhams",
-      "country": "Global",
-      "domain": "bonhams.com",
-      "status": "ok",
-      "rss_items": 59,
-      "new_leads": 0
-    },
-    {
-      "house": "Heritage Auctions",
-      "country": "US",
-      "domain": "ha.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "RM Sotheby's",
-      "country": "Global",
-      "domain": "rmsothebys.com",
-      "status": "ok",
-      "rss_items": 59,
-      "new_leads": 0
-    },
-    {
-      "house": "Gooding Christie's",
-      "country": "US",
-      "domain": "goodingco.com",
-      "status": "ok",
-      "rss_items": 54,
-      "new_leads": 0
-    },
-    {
-      "house": "Broad Arrow Auctions",
-      "country": "US",
-      "domain": "broadarrowauctions.com",
-      "status": "ok",
-      "rss_items": 37,
-      "new_leads": 0
-    },
-    {
-      "house": "Mecum Auctions",
-      "country": "US",
-      "domain": "mecum.com",
-      "status": "ok",
-      "rss_items": 34,
-      "new_leads": 0
-    },
-    {
-      "house": "Barrett-Jackson",
-      "country": "US",
-      "domain": "barrett-jackson.com",
-      "status": "ok",
-      "rss_items": 59,
-      "new_leads": 0
-    },
-    {
-      "house": "Bring a Trailer",
-      "country": "US",
-      "domain": "bringatrailer.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Cars & Bids",
-      "country": "US",
-      "domain": "carsandbids.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Artcurial",
+      "house": "Piasa",
       "country": "FR",
-      "domain": "artcurial.com",
+      "domain": "piasa.fr",
       "status": "ok",
-      "rss_items": 54,
+      "rss_items": 59,
       "new_leads": 0
     },
     {
-      "house": "Tajan",
+      "house": "Aguttes",
       "country": "FR",
-      "domain": "tajan.com",
+      "domain": "aguttes.com",
+      "status": "ok",
+      "rss_items": 59,
+      "new_leads": 0
+    },
+    {
+      "house": "Osenat",
+      "country": "FR",
+      "domain": "osenat.com",
+      "status": "ok",
+      "rss_items": 59,
+      "new_leads": 0
+    },
+    {
+      "house": "Millon",
+      "country": "FR",
+      "domain": "millon.com",
+      "status": "ok",
+      "rss_items": 55,
+      "new_leads": 0
+    },
+    {
+      "house": "Ader",
+      "country": "FR",
+      "domain": "ader-paris.fr",
+      "status": "ok",
+      "rss_items": 55,
+      "new_leads": 0
+    },
+    {
+      "house": "Rossini",
+      "country": "FR",
+      "domain": "rossini.fr",
+      "status": "ok",
+      "rss_items": 59,
+      "new_leads": 0
+    },
+    {
+      "house": "Drouot",
+      "country": "FR",
+      "domain": "drouot.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Interencheres",
+      "country": "FR",
+      "domain": "interencheres.com",
+      "status": "error",
+      "http_code": 429,
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "house": "Hôtel des Ventes de Monte-Carlo",
+      "country": "MC",
+      "domain": "hvmc.com",
+      "status": "ok",
+      "rss_items": 39,
+      "new_leads": 0
+    },
+    {
+      "house": "Lempertz",
+      "country": "DE",
+      "domain": "lempertz.com",
+      "status": "ok",
+      "rss_items": 62,
+      "new_leads": 0
+    },
+    {
+      "house": "Grisebach",
+      "country": "DE",
+      "domain": "grisebach.com",
+      "status": "ok",
+      "rss_items": 52,
+      "new_leads": 0
+    },
+    {
+      "house": "Ketterer Kunst",
+      "country": "DE",
+      "domain": "kettererkunst.com",
+      "status": "ok",
+      "rss_items": 12,
+      "new_leads": 0
+    },
+    {
+      "house": "Van Ham",
+      "country": "DE",
+      "domain": "van-ham.com",
       "status": "ok",
       "rss_items": 60,
       "new_leads": 0
