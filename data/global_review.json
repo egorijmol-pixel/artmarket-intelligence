@@ -221,6 +221,30 @@
     ]
   },
   {
+    "id": "0e30bfd3250f5fae819f",
+    "house": "Whisky Auctioneer",
+    "country": "GB",
+    "domain": "whiskyauctioneer.com",
+    "source_type": "house",
+    "category": "wine",
+    "title": "Perfect Whisky Collection Sells for Over $9m At Auction - Whisky Auctioneer",
+    "publication_at": "2023-03-30T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ3ZGY2RXZ0lGdDhaajNyY2lYcHh0U3gzc2pNLUN4b19XZGN6eGJLYzd4TGREbkJXU25uM053djVVQnVHeHA0azJfcERDNUotellQclpRNU9USTY4OVphcnZHUy1mLVFpVEVhQzVuRUVIRm1LYjhuaVBTOEIyUDh2WG5rWGRlRGVjYkpUMHJqSldDWGw2WHZDOGs3SUwxRWdRT2xJX2VnWDc?oc=5",
+    "publisher_website": "https://whiskyauctioneer.com",
+    "native_amount": 9000000,
+    "native_currency": "USD",
+    "raw_price": "$9m",
+    "indicative_usd": 9000000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "45686fe6435f84ebbba5",
     "house": "Sotheby's",
     "country": "Global",
