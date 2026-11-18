@@ -269,6 +269,30 @@
     ]
   },
   {
+    "id": "8548d05bd74c162f90fd",
+    "house": "Deutscher and Hackett",
+    "country": "AU",
+    "domain": "deutscherandhackett.com",
+    "source_type": "house",
+    "category": "art",
+    "title": "Arthur Streeton’s Grand Canal sells for record $3 million at auction - Deutscher + Hackett",
+    "publication_at": "2021-04-22T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNmpweEFmN25jVC10OFhuRWJiWTE2a3VhaU1wWlJadkZRQndxdmR5NDBKem1OUWpXWXpqa1hfalpVYTd5M2ZhTDBrRW0tS01NR1lzdjBjNW1VVVpxLUhpVWtPZ3U5cThQT2hfMnhGYTdOdUhJR042VGRLazNLNmNGUEFhd2hfaExIMG1ZX3Y3aE5vRjJGVWlOS1gzRjVzRWhxeDlkTGQ2WWRJQjVnS2tmMTRGTGdDelRVNHZV?oc=5",
+    "publisher_website": "https://www.deutscherandhackett.com",
+    "native_amount": 3000000,
+    "native_currency": "USD",
+    "raw_price": "$3 million",
+    "indicative_usd": 3000000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "45686fe6435f84ebbba5",
     "house": "Sotheby's",
     "country": "Global",
