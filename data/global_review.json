@@ -197,6 +197,30 @@
     ]
   },
   {
+    "id": "9b08edfddb4649ff9c4c",
+    "house": "Stack's Bowers",
+    "country": "US",
+    "domain": "stacksbowers.com",
+    "source_type": "house",
+    "category": "coins",
+    "title": "Newly Discovered Massachusetts Silver Threepence from 1652 Brings $2.52 Million - Stack's Bowers",
+    "publication_at": "2024-11-19T08:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0lRQjhaRjVHZUc3UDh5Nm5jQVZueUd3N3lCZmNmMUkwVnBmNGRLdElHUFFXYlpleGlvdXRSV3gwRXdsNWJFaDNRSGl0RFZhTVJDVmMya2FVekhvYVp4Q05kaF9ySzFBV1RiVWI0MEFoVVNJMEQyTDJhZVhROC03TXpFNW5VYkdvTVRxYnpKeWVEcXpFT3otSjJ1dDl0bnBZQmhJZTFjZHZWemRTeVVsTkR5bXRJZHNadGhITw?oc=5",
+    "publisher_website": "https://stacksbowers.com",
+    "native_amount": 2520000,
+    "native_currency": "USD",
+    "raw_price": "$2.52 Million",
+    "indicative_usd": 2520000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "6bd41e8344d77694ba6e",
     "house": "Heritage Auctions",
     "country": "US",
