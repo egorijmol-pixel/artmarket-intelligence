@@ -293,6 +293,30 @@
     ]
   },
   {
+    "id": "45af5c613c563ade22c5",
+    "house": "Brunk Auctions",
+    "country": "US",
+    "domain": "brunkauctions.com",
+    "source_type": "house",
+    "category": "art",
+    "title": "Summer Auction Realizes $1,650,513 with 93% of lots sold - Brunk Auctions",
+    "publication_at": "2020-07-18T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeXJaS3Vrd3A5cXloX0F4a3JoZERuRlh1a3BTZVFKWlJaLUV1anZvVnJyLWhOamhyS0xRbFFlMlhEMHpibWtHdXprc1JiMDlZWXZlUDl6YnFUNGVtSXJpeVFjcmRMWGRBVjYtc3cxbDdYYzVsYnNLVkZHYURKZ1NTZ3lVS19DM2hqUVBiSFhmQVlVU0t4T0Npb2h3?oc=5",
+    "publisher_website": "https://brunkauctions.com",
+    "native_amount": 1650513,
+    "native_currency": "USD",
+    "raw_price": "$1,650,513",
+    "indicative_usd": 1650513,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "88ab63828be14fae7895",
     "house": "Sotheby's",
     "country": "Global",
