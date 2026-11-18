@@ -149,6 +149,30 @@
     ]
   },
   {
+    "id": "2e5cb0b3180eaffa5b95",
+    "house": "Christie's",
+    "country": "Global",
+    "domain": "christies.com",
+    "source_type": "house",
+    "category": "art",
+    "title": "Rare Michelangelo Study for the Sistine Chapel, Newly Discovered by Christie's, Sells for $27.2M, An Artist Record at Auction - Christie's Press",
+    "publication_at": "2026-02-05T08:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS3dxVjBLbFNvTGUwNmpuanJwc2FnUUZNLW00MTNfZ2RUVTV6bTBPSkI0dVVpTHR6TXdUM0FvOXpKdV9hSFZiVHQxYUNRYlUtd19kNHRUTjBvcEV5TXo1WkNfT3pvQ25JdWxEMExOdU5zeHo3YjIzRWRkaS0ydXF1dUM0UWlRbFRVazE1V3MzaXFFRm5ucUlvd09hR2lkTTJSTGJ5alJnT3pIX19UUFJXdkdtZjQzaDRkdU5CZFAzc3lVYW5IYXhRZlIwRHl2eTBVYl9QZGZrRloyWmYyUzlmUA?oc=5",
+    "publisher_website": "https://press.christies.com",
+    "native_amount": 27200000,
+    "native_currency": "USD",
+    "raw_price": "$27.2M",
+    "indicative_usd": 27200000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "a190127edfba56c7c5e1",
     "house": "Heritage Auctions",
     "country": "US",
