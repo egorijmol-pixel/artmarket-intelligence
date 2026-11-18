@@ -1214,6 +1214,38 @@
     ]
   },
   {
+    "group_id": "e327217686bbd286",
+    "title": "Rare coin sold for $1.925 million at auction - SILive.com",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1925000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-18T19:15:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "7af6963d13ae11ba"
+    ],
+    "links": [
+      {
+        "candidate_id": "7af6963d13ae11ba",
+        "title": "Rare coin sold for $1.925 million at auction - SILive.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZm5qSXQ1SjlnN1ZzVDNMREd2TTlFdldLOHUyMV80aDFqRkJCeU51NlVQR1pzeTVjNTBtTzFiOWswQWU1ODRkYzAycFhyQmtzbnVKU25tOWpqTXluZ2stR3VKWTZ0dFltX3VXMDRjeHQyQXJDZDhBQ1F1MzRmUkxCX3JxbDIwNXBpZ092WGJR?oc=5",
+        "publisher_name": "SILive.com",
+        "publisher_url": "https://www.silive.com",
+        "published_at": "2026-11-18T19:15:00+00:00",
+        "indicative_usd": 1925000
+      }
+    ]
+  },
+  {
     "group_id": "5420fef72cefb091",
     "title": "More Than 8,000 Acres of Iowa Farmland Sold for Nearly $89 Million in October - Successful Farming",
     "category_hint": "other",
@@ -2533,6 +2565,38 @@
         "publisher_url": "",
         "published_at": "2026-08-17T07:00:00+00:00",
         "indicative_usd": 42900000
+      }
+    ]
+  },
+  {
+    "group_id": "df2b2c8a234d3d21",
+    "title": "Shohei Ohtani card sells for $11 million, becomes third-most-expensive sports card - The New York Times",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      11000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-07-30T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "25549daab557586e"
+    ],
+    "links": [
+      {
+        "candidate_id": "25549daab557586e",
+        "title": "Shohei Ohtani card sells for $11 million, becomes third-most-expensive sports card - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRVZjZzE0M1dKamdMOUVFOTF3UjBkeXYwdFpUX2JhemVpX094WC1BeFFVOW1TTXdKTHVETlNTZkVydS01Q2ZWNGNaTm9QdXl4UDdzRUdBYmdOaWV6MjB6bTV2ZHdqazJydDl1MUotT19jOXRsVUNuS3VxRm1VbEw4TW9MaXN4WmZZVkRjTlg3aWlVYkJo?oc=5",
+        "publisher_name": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "published_at": "2026-07-30T07:00:00+00:00",
+        "indicative_usd": 11000000
       }
     ]
   },
@@ -7231,6 +7295,38 @@
     ]
   },
   {
+    "group_id": "fbe31700647ac75c",
+    "title": "The First-Ever Marvel Comic Book Has Sold at Auction for $1.26 Million - Observer",
+    "category_hint": "books",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1260000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2019-11-22T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "a85c6343a41dc9c7"
+    ],
+    "links": [
+      {
+        "candidate_id": "a85c6343a41dc9c7",
+        "title": "The First-Ever Marvel Comic Book Has Sold at Auction for $1.26 Million - Observer",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83Q2NJcnZJeElPRzNmM2dhZC1pS1FQTmg2cW55TjNZZkJZNHg0ZVFXUjNKVDNwcnNtblByNUlQS096MzBTR1dweUVzXzdnVlUwMkNEVWhKQUlaT3JZWDNUSThnRjhaNVluRTVLdTRlN0Y4M3Fl0gF6QVVfeXFMT2RoaXBieTJUQWxJaHR6RjZETmNRNjJmTVRQUDhHUmRiQ3FpM0NVQkNzd0t1V2xoTXFWalJyRnlGTlVxQ1VBdkFLUnNXWVpIZ1B3NGxEZHhPcVQyaXJFYjk5MGpzN2t3WnNTR1ZPOEpRc0U0UjNSVHNkX2c?oc=5",
+        "publisher_name": "Observer",
+        "publisher_url": "https://observer.com",
+        "published_at": "2019-11-22T08:00:00+00:00",
+        "indicative_usd": 1260000
+      }
+    ]
+  },
+  {
     "group_id": "d5fd9b3f906fb957",
     "title": "A Patek Philippe ‘Grandmaster’ Watch Just Sold for an Astonishing $31 Million at Christie’s, Setting a New World Record - Artnet News",
     "category_hint": "watch",
@@ -7581,6 +7677,38 @@
         "publisher_url": "https://coins.ha.com",
         "published_at": "2019-01-11T08:00:00+00:00",
         "indicative_usd": 3960000
+      }
+    ]
+  },
+  {
+    "group_id": "eb777829fdd3ab55",
+    "title": "Barbara Sinatra’s Diamond Ring Sells for $1.7M at Auction - nationaljeweler.com",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1700000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2018-12-06T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "87b4e5b99fa8fd7b"
+    ],
+    "links": [
+      {
+        "candidate_id": "87b4e5b99fa8fd7b",
+        "title": "Barbara Sinatra’s Diamond Ring Sells for $1.7M at Auction - nationaljeweler.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOU9rdC1STW9lVjNPbWJwUFdLbE9yQVFVNUN2ZzRseDhDYTU1b3FPdXNDbFIwZVBKUkdYdEFITFNaZU80VXBkWElWem1rWlA2VnVFSnlzNlpjblZ5S3lRVkV3NzFvUFpXMThnZ2FuWVpQdkRIaGI5SmRVeWpsbl9uaHBwSjVlUkVraUZmb29FRHlSSTcxamFIeHJ6VElLek0?oc=5",
+        "publisher_name": "nationaljeweler.com",
+        "publisher_url": "https://nationaljeweler.com",
+        "published_at": "2018-12-06T08:00:00+00:00",
+        "indicative_usd": 1700000
       }
     ]
   },

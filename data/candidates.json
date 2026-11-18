@@ -1,5 +1,19 @@
 [
   {
+    "id": "7af6963d13ae11ba",
+    "title": "Rare coin sold for $1.925 million at auction - SILive.com",
+    "summary": "Rare coin sold for $1.925 million at auction    SILive.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZm5qSXQ1SjlnN1ZzVDNMREd2TTlFdldLOHUyMV80aDFqRkJCeU51NlVQR1pzeTVjNTBtTzFiOWswQWU1ODRkYzAycFhyQmtzbnVKU25tOWpqTXluZ2stR3VKWTZ0dFltX3VXMDRjeHQyQXJDZDhBQ1F1MzRmUkxCX3JxbDIwNXBpZ092WGJR?oc=5",
+    "published_at": "2026-11-18T19:15:00+00:00",
+    "indicative_usd": 1925000,
+    "category_hint": "coins",
+    "source_name": "Google News: rare coin auction \"sold\"",
+    "publisher_name": "SILive.com",
+    "publisher_url": "https://www.silive.com",
+    "status": "candidate",
+    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
+  },
+  {
     "id": "b3f5dfda522b1fa9",
     "title": "More Than 8,000 Acres of Iowa Farmland Sold for Nearly $89 Million in October - Successful Farming",
     "summary": "More Than 8,000 Acres of Iowa Farmland Sold for Nearly $89 Million in October    Successful Farming",
@@ -1118,6 +1132,20 @@
     "indicative_usd": 42900000,
     "category_hint": "cars",
     "source_name": "Google News: auction \"sold for\" \"million\"",
+    "status": "candidate",
+    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
+  },
+  {
+    "id": "25549daab557586e",
+    "title": "Shohei Ohtani card sells for $11 million, becomes third-most-expensive sports card - The New York Times",
+    "summary": "Shohei Ohtani card sells for $11 million, becomes third-most-expensive sports card    The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRVZjZzE0M1dKamdMOUVFOTF3UjBkeXYwdFpUX2JhemVpX094WC1BeFFVOW1TTXdKTHVETlNTZkVydS01Q2ZWNGNaTm9QdXl4UDdzRUdBYmdOaWV6MjB6bTV2ZHdqazJydDl1MUotT19jOXRsVUNuS3VxRm1VbEw4TW9MaXN4WmZZVkRjTlg3aWlVYkJo?oc=5",
+    "published_at": "2026-07-30T07:00:00+00:00",
+    "indicative_usd": 11000000,
+    "category_hint": "other",
+    "source_name": "Google News: sports card collectible auction \"sold for\"",
+    "publisher_name": "The New York Times",
+    "publisher_url": "https://www.nytimes.com",
     "status": "candidate",
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
@@ -3488,6 +3516,20 @@
     "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
   },
   {
+    "id": "a85c6343a41dc9c7",
+    "title": "The First-Ever Marvel Comic Book Has Sold at Auction for $1.26 Million - Observer",
+    "summary": "The First-Ever Marvel Comic Book Has Sold at Auction for $1.26 Million    Observer",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83Q2NJcnZJeElPRzNmM2dhZC1pS1FQTmg2cW55TjNZZkJZNHg0ZVFXUjNKVDNwcnNtblByNUlQS096MzBTR1dweUVzXzdnVlUwMkNEVWhKQUlaT3JZWDNUSThnRjhaNVluRTVLdTRlN0Y4M3Fl0gF6QVVfeXFMT2RoaXBieTJUQWxJaHR6RjZETmNRNjJmTVRQUDhHUmRiQ3FpM0NVQkNzd0t1V2xoTXFWalJyRnlGTlVxQ1VBdkFLUnNXWVpIZ1B3NGxEZHhPcVQyaXJFYjk5MGpzN2t3WnNTR1ZPOEpRc0U0UjNSVHNkX2c?oc=5",
+    "published_at": "2019-11-22T08:00:00+00:00",
+    "indicative_usd": 1260000,
+    "category_hint": "books",
+    "source_name": "Google News: comic book auction \"sold for\"",
+    "publisher_name": "Observer",
+    "publisher_url": "https://observer.com",
+    "status": "candidate",
+    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
+  },
+  {
     "id": "0933da00475da7a9",
     "title": "The World's Most Expensive Watch Has Sold for $31 Million - Architectural Digest",
     "summary": "The World's Most Expensive Watch Has Sold for $31 Million    Architectural Digest",
@@ -3676,6 +3718,20 @@
     "publisher_url": "https://coins.ha.com",
     "status": "candidate",
     "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
+  },
+  {
+    "id": "87b4e5b99fa8fd7b",
+    "title": "Barbara Sinatra’s Diamond Ring Sells for $1.7M at Auction - nationaljeweler.com",
+    "summary": "Barbara Sinatra’s Diamond Ring Sells for $1.7M at Auction    nationaljeweler.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOU9rdC1STW9lVjNPbWJwUFdLbE9yQVFVNUN2ZzRseDhDYTU1b3FPdXNDbFIwZVBKUkdYdEFITFNaZU80VXBkWElWem1rWlA2VnVFSnlzNlpjblZ5S3lRVkV3NzFvUFpXMThnZ2FuWVpQdkRIaGI5SmRVeWpsbl9uaHBwSjVlUkVraUZmb29FRHlSSTcxamFIeHJ6VElLek0?oc=5",
+    "published_at": "2018-12-06T08:00:00+00:00",
+    "indicative_usd": 1700000,
+    "category_hint": "jewelry",
+    "source_name": "Google News: jewelry diamond auction \"sold for\"",
+    "publisher_name": "nationaljeweler.com",
+    "publisher_url": "https://nationaljeweler.com",
+    "status": "candidate",
+    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
   {
     "id": "c6a08af3a99a0ef2",
