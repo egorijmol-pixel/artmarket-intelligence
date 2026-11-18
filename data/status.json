@@ -1,31 +1,32 @@
 {
-  "last_attempt_utc": "2026-11-18T07:41:29.117835+00:00",
+  "last_attempt_utc": "2026-11-18T13:38:35.147840+00:00",
   "sources_checked": 10,
-  "sources_ok": 8,
-  "candidates_count": 293,
+  "sources_ok": 10,
+  "candidates_count": 297,
   "verified_automatic": 0,
   "checks": [
     {
       "name": "Google News: auction \"sold for\" \"million\"",
       "status": "ok",
-      "articles_seen": 79,
-      "new_candidates": 2
+      "articles_seen": 85,
+      "new_candidates": 4
     },
     {
       "name": "Google News: collectible auction \"sells for\"",
       "status": "ok",
-      "articles_seen": 50,
-      "new_candidates": 1
+      "articles_seen": 51,
+      "new_candidates": 0
     },
     {
       "name": "Google News: auction \"achieves\" \"$\"",
-      "status": "error",
-      "reason": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "articles_seen": 54,
+      "new_candidates": 0
     },
     {
       "name": "Google News: private sale art collectible \"million\"",
       "status": "ok",
-      "articles_seen": 35,
+      "articles_seen": 34,
       "new_candidates": 0
     },
     {
@@ -37,18 +38,19 @@
     {
       "name": "Google News: rare coin auction \"sold\"",
       "status": "ok",
-      "articles_seen": 36,
+      "articles_seen": 35,
       "new_candidates": 0
     },
     {
       "name": "Google News: jewelry diamond auction \"sold for\"",
-      "status": "error",
-      "reason": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "articles_seen": 63,
+      "new_candidates": 0
     },
     {
       "name": "Google News: sports card collectible auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 38,
+      "articles_seen": 36,
       "new_candidates": 0
     },
     {
@@ -60,7 +62,7 @@
     {
       "name": "Google News: watch auction \"sold for\" million",
       "status": "ok",
-      "articles_seen": 58,
+      "articles_seen": 55,
       "new_candidates": 0
     }
   ],
