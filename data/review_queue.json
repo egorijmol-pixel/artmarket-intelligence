@@ -1,16 +1,16 @@
 [
   {
-    "group_id": "58449329b4510d76",
-    "title": "Painting by van Gogh sells for record $190.4 million at Sotheby’s auction - WFTV",
+    "group_id": "a8f30d81849d095a",
+    "title": "Van Gogh painting with a complex Jewish history sells for record $190.4 million at auction - Jewish Telegraphic Agency",
     "category_hint": "art",
-    "articles": 17,
-    "publishers": 17,
+    "articles": 13,
+    "publishers": 13,
     "indicative_usd_values": [
       190000000,
       190400000
     ],
     "amount_variation_pct": 0.2,
-    "last_publication_at": "2026-11-19T13:19:00+00:00",
+    "last_publication_at": "2026-11-19T18:38:58+00:00",
     "priority": 2,
     "checks_needed": [
       "Не найден проверенный результат конкретного лота из официального источника"
@@ -18,25 +18,48 @@
     "decision": "needs_official_primary_source",
     "is_verified_sale": false,
     "candidate_ids": [
+      "118495c843fae61e",
+      "a499b53534dd5b6f",
+      "36f3cb868e542539",
       "57fbd30a488bd7ef",
-      "79665e6e88a07084",
-      "3b4b756d30d24421",
+      "d65db52cef513492",
       "e9bc7dfe67249b11",
       "c59ce53a4b30037a",
-      "7c5357951e2eba46",
-      "2b9eb8abe3af5aab",
-      "5b7e3d1c7a852371",
+      "0f1b9c732c18eb3f",
       "f2be0ef380c29ee3",
       "0a6dc300151f6206",
-      "448f9c096f79552a",
       "f85bfbf279bc3baa",
       "73a53281bd2c47cd",
-      "f7dfb4415d3097ad",
-      "5c4a44df4a5c2c06",
-      "25de048d2c591b20",
-      "328227caf30400d6"
+      "a5e3c057eb73a3b2"
     ],
     "links": [
+      {
+        "candidate_id": "118495c843fae61e",
+        "title": "Van Gogh painting with a complex Jewish history sells for record $190.4 million at auction - Jewish Telegraphic Agency",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjlNR1FxYTBSZ21pN215WWxqU3paaEJNTDN6TkQ3Vkg0MS1YVEh4dzZWSkd6ZzExZ2xXNWpCdk00aWFnZ0xZLWt5Z2NqMjVGSFZhTmlDUGZGQVJ2dDE4ZXhyTll6NFVxbEhzYzZ2UWpSMlhzalpSbkg4bEh5RWFJUEVPeWNDZjh1S2xRNGdPeE1CZnFsQnoxQmgxNWV5RVJiQXJqc2ZDWmdIUjEtUTlDZ1RzYUp2TTk3VGZValpHOUQ?oc=5",
+        "publisher_name": "Jewish Telegraphic Agency",
+        "publisher_url": "https://www.jta.org",
+        "published_at": "2026-11-19T18:38:58+00:00",
+        "indicative_usd": 190400000
+      },
+      {
+        "candidate_id": "a499b53534dd5b6f",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - The Herald Journal",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeHBJN09aMEVGdXc5eVpSWWt6QlR4bFNFUVl2Y0ItQ2JLTGtfOHkyVDFYaHd6V2dmeXoxc0ZLajZRcHVtWl90MncyZmhNQ0NWM00zeFFtOWYycUd4a05PRW1lRUFBeHJCd1VURG1CbTV6cDZjLUFZaUl2cmNub0JuRDF5SkN1WFN5SnZHNy1BaHJaaTBjaEZVTUZSekFtb2FkZTZoMFo5T3dZZzJpUlZTQ1R3cENPN2tYQVhpQXlTSDAwTGdxOTdrUVN1VVpGWWlWX3RqdDgtdkZNUjJDT3NaUEdlX05MdmRPNXNrcHJyMUc?oc=5",
+        "publisher_name": "The Herald Journal",
+        "publisher_url": "https://www.hjnews.com",
+        "published_at": "2026-11-19T13:27:26+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "36f3cb868e542539",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - WV News",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYm14SlcwY1dCMVhYME9qRGN4VnJGV0xDSXpTV2FjM1pYemFGMmozcHVKaGdiZW5RRVprN3dYZzZmRXJPOF94YjMwV0xFRW1PQXJhOW1EVDJwclZHTUJtbFltelJCZnhXM3Nib0dyVXlrVnY3cmEtOXlqeGNyTktVWGVTWFpIRjIwUHdkVUZMc0hKYWdSNW1YNjNQZnhMQUpXRl9OdkZEeGVacHlTQ1ZCaHRGR0ZmcmZJTWdnNjdNRlU4NTdiQUoxczRsdDI5Q09uQVRwOGxzaVpkWnRoZ3N3VExKTmhqQWJfNW52c210SU8xZw?oc=5",
+        "publisher_name": "WV News",
+        "publisher_url": "https://www.wvnews.com",
+        "published_at": "2026-11-19T13:27:26+00:00",
+        "indicative_usd": 190000000
+      },
       {
         "candidate_id": "57fbd30a488bd7ef",
         "title": "Painting by van Gogh sells for record $190.4 million at Sotheby’s auction - WFTV",
@@ -47,21 +70,12 @@
         "indicative_usd": 190400000
       },
       {
-        "candidate_id": "79665e6e88a07084",
-        "title": "Van Gogh painting sells for record $190.4 million after Nazi-era restitution dispute resolved - The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aXy1FZE95N1ZmandNVTlxem9zNGNwYkRYd3hjQkkxdElLeUhDQVFuSmxRQWswb0dyd24tY3lJOWxGNFZGM0pCbUV6NUdpN1hYbDdtc0QwSE93MUN4bXlV?oc=5",
-        "publisher_name": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
-        "published_at": "2026-11-19T12:43:20+00:00",
-        "indicative_usd": 190400000
-      },
-      {
-        "candidate_id": "3b4b756d30d24421",
-        "title": "Rare Vincent Van Gogh Painting Sold At Auction For $190 Million - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSFJYb0xScUgyRUg2MVlSTlVvS3ltNEJrTVJTWjRVb2M5UFQ2cC12bjVCQUpyS05kYkl5NzJsa0h2UUtXRE14LURRRDFVcTlHUy1COC1uQU1FU0diY05JZDdzaTYwZmRXRHM2Zk10bk4tWnJXU05Eanl1SHAzY1JQQmlFZkRoWVRwSjBWY3NnMUw?oc=5",
-        "publisher_name": "Yahoo",
-        "publisher_url": "https://www.yahoo.com",
-        "published_at": "2026-11-19T11:02:23+00:00",
+        "candidate_id": "d65db52cef513492",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - Bangor Daily News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMW53QUZJSXhQRXJoVkJSVzNSZXN6T0VFVVBMcjk2WE9wOVViY0JwTzlKWk1uZUVxdnJ4eXkxUERRbm1kTU9hSmx5NEdWbVB5VjBTTHhjTVlTRkJYOFZocDhvWTRaWWdpcjk2Y2loajJWSTRxV0xETUZGNVJSQnFJWW5hQjZyQU0xZDVJMndiU0ZOOVFUR1F1SVhWR2EtME94VUR3UGMxbkpNaHczVDU0YVcyS0FKUFBfMGxjeWVpOVk?oc=5",
+        "publisher_name": "Bangor Daily News",
+        "publisher_url": "https://www.bangordailynews.com",
+        "published_at": "2026-11-19T12:31:38+00:00",
         "indicative_usd": 190000000
       },
       {
@@ -83,30 +97,12 @@
         "indicative_usd": 190400000
       },
       {
-        "candidate_id": "7c5357951e2eba46",
-        "title": "A Van Gogh painting sold for a record $190.4m last night - Morning Brew",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzFMdnRIOVM5RExsZ0tNVjVFU3QxQXRfVHc0dHVwa0p6S1pQT3B6UnFva2lZZU9jQklDRFFXUFFsTnhQWHk1ejNZSGhuNUkwS2NyeXhjM3I1Yl8xb1lrYV9VVWEtczdLVXoyaFRuWXU3azAwVUJpZmpENGhYbEFTeXAxMzg3Q084MzZweQ?oc=5",
-        "publisher_name": "Morning Brew",
-        "publisher_url": "https://www.morningbrew.com",
-        "published_at": "2026-11-19T10:11:00+00:00",
-        "indicative_usd": 190400000
-      },
-      {
-        "candidate_id": "2b9eb8abe3af5aab",
-        "title": "Van Gogh's painting sells for record $190.4 million at auction | It features a solitary male figure in a hat | Inshorts - Inshorts",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3A2NS1BeDN3MlF6MjlkMHpsTlRhWnBDd0NpUUxGTk4xNnlVd3paMElyNGMxNVFpcWcteDJjWFhvVGJ5QWdCeHlfeG5iWGJsZ1EzZjZRamZtbll3dEhfaXNfUDBveG1HZlVYb2llVXF4MWJnVTB3VEF5eUdQY3c4XzhMTVJ2dE9iNlVGMjU4c2s5OWVOWGdjVklKWXlFYWpkb1R5eVZTUS3SAa4BQVVfeXFMUDliaE9MRHRBZUNFUzRBeVdBdVdPbkxmNkpGR1E3TDRmTFhTNkdDemxCTjVTdFN2U2lSUGVRY3BlbkJRWmc5M1ZQMDNMM3BfLVdWT0V4d3dRc2VfRnVSTjJUNmRDMmRFYnF0VV9iekltNnhXS3lVVEJ2eGNYQlVORndtSzJQWXNFRWdtSlZManpxZk82WFRDSWJpMlNmaWhVbVZ5dVA3RWR2UEpEY0Jn?oc=5",
-        "publisher_name": "Inshorts",
-        "publisher_url": "https://inshorts.com",
-        "published_at": "2026-11-19T10:08:57+00:00",
-        "indicative_usd": 190400000
-      },
-      {
-        "candidate_id": "5b7e3d1c7a852371",
-        "title": "Van Gogh Masterpiece Fetches Record $190.4 Million at Sotheby’s Auction - Khaama Press",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xc1plcXpzQmxRcFpyZW84UkxlMkxEWlRsNjdJT1FGMlViM3IwQ3JJdkRnREUzSjdsTHJjREFiVFhNQVlucXRHVm9DNXhtYjlzRENJYTM0MmkyOVVVdElWcjFCUFZ4MW1QbGh3T1BsdzJiX0FBdGxRcw?oc=5",
-        "publisher_name": "Khaama Press",
-        "publisher_url": "https://www.khaama.com",
-        "published_at": "2026-11-19T10:08:50+00:00",
+        "candidate_id": "0f1b9c732c18eb3f",
+        "title": "Van Gogh Sold by Jewish Family in 1936 Fetches $190.4M - JFeed",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XU0hzelNrMXRpTE1GT3lkTnpTYUV5RVVIR3NaWTBuR3pPZHE1cmxJNXh2UTRsSFlPSzZndkItOU8wY2NzWVNqNE5Na2dEaUc1UHNSVHFLMjNVMDVscEpTTVBfYTctOU9fSzR2V2NZcVBEY3ZScVE?oc=5",
+        "publisher_name": "JFeed",
+        "publisher_url": "https://www.jfeed.com",
+        "published_at": "2026-11-19T09:17:43+00:00",
         "indicative_usd": 190400000
       },
       {
@@ -128,15 +124,6 @@
         "indicative_usd": 190000000
       },
       {
-        "candidate_id": "448f9c096f79552a",
-        "title": "Van Gogh painting sells for record US$190.4 million after dispute - South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ0p6S2xqX0FtaVdxVlZhcGdjLUpvR21GblRZbGlNZ2xja3Uxa1lnVWI5MEctRHZ0amxnMDFzU1Q4dWZLTGRjcS1XNmY1OVI5ZlotUGFYX3hVZlpGMlJzVG1WbjkzbTdfRmFST194RE82TktnaHZBcTdDME5TV3NPbGE5NFM1Tkk2cms2dzBzakpqZVJiNHd3X1dzdlhwOTlvT21jU3V1ZG1ybmRHZEVDWHl4MkhIU3RJWnJlVHlnRUdPWFZsUzI00gHHAUFVX3lxTE9FajNtbTB6b09mbjRURG01NUtoRDJ5TzJURGZzVkNCZ2xsX09vRkYwdkdValVVR0ZUM0dqLVZOdUpDdzJOLWwxRGZaUTM2N3p6c0xVTXFSekNjN2dzVkNqelVkU25ZQkJCdS1EemFEMXpmYldIcmdmcHg1eTcxaG1HTnEzNDZiMnIyVzlfRUY1V3E2ak0yclVubmhscHIxZkdNbE1odnJpZkJKLWI0MDQxNGRrWFB0UVVpZEp6OUhHZDRoUkNTQ00?oc=5",
-        "publisher_name": "South China Morning Post",
-        "publisher_url": "https://www.scmp.com",
-        "published_at": "2026-11-19T05:45:48+00:00",
-        "indicative_usd": 190400000
-      },
-      {
         "candidate_id": "f85bfbf279bc3baa",
         "title": "Van Gogh Painting Sells for Record $190.4 Million at Auction - JournalArta",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3YyN3E3eFBabU5EWnZJd3F3Q2VvbzVXbFphcWREcmpuSUVFNnd2WExNa0RiNlpSbm9LcFdlc3loQUhWYUxLV1JmQmhWMHpjQmxZNEF0RzZCbjh4dGhzQW0zWmxFeXYzM1lnbjZOSGZXeDh5VXBnaXlaVmYxN3pHX3J5ZkktbnQtT0pvYndwMm5BQQ?oc=5",
@@ -155,40 +142,13 @@
         "indicative_usd": 190400000
       },
       {
-        "candidate_id": "f7dfb4415d3097ad",
-        "title": "Van Gogh Painting Sells for $190.4 Million, Most Ever for the Artist - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHg4Uk1qUVBmSVlZYlZWY2laYTYzOTNvQXliQWJ6b0JoNEZIa1JJd21VSkJxVzdKcEZVa1BZSTNZNTEwdFVIY2RlUXY5TWI3T2dGZ0lSV3hPNnpLSG5ZNUFOT0pKOWc1MDRWVnJ5MDlsS2NnS0NOcTFjTXkxclE1cnV6M0ZUWVBmTWFzT1NWazZObmo1Q1dYdzd0RkdhMEFNX2ZsSWZaSQ?oc=5",
-        "publisher_name": "WSJ",
-        "publisher_url": "https://www.wsj.com",
-        "published_at": "2026-11-18T23:57:00+00:00",
-        "indicative_usd": 190400000
-      },
-      {
-        "candidate_id": "5c4a44df4a5c2c06",
-        "title": "Vincent van Gogh painting sells for $190 million, smashing auction record - CNN",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcG16WFc2NXZDel9HU0JPMGVmNVh3cUQ2djZOYW5ObHBHSjdtYVpzX25pYjNZbTk2WkhOX2NTdnFKbXFmQVNqelFhc2lrZFhCYzZ1dXdhc0dOOVpxMU4wTGNBUUN6U1R3VUotZG15eTdzQ1g5Ri1mem05NzVrRmU1Q0JPZw?oc=5",
-        "publisher_name": "CNN",
-        "publisher_url": "https://www.cnn.com",
-        "published_at": "2026-11-18T23:31:01+00:00",
+        "candidate_id": "a5e3c057eb73a3b2",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - Herald Bulletin",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdTNvZ19zcklWQURrTFRjRGh6SVhYandpSmVNS1dGNDFrQ3dFci1JUUdSZktlQThYVlNISHd1bDZyQnU1MHNfTGt2STJWU2JFcDJjbWUzRFIxMU54bFQySndGbjhoYmFjcGZHdVNNc0dJaW5mUHRaWXc0V0U1UThNdUxDOF9iV2hjWFVJeTNydUZfLUFDVmU3ZWhjd3dWTEwxY1RaX3hWWnJ3aWxOazJIbjU2V2ZYbk5KSVZnV2xhTXRvQV9zUXg4MmxsQk43VEtINlZwS29Hd1gtam4xbDJ5NzV5YlZaZmYxZFNHRzNjd3pLQk1FTUtxOURNNkZ5Vm5h?oc=5",
+        "publisher_name": "Herald Bulletin",
+        "publisher_url": "https://www.heraldbulletin.com",
+        "published_at": "2026-11-18T08:00:00+00:00",
         "indicative_usd": 190000000
-      },
-      {
-        "candidate_id": "25de048d2c591b20",
-        "title": "Van Gogh Slashes Auction Record at Sotheby’s, Selling for $190.4 M. - ARTnews.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOazN3aDdZTDNIejJwMWlyT3p1YjE5aVA1dFFYUmZnMXVOZnlhYlpUVDEzQS0yazdEaXJHc181cm9NcUFaRktHZnFWV2tJc2Y3U1B0U0hsTWtnM1Z3d2hncHdId0xralFZX3Rld3hPTTlNcXhsRUdVellnN1lUX2JNQk8xMEFuNlFvNVVLSEgxTTVHQ1B6QVpRUVFNekQwTGdxbEw2WnRrdVlMMldWUUhzZ0h3?oc=5",
-        "publisher_name": "ARTnews.com",
-        "publisher_url": "https://www.artnews.com",
-        "published_at": "2026-11-18T23:26:00+00:00",
-        "indicative_usd": 190400000
-      },
-      {
-        "candidate_id": "328227caf30400d6",
-        "title": "Van Gogh Painting Sells for Record $190.4M Million in New York—Buyer Is Dealer Bill Acquavella - Artnet News",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNDdnVjgzWnBlQk4tTGRyTW1jOXJOLXdUa001SkV5d0M5NWN4QUZINTFWZ1hib0FRc2xhSmljQ1UxaTVfbUVtbjZpTTc1Q0xYU3hvd3pfUmtqYmN2RlFDNi1ja21OeU9aN2dsZHYtdUswaE1YYWdZakpBVkNjMUh3QnlaM1lGTkN3bzROYS1aTVBjX2Y5c2ZUMVBhbmEwSG_SAacBQVVfeXFMUGZwTk9RTF9CaFNKVWN6NFJXOHBPV3pKN2V3cFVYY0JPRFFsaDdXYTZfQTVJQU9LZWU1NHhYRnVhUGZiclQwVDkwSXpSV2ZINjVYZkdhSk5ZVVdkX0o3a2VuclBaOWNweFJnaGczNVJGX0J0cTUxXzdPeTBTTmFENGVFdHJfS1hkbWtCQ29lUjdNR0hlYlFOa2hRSVJGYUxRcGhUWktnUk0?oc=5",
-        "publisher_name": "Artnet News",
-        "publisher_url": "https://news.artnet.com",
-        "published_at": "2026-11-18T23:25:43+00:00",
-        "indicative_usd": 190400000
       }
     ]
   },
@@ -708,6 +668,68 @@
     ]
   },
   {
+    "group_id": "5f582f3ad395588f",
+    "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KCCI",
+    "category_hint": "art",
+    "articles": 4,
+    "publishers": 4,
+    "indicative_usd_values": [
+      4800000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-18T01:49:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "d04a5d25d3c2ec42",
+      "7d5b98aeb48d73e0",
+      "7266f317373b3a5f",
+      "381867aec25a1643"
+    ],
+    "links": [
+      {
+        "candidate_id": "d04a5d25d3c2ec42",
+        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KCCI",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeENnYjlrN1ZTb3Q0RmVxenlvTERFTlNXcHVLYjlUMXptczRxVnZteHZXbWx5THZyejZTbzJTaGI4YjJUZ3RKZXR2VFMzeFpsbDZzUy1oSTRiazFaN3FkLS1weElzNUpteFlzWDdHT1M4TFZXdDBWemM4RTJpZzRuczNoNVdBdXppb3dfM2lmbnF5TEJt?oc=5",
+        "publisher_name": "KCCI",
+        "publisher_url": "https://www.kcci.com",
+        "published_at": "2026-11-18T01:49:00+00:00",
+        "indicative_usd": 4800000
+      },
+      {
+        "candidate_id": "7d5b98aeb48d73e0",
+        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KOCO",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNjZTaTZ6bnZTOHNXWk9zb2JBNEc5Tk8yMWQydUpJRWhjLUIzb01rVWZTQXdtNXRGVDl2eXJ6ZzZWX2xOY3BrMlR4VDJxQ24wcHpQaS1vVUlxclJ6cUhlWV9TekNBY2t4QkNPUk50RVRWdmExSVZha2tLRldwNmVPb1BpaGx3ckJZZmNsX0dqRzFCWFRO?oc=5",
+        "publisher_name": "KOCO",
+        "publisher_url": "https://www.koco.com",
+        "published_at": "2026-11-18T01:49:00+00:00",
+        "indicative_usd": 4800000
+      },
+      {
+        "candidate_id": "7266f317373b3a5f",
+        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - WTAE",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNlNEYktJeDhZZHZybnkzRXlpY2FtWGVwWDBlSWExdUFnQWNISFBUZTRINmlhaTZWU3dmem5YUnF3WjJuUmYxejJqQ19SYWVwT1U1SXEtb0d3ai1lZk9KTzBPM0R2dnZCYW94eTI1SU1KZEg5RXJPR0hNbWR4OW44NXliVDE5cm9PWWhkeE9Ob2dLSzRK?oc=5",
+        "publisher_name": "WTAE",
+        "publisher_url": "https://www.wtae.com",
+        "published_at": "2026-11-18T01:49:00+00:00",
+        "indicative_usd": 4800000
+      },
+      {
+        "candidate_id": "381867aec25a1643",
+        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - WBAL-TV",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWRwMXdIWFpZcm9iVnI5VnJGQ3A2QVVKVzZlaG9WUmpOV054eTJVTGI2UzVQSms2RGxsWWJsTDN5bW5HbDlIM25vSjJLUkZQcHkxWWszWkNmakVDV0VDUkM0ckxfaE5wbF9MalVmQ3pUTWtldHd1TzNXekszczBRMXVvakVXb20xSUVmMzdVNUNnSk1XNENj?oc=5",
+        "publisher_name": "WBAL-TV",
+        "publisher_url": "https://www.wbaltv.com",
+        "published_at": "2026-11-18T01:49:00+00:00",
+        "indicative_usd": 4800000
+      }
+    ]
+  },
+  {
     "group_id": "08e13fa09b204a45",
     "title": "Yayoi Kusama Sets New Auction Record as 1960 Infinity Net Painting Sells for $14.7 Million - Style Rave",
     "category_hint": "art",
@@ -833,16 +855,16 @@
     ]
   },
   {
-    "group_id": "628d4bd67587b3d8",
-    "title": "A van Gogh with a complex past sells for a record $190 million at auction - ABC News - Breaking News, Latest News and Videos",
-    "category_hint": "other",
+    "group_id": "1eade01eabd28e23",
+    "title": "Van Gogh painting sells for record $190.4 million after Nazi-era restitution dispute resolved - The Jerusalem Post",
+    "category_hint": "art",
     "articles": 3,
     "publishers": 3,
     "indicative_usd_values": [
-      190000000
+      190400000
     ],
     "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-11-19T13:30:00+00:00",
+    "last_publication_at": "2026-11-19T12:43:20+00:00",
     "priority": 2,
     "checks_needed": [
       "Не найден проверенный результат конкретного лота из официального источника"
@@ -850,37 +872,89 @@
     "decision": "needs_official_primary_source",
     "is_verified_sale": false,
     "candidate_ids": [
-      "ba545b69ac448d73",
-      "d65db52cef513492",
-      "a5e3c057eb73a3b2"
+      "79665e6e88a07084",
+      "efa6d62255e93c68",
+      "448f9c096f79552a"
     ],
     "links": [
       {
-        "candidate_id": "ba545b69ac448d73",
-        "title": "A van Gogh with a complex past sells for a record $190 million at auction - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGYyM0FrNFVQN3JaWEtab3EwMGdSMkY2eVRDUTJWdHg5LTF6UjlEQWFmcmZuS2dJQk5OTUdoY1U0eHFUZ3d4RU56U0trSkxKM29CYmdUcW03VEtnTGV6R0pWdHNacVpudDdxVGRfNTFNREE1ckwtckVsTm9IUXBXX0E0enZ2c2pqSm5McHJ5cG9PM2JJTUVsbUljT3hpN2pWMXfSAacBQVVfeXFMT3FwQm5waGdoc09vVTV0UGZWWW5fc1ctSjJJeHBrc2tNdmkzY1lLY0ZTOVZtMWV1Wk5zVTlUMlB3MUUzYlRBbGhJcG5saE9xRnVWdk1zdjU1YTdpMjNvclpWWnEtbHk4Skp3UXEtMXVZMmloUDdYSXZURzhIdjZZeU1NMnZta2dGUjNfczYwUERFeGtVLUVCZVRUOWstLWdwaGxneUNhYzA?oc=5",
-        "publisher_name": "ABC News - Breaking News, Latest News and Videos",
-        "publisher_url": "https://abcnews.com",
-        "published_at": "2026-11-19T13:30:00+00:00",
-        "indicative_usd": 190000000
+        "candidate_id": "79665e6e88a07084",
+        "title": "Van Gogh painting sells for record $190.4 million after Nazi-era restitution dispute resolved - The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aXy1FZE95N1ZmandNVTlxem9zNGNwYkRYd3hjQkkxdElLeUhDQVFuSmxRQWswb0dyd24tY3lJOWxGNFZGM0pCbUV6NUdpN1hYbDdtc0QwSE93MUN4bXlV?oc=5",
+        "publisher_name": "The Jerusalem Post",
+        "publisher_url": "https://www.jpost.com",
+        "published_at": "2026-11-19T12:43:20+00:00",
+        "indicative_usd": 190400000
       },
       {
-        "candidate_id": "d65db52cef513492",
-        "title": "A van Gogh with a complex past sells for a record $190 million at auction - Bangor Daily News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMW53QUZJSXhQRXJoVkJSVzNSZXN6T0VFVVBMcjk2WE9wOVViY0JwTzlKWk1uZUVxdnJ4eXkxUERRbm1kTU9hSmx5NEdWbVB5VjBTTHhjTVlTRkJYOFZocDhvWTRaWWdpcjk2Y2loajJWSTRxV0xETUZGNVJSQnFJWW5hQjZyQU0xZDVJMndiU0ZOOVFUR1F1SVhWR2EtME94VUR3UGMxbkpNaHczVDU0YVcyS0FKUFBfMGxjeWVpOVk?oc=5",
-        "publisher_name": "Bangor Daily News",
-        "publisher_url": "https://www.bangordailynews.com",
-        "published_at": "2026-11-19T12:31:38+00:00",
-        "indicative_usd": 190000000
+        "candidate_id": "efa6d62255e93c68",
+        "title": "Van Gogh painting sells for record $190.4 million after Nazi-era ownership dispute resolved - The National",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa2lKYkFTUEs2d05LMnQ1X3dmY1RvSDNWS3FjdFNkT3AyajZMbE9Na3l1OEFYOGVmdEpXZnNueUp0bUdGcU9heUN3ekxDcmFPTnlJMHZEenJPMWF3Y3NKY0xaRHFrRVlJT29ldjZvcXlCV1hReHU0OTNCcjlLM3ZHa19sVndWMGs2dFFZMXNZb09uRkJCOXRuX3BjNUpjdGhiOUtxV0JNdDBwTjZCSzdyT3pqUm9GdUV2WWdyRFlUb3ZrSjhvQUFaZHRaVl9oa2NfcS1XMU1pUnI1UjRYTEJr?oc=5",
+        "publisher_name": "The National",
+        "publisher_url": "https://www.thenationalnews.com",
+        "published_at": "2026-11-19T05:48:22+00:00",
+        "indicative_usd": 190400000
       },
       {
-        "candidate_id": "a5e3c057eb73a3b2",
-        "title": "A van Gogh with a complex past sells for a record $190 million at auction - Herald Bulletin",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdTNvZ19zcklWQURrTFRjRGh6SVhYandpSmVNS1dGNDFrQ3dFci1JUUdSZktlQThYVlNISHd1bDZyQnU1MHNfTGt2STJWU2JFcDJjbWUzRFIxMU54bFQySndGbjhoYmFjcGZHdVNNc0dJaW5mUHRaWXc0V0U1UThNdUxDOF9iV2hjWFVJeTNydUZfLUFDVmU3ZWhjd3dWTEwxY1RaX3hWWnJ3aWxOazJIbjU2V2ZYbk5KSVZnV2xhTXRvQV9zUXg4MmxsQk43VEtINlZwS29Hd1gtam4xbDJ5NzV5YlZaZmYxZFNHRzNjd3pLQk1FTUtxOURNNkZ5Vm5h?oc=5",
-        "publisher_name": "Herald Bulletin",
-        "publisher_url": "https://www.heraldbulletin.com",
-        "published_at": "2026-11-18T08:00:00+00:00",
-        "indicative_usd": 190000000
+        "candidate_id": "448f9c096f79552a",
+        "title": "Van Gogh painting sells for record US$190.4 million after dispute - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ0p6S2xqX0FtaVdxVlZhcGdjLUpvR21GblRZbGlNZ2xja3Uxa1lnVWI5MEctRHZ0amxnMDFzU1Q4dWZLTGRjcS1XNmY1OVI5ZlotUGFYX3hVZlpGMlJzVG1WbjkzbTdfRmFST194RE82TktnaHZBcTdDME5TV3NPbGE5NFM1Tkk2cms2dzBzakpqZVJiNHd3X1dzdlhwOTlvT21jU3V1ZG1ybmRHZEVDWHl4MkhIU3RJWnJlVHlnRUdPWFZsUzI00gHHAUFVX3lxTE9FajNtbTB6b09mbjRURG01NUtoRDJ5TzJURGZzVkNCZ2xsX09vRkYwdkdValVVR0ZUM0dqLVZOdUpDdzJOLWwxRGZaUTM2N3p6c0xVTXFSekNjN2dzVkNqelVkU25ZQkJCdS1EemFEMXpmYldIcmdmcHg1eTcxaG1HTnEzNDZiMnIyVzlfRUY1V3E2ak0yclVubmhscHIxZkdNbE1odnJpZkJKLWI0MDQxNGRrWFB0UVVpZEp6OUhHZDRoUkNTQ00?oc=5",
+        "publisher_name": "South China Morning Post",
+        "publisher_url": "https://www.scmp.com",
+        "published_at": "2026-11-19T05:45:48+00:00",
+        "indicative_usd": 190400000
+      }
+    ]
+  },
+  {
+    "group_id": "f0f83949546e9c0a",
+    "title": "Van Gogh's 'Chataigniers en Fleurs' Sells at Auction for Record $190.4 Million - شبكة تواصل الإخبارية",
+    "category_hint": "other",
+    "articles": 3,
+    "publishers": 3,
+    "indicative_usd_values": [
+      190400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-19T11:12:54+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "f2bf887690a59cab",
+      "bf43a84c7a9757ae",
+      "7df5918a57959d72"
+    ],
+    "links": [
+      {
+        "candidate_id": "f2bf887690a59cab",
+        "title": "Van Gogh's 'Chataigniers en Fleurs' Sells at Auction for Record $190.4 Million - شبكة تواصل الإخبارية",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LS0VDb0xHUVF6NklGTVBKQllJeENRcW9BaW5PVDU0dVdFYzdIT0lEWEJiRVVmNDlIR3JDVDdEOVAzRFN2WTBJUy1LVWJ4Nk1PSFlV?oc=5",
+        "publisher_name": "شبكة تواصل الإخبارية",
+        "publisher_url": "https://twaslnews1.twaslnews.com",
+        "published_at": "2026-11-19T11:12:54+00:00",
+        "indicative_usd": 190400000
+      },
+      {
+        "candidate_id": "bf43a84c7a9757ae",
+        "title": "Van Gogh's 'Chataigniers en Fleurs' sells at auction for record $190.4 million - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzRHbm1wODU4d2dRTXJTUGN0aTVqb3hTS3FSVUNCdFJmN3NSeS1TQm4wTGJnQnRDV0pQcTM0YWVBVHkxTTVlS2FWOFh0MTBMOGpyQ3NOd2JLVk11cVNEUC1xOXF6SFp0UmdEdFJOemMzdWJNYVZ5ZVU1d1Q1bG9iM2J2YmHSAYoBQVVfeXFMTTZlU3V3TTZnS2w0TzZ3ZWwzemhZZ19pdWNGUXNvN0djT2tFanJac28ta2tWVll2bHhPYnMyYmpkenBaRlg5cVF2eE9qVHpPYWVFV1FmQk9hekdjZklUaHNBc3FzMFJQR0llTzZ3TW01dWJQVWhWUjQwQ1VweVkzbldBVHZaRDNBcGtB?oc=5",
+        "publisher_name": "CNBC",
+        "publisher_url": "https://www.cnbc.com",
+        "published_at": "2026-11-19T07:48:46+00:00",
+        "indicative_usd": 190400000
+      },
+      {
+        "candidate_id": "7df5918a57959d72",
+        "title": "Van Goghs Chataigniers en Fleurs sells at auction for record $190.4 million - The Tribune",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjFSVUZtbmFiZTBiTy0zTDBlbzNLdVlWRmU1THU4NGQzN1N3Vmk2RWNZSFNWdEtoTmdYRHgyOWxKcVFjT2lmMlE4MTJ1MmNQckZacVBOTVdYbURHSHhNRUkzTEdhTk5pVEVnQmxlcnhnTk5Qd3hqRTNSMXFqdDdPLXdVeFhuNVJQN1lfamVLYjVscmNfaDQ4MnJXZmxBTk9VQWVRMWRsVk41eHotTDRaZjVTTWRXd9IBugFBVV95cUxPWEZhUFUtTzZEanUtS2RBcEU1TV8zcnNRUlMwVUlXbWdXMnd2Slh1bUItWVNzYnRqYmd4NVRMaEVDdDcxenAtdEE3M3Z1bUdyOEhqa1l4WjZYY3ZocEZfaURxNHlKMUhSMmFaS09jMktJZTQ4bGZTRTE5V3R5aVpiTGg5MkJ6ZW1FcGpLbzQySnI4dFdpWlEyZ1EtY0N1TU8ycDBxT29ObEo2T1I5MFdzM2FfNVFmcTN2REE?oc=5",
+        "publisher_name": "The Tribune",
+        "publisher_url": "https://www.tribuneindia.com",
+        "published_at": "2026-11-19T06:45:59+00:00",
+        "indicative_usd": 190400000
       }
     ]
   },
@@ -985,58 +1059,6 @@
         "publisher_url": "",
         "published_at": "2026-11-13T16:51:34+00:00",
         "indicative_usd": 47300000
-      }
-    ]
-  },
-  {
-    "group_id": "b9bdd26c3b7288cc",
-    "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KCCI",
-    "category_hint": "art",
-    "articles": 3,
-    "publishers": 3,
-    "indicative_usd_values": [
-      4800000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-11-18T01:49:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "d04a5d25d3c2ec42",
-      "7d5b98aeb48d73e0",
-      "7266f317373b3a5f"
-    ],
-    "links": [
-      {
-        "candidate_id": "d04a5d25d3c2ec42",
-        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KCCI",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeENnYjlrN1ZTb3Q0RmVxenlvTERFTlNXcHVLYjlUMXptczRxVnZteHZXbWx5THZyejZTbzJTaGI4YjJUZ3RKZXR2VFMzeFpsbDZzUy1oSTRiazFaN3FkLS1weElzNUpteFlzWDdHT1M4TFZXdDBWemM4RTJpZzRuczNoNVdBdXppb3dfM2lmbnF5TEJt?oc=5",
-        "publisher_name": "KCCI",
-        "publisher_url": "https://www.kcci.com",
-        "published_at": "2026-11-18T01:49:00+00:00",
-        "indicative_usd": 4800000
-      },
-      {
-        "candidate_id": "7d5b98aeb48d73e0",
-        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KOCO",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNjZTaTZ6bnZTOHNXWk9zb2JBNEc5Tk8yMWQydUpJRWhjLUIzb01rVWZTQXdtNXRGVDl2eXJ6ZzZWX2xOY3BrMlR4VDJxQ24wcHpQaS1vVUlxclJ6cUhlWV9TekNBY2t4QkNPUk50RVRWdmExSVZha2tLRldwNmVPb1BpaGx3ckJZZmNsX0dqRzFCWFRO?oc=5",
-        "publisher_name": "KOCO",
-        "publisher_url": "https://www.koco.com",
-        "published_at": "2026-11-18T01:49:00+00:00",
-        "indicative_usd": 4800000
-      },
-      {
-        "candidate_id": "7266f317373b3a5f",
-        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - WTAE",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNlNEYktJeDhZZHZybnkzRXlpY2FtWGVwWDBlSWExdUFnQWNISFBUZTRINmlhaTZWU3dmem5YUnF3WjJuUmYxejJqQ19SYWVwT1U1SXEtb0d3ai1lZk9KTzBPM0R2dnZCYW94eTI1SU1KZEg5RXJPR0hNbWR4OW44NXliVDE5cm9PWWhkeE9Ob2dLSzRK?oc=5",
-        "publisher_name": "WTAE",
-        "publisher_url": "https://www.wtae.com",
-        "published_at": "2026-11-18T01:49:00+00:00",
-        "indicative_usd": 4800000
       }
     ]
   },
@@ -1199,16 +1221,16 @@
     ]
   },
   {
-    "group_id": "e84626efe2350e65",
-    "title": "Van Gogh's 'Chataigniers en Fleurs' sells at auction for record $190.4 million - CNBC",
-    "category_hint": "other",
+    "group_id": "f1a45f7f55948bbd",
+    "title": "Rare Vincent Van Gogh Painting Sold At Auction For $190 Million - Yahoo",
+    "category_hint": "art",
     "articles": 2,
     "publishers": 2,
     "indicative_usd_values": [
-      190400000
+      190000000
     ],
     "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-11-19T07:48:46+00:00",
+    "last_publication_at": "2026-11-19T11:02:23+00:00",
     "priority": 2,
     "checks_needed": [
       "Не найден проверенный результат конкретного лота из официального источника"
@@ -1216,26 +1238,68 @@
     "decision": "needs_official_primary_source",
     "is_verified_sale": false,
     "candidate_ids": [
-      "bf43a84c7a9757ae",
-      "7df5918a57959d72"
+      "3b4b756d30d24421",
+      "5c4a44df4a5c2c06"
     ],
     "links": [
       {
-        "candidate_id": "bf43a84c7a9757ae",
-        "title": "Van Gogh's 'Chataigniers en Fleurs' sells at auction for record $190.4 million - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzRHbm1wODU4d2dRTXJTUGN0aTVqb3hTS3FSVUNCdFJmN3NSeS1TQm4wTGJnQnRDV0pQcTM0YWVBVHkxTTVlS2FWOFh0MTBMOGpyQ3NOd2JLVk11cVNEUC1xOXF6SFp0UmdEdFJOemMzdWJNYVZ5ZVU1d1Q1bG9iM2J2YmHSAYoBQVVfeXFMTTZlU3V3TTZnS2w0TzZ3ZWwzemhZZ19pdWNGUXNvN0djT2tFanJac28ta2tWVll2bHhPYnMyYmpkenBaRlg5cVF2eE9qVHpPYWVFV1FmQk9hekdjZklUaHNBc3FzMFJQR0llTzZ3TW01dWJQVWhWUjQwQ1VweVkzbldBVHZaRDNBcGtB?oc=5",
-        "publisher_name": "CNBC",
-        "publisher_url": "https://www.cnbc.com",
-        "published_at": "2026-11-19T07:48:46+00:00",
+        "candidate_id": "3b4b756d30d24421",
+        "title": "Rare Vincent Van Gogh Painting Sold At Auction For $190 Million - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSFJYb0xScUgyRUg2MVlSTlVvS3ltNEJrTVJTWjRVb2M5UFQ2cC12bjVCQUpyS05kYkl5NzJsa0h2UUtXRE14LURRRDFVcTlHUy1COC1uQU1FU0diY05JZDdzaTYwZmRXRHM2Zk10bk4tWnJXU05Eanl1SHAzY1JQQmlFZkRoWVRwSjBWY3NnMUw?oc=5",
+        "publisher_name": "Yahoo",
+        "publisher_url": "https://www.yahoo.com",
+        "published_at": "2026-11-19T11:02:23+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "5c4a44df4a5c2c06",
+        "title": "Vincent van Gogh painting sells for $190 million, smashing auction record - CNN",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcG16WFc2NXZDel9HU0JPMGVmNVh3cUQ2djZOYW5ObHBHSjdtYVpzX25pYjNZbTk2WkhOX2NTdnFKbXFmQVNqelFhc2lrZFhCYzZ1dXdhc0dOOVpxMU4wTGNBUUN6U1R3VUotZG15eTdzQ1g5Ri1mem05NzVrRmU1Q0JPZw?oc=5",
+        "publisher_name": "CNN",
+        "publisher_url": "https://www.cnn.com",
+        "published_at": "2026-11-18T23:31:01+00:00",
+        "indicative_usd": 190000000
+      }
+    ]
+  },
+  {
+    "group_id": "db6bc68f74b14f5f",
+    "title": "Van Gogh Masterpiece Fetches Record $190.4 Million at Sotheby’s Auction - Khaama Press",
+    "category_hint": "other",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      190400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-19T10:08:50+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "5b7e3d1c7a852371",
+      "25de048d2c591b20"
+    ],
+    "links": [
+      {
+        "candidate_id": "5b7e3d1c7a852371",
+        "title": "Van Gogh Masterpiece Fetches Record $190.4 Million at Sotheby’s Auction - Khaama Press",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xc1plcXpzQmxRcFpyZW84UkxlMkxEWlRsNjdJT1FGMlViM3IwQ3JJdkRnREUzSjdsTHJjREFiVFhNQVlucXRHVm9DNXhtYjlzRENJYTM0MmkyOVVVdElWcjFCUFZ4MW1QbGh3T1BsdzJiX0FBdGxRcw?oc=5",
+        "publisher_name": "Khaama Press",
+        "publisher_url": "https://www.khaama.com",
+        "published_at": "2026-11-19T10:08:50+00:00",
         "indicative_usd": 190400000
       },
       {
-        "candidate_id": "7df5918a57959d72",
-        "title": "Van Goghs Chataigniers en Fleurs sells at auction for record $190.4 million - The Tribune",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjFSVUZtbmFiZTBiTy0zTDBlbzNLdVlWRmU1THU4NGQzN1N3Vmk2RWNZSFNWdEtoTmdYRHgyOWxKcVFjT2lmMlE4MTJ1MmNQckZacVBOTVdYbURHSHhNRUkzTEdhTk5pVEVnQmxlcnhnTk5Qd3hqRTNSMXFqdDdPLXdVeFhuNVJQN1lfamVLYjVscmNfaDQ4MnJXZmxBTk9VQWVRMWRsVk41eHotTDRaZjVTTWRXd9IBugFBVV95cUxPWEZhUFUtTzZEanUtS2RBcEU1TV8zcnNRUlMwVUlXbWdXMnd2Slh1bUItWVNzYnRqYmd4NVRMaEVDdDcxenAtdEE3M3Z1bUdyOEhqa1l4WjZYY3ZocEZfaURxNHlKMUhSMmFaS09jMktJZTQ4bGZTRTE5V3R5aVpiTGg5MkJ6ZW1FcGpLbzQySnI4dFdpWlEyZ1EtY0N1TU8ycDBxT29ObEo2T1I5MFdzM2FfNVFmcTN2REE?oc=5",
-        "publisher_name": "The Tribune",
-        "publisher_url": "https://www.tribuneindia.com",
-        "published_at": "2026-11-19T06:45:59+00:00",
+        "candidate_id": "25de048d2c591b20",
+        "title": "Van Gogh Slashes Auction Record at Sotheby’s, Selling for $190.4 M. - ARTnews.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOazN3aDdZTDNIejJwMWlyT3p1YjE5aVA1dFFYUmZnMXVOZnlhYlpUVDEzQS0yazdEaXJHc181cm9NcUFaRktHZnFWV2tJc2Y3U1B0U0hsTWtnM1Z3d2hncHdId0xralFZX3Rld3hPTTlNcXhsRUdVellnN1lUX2JNQk8xMEFuNlFvNVVLSEgxTTVHQ1B6QVpRUVFNekQwTGdxbEw2WnRrdVlMMldWUUhzZ0h3?oc=5",
+        "publisher_name": "ARTnews.com",
+        "publisher_url": "https://www.artnews.com",
+        "published_at": "2026-11-18T23:26:00+00:00",
         "indicative_usd": 190400000
       }
     ]
@@ -1279,6 +1343,49 @@
         "publisher_url": "https://entertainment.ha.com",
         "published_at": "2026-06-12T07:00:00+00:00",
         "indicative_usd": 3000000
+      }
+    ]
+  },
+  {
+    "group_id": "c57b2d477af4cd0b",
+    "title": "The Ocean Dream Diamond Just Sold for a Record $17.3 Million - Natural Diamond Council",
+    "category_hint": "jewelry",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      17000000,
+      17300000
+    ],
+    "amount_variation_pct": 1.7,
+    "last_publication_at": "2026-05-13T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "6456407faa3526c1",
+      "177f729c41cf1db1"
+    ],
+    "links": [
+      {
+        "candidate_id": "6456407faa3526c1",
+        "title": "The Ocean Dream Diamond Just Sold for a Record $17.3 Million - Natural Diamond Council",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OTm5HMFd3Rk1TOGlGS0x0bnF2UEhHbHFZenNCcXVvVFJnUno1UWNmTm9EanZZTnhoeXF2WkhuUlZVTGJBaU14STBPaWV5dlRhRXVJendQVmg2dEtKRF9zVDI1RGZKUDBhN21PT0J0VkRvejhJVV9RbmRqaDhlQQ?oc=5",
+        "publisher_name": "Natural Diamond Council",
+        "publisher_url": "https://thediamondcollective.world",
+        "published_at": "2026-05-13T07:00:00+00:00",
+        "indicative_usd": 17300000
+      },
+      {
+        "candidate_id": "177f729c41cf1db1",
+        "title": "'Ocean Dream' blue-green diamond sells for more than $17 million at Christie's auction in Geneva - The Independent",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2R6ZUh1dG9BLTNyYkdrWFFtNlhjM3BpR1k5VF9ZejJIX2RGcGRrQ2kxZ2xScVkwaWNvQ1NHRlQxTHNkdlpwUm9taHNvN1djTVJ3cTZTYk5xQ1NsaDczdUs3TGZuZzg1RHlzZjN5dTZna2xmMlpTS2FKU3F2YkxyMzBGUzRFT1pNYnVmdXdja3lNbUU1ZXRFa25IZWtSbW55REEyTA?oc=5",
+        "publisher_name": "The Independent",
+        "publisher_url": "https://www.independent.co.uk",
+        "published_at": "2026-05-13T07:00:00+00:00",
+        "indicative_usd": 17000000
       }
     ]
   },
@@ -1363,6 +1470,49 @@
         "publisher_url": "",
         "published_at": "2026-03-26T07:00:00+00:00",
         "indicative_usd": 6500000
+      }
+    ]
+  },
+  {
+    "group_id": "b2d38d31e21c4c80",
+    "title": "9.51-Carat ‘Mellon Blue’ Diamond Fetches $25.5 Million At Auction - Forbes",
+    "category_hint": "jewelry",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      25000000,
+      25500000
+    ],
+    "amount_variation_pct": 2.0,
+    "last_publication_at": "2025-11-12T08:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "62bf9823cd7c19f2",
+      "f8cbb0d777a06678"
+    ],
+    "links": [
+      {
+        "candidate_id": "62bf9823cd7c19f2",
+        "title": "9.51-Carat ‘Mellon Blue’ Diamond Fetches $25.5 Million At Auction - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ0VmUVV3R3dVX19lcXQtQ2xJZktQdnhXcGhMMUk0X2wxNVdMWVdQZVNqVnhJWXRkZE5mZHpjeEtxOEhqblZnVExVTV9CNDBBWkM2c2EwS2dIOElhOWNaVF9EOTRiVE9lSzZWT1JVZjNNTW9LYlpmTHVhamdWSVhfc1lGWDNlVFcxWVl1V3hHRHdGbXJLSTh5WG5fT3FPbzR1aUlMYk5vTHRqazNlb0VoQlRtWDVza05vb0l5ag?oc=5",
+        "publisher_name": "Forbes",
+        "publisher_url": "https://www.forbes.com",
+        "published_at": "2025-11-12T08:00:00+00:00",
+        "indicative_usd": 25500000
+      },
+      {
+        "candidate_id": "f8cbb0d777a06678",
+        "title": "'Mellon Blue' diamond ring sells for $25 million in Geneva auction - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYVZ4UnFxZThjNDJoZ2xEeU1PLTNuZU9RMDdTLUNQamFIQTRoanlWS2M2aHlKRnJzNmlhQlN1S1VpZzhLQUhEdFlDYmxJalU1MEF4bV9pOExVeDN3RnkxaDRnb3g3cU9ETmttUncweFJIZlNtM181RVF3VnJncHBLNWkzNGNpR21CaV8tM1FidVYyM1g5V1RQS2Y3d196TUtyZFhscw?oc=5",
+        "publisher_name": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "published_at": "2025-11-11T08:00:00+00:00",
+        "indicative_usd": 25000000
       }
     ]
   },
@@ -1625,6 +1775,70 @@
     ]
   },
   {
+    "group_id": "a46ae0a3b0995196",
+    "title": "Fernando Botero Sculpture Sells for Record US$5.24 Million in New York - ColombiaOne.com",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      5240000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-19T17:45:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "a5c55b5607f1c3e6"
+    ],
+    "links": [
+      {
+        "candidate_id": "a5c55b5607f1c3e6",
+        "title": "Fernando Botero Sculpture Sells for Record US$5.24 Million in New York - ColombiaOne.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSmdvd2x1c0N1LU02M0tKdFd4eWc5NGkxLWx5REs4X2MzQkFqSjVwSUp2NHAxQU1NangzTHFMTmJGelFPVUNiV1RRUEk2S2xGcjQ0UnlpWkhOd0lBaUlnQnB2SzZ2dmZEM0lpc1o3VkFNSXk3TnZfMjl5SkN1TVl2ODR4QnYyYzJJTnc?oc=5",
+        "publisher_name": "ColombiaOne.com",
+        "publisher_url": "https://colombiaone.com",
+        "published_at": "2026-11-19T17:45:00+00:00",
+        "indicative_usd": 5240000
+      }
+    ]
+  },
+  {
+    "group_id": "5ec61e0db013158e",
+    "title": "A van Gogh with a complex past sells for a record $190 million at auction - ABC News - Breaking News, Latest News and Videos",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      190000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-19T13:30:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "ba545b69ac448d73"
+    ],
+    "links": [
+      {
+        "candidate_id": "ba545b69ac448d73",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGYyM0FrNFVQN3JaWEtab3EwMGdSMkY2eVRDUTJWdHg5LTF6UjlEQWFmcmZuS2dJQk5OTUdoY1U0eHFUZ3d4RU56U0trSkxKM29CYmdUcW03VEtnTGV6R0pWdHNacVpudDdxVGRfNTFNREE1ckwtckVsTm9IUXBXX0E0enZ2c2pqSm5McHJ5cG9PM2JJTUVsbUljT3hpN2pWMXfSAacBQVVfeXFMT3FwQm5waGdoc09vVTV0UGZWWW5fc1ctSjJJeHBrc2tNdmkzY1lLY0ZTOVZtMWV1Wk5zVTlUMlB3MUUzYlRBbGhJcG5saE9xRnVWdk1zdjU1YTdpMjNvclpWWnEtbHk4Skp3UXEtMXVZMmloUDdYSXZURzhIdjZZeU1NMnZta2dGUjNfczYwUERFeGtVLUVCZVRUOWstLWdwaGxneUNhYzA?oc=5",
+        "publisher_name": "ABC News - Breaking News, Latest News and Videos",
+        "publisher_url": "https://abcnews.com",
+        "published_at": "2026-11-19T13:30:00+00:00",
+        "indicative_usd": 190000000
+      }
+    ]
+  },
+  {
     "group_id": "4fdf226a5856fa60",
     "title": "\"Van Gogh's Flowering Chestnut Trees\" sold for a record $190.4 million - Українські Національні Новини (УНН)",
     "category_hint": "other",
@@ -1685,6 +1899,70 @@
         "publisher_url": "https://people.com",
         "published_at": "2026-11-19T11:46:00+00:00",
         "indicative_usd": 4800000
+      }
+    ]
+  },
+  {
+    "group_id": "ffc46aca8b1cead9",
+    "title": "A Van Gogh painting sold for a record $190.4m last night - Morning Brew",
+    "category_hint": "art",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      190400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-19T10:11:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "7c5357951e2eba46"
+    ],
+    "links": [
+      {
+        "candidate_id": "7c5357951e2eba46",
+        "title": "A Van Gogh painting sold for a record $190.4m last night - Morning Brew",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzFMdnRIOVM5RExsZ0tNVjVFU3QxQXRfVHc0dHVwa0p6S1pQT3B6UnFva2lZZU9jQklDRFFXUFFsTnhQWHk1ejNZSGhuNUkwS2NyeXhjM3I1Yl8xb1lrYV9VVWEtczdLVXoyaFRuWXU3azAwVUJpZmpENGhYbEFTeXAxMzg3Q084MzZweQ?oc=5",
+        "publisher_name": "Morning Brew",
+        "publisher_url": "https://www.morningbrew.com",
+        "published_at": "2026-11-19T10:11:00+00:00",
+        "indicative_usd": 190400000
+      }
+    ]
+  },
+  {
+    "group_id": "a5688aee7a5dcba0",
+    "title": "Van Gogh's painting sells for record $190.4 million at auction | It features a solitary male figure in a hat | Inshorts - Inshorts",
+    "category_hint": "art",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      190400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-19T10:08:57+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "2b9eb8abe3af5aab"
+    ],
+    "links": [
+      {
+        "candidate_id": "2b9eb8abe3af5aab",
+        "title": "Van Gogh's painting sells for record $190.4 million at auction | It features a solitary male figure in a hat | Inshorts - Inshorts",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3A2NS1BeDN3MlF6MjlkMHpsTlRhWnBDd0NpUUxGTk4xNnlVd3paMElyNGMxNVFpcWcteDJjWFhvVGJ5QWdCeHlfeG5iWGJsZ1EzZjZRamZtbll3dEhfaXNfUDBveG1HZlVYb2llVXF4MWJnVTB3VEF5eUdQY3c4XzhMTVJ2dE9iNlVGMjU4c2s5OWVOWGdjVklKWXlFYWpkb1R5eVZTUS3SAa4BQVVfeXFMUDliaE9MRHRBZUNFUzRBeVdBdVdPbkxmNkpGR1E3TDRmTFhTNkdDemxCTjVTdFN2U2lSUGVRY3BlbkJRWmc5M1ZQMDNMM3BfLVdWT0V4d3dRc2VfRnVSTjJUNmRDMmRFYnF0VV9iekltNnhXS3lVVEJ2eGNYQlVORndtSzJQWXNFRWdtSlZManpxZk82WFRDSWJpMlNmaWhVbVZ5dVA3RWR2UEpEY0Jn?oc=5",
+        "publisher_name": "Inshorts",
+        "publisher_url": "https://inshorts.com",
+        "published_at": "2026-11-19T10:08:57+00:00",
+        "indicative_usd": 190400000
       }
     ]
   },
@@ -1817,6 +2095,38 @@
     ]
   },
   {
+    "group_id": "4a233e0c7050b36b",
+    "title": "Van Gogh Painting Sells for $190.4 Million, Most Ever for the Artist - WSJ",
+    "category_hint": "art",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      190400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-18T23:57:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "f7dfb4415d3097ad"
+    ],
+    "links": [
+      {
+        "candidate_id": "f7dfb4415d3097ad",
+        "title": "Van Gogh Painting Sells for $190.4 Million, Most Ever for the Artist - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHg4Uk1qUVBmSVlZYlZWY2laYTYzOTNvQXliQWJ6b0JoNEZIa1JJd21VSkJxVzdKcEZVa1BZSTNZNTEwdFVIY2RlUXY5TWI3T2dGZ0lSV3hPNnpLSG5ZNUFOT0pKOWc1MDRWVnJ5MDlsS2NnS0NOcTFjTXkxclE1cnV6M0ZUWVBmTWFzT1NWazZObmo1Q1dYdzd0RkdhMEFNX2ZsSWZaSQ?oc=5",
+        "publisher_name": "WSJ",
+        "publisher_url": "https://www.wsj.com",
+        "published_at": "2026-11-18T23:57:00+00:00",
+        "indicative_usd": 190400000
+      }
+    ]
+  },
+  {
     "group_id": "d01c762b84040fb4",
     "title": "Cézanne ‘Arlequin’ Sells for $111 M. at Sotheby’s, Becoming One of the Most Expensive Paintings by the Artist - ARTnews.com",
     "category_hint": "art",
@@ -1845,6 +2155,38 @@
         "publisher_url": "https://www.artnews.com",
         "published_at": "2026-11-18T23:40:00+00:00",
         "indicative_usd": 111000000
+      }
+    ]
+  },
+  {
+    "group_id": "d19be13dce6e520a",
+    "title": "Van Gogh Painting Sells for Record $190.4M Million in New York—Buyer Is Dealer Bill Acquavella - Artnet News",
+    "category_hint": "art",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      190400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-18T23:25:43+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "328227caf30400d6"
+    ],
+    "links": [
+      {
+        "candidate_id": "328227caf30400d6",
+        "title": "Van Gogh Painting Sells for Record $190.4M Million in New York—Buyer Is Dealer Bill Acquavella - Artnet News",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNDdnVjgzWnBlQk4tTGRyTW1jOXJOLXdUa001SkV5d0M5NWN4QUZINTFWZ1hib0FRc2xhSmljQ1UxaTVfbUVtbjZpTTc1Q0xYU3hvd3pfUmtqYmN2RlFDNi1ja21OeU9aN2dsZHYtdUswaE1YYWdZakpBVkNjMUh3QnlaM1lGTkN3bzROYS1aTVBjX2Y5c2ZUMVBhbmEwSG_SAacBQVVfeXFMUGZwTk9RTF9CaFNKVWN6NFJXOHBPV3pKN2V3cFVYY0JPRFFsaDdXYTZfQTVJQU9LZWU1NHhYRnVhUGZiclQwVDkwSXpSV2ZINjVYZkdhSk5ZVVdkX0o3a2VuclBaOWNweFJnaGczNVJGX0J0cTUxXzdPeTBTTmFENGVFdHJfS1hkbWtCQ29lUjdNR0hlYlFOa2hRSVJGYUxRcGhUWktnUk0?oc=5",
+        "publisher_name": "Artnet News",
+        "publisher_url": "https://news.artnet.com",
+        "published_at": "2026-11-18T23:25:43+00:00",
+        "indicative_usd": 190400000
       }
     ]
   },
@@ -2428,6 +2770,38 @@
     ]
   },
   {
+    "group_id": "c746c33f8b4dfcf2",
+    "title": "The 100.09 carat Graff Vivid Yellow diamond is one of the largest Fancy Vivid yellow diamonds ever seen. It set a new world auction record for the highest price ever paid for a yellow diamond when it sold for $16.3 million at Sotheby's Geneva on 13 May 2014. - The Jewellery Editor",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      16300000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-12T15:50:27+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "e94ed5aa4930fe56"
+    ],
+    "links": [
+      {
+        "candidate_id": "e94ed5aa4930fe56",
+        "title": "The 100.09 carat Graff Vivid Yellow diamond is one of the largest Fancy Vivid yellow diamonds ever seen. It set a new world auction record for the highest price ever paid for a yellow diamond when it sold for $16.3 million at Sotheby's Geneva on 13 May 2014. - The Jewellery Editor",
+        "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNYm9VNEhFMHRxQkpFSlpiVmR3NnFUbVJiMUdoVlUydVNwVk40dGVkb2dmMjNpdHc3TmhJdXoxQmk1b1NzV0x5S0RaaTllRXJuUGgzNkplTkVFWXRQeGNESDkzVkI2LVM0cURqTkJpM2FZVnh2dnBfMUEwZ2J2VVhxRnVoMS1aWlVaVEo0NUtQRDUyQWdfaEV5SjMxM19HbDFsRUs5d2VIclNmb1JmZEdMdVgxWHJoRER3WkJqVEx2VnM2ZHZjTjFINkRzOUVUd180VHI5R090SDFZaVpTc0E5R1FsTmFZTk5RMG0tQTdoYnhCWlBWUFprc2NWRUIyOXkzQUoyaVpfc0lDbFJ5M0IyN1hiWVZUTGdVdVU0LTVHMHNhUmVoU0MxcmpKaHRuTnZJMDdTcERma3VsTkI3TFlZd1hLc2xNY2l1R1kwMDUtQjVjUHloUFZrYkVxdGZ2akhHU3JNcDJxYzl1Y2hkRmd0bjc3V3Y5T1ZRQ0VEZkIxRGhYV2pDd0JHUUdyTThyaTlsVERCdEpCUmlpU2l3aVhaQnhB?oc=5",
+        "publisher_name": "The Jewellery Editor",
+        "publisher_url": "https://www.thejewelleryeditor.com",
+        "published_at": "2026-11-12T15:50:27+00:00",
+        "indicative_usd": 16300000
+      }
+    ]
+  },
+  {
     "group_id": "fd6b6f6de063b089",
     "title": "This rare 24-carat pink diamond sold for more than $20 million at an auction - CTV News",
     "category_hint": "jewelry",
@@ -2487,6 +2861,38 @@
         "publisher_name": "New York Post",
         "publisher_url": "https://nypost.com",
         "published_at": "2026-11-11T18:59:00+00:00",
+        "indicative_usd": 14600000
+      }
+    ]
+  },
+  {
+    "group_id": "68e36386054a196b",
+    "title": "24-carat ‘Bulgari Pink’ diamond ring sells for over $14.6 million at auction - https://www.nxsmediawire.com/",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      14600000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-11T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "9b728e2affd148b0"
+    ],
+    "links": [
+      {
+        "candidate_id": "9b728e2affd148b0",
+        "title": "24-carat ‘Bulgari Pink’ diamond ring sells for over $14.6 million at auction - https://www.nxsmediawire.com/",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQllkamt5N0h4UXhxcGdieF9mVHJPVndISDZaNDB0YkgwaTM1WEo1Y0ZzYkFfc29LandEQUN1MEJEUVhnRVFRc29aTzFBMHhDZDRDMnE5ZDNUM1VLNlFQeHVwS0lYY1pNelZqZldjeGZ4Qlg0RHd3ZmdoLXk2UHBmTE5DNVJNUUNDNWVhRG9wbDRNYVdia3dMOXppSjBkWHRmTXQzWXpRVHQtTUJr?oc=5",
+        "publisher_name": "https://www.nxsmediawire.com/",
+        "publisher_url": "https://www.nxsmediawire.com",
+        "published_at": "2026-11-11T08:00:00+00:00",
         "indicative_usd": 14600000
       }
     ]
@@ -2911,6 +3317,38 @@
     ]
   },
   {
+    "group_id": "3b3d1d7411892c7f",
+    "title": "The Rolex Four Seasons Daytona Collection Sells For A Combined $49.4M - Hodinkee",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      49400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-09-28T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "55316b0a1c1a6d15"
+    ],
+    "links": [
+      {
+        "candidate_id": "55316b0a1c1a6d15",
+        "title": "The Rolex Four Seasons Daytona Collection Sells For A Combined $49.4M - Hodinkee",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWm5palZMQmdwSE15NVpaZENHelBESzFHeFdEb2ZWRmJyYW5ZaVg4Q0NxdkdiZjFSd3ZTaFB6WjFPQzBxM3FGYkdreEd1OXhodGJXa2tPVWt5ZlJCazU3NFEwd3o2R1JhRmJhbUx0QkRoQWQtaS1uOUdZakx1QmU2OUhiUTdMNU92MFZvUFktWDcxQUFrQkFhRm9XWTNjM0tJdUxxaXNXOWh1eE0?oc=5",
+        "publisher_name": "Hodinkee",
+        "publisher_url": "https://www.hodinkee.com",
+        "published_at": "2026-09-28T07:00:00+00:00",
+        "indicative_usd": 49400000
+      }
+    ]
+  },
+  {
     "group_id": "8b2eaa6e622ccf83",
     "title": "Ultra-Rare Cartier Cheich Watch Sells for $3.4M - nationaljeweler.com",
     "category_hint": "watch",
@@ -2939,6 +3377,38 @@
         "publisher_url": "https://nationaljeweler.com",
         "published_at": "2026-09-21T07:00:00+00:00",
         "indicative_usd": 3400000
+      }
+    ]
+  },
+  {
+    "group_id": "345744d97355e7d5",
+    "title": "7.52-Carat Unheated Paraíba Tourmaline Sells for $1.3M at Sotheby’s - nationaljeweler.com",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1300000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-09-18T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "b69ff0a3f7708600"
+    ],
+    "links": [
+      {
+        "candidate_id": "b69ff0a3f7708600",
+        "title": "7.52-Carat Unheated Paraíba Tourmaline Sells for $1.3M at Sotheby’s - nationaljeweler.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTTJhUkI0b0xpTG4tMUdrU2lqM21sTjVwSWNRdlhackduWkdfNFk1d0VFNUk5MjFhdThESHk1ZDJmbkxOdHB1ZGFIb3lwY0hLRW8wV05PRjRYdDJ0QWg5b01vZ29QLU1kbzJpRzJ5ZTQ5dVY3ZnZkcVpENTJ6YkpERHU0Y3ljU2ZXbGpIdzhESm1zWjVBakdyV29Ja0ttcTRMM3UydlB1UFRwcVh2aUE?oc=5",
+        "publisher_name": "nationaljeweler.com",
+        "publisher_url": "https://nationaljeweler.com",
+        "published_at": "2026-09-18T07:00:00+00:00",
+        "indicative_usd": 1300000
       }
     ]
   },
@@ -3133,6 +3603,38 @@
         "publisher_url": "https://people.com",
         "published_at": "2026-09-05T07:00:00+00:00",
         "indicative_usd": 1200000
+      }
+    ]
+  },
+  {
+    "group_id": "8394e8e8c6a331ac",
+    "title": "Thieves steal Egyptian queen’s 673-diamond necklace, last sold for $4.3 million, in Vienna museum raid - Business Insider Africa",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      4300000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-09-02T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "b6974fa1235a7c7c"
+    ],
+    "links": [
+      {
+        "candidate_id": "b6974fa1235a7c7c",
+        "title": "Thieves steal Egyptian queen’s 673-diamond necklace, last sold for $4.3 million, in Vienna museum raid - Business Insider Africa",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTTF0RW9GSEFoZ2pIWG5DTmpSSERoLXRtMmUyR1ZxcHA4akdadFNMdDRRQ0xwSTVvM1pkTzcyRlJvQVNsTzJyVF9zbWRoZ1h2RVpKZVB1V212Nmt0RC1EQzh3RDA2Y1RfUnZlcXlObTd4YlExbGpCZWRMRDYwcm03S1pyRDVNd3BNSjFOSVNSRE1QTFpGNTF3OTNsRll5YXhIWVpTWVN3a01jZlBlVEVJTENLcGpURkhoWTh4NlZZSE1mdm5FOUhQdktEcFRPemhYWEVDYXVnZzU?oc=5",
+        "publisher_name": "Business Insider Africa",
+        "publisher_url": "https://africa.businessinsider.com",
+        "published_at": "2026-09-02T07:00:00+00:00",
+        "indicative_usd": 4300000
       }
     ]
   },
@@ -3462,6 +3964,38 @@
     ]
   },
   {
+    "group_id": "d127cac77c03853a",
+    "title": "10.02-Carat Fancy Intense Blue Diamond Fetches $8.7 Million At Sotheby’s - Forbes",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      8700000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-06-22T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "b64e27527888cdd5"
+    ],
+    "links": [
+      {
+        "candidate_id": "b64e27527888cdd5",
+        "title": "10.02-Carat Fancy Intense Blue Diamond Fetches $8.7 Million At Sotheby’s - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSmlOWno2OTlBV1pReU5Wa1ZuNDByR1BoODVUWlFGNXF1YWhrUWdORW9wMEltR0NCRk9nZUh4OXZnemszOUp0WS1LQlJuNjhoWWpTWk5zcDEtbUZmMEhzTnlkNnZxOUZrVGVDOVhESWRWT2RQcUpnSHRhV0tRTEQtUTZwTVdhZzdNSGRGU19JbDhtM0dlR3dFVFYycU9Hd3hBZmtlanNJeXR2Q001MmRtbUpQM0k5VThtRnJyQzE5Y0dpZw?oc=5",
+        "publisher_name": "Forbes",
+        "publisher_url": "https://www.forbes.com",
+        "published_at": "2026-06-22T07:00:00+00:00",
+        "indicative_usd": 8700000
+      }
+    ]
+  },
+  {
     "group_id": "d2a12f03c100adf2",
     "title": "An F.P. Journe Chronomètre à Résonance Sells for $13.9 Million at Phillips - Robb Report",
     "category_hint": "watch",
@@ -3522,6 +4056,38 @@
         "publisher_url": "https://nationaljeweler.com",
         "published_at": "2026-06-10T07:00:00+00:00",
         "indicative_usd": 8000000
+      }
+    ]
+  },
+  {
+    "group_id": "3b0698861768dc2a",
+    "title": "Jadeite necklace sells for US$25.5m at Christie’s Hong Kong, leading Asia’s spring auctions - TheValue.com",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      25500000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-05-27T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "6abf862e8b1f5835"
+    ],
+    "links": [
+      {
+        "candidate_id": "6abf862e8b1f5835",
+        "title": "Jadeite necklace sells for US$25.5m at Christie’s Hong Kong, leading Asia’s spring auctions - TheValue.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbkwwYWl3LUd0bWx6cXF5aEt0dFMycVFJcUI2R2NnT19zbkdUQmFETVFMLUZ1VFBpMzNoU2pvWHFrU3FjVzJyS1Nha3piRHFNTldjN0Z0MWFKODlHNGRnaFJwNUlxTTZoc24tVmR4dWkzU0hxTXp0SDdIanIzWnJBQ3h6Z190ckhGakY5U2ViS1FtOU8xMnpMOTc4LUhEX1ZYSGI5enJB?oc=5",
+        "publisher_name": "TheValue.com",
+        "publisher_url": "https://en.thevalue.com",
+        "published_at": "2026-05-27T07:00:00+00:00",
+        "indicative_usd": 25500000
       }
     ]
   },
@@ -3722,38 +4288,6 @@
     ]
   },
   {
-    "group_id": "0c3c49add1d04bbd",
-    "title": "The Ocean Dream Diamond Just Sold for a Record $17.3 Million - Natural Diamond Council",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      17300000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-05-13T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "6456407faa3526c1"
-    ],
-    "links": [
-      {
-        "candidate_id": "6456407faa3526c1",
-        "title": "The Ocean Dream Diamond Just Sold for a Record $17.3 Million - Natural Diamond Council",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OTm5HMFd3Rk1TOGlGS0x0bnF2UEhHbHFZenNCcXVvVFJnUno1UWNmTm9EanZZTnhoeXF2WkhuUlZVTGJBaU14STBPaWV5dlRhRXVJendQVmg2dEtKRF9zVDI1RGZKUDBhN21PT0J0VkRvejhJVV9RbmRqaDhlQQ?oc=5",
-        "publisher_name": "Natural Diamond Council",
-        "publisher_url": "https://thediamondcollective.world",
-        "published_at": "2026-05-13T07:00:00+00:00",
-        "indicative_usd": 17300000
-      }
-    ]
-  },
-  {
     "group_id": "b5d3a2a4dffe8ef5",
     "title": "Christie’s Rare Watches achieves CHF 33 Million / US$ 42 Million - Christie's Press",
     "category_hint": "watch",
@@ -3945,6 +4479,38 @@
         "publisher_url": "",
         "published_at": "2026-04-20T07:00:00+00:00",
         "indicative_usd": 48500000
+      }
+    ]
+  },
+  {
+    "group_id": "b18a844508254b79",
+    "title": "All About Marilyn Monroe’s 36 Diamond Engagement Ring, Which Sold for Over $750K - InStyle",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      750000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-04-13T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "08e28889e2d20f62"
+    ],
+    "links": [
+      {
+        "candidate_id": "08e28889e2d20f62",
+        "title": "All About Marilyn Monroe’s 36 Diamond Engagement Ring, Which Sold for Over $750K - InStyle",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSy1vdGkwVzNRZDRUaU5VdEs1UVhsSS1tazNMMVQ5WEMtNTBraktOTDRBSjMyMmk5SGNLOHF6VlNyblhmUm9idDVMS3RyNXc1TlFnbldZbXpjSGpQUkZocm5ib3dEcDFDYkRyWU00NzlzX3FMaUFSeDR2em9VR1lZalBMbG9MNlhOOEgzY3pXNA?oc=5",
+        "publisher_name": "InStyle",
+        "publisher_url": "https://www.instyle.com",
+        "published_at": "2026-04-13T07:00:00+00:00",
+        "indicative_usd": 750000
       }
     ]
   },
@@ -4337,6 +4903,38 @@
         "publisher_url": "",
         "published_at": "2026-02-05T08:00:00+00:00",
         "indicative_usd": 27200000
+      }
+    ]
+  },
+  {
+    "group_id": "87956cc54c5305d3",
+    "title": "Elizabeth Taylor’s Taj Mahal Diamond Last Sold For $8.8 Million—Recently Worn By Margot Robbie - Forbes",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      8800000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-01-29T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "4e48e20fde80d935"
+    ],
+    "links": [
+      {
+        "candidate_id": "4e48e20fde80d935",
+        "title": "Elizabeth Taylor’s Taj Mahal Diamond Last Sold For $8.8 Million—Recently Worn By Margot Robbie - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcDNtaFVWXzZ4cEVkZzB6el9ORnRpUU1BelpPbDJ1aDhOcHpkOFFOY1c2RGdxT01tb1RaeGFWbkZLUEJCVHdoV0EyNFM4YzJtMW5icDBEZkZkdmlKXzJiRGpxT2FwRHBfNlI4em51XzBZeW95eFFtTHlwSGtOeGN5TGFZV3BUT2hWdDVMdFBzSkhmTnNPTzdDM2psOWp2VXE4TFVzUWlwOGpXVXdRam10eC1Rc0JaWEFianJoTVZhR2w4TURSQVh5c2hiaEhKUUFma3Y0dkRCelNoX2hzdGc?oc=5",
+        "publisher_name": "Forbes",
+        "publisher_url": "https://www.forbes.com",
+        "published_at": "2026-01-29T08:00:00+00:00",
+        "indicative_usd": 8800000
       }
     ]
   },
@@ -4918,38 +5516,6 @@
         "publisher_url": "https://www.nytimes.com",
         "published_at": "2025-11-12T08:00:00+00:00",
         "indicative_usd": 25600000
-      }
-    ]
-  },
-  {
-    "group_id": "e5c1062c79aa38bd",
-    "title": "'Mellon Blue' diamond ring sells for $25 million in Geneva auction - Reuters",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      25000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-11-11T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "f8cbb0d777a06678"
-    ],
-    "links": [
-      {
-        "candidate_id": "f8cbb0d777a06678",
-        "title": "'Mellon Blue' diamond ring sells for $25 million in Geneva auction - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYVZ4UnFxZThjNDJoZ2xEeU1PLTNuZU9RMDdTLUNQamFIQTRoanlWS2M2aHlKRnJzNmlhQlN1S1VpZzhLQUhEdFlDYmxJalU1MEF4bV9pOExVeDN3RnkxaDRnb3g3cU9ETmttUncweFJIZlNtM181RVF3VnJncHBLNWkzNGNpR21CaV8tM1FidVYyM1g5V1RQS2Y3d196TUtyZFhscw?oc=5",
-        "publisher_name": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "published_at": "2025-11-11T08:00:00+00:00",
-        "indicative_usd": 25000000
       }
     ]
   },
@@ -5919,6 +6485,38 @@
         "publisher_url": "https://nationaljeweler.com",
         "published_at": "2024-12-11T08:00:00+00:00",
         "indicative_usd": 16600000
+      }
+    ]
+  },
+  {
+    "group_id": "a6e704fbee6e100d",
+    "title": "30-Carat Pink Diamond Fetches $2.6M at Bonhams - nationaljeweler.com",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2600000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2024-12-04T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "408d0cf2d3ee9492"
+    ],
+    "links": [
+      {
+        "candidate_id": "408d0cf2d3ee9492",
+        "title": "30-Carat Pink Diamond Fetches $2.6M at Bonhams - nationaljeweler.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXM2RnB0ZHlQbUFJN0pwcW1NaWR2NnhYcUYzUW1kbnVqdEdaQ0VBXzdtYjkzS1FVWmx2TzZnYjVrWFN1a2RUYjJIbmpJRHdCVDUzRHN4Q2dZM2oycG9CXzB2ZExaYk5kNjZfWWVKckEtek5MNnJtakFodkw1ZndrTzdnMkRNb0pUeENUcjdOTEZjZw?oc=5",
+        "publisher_name": "nationaljeweler.com",
+        "publisher_url": "https://nationaljeweler.com",
+        "published_at": "2024-12-04T08:00:00+00:00",
+        "indicative_usd": 2600000
       }
     ]
   },
