@@ -2270,6 +2270,20 @@
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
   {
+    "id": "651fe87e577df5ce",
+    "title": "Warhol’s Marilyn Sells for $195 Million - Christie's Press",
+    "summary": "Warhol’s Marilyn Sells for $195 Million Christie's Press",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnX2hlT1Q0cHpmRXlIMlV5anRLU0E0WlVLQ1pqZG00LTE4MTZFUXF1TlZKelFvRzR2Tml4RF9sRjJoZDJIcmlob0lGMVB4eVY2QnVUSzhMdHpTczhnbFpQM1RsV09OQlI0QTA2QzlKYWpOQ3FxSm1zRGRB?oc=5",
+    "published_at": "2026-03-25T15:46:39+00:00",
+    "indicative_usd": 195000000,
+    "category_hint": "art",
+    "source_name": "Google News (official publisher): Christie's",
+    "publisher_name": "Christie's Press",
+    "publisher_url": "https://press.christies.com",
+    "status": "candidate",
+    "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
+  },
+  {
     "id": "92c3a5009bad1339",
     "title": "Pink Floyd Guitar Is Sold for a Record $14.55 Million - The New York Times",
     "summary": "Pink Floyd Guitar Is Sold for a Record $14.55 Million    The New York Times",
@@ -4250,6 +4264,20 @@
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
   {
+    "id": "88a02b579d0c4037",
+    "title": "**NEWSFLASH**NEWSFLASH** SANDRO BOTTICELLI'S PORTRAIT OF A YOUNG MAN HOLDING A ROUNDEL SELLS FOR RECORD $92.2 MILLION AT SOTHEBY'S NEW YORK - Sothebys.com",
+    "summary": "**NEWSFLASH**NEWSFLASH** SANDRO BOTTICELLI'S PORTRAIT OF A YOUNG MAN HOLDING A ROUNDEL SELLS FOR RECORD $92.2 MILLION AT SOTHEBY'S NEW YORK Sothebys.com",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wZG5Zc0VVRXRSWE1xUEpobUtneTVjUE4zbU41TFVXREZPT1NDSlB3aERSV0dRaG8zb1V2SXNEVXNfTmt2ZGhOZTJyU2p0bndtYUhvaGtxaGk2UWNTbDlVYlZVWi1YTGRHYTA5dm53?oc=5",
+    "published_at": "2021-01-28T08:00:00+00:00",
+    "indicative_usd": 92200000,
+    "category_hint": "other",
+    "source_name": "Google News (official publisher): Sotheby's",
+    "publisher_name": "Sothebys.com",
+    "publisher_url": "https://www.sothebys.com",
+    "status": "candidate",
+    "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
+  },
+  {
     "id": "474e6657db23f2d7",
     "title": "Christie’s Hong Kong Modern and Contemporary Art auction series achieves HK$1.73 billion, the highest total for any auction house in Asia this year - Christie’s",
     "summary": "Christie’s Hong Kong Modern and Contemporary Art auction series achieves HK$1.73 billion, the highest total for any auction house in Asia this year    Christie’s",
@@ -4260,6 +4288,20 @@
     "source_name": "Google News: auction \"achieves\" \"$\"",
     "status": "candidate",
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
+  },
+  {
+    "id": "5837ef8fb3768246",
+    "title": "The Larry Ness Collection of Indian Peace Medals Brings Over $900,000 at the Stack’s Bowers Galleries November 2020 Auction - Stack's Bowers",
+    "summary": "The Larry Ness Collection of Indian Peace Medals Brings Over $900,000 at the Stack’s Bowers Galleries November 2020 Auction Stack's Bowers",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONG1EeXB6UDE1QnpaSERfMGNyQk9yTUdRQnU4aXlQbWhWd1NfUC1BNlYtQ0MtVlFKSlVxN2ItcEpFMllVd1BZTVRIZzNhUDhhVWdWcFRtamRHVlg1bFJkRHVSX2RheTA5RmpaOU56QWlYVGx5czJnZUpGLUlPbkQtRFpfMDRMVV9sNnVpRjFGcDUtUDN2aXRUT1M0bDNDSVhVZHJKNlpGdW5WOThvSEFV?oc=5",
+    "published_at": "2020-11-20T08:00:00+00:00",
+    "indicative_usd": 900000,
+    "category_hint": "other",
+    "source_name": "Google News (official publisher): Stack's Bowers",
+    "publisher_name": "Stack's Bowers",
+    "publisher_url": "https://stacksbowers.com",
+    "status": "candidate",
+    "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
   },
   {
     "id": "a13d73a8557ebdb9",

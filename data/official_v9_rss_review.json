@@ -186,6 +186,24 @@
     ]
   },
   {
+    "id": "651fe87e577df5ce",
+    "house": "Christie's",
+    "title": "Warhol’s Marilyn Sells for $195 Million - Christie's Press",
+    "indicative_usd": 195000000,
+    "publication_at": "2026-03-25T15:46:39+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnX2hlT1Q0cHpmRXlIMlV5anRLU0E0WlVLQ1pqZG00LTE4MTZFUXF1TlZKelFvRzR2Tml4RF9sRjJoZDJIcmlob0lGMVB4eVY2QnVUSzhMdHpTczhnbFpQM1RsV09OQlI0QTA2QzlKYWpOQ3FxSm1zRGRB?oc=5",
+    "publisher_name": "Christie's Press",
+    "publisher_website": "https://press.christies.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
     "id": "85ae829d5f9d3d19",
     "house": "Heritage Auctions",
     "title": "6.17-Carat Pink Diamond Brings $2.18 Million at Heritage Auctions - Heritage Auctions",
@@ -552,6 +570,42 @@
     "indicative_usd": 8400000,
     "publication_at": "2021-03-26T07:00:00+00:00",
     "google_news_article": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNWJWSmJ6cktuSWVMdGZQT1Bib0loTDZ0RnpHQTFDdTBJcGdaU3gwTW5jZFF3QVFRRVNVeEY1T2VncVhLbnRlZGlObkxNeDY3LXFwdndKYnFfU1dPck5UUE5PMm1DLXpKUnMxN1VOejloaWF2Ymp5N3VERnpKcXNOa2g1RE00eE5tUmp1VWpQY2NEN0dsOFMwaVZ4WjRWVjJmTU9oUjlR?oc=5",
+    "publisher_name": "Stack's Bowers",
+    "publisher_website": "https://stacksbowers.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
+    "id": "88a02b579d0c4037",
+    "house": "Sotheby's",
+    "title": "**NEWSFLASH**NEWSFLASH** SANDRO BOTTICELLI'S PORTRAIT OF A YOUNG MAN HOLDING A ROUNDEL SELLS FOR RECORD $92.2 MILLION AT SOTHEBY'S NEW YORK - Sothebys.com",
+    "indicative_usd": 92200000,
+    "publication_at": "2021-01-28T08:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wZG5Zc0VVRXRSWE1xUEpobUtneTVjUE4zbU41TFVXREZPT1NDSlB3aERSV0dRaG8zb1V2SXNEVXNfTmt2ZGhOZTJyU2p0bndtYUhvaGtxaGk2UWNTbDlVYlZVWi1YTGRHYTA5dm53?oc=5",
+    "publisher_name": "Sothebys.com",
+    "publisher_website": "https://www.sothebys.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
+    "id": "5837ef8fb3768246",
+    "house": "Stack's Bowers",
+    "title": "The Larry Ness Collection of Indian Peace Medals Brings Over $900,000 at the Stack’s Bowers Galleries November 2020 Auction - Stack's Bowers",
+    "indicative_usd": 900000,
+    "publication_at": "2020-11-20T08:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONG1EeXB6UDE1QnpaSERfMGNyQk9yTUdRQnU4aXlQbWhWd1NfUC1BNlYtQ0MtVlFKSlVxN2ItcEpFMllVd1BZTVRIZzNhUDhhVWdWcFRtamRHVlg1bFJkRHVSX2RheTA5RmpaOU56QWlYVGx5czJnZUpGLUlPbkQtRFpfMDRMVV9sNnVpRjFGcDUtUDN2aXRUT1M0bDNDSVhVZHJKNlpGdW5WOThvSEFV?oc=5",
     "publisher_name": "Stack's Bowers",
     "publisher_website": "https://stacksbowers.com",
     "corroborating_news": [],
