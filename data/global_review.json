@@ -221,6 +221,31 @@
     ]
   },
   {
+    "id": "f953be6747047d1001f0",
+    "house": "Noonans",
+    "country": "GB",
+    "domain": "noonans.co.uk",
+    "source_type": "house",
+    "category": "coins",
+    "title": "RARE BANK OF ENGLAND £500 NOTE FETCHES HAMMER... - Noonans Mayfair",
+    "publication_at": "2025-10-22T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tNllmUXVILXFZc1BKcnFkelB1T1k4eFNOTTB1UG5mb01MNHFGZnJfVmtMc0pZc1N4aWpZeWVLaVN0QXhZaEMwYTJkei10UnFlSUNvS3RiZktKczJfZkZWY2xpS1pWU04zOU4w?oc=5",
+    "publisher_website": "https://www.noonans.co.uk",
+    "native_amount": 500,
+    "native_currency": "GBP",
+    "raw_price": "£500",
+    "indicative_usd": null,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой",
+      "Требуется конвертация валюты на дату продажи; порог $300 000 ещё не проверен"
+    ]
+  },
+  {
     "id": "9b08edfddb4649ff9c4c",
     "house": "Stack's Bowers",
     "country": "US",
