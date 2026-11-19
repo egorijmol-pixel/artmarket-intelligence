@@ -412,6 +412,99 @@
     ]
   },
   {
+    "group_id": "b929d257db41b63e",
+    "title": "Jewish-heritage Van Gogh painting sells for about $190 million - Israel National News",
+    "category_hint": "art",
+    "articles": 7,
+    "publishers": 7,
+    "indicative_usd_values": [
+      190000000,
+      190400000
+    ],
+    "amount_variation_pct": 0.2,
+    "last_publication_at": "2026-11-19T07:15:35+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "0a6dc300151f6206",
+      "448f9c096f79552a",
+      "f85bfbf279bc3baa",
+      "73a53281bd2c47cd",
+      "f7dfb4415d3097ad",
+      "5c4a44df4a5c2c06",
+      "328227caf30400d6"
+    ],
+    "links": [
+      {
+        "candidate_id": "0a6dc300151f6206",
+        "title": "Jewish-heritage Van Gogh painting sells for about $190 million - Israel National News",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nZmh3SWhCN2dCSVlPTFVYaERDTEFrV1ZTcXpCeFljRVZ5aGF3SEhINUdvZ3VSQTJ5X25mbmx1Y2tiaDBSekRwRmFRbHdZclFGR3dIY05QZDAzdw?oc=5",
+        "publisher_name": "Israel National News",
+        "publisher_url": "https://www.israelnationalnews.com",
+        "published_at": "2026-11-19T07:15:35+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "448f9c096f79552a",
+        "title": "Van Gogh painting sells for record US$190.4 million after dispute - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ0p6S2xqX0FtaVdxVlZhcGdjLUpvR21GblRZbGlNZ2xja3Uxa1lnVWI5MEctRHZ0amxnMDFzU1Q4dWZLTGRjcS1XNmY1OVI5ZlotUGFYX3hVZlpGMlJzVG1WbjkzbTdfRmFST194RE82TktnaHZBcTdDME5TV3NPbGE5NFM1Tkk2cms2dzBzakpqZVJiNHd3X1dzdlhwOTlvT21jU3V1ZG1ybmRHZEVDWHl4MkhIU3RJWnJlVHlnRUdPWFZsUzI00gHHAUFVX3lxTE9FajNtbTB6b09mbjRURG01NUtoRDJ5TzJURGZzVkNCZ2xsX09vRkYwdkdValVVR0ZUM0dqLVZOdUpDdzJOLWwxRGZaUTM2N3p6c0xVTXFSekNjN2dzVkNqelVkU25ZQkJCdS1EemFEMXpmYldIcmdmcHg1eTcxaG1HTnEzNDZiMnIyVzlfRUY1V3E2ak0yclVubmhscHIxZkdNbE1odnJpZkJKLWI0MDQxNGRrWFB0UVVpZEp6OUhHZDRoUkNTQ00?oc=5",
+        "publisher_name": "South China Morning Post",
+        "publisher_url": "https://www.scmp.com",
+        "published_at": "2026-11-19T05:45:48+00:00",
+        "indicative_usd": 190400000
+      },
+      {
+        "candidate_id": "f85bfbf279bc3baa",
+        "title": "Van Gogh Painting Sells for Record $190.4 Million at Auction - JournalArta",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3YyN3E3eFBabU5EWnZJd3F3Q2VvbzVXbFphcWREcmpuSUVFNnd2WExNa0RiNlpSbm9LcFdlc3loQUhWYUxLV1JmQmhWMHpjQmxZNEF0RzZCbjh4dGhzQW0zWmxFeXYzM1lnbjZOSGZXeDh5VXBnaXlaVmYxN3pHX3J5ZkktbnQtT0pvYndwMm5BQQ?oc=5",
+        "publisher_name": "JournalArta",
+        "publisher_url": "https://journalarta.com",
+        "published_at": "2026-11-19T02:07:48+00:00",
+        "indicative_usd": 190400000
+      },
+      {
+        "candidate_id": "73a53281bd2c47cd",
+        "title": "A Van Gogh painting sold for a record $190.4 million - BGNES",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUFYaTlHbmZhWHlNejRrUTBlQVVjcm5memlEb3FaWVMxdjhKVlZiR3k1X0JmUDRibTc0MDB4bGxtcllLRmljTU1MR2MtMlFXQ0Z3ejdNeVgyTFlING82QTRCME8xUVFoak1mbjQ2c2duNVFfM2lhZVBQMElSdDNFc3VKVkdLZGM?oc=5",
+        "publisher_name": "BGNES",
+        "publisher_url": "",
+        "published_at": "2026-11-19T01:14:41+00:00",
+        "indicative_usd": 190400000
+      },
+      {
+        "candidate_id": "f7dfb4415d3097ad",
+        "title": "Van Gogh Painting Sells for $190.4 Million, Most Ever for the Artist - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHg4Uk1qUVBmSVlZYlZWY2laYTYzOTNvQXliQWJ6b0JoNEZIa1JJd21VSkJxVzdKcEZVa1BZSTNZNTEwdFVIY2RlUXY5TWI3T2dGZ0lSV3hPNnpLSG5ZNUFOT0pKOWc1MDRWVnJ5MDlsS2NnS0NOcTFjTXkxclE1cnV6M0ZUWVBmTWFzT1NWazZObmo1Q1dYdzd0RkdhMEFNX2ZsSWZaSQ?oc=5",
+        "publisher_name": "WSJ",
+        "publisher_url": "https://www.wsj.com",
+        "published_at": "2026-11-18T23:57:00+00:00",
+        "indicative_usd": 190400000
+      },
+      {
+        "candidate_id": "5c4a44df4a5c2c06",
+        "title": "Vincent van Gogh painting sells for $190 million, smashing auction record - CNN",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcG16WFc2NXZDel9HU0JPMGVmNVh3cUQ2djZOYW5ObHBHSjdtYVpzX25pYjNZbTk2WkhOX2NTdnFKbXFmQVNqelFhc2lrZFhCYzZ1dXdhc0dOOVpxMU4wTGNBUUN6U1R3VUotZG15eTdzQ1g5Ri1mem05NzVrRmU1Q0JPZw?oc=5",
+        "publisher_name": "CNN",
+        "publisher_url": "https://www.cnn.com",
+        "published_at": "2026-11-18T23:31:01+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "328227caf30400d6",
+        "title": "Van Gogh Painting Sells for Record $190.4M Million in New York—Buyer Is Dealer Bill Acquavella - Artnet News",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNDdnVjgzWnBlQk4tTGRyTW1jOXJOLXdUa001SkV5d0M5NWN4QUZINTFWZ1hib0FRc2xhSmljQ1UxaTVfbUVtbjZpTTc1Q0xYU3hvd3pfUmtqYmN2RlFDNi1ja21OeU9aN2dsZHYtdUswaE1YYWdZakpBVkNjMUh3QnlaM1lGTkN3bzROYS1aTVBjX2Y5c2ZUMVBhbmEwSG_SAacBQVVfeXFMUGZwTk9RTF9CaFNKVWN6NFJXOHBPV3pKN2V3cFVYY0JPRFFsaDdXYTZfQTVJQU9LZWU1NHhYRnVhUGZiclQwVDkwSXpSV2ZINjVYZkdhSk5ZVVdkX0o3a2VuclBaOWNweFJnaGczNVJGX0J0cTUxXzdPeTBTTmFENGVFdHJfS1hkbWtCQ29lUjdNR0hlYlFOa2hRSVJGYUxRcGhUWktnUk0?oc=5",
+        "publisher_name": "Artnet News",
+        "publisher_url": "https://news.artnet.com",
+        "published_at": "2026-11-18T23:25:43+00:00",
+        "indicative_usd": 190400000
+      }
+    ]
+  },
+  {
     "group_id": "d56be31227dd33d3",
     "title": "Bulgari Pink Diamond Sells for $14.6 Million at Christie's Auction - POLITIS - To the point",
     "category_hint": "jewelry",
@@ -892,49 +985,6 @@
     ]
   },
   {
-    "group_id": "72320385baeacba1",
-    "title": "A Van Gogh painting sold for a record $190.4 million - BGNES",
-    "category_hint": "art",
-    "articles": 2,
-    "publishers": 2,
-    "indicative_usd_values": [
-      190000000,
-      190400000
-    ],
-    "amount_variation_pct": 0.2,
-    "last_publication_at": "2026-11-19T01:14:41+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "73a53281bd2c47cd",
-      "5c4a44df4a5c2c06"
-    ],
-    "links": [
-      {
-        "candidate_id": "73a53281bd2c47cd",
-        "title": "A Van Gogh painting sold for a record $190.4 million - BGNES",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUFYaTlHbmZhWHlNejRrUTBlQVVjcm5memlEb3FaWVMxdjhKVlZiR3k1X0JmUDRibTc0MDB4bGxtcllLRmljTU1MR2MtMlFXQ0Z3ejdNeVgyTFlING82QTRCME8xUVFoak1mbjQ2c2duNVFfM2lhZVBQMElSdDNFc3VKVkdLZGM?oc=5",
-        "publisher_name": "BGNES",
-        "publisher_url": "",
-        "published_at": "2026-11-19T01:14:41+00:00",
-        "indicative_usd": 190400000
-      },
-      {
-        "candidate_id": "5c4a44df4a5c2c06",
-        "title": "Vincent van Gogh painting sells for $190 million, smashing auction record - CNN",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcG16WFc2NXZDel9HU0JPMGVmNVh3cUQ2djZOYW5ObHBHSjdtYVpzX25pYjNZbTk2WkhOX2NTdnFKbXFmQVNqelFhc2lrZFhCYzZ1dXdhc0dOOVpxMU4wTGNBUUN6U1R3VUotZG15eTdzQ1g5Ri1mem05NzVrRmU1Q0JPZw?oc=5",
-        "publisher_name": "CNN",
-        "publisher_url": "https://www.cnn.com",
-        "published_at": "2026-11-18T23:31:01+00:00",
-        "indicative_usd": 190000000
-      }
-    ]
-  },
-  {
     "group_id": "d7d9165ba51a4eb0",
     "title": "A Montana rancher found a dinosaur on her own land in 2019. Seven years later, its skeleton sold for $47.3 million in New York - SSBCrack",
     "category_hint": "other",
@@ -1057,6 +1107,48 @@
         "publisher_url": "https://www.beaconjournal.com",
         "published_at": "2026-04-04T07:00:00+00:00",
         "indicative_usd": 2000000
+      }
+    ]
+  },
+  {
+    "group_id": "58f8a9108c82183b",
+    "title": "PROPSTORE ACHIEVES $6.5 MILLION IN DAY ONE AUCTION RESULTS, LED BY C-3PO HEAD - The National Law Review",
+    "category_hint": "other",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      6500000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-03-26T22:30:39+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "93c7afae243d18ca",
+      "28f3c2385aecc077"
+    ],
+    "links": [
+      {
+        "candidate_id": "93c7afae243d18ca",
+        "title": "PROPSTORE ACHIEVES $6.5 MILLION IN DAY ONE AUCTION RESULTS, LED BY C-3PO HEAD - The National Law Review",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVElPRWVmQUM3ejVoVWIzNVptTC1fZkJWWDZpNlR5ZVVfNE0xeG1sTHQxcjNHYURQZlVFZEVoU0JNSjdmb0hxMFNoOHhZQVhfTjRGVWIxRUN5X0Rxa0dYcXZjcHk3ZTcyTzJtMjVxOWs0eUF5Z1FPZTBmRzRHTDhsRzFaZjhFWHRTbjc1cmRjQ0hrdHZYRDU4aFVnUi1GUEdzaTlEVGI0U1NXOVVr?oc=5",
+        "publisher_name": "The National Law Review",
+        "publisher_url": "https://natlawreview.com",
+        "published_at": "2026-03-26T22:30:39+00:00",
+        "indicative_usd": 6500000
+      },
+      {
+        "candidate_id": "28f3c2385aecc077",
+        "title": "PROPSTORE ACHIEVES $6.5 MILLION IN DAY ONE AUCTION RESULTS, LED BY C-3PO HEAD - EIN Presswire",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR2pfUUtwSzA1ZGgybWFuQUFpSnVOZnZZRURiWEF3NnAwX0hRT1htaGF4UWFiU0tubHF4d1UyYTN5LU93NTczcExKQlhWTW5zb0tDcW0tUFVkaXhiLUxDeDlQdzBQNFBldmlrR2NmQjdpelZ4Z21DYm5FdWtFWjU4VV9QQUlHVVJuTXU3N21qZ2JiemFWNmEwMUV4aEJTakdwS0FvQkpTU0luZjNwbm5obndQajVXRTJucVdQano5RQ?oc=5",
+        "publisher_name": "EIN Presswire",
+        "publisher_url": "",
+        "published_at": "2026-03-26T07:00:00+00:00",
+        "indicative_usd": 6500000
       }
     ]
   },
@@ -1319,6 +1411,102 @@
     ]
   },
   {
+    "group_id": "8d82d18b24fd4fae",
+    "title": "Van Goghs Chataigniers en Fleurs sells at auction for record $190.4 million - The Tribune",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      190400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-19T06:45:59+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "7df5918a57959d72"
+    ],
+    "links": [
+      {
+        "candidate_id": "7df5918a57959d72",
+        "title": "Van Goghs Chataigniers en Fleurs sells at auction for record $190.4 million - The Tribune",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjFSVUZtbmFiZTBiTy0zTDBlbzNLdVlWRmU1THU4NGQzN1N3Vmk2RWNZSFNWdEtoTmdYRHgyOWxKcVFjT2lmMlE4MTJ1MmNQckZacVBOTVdYbURHSHhNRUkzTEdhTk5pVEVnQmxlcnhnTk5Qd3hqRTNSMXFqdDdPLXdVeFhuNVJQN1lfamVLYjVscmNfaDQ4MnJXZmxBTk9VQWVRMWRsVk41eHotTDRaZjVTTWRXd9IBugFBVV95cUxPWEZhUFUtTzZEanUtS2RBcEU1TV8zcnNRUlMwVUlXbWdXMnd2Slh1bUItWVNzYnRqYmd4NVRMaEVDdDcxenAtdEE3M3Z1bUdyOEhqa1l4WjZYY3ZocEZfaURxNHlKMUhSMmFaS09jMktJZTQ4bGZTRTE5V3R5aVpiTGg5MkJ6ZW1FcGpLbzQySnI4dFdpWlEyZ1EtY0N1TU8ycDBxT29ObEo2T1I5MFdzM2FfNVFmcTN2REE?oc=5",
+        "publisher_name": "The Tribune",
+        "publisher_url": "https://www.tribuneindia.com",
+        "published_at": "2026-11-19T06:45:59+00:00",
+        "indicative_usd": 190400000
+      }
+    ]
+  },
+  {
+    "group_id": "eb6c99bcdc15af53",
+    "title": "Wassily Kandinsky's painting Betonte Ecken sold for $85.8 million at a November 17 New York auction, almo - The Times of India",
+    "category_hint": "art",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      85800000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-19T06:30:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "da1c29419a4f3b01"
+    ],
+    "links": [
+      {
+        "candidate_id": "da1c29419a4f3b01",
+        "title": "Wassily Kandinsky's painting Betonte Ecken sold for $85.8 million at a November 17 New York auction, almo - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQcXRwVDFrMXNlVnlIamxTSmdIbGZyRGtQZVhlbDR0S2xZajFMOUtKbWw1T3hRRkVkSDIzaHpaeFY3UGNNUHJaTzNJdDYwcnhJd0hxLTNJbE9uNms3U3ZXa1FDU0owdktMVzJ2bmRRUUZZQjkxbUFMQ01qQXd3Q0pnU1luY1Y2QTdsdUhSWS0xWUxrU2ItMEU5N2Z0TWFEVEN1WXE3dEV4MW5zNXhkdlF5S25OXzRsUXdTTmd2Q3AwUTdXOV83cldSbnVUNjQzTHR3Mkl4bFhVZWxYM1RaUnJHMGNOUzNkclNfTUREWE0tOWN0MTBDc3hGd3NtS2F4OFJaMEhUMzZJUFA3Z2VreDFxeEdHbzhvLVZoMEhDbGxaWk9Gb05CTElCV2xPQWtzQ0d0Y2JyN2R1di1LcUU5SXNWUUpoMFZxb2tvTDAyZlk5V0RCUkFOZkMwclJNN1pNNDlhMDY0S0RGd2pQWkVKUjVPcUdCTkl3WE1aWUh2S3FCLWtER1RscTZWeWpR0gGPA0FVX3lxTE5IUDNhOXI4S2lBYmF3YzdNNEEtaWF6MnJhcVo2aDJDNFN0aWlXdXlIWmJDUkQwZ1VZRm9VTHF2ZVRYd3d0TnZ1R29XdXIwcnpHQzNkMnFhLWxnUUtVRFAtemVnYTBrQk5NaEprT0JnLVktS0dfU3N0QnlSaXAtZ1d1ZTkyUGRIelE0cXo1QTI0aTlmX1hkcWpDM1E0ZkJoMFRBZ1NUYW0yUVFUNXR5M3E0czlQODk3cXFBdHhuNWtsVXlJTFNPZ1lQaE1hRDQyZWZVUkhRcXg2VWN3Z2JITFdBM2gtTldSNGVxeGNBUGVzaEdvZ2xpbEFZcEN4Ul9vM3hISmZtd05hUG5ZT3Zicm1QdzhZS2VUZktZbzh2ZjFqUzZFMHcxU3AtZ3VEMWFuWlpXSzBrbFBLcmE0Mk94QjBIa1NlVTNyZFVXYVlQUDd1LUlYa2VNdjc5N3Nxdmx6Ymc3NWsyRktDSXdrcDIyWGtITUlFR3Nod01zRzVkTzFCNHc0MENOc1ZJQWtBSGFfYw?oc=5",
+        "publisher_name": "The Times of India",
+        "publisher_url": "https://timesofindia.indiatimes.com",
+        "published_at": "2026-11-19T06:30:00+00:00",
+        "indicative_usd": 85800000
+      }
+    ]
+  },
+  {
+    "group_id": "bc94d5f199986b33",
+    "title": "An English baronet’s family sold a damaged painting of Christ at a London auction for £45 in 1958, believing it was the work of a pupil; 59 years later, attributed to Leonardo da Vinci, it sold for $450 million - British Heritage Travel",
+    "category_hint": "art",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      450000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-19T06:05:44+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "18ad9cecbf39fec8"
+    ],
+    "links": [
+      {
+        "candidate_id": "18ad9cecbf39fec8",
+        "title": "An English baronet’s family sold a damaged painting of Christ at a London auction for £45 in 1958, believing it was the work of a pupil; 59 years later, attributed to Leonardo da Vinci, it sold for $450 million - British Heritage Travel",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOU0p1cllPZTRLenpXZzU0YVhLWlRKRXVpXzNCb1BZR0d0S21Kc0FKRnBuZXZXYTlnUXVVTEY1cHlERkRLdnFjOWJvTkloUDlXX2dMVVpJMjd1ZEpaTGdndzBPRmdCVm5xSW9LODB4MnFwZ2pJM0JOd2RrLTdtQ19pN09CT05oeUlXNmItenVzU2pPd19saGVUZ2ZaYTM5bGtrcEtsSkRBQ3FNQ1ZVbnVNRU50NHYyR1YzYzNLY3dEVVo4ODVrUUotanJPaFFwa183eUZyTjRxT0M0MkRBS0ppenYwc3ZSdThKLU1hREJIemozTHRTeXN3eXBKa2NqaFgySkJyWkpOZFFCNmZhY1p3T0dqM3ZqWnEySXZmdTA3SzAzM1ZESFFudVQ2aEVpSWFjNmNxZTRySHFIb1otTkN4RlJ6ZUYwR28?oc=5",
+        "publisher_name": "British Heritage Travel",
+        "publisher_url": "https://britishheritage.com",
+        "published_at": "2026-11-19T06:05:44+00:00",
+        "indicative_usd": 450000000
+      }
+    ]
+  },
+  {
     "group_id": "8707f93fc77a9c44",
     "title": "Breaking News: A Vincent van Gogh painting sold for $190.4 million, an auction record for the artist, after an ownership dispute was settled. Read more: https://nyti.ms/3VuLSVg - Facebook",
     "category_hint": "books",
@@ -1347,6 +1535,38 @@
         "publisher_url": "https://www.facebook.com",
         "published_at": "2026-11-19T00:07:01+00:00",
         "indicative_usd": 190400000
+      }
+    ]
+  },
+  {
+    "group_id": "d01c762b84040fb4",
+    "title": "Cézanne ‘Arlequin’ Sells for $111 M. at Sotheby’s, Becoming One of the Most Expensive Paintings by the Artist - ARTnews.com",
+    "category_hint": "art",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      111000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-18T23:40:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "bb92a1d801aa9fed"
+    ],
+    "links": [
+      {
+        "candidate_id": "bb92a1d801aa9fed",
+        "title": "Cézanne ‘Arlequin’ Sells for $111 M. at Sotheby’s, Becoming One of the Most Expensive Paintings by the Artist - ARTnews.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd0dMV1pNUHp6WHVTd2YtTWRXVVJkTFdtY2ZOa3RtY25XSUluczM4YlhwMUY4Mi1vS1FDOVNfelczUThlUnJ3WC1ZSG8xVkRTQ0JhVkNnZzlSWkduNWhNVlRnN0ZvX2d6NzZVaTFBUi1reWRUS0pScmZtU0FyVEJBVGMyZTRTUld2QXc?oc=5",
+        "publisher_name": "ARTnews.com",
+        "publisher_url": "https://www.artnews.com",
+        "published_at": "2026-11-18T23:40:00+00:00",
+        "indicative_usd": 111000000
       }
     ]
   },
@@ -3484,6 +3704,38 @@
     ]
   },
   {
+    "group_id": "ca3465e8b5345626",
+    "title": "$17.6 million Joan Mitchell painting breaks woman artist auction record in Asia. - Artsy",
+    "category_hint": "art",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      17600000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-03-31T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "0ab325fee3fd6c75"
+    ],
+    "links": [
+      {
+        "candidate_id": "0ab325fee3fd6c75",
+        "title": "$17.6 million Joan Mitchell painting breaks woman artist auction record in Asia. - Artsy",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObzNjbVF2ckhHdWpqWi1jeEl0ai1WSUhYcm9DemhsaHgzNUJFU0p2ZUJGVUFxa0V5ZmthOVYzaGNXQWR6N3JOa1R4S0RxYW96V1M1QXpyZzBJOG5vdFotSXB1YmN4VDJ2NTBWTVlmcjB4ZllfSXhGTjQtMjZKWEtkZEJiVHBQSF9FUVZMclRXRDZwdUJZQU1wT0o0akF5V3Q0MWloY2R5aG92bjQweG9kRmF4RQ?oc=5",
+        "publisher_name": "Artsy",
+        "publisher_url": "https://www.artsy.net",
+        "published_at": "2026-03-31T07:00:00+00:00",
+        "indicative_usd": 17600000
+      }
+    ]
+  },
+  {
     "group_id": "30f852bbde94c511",
     "title": "Logan Paul sold a Pokémon card for more than $16 million. Here's why investors are watching - CNBC",
     "category_hint": "watch",
@@ -3513,39 +3765,6 @@
         "publisher_url": "",
         "published_at": "2026-03-29T07:00:00+00:00",
         "indicative_usd": 16000000
-      }
-    ]
-  },
-  {
-    "group_id": "bd7edc239e135320",
-    "title": "PROPSTORE ACHIEVES $6.5 MILLION IN DAY ONE AUCTION RESULTS, LED BY C-3PO HEAD - EIN Presswire",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      6500000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-03-26T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "28f3c2385aecc077"
-    ],
-    "links": [
-      {
-        "candidate_id": "28f3c2385aecc077",
-        "title": "PROPSTORE ACHIEVES $6.5 MILLION IN DAY ONE AUCTION RESULTS, LED BY C-3PO HEAD - EIN Presswire",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR2pfUUtwSzA1ZGgybWFuQUFpSnVOZnZZRURiWEF3NnAwX0hRT1htaGF4UWFiU0tubHF4d1UyYTN5LU93NTczcExKQlhWTW5zb0tDcW0tUFVkaXhiLUxDeDlQdzBQNFBldmlrR2NmQjdpelZ4Z21DYm5FdWtFWjU4VV9QQUlHVVJuTXU3N21qZ2JiemFWNmEwMUV4aEJTakdwS0FvQkpTU0luZjNwbm5obndQajVXRTJucVdQano5RQ?oc=5",
-        "publisher_name": "EIN Presswire",
-        "publisher_url": "",
-        "published_at": "2026-03-26T07:00:00+00:00",
-        "indicative_usd": 6500000
       }
     ]
   },
