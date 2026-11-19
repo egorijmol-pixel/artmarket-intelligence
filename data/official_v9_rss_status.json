@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-19T01:39:41.789827+00:00",
+  "checked_utc": "2026-11-19T07:44:38.242052+00:00",
   "mode": "Official-publisher RSS headline evidence, no direct auction-house requests",
   "sources_checked": 8,
   "sources_ok": 8,
@@ -25,7 +25,7 @@
     {
       "source": "Heritage Auctions",
       "status": "ok",
-      "rss_articles_seen": 59,
+      "rss_articles_seen": 56,
       "new_candidates": 0,
       "previously_known": 23
     },
@@ -46,7 +46,7 @@
     {
       "source": "Christie's",
       "status": "ok",
-      "rss_articles_seen": 66,
+      "rss_articles_seen": 65,
       "new_candidates": 0,
       "previously_known": 2
     },
@@ -60,14 +60,14 @@
     {
       "source": "Bonhams",
       "status": "ok",
-      "rss_articles_seen": 61,
+      "rss_articles_seen": 59,
       "new_candidates": 0,
       "previously_known": 0
     },
     {
       "source": "Goldin",
       "status": "ok",
-      "rss_articles_seen": 49,
+      "rss_articles_seen": 47,
       "new_candidates": 0,
       "previously_known": 0
     }
