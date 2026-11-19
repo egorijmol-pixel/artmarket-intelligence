@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-19T01:52:27.903415+00:00",
+  "checked_utc": "2026-11-19T03:27:51.077718+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -44,7 +44,7 @@
   "candidate_queue_size": 18,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 65,
+  "next_cursor": 78,
   "scan_cycles_completed": 1,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
@@ -55,107 +55,107 @@
   ],
   "checks": [
     {
-      "house": "Morton & Eden",
-      "country": "GB",
-      "domain": "mortonandeden.com",
+      "house": "Swann Galleries",
+      "country": "US",
+      "domain": "swanngalleries.com",
+      "status": "ok",
+      "rss_items": 60,
+      "new_leads": 0
+    },
+    {
+      "house": "Freeman's",
+      "country": "US",
+      "domain": "freemansauction.com",
+      "status": "ok",
+      "rss_items": 61,
+      "new_leads": 0
+    },
+    {
+      "house": "Hindman",
+      "country": "US",
+      "domain": "hindmanauctions.com",
+      "status": "ok",
+      "rss_items": 0,
+      "new_leads": 0
+    },
+    {
+      "house": "Leland Little",
+      "country": "US",
+      "domain": "lelandlittle.com",
       "status": "ok",
       "rss_items": 55,
       "new_leads": 0
     },
     {
-      "house": "H&H Classics",
-      "country": "GB",
-      "domain": "handh.co.uk",
-      "status": "ok",
-      "rss_items": 9,
-      "new_leads": 0
-    },
-    {
-      "house": "Iconic Auctioneers",
-      "country": "GB",
-      "domain": "iconicauctioneers.com",
-      "status": "ok",
-      "rss_items": 41,
-      "new_leads": 0
-    },
-    {
-      "house": "Collecting Cars",
-      "country": "GB",
-      "domain": "collectingcars.com",
-      "status": "ok",
-      "rss_items": 47,
-      "new_leads": 0
-    },
-    {
-      "house": "Whisky Auctioneer",
-      "country": "GB",
-      "domain": "whiskyauctioneer.com",
-      "status": "ok",
-      "rss_items": 39,
-      "new_leads": 0
-    },
-    {
-      "house": "The Saleroom",
-      "country": "GB",
-      "domain": "the-saleroom.com",
-      "status": "ok",
-      "rss_items": 20,
-      "new_leads": 0
-    },
-    {
-      "house": "Invaluable",
+      "house": "Brunk Auctions",
       "country": "US",
-      "domain": "invaluable.com",
+      "domain": "brunkauctions.com",
       "status": "ok",
-      "rss_items": 51,
+      "rss_items": 52,
       "new_leads": 0
     },
     {
-      "house": "LiveAuctioneers",
+      "house": "Clars",
       "country": "US",
-      "domain": "liveauctioneers.com",
-      "status": "ok",
-      "rss_items": 63,
-      "new_leads": 0
-    },
-    {
-      "house": "AuctionZip",
-      "country": "US",
-      "domain": "auctionzip.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Catawiki",
-      "country": "NL",
-      "domain": "catawiki.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Rago",
-      "country": "US",
-      "domain": "ragoarts.com",
-      "status": "ok",
-      "rss_items": 58,
-      "new_leads": 0
-    },
-    {
-      "house": "Wright",
-      "country": "US",
-      "domain": "wright20.com",
-      "status": "ok",
-      "rss_items": 55,
-      "new_leads": 0
-    },
-    {
-      "house": "Doyle",
-      "country": "US",
-      "domain": "doyle.com",
+      "domain": "clars.com",
       "status": "ok",
       "rss_items": 59,
+      "new_leads": 0
+    },
+    {
+      "house": "Julien's Auctions",
+      "country": "US",
+      "domain": "juliensauctions.com",
+      "status": "ok",
+      "rss_items": 66,
+      "new_leads": 0
+    },
+    {
+      "house": "Propstore",
+      "country": "US",
+      "domain": "propstoreauction.com",
+      "status": "ok",
+      "rss_items": 26,
+      "new_leads": 0
+    },
+    {
+      "house": "RR Auction",
+      "country": "US",
+      "domain": "rrauction.com",
+      "status": "ok",
+      "rss_items": 60,
+      "new_leads": 0
+    },
+    {
+      "house": "Goldin",
+      "country": "US",
+      "domain": "goldin.co",
+      "status": "ok",
+      "rss_items": 36,
+      "new_leads": 0
+    },
+    {
+      "house": "Robert Edward Auctions",
+      "country": "US",
+      "domain": "robertedwardauctions.com",
+      "status": "ok",
+      "rss_items": 1,
+      "new_leads": 0
+    },
+    {
+      "house": "Lelands",
+      "country": "US",
+      "domain": "lelands.com",
+      "status": "ok",
+      "rss_items": 60,
+      "new_leads": 0
+    },
+    {
+      "house": "Pristine Auction",
+      "country": "US",
+      "domain": "pristineauction.com",
+      "status": "ok",
+      "rss_items": 46,
       "new_leads": 0
     }
   ]
