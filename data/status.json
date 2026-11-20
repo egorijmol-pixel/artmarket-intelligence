@@ -1,8 +1,8 @@
 {
-  "last_attempt_utc": "2026-11-20T07:41:54.737571+00:00",
+  "last_attempt_utc": "2026-11-20T13:37:18.953898+00:00",
   "sources_checked": 10,
   "sources_ok": 10,
-  "candidates_count": 461,
+  "candidates_count": 473,
   "verified_automatic": 0,
   "checks": [
     {
@@ -15,19 +15,19 @@
       "name": "Google News: collectible auction \"sells for\"",
       "status": "ok",
       "articles_seen": 51,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "name": "Google News: auction \"achieves\" \"$\"",
       "status": "ok",
       "articles_seen": 53,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "name": "Google News: private sale art collectible \"million\"",
       "status": "ok",
-      "articles_seen": 36,
-      "new_candidates": 1
+      "articles_seen": 35,
+      "new_candidates": 0
     },
     {
       "name": "Google News: vintage car auction \"sold for\"",
@@ -38,13 +38,13 @@
     {
       "name": "Google News: rare coin auction \"sold\"",
       "status": "ok",
-      "articles_seen": 34,
+      "articles_seen": 35,
       "new_candidates": 0
     },
     {
       "name": "Google News: jewelry diamond auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 60,
+      "articles_seen": 57,
       "new_candidates": 0
     },
     {
@@ -56,8 +56,8 @@
     {
       "name": "Google News: comic book auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 100,
-      "new_candidates": 23
+      "articles_seen": 52,
+      "new_candidates": 0
     },
     {
       "name": "Google News: watch auction \"sold for\" million",

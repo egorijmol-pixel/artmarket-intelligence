@@ -1,6 +1,6 @@
 [
   {
-    "group_id": "dd9faf8e98eb85e0",
+    "group_id": "82029e6534fa9ad0",
     "title": "Van Gogh Painting Sells for Record US$190.4 Million at Sotheby’s - ColombiaOne.com",
     "category_hint": "art",
     "articles": 23,
@@ -20,7 +20,6 @@
     "candidate_ids": [
       "750e12bf0409a12d",
       "cb38d544bf17e85f",
-      "118495c843fae61e",
       "db2464ce65bd491c",
       "57fbd30a488bd7ef",
       "79665e6e88a07084",
@@ -32,6 +31,7 @@
       "5b7e3d1c7a852371",
       "f2be0ef380c29ee3",
       "322010cb7d89f3b8",
+      "467aefef57b7545a",
       "0a6dc300151f6206",
       "efa6d62255e93c68",
       "448f9c096f79552a",
@@ -59,15 +59,6 @@
         "publisher_name": "The Art Insider",
         "publisher_url": "https://www.art-insider.com",
         "published_at": "2026-11-19T20:32:13+00:00",
-        "indicative_usd": 190400000
-      },
-      {
-        "candidate_id": "118495c843fae61e",
-        "title": "Van Gogh painting with a complex Jewish history sells for record $190.4 million at auction - Jewish Telegraphic Agency",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjlNR1FxYTBSZ21pN215WWxqU3paaEJNTDN6TkQ3Vkg0MS1YVEh4dzZWSkd6ZzExZ2xXNWpCdk00aWFnZ0xZLWt5Z2NqMjVGSFZhTmlDUGZGQVJ2dDE4ZXhyTll6NFVxbEhzYzZ2UWpSMlhzalpSbkg4bEh5RWFJUEVPeWNDZjh1S2xRNGdPeE1CZnFsQnoxQmgxNWV5RVJiQXJqc2ZDWmdIUjEtUTlDZ1RzYUp2TTk3VGZValpHOUQ?oc=5",
-        "publisher_name": "Jewish Telegraphic Agency",
-        "publisher_url": "https://www.jta.org",
-        "published_at": "2026-11-19T18:38:58+00:00",
         "indicative_usd": 190400000
       },
       {
@@ -168,6 +159,15 @@
         "publisher_url": "https://digg.com",
         "published_at": "2026-11-19T07:53:58+00:00",
         "indicative_usd": 190400000
+      },
+      {
+        "candidate_id": "467aefef57b7545a",
+        "title": "Van Gogh Painting Sells For Record $190 Million—After Nazi-Era Ownership Dispute - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNmk1dXJoMW9nZnVUV2pxQmJZS1Q0R1B5M2VnY0NEUzhXM1FNWGVDTlpibHNPQkx0OGpOX1p2a1Y4YmhxLURFR1lMTjgyMzVhWDZNWFdlWGdtVndta2RMTHI1VEJNNHc3dkJCLVdoMFVWSDNTekVMel9JUFM5WDdaNjVlRWU1eXV0S05Yc2pTdlJackxQcnVKd1dUQmM1X041YUk4MnVkanFwamd0cUlmZ3EzUnhxNmJHdXFlWmh0SU5NbEd4ODV3ZkxEdEJMUQ?oc=5",
+        "publisher_name": "Forbes",
+        "publisher_url": "https://www.forbes.com",
+        "published_at": "2026-11-19T07:47:15+00:00",
+        "indicative_usd": 190000000
       },
       {
         "candidate_id": "0a6dc300151f6206",
@@ -729,16 +729,17 @@
     ]
   },
   {
-    "group_id": "4bf5076bf91a4bd7",
-    "title": "A van Gogh with a complex past sells for a record $190 million at auction - ABC News - Breaking News, Latest News and Videos",
+    "group_id": "58f8f05290f5277a",
+    "title": "A van Gogh with a complex past sells for a record $190 million at auction - WECT",
     "category_hint": "other",
-    "articles": 7,
-    "publishers": 7,
+    "articles": 10,
+    "publishers": 10,
     "indicative_usd_values": [
-      190000000
+      190000000,
+      190400000
     ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-11-19T13:30:00+00:00",
+    "amount_variation_pct": 0.2,
+    "last_publication_at": "2026-11-20T12:35:00+00:00",
     "priority": 2,
     "checks_needed": [
       "Не найден проверенный результат конкретного лота из официального источника"
@@ -746,6 +747,9 @@
     "decision": "needs_official_primary_source",
     "is_verified_sale": false,
     "candidate_ids": [
+      "7d547a277ae49696",
+      "20e40c8f8c5efd27",
+      "118495c843fae61e",
       "ba545b69ac448d73",
       "a499b53534dd5b6f",
       "36f3cb868e542539",
@@ -755,6 +759,33 @@
       "a5e3c057eb73a3b2"
     ],
     "links": [
+      {
+        "candidate_id": "7d547a277ae49696",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - WECT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHZVZjdFTXFFTFlWWElLTFp1UDBxQnQ3cE9PemRkQlJHaXoxVE5zTEs4N1Jfb1EybWszengtM01ORjVwTEM2X3FmNWxIWExaLWdGUDdCeGpDRnFNZjh3bFFaOGRya1RsYzdvV0NTd0FfYWxkVGE0TkNwU3RUdUE4dGc0R2dfT1R3ZWlWelZya2djXzZGdkN4REdPdDREQkk?oc=5",
+        "publisher_name": "WECT",
+        "publisher_url": "https://www.wect.com",
+        "published_at": "2026-11-20T12:35:00+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "20e40c8f8c5efd27",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - hpenews.com",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZnlhRHktbS1QZi1DYkdnVTdZYktxOU9pbWNvRl9rY1NaNjBSUnBSUUNWY0MxMEdEcVYxUUtXUWM3dnYxajBZNlBnSV9aSUFSMklSdXJUZnR1cFdCSkdNeDNYNVEyWjctWm5fVUdMcGUyaUtpQVpONmFidkpqSWxWVTFmU29KM29xN0N1OEdoMmVIU0o2RGUyeThpdXd0SE9BMTB0Z051SjdyTWxfQkhjQWtZbHpQM3MySVhxNXZGekFtV2RBOUJaa3l1bHExbThaX09QMjZ1OG9KYk9uRWNJbVZaQmVtYXNtblhR?oc=5",
+        "publisher_name": "hpenews.com",
+        "publisher_url": "https://www.hpenews.com",
+        "published_at": "2026-11-20T05:00:00+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "118495c843fae61e",
+        "title": "Van Gogh painting with a complex Jewish history sells for record $190.4 million at auction - Jewish Telegraphic Agency",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjlNR1FxYTBSZ21pN215WWxqU3paaEJNTDN6TkQ3Vkg0MS1YVEh4dzZWSkd6ZzExZ2xXNWpCdk00aWFnZ0xZLWt5Z2NqMjVGSFZhTmlDUGZGQVJ2dDE4ZXhyTll6NFVxbEhzYzZ2UWpSMlhzalpSbkg4bEh5RWFJUEVPeWNDZjh1S2xRNGdPeE1CZnFsQnoxQmgxNWV5RVJiQXJqc2ZDWmdIUjEtUTlDZ1RzYUp2TTk3VGZValpHOUQ?oc=5",
+        "publisher_name": "Jewish Telegraphic Agency",
+        "publisher_url": "https://www.jta.org",
+        "published_at": "2026-11-19T18:38:58+00:00",
+        "indicative_usd": 190400000
+      },
       {
         "candidate_id": "ba545b69ac448d73",
         "title": "A van Gogh with a complex past sells for a record $190 million at auction - ABC News - Breaking News, Latest News and Videos",
@@ -2085,6 +2116,48 @@
     ]
   },
   {
+    "group_id": "a94b9567babf1ecb",
+    "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 2 Detroit",
+    "category_hint": "other",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      5124000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-02-25T08:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "d4a81f8e278be03b",
+      "7549df0533517d4a"
+    ],
+    "links": [
+      {
+        "candidate_id": "d4a81f8e278be03b",
+        "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 2 Detroit",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOEVIVkVFNXlKV01JSkw3OWRrRWhrczRSVTV6STZOQ0JtZ3FkcDR3amRjTXBoZnlpbW1hZWFzS0t3d2U2bjlHdU4zT3d4UEdkX2E2dlM0Zlg3aHVHRXdwYWR6Z1BfY1MzYjhyaE5xMnBvZmV0OERET1RZOWJ6YUhlc25rOGRCQy16MUtld3cyTXF0NTNfN09FS0c4b3k1S1pNQ1JwNlhIYkRVV1FjS0trbTNEamlvVnI3Vk40LQ?oc=5",
+        "publisher_name": "FOX 2 Detroit",
+        "publisher_url": "",
+        "published_at": "2026-02-25T08:00:00+00:00",
+        "indicative_usd": 5124000
+      },
+      {
+        "candidate_id": "7549df0533517d4a",
+        "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 29 Philadelphia",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFE4SXVVTjl0VDNpcm9qSEZJeUF2b0ZGY1UxcTRUTEREMFJ0c0k4RG5nanBGYnQ5NUJXaW01dmFvbjV2dTNCNHBhaWN5cnMyeXItcDJ6YmhmUkw3bFNjMkNOOEJlQndZNWhBSGRaTzktUGdUcC0wRC02Zjl6VFFoUGJNbUpGRE1FUFJrbVh5Z0twQlZEWENlRzhyM2pfNDF4Vl92bTVvRlRPVzdaRjBla3pBSXM?oc=5",
+        "publisher_name": "FOX 29 Philadelphia",
+        "publisher_url": "https://www.fox29.com",
+        "published_at": "2026-02-25T08:00:00+00:00",
+        "indicative_usd": 5124000
+      }
+    ]
+  },
+  {
     "group_id": "b2d38d31e21c4c80",
     "title": "9.51-Carat ‘Mellon Blue’ Diamond Fetches $25.5 Million At Auction - Forbes",
     "category_hint": "jewelry",
@@ -2255,6 +2328,90 @@
         "publisher_url": "https://nationaljeweler.com",
         "published_at": "2017-06-08T07:00:00+00:00",
         "indicative_usd": 850000
+      }
+    ]
+  },
+  {
+    "group_id": "77e7f265ee2ac921",
+    "title": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
+    "category_hint": "other",
+    "articles": 2,
+    "publishers": 1,
+    "indicative_usd_values": [
+      234000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-12-17T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "66ed95070fab5996",
+      "0802aa08e89953c5"
+    ],
+    "links": [
+      {
+        "candidate_id": "66ed95070fab5996",
+        "title": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTTRTVldrVkdiOEttdDVxVGdWUWVvUmxjelNDb2dEZnNRV3M1VFJtUXpSZnFSUFBIS0dTclVtS3AzNTdFZzZ0NnFGb3lxWlF0aDRURXpPdEpjVEI2MDRTblR3d0R2aEV6ZWpOcjdvT3BIWVVLV1JhRk5mQWp3aHVqNnlSLVNic0Fac3JwQ3I0M0I4MEh3M0VJRy14OURybnBWWWM1a3JQSk5RN2lkdlFFTTA4Zm5jRzVCb2lwaTNHWEJlSTRIOXowQnRNVmdiSk1Ga0Y4aVJkaVd2dw?oc=5",
+        "publisher_name": "Christie's Press",
+        "publisher_url": "https://press.christies.com",
+        "published_at": "2025-12-17T08:00:00+00:00",
+        "indicative_usd": 234000000
+      },
+      {
+        "candidate_id": "0802aa08e89953c5",
+        "title": "Gooding Christie’s Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNejc4TXdLSFNvUFN2WkpIcnBqdGo3MFNCaDh1ZHdrNE5NTElFSjFremU5MHdaMUZ2ZDVLako3SHp2cmpWNHNFRTdpWjFQMVp0N0tMUmFNZXB2RndEdkx3cFViVXhvdU9zc3A0YkhqTDAzR0xGTTREMXdKSlFhTk1YRFUyUEYtRWJ1azNVaExISXZwdU85dXc?oc=5",
+        "publisher_name": "Christie's Press",
+        "publisher_url": "https://press.christies.com",
+        "published_at": "2025-12-17T08:00:00+00:00",
+        "indicative_usd": 234000000
+      }
+    ]
+  },
+  {
+    "group_id": "6aa07a3617fa97e8",
+    "title": "Gooding Christie’s Achieves New Auction Record with $25.3 Million Ferrari 250 GT California Spider Competizione, Grosses over - Christie's Press",
+    "category_hint": "cars",
+    "articles": 2,
+    "publishers": 1,
+    "indicative_usd_values": [
+      25300000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-08-19T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "cfd44b8b455e43ef",
+      "5eae6d78fb841710"
+    ],
+    "links": [
+      {
+        "candidate_id": "cfd44b8b455e43ef",
+        "title": "Gooding Christie’s Achieves New Auction Record with $25.3 Million Ferrari 250 GT California Spider Competizione, Grosses over - Christie's Press",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONWxEQUdDSkl6cEtFeGxEcmlxYnJfSlhndXB3WW55RnBybWRwQVJ1Mnl2VTN3cTJNem9oNVpjUnp2TkZRU3ZjN0YtQzJZc2xjbXE0M3R0X3pFcjcxZkZsUVZrbDRMYWQtbDJTYmwyWTFMME5yOU1vakJDd2RSUkRsSHJSOGhZa3dLZk1zQVB4NTB2aktCQmc?oc=5",
+        "publisher_name": "Christie's Press",
+        "publisher_url": "https://press.christies.com",
+        "published_at": "2025-08-19T07:00:00+00:00",
+        "indicative_usd": 25300000
+      },
+      {
+        "candidate_id": "5eae6d78fb841710",
+        "title": "Gooding Christie’s Achieves New Auction Record with $25.3 Million Ferrari 250 GT California Spider Competizione, Grosses over - Christie's Press",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMkoxQ2QtQTZSME9QMXBvRWhUOWtKQTlCRnpiMG1PVEtfUkVoMVVpNzkwNWZEck44ZDBRUTcyN0FhMmM1a3JWT3A0OG5BU2JDRW9wcDN2cFo1dTN5QWJrNHBaWVY3dzJfSXJpWU1YUXJhVThCRjF2Vk1GOExlRlB5bEdBdzhLdFo1ekRtd2pDMEl1WFlKSFE?oc=5",
+        "publisher_name": "Christie's Press",
+        "publisher_url": "https://press.christies.com",
+        "published_at": "2025-08-19T07:00:00+00:00",
+        "indicative_usd": 25300000
       }
     ]
   },
@@ -6065,39 +6222,6 @@
     ]
   },
   {
-    "group_id": "e6d2947c399eff79",
-    "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 2 Detroit",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      5124000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-02-25T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "d4a81f8e278be03b"
-    ],
-    "links": [
-      {
-        "candidate_id": "d4a81f8e278be03b",
-        "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 2 Detroit",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOEVIVkVFNXlKV01JSkw3OWRrRWhrczRSVTV6STZOQ0JtZ3FkcDR3amRjTXBoZnlpbW1hZWFzS0t3d2U2bjlHdU4zT3d4UEdkX2E2dlM0Zlg3aHVHRXdwYWR6Z1BfY1MzYjhyaE5xMnBvZmV0OERET1RZOWJ6YUhlc25rOGRCQy16MUtld3cyTXF0NTNfN09FS0c4b3k1S1pNQ1JwNlhIYkRVV1FjS0trbTNEamlvVnI3Vk40LQ?oc=5",
-        "publisher_name": "FOX 2 Detroit",
-        "publisher_url": "",
-        "published_at": "2026-02-25T08:00:00+00:00",
-        "indicative_usd": 5124000
-      }
-    ]
-  },
-  {
     "group_id": "d244b12f24fb0978",
     "title": "Iconic T206 Honus Wagner card traced to original cigarette pack sells for $5.1M at Goldin - Sports Collectors Digest",
     "category_hint": "other",
@@ -6386,38 +6510,6 @@
         "publisher_url": "https://sports.yahoo.com",
         "published_at": "2025-12-19T08:00:00+00:00",
         "indicative_usd": 3000000
-      }
-    ]
-  },
-  {
-    "group_id": "beea5c4be675f81e",
-    "title": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      234000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-12-17T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "66ed95070fab5996"
-    ],
-    "links": [
-      {
-        "candidate_id": "66ed95070fab5996",
-        "title": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTTRTVldrVkdiOEttdDVxVGdWUWVvUmxjelNDb2dEZnNRV3M1VFJtUXpSZnFSUFBIS0dTclVtS3AzNTdFZzZ0NnFGb3lxWlF0aDRURXpPdEpjVEI2MDRTblR3d0R2aEV6ZWpOcjdvT3BIWVVLV1JhRk5mQWp3aHVqNnlSLVNic0Fac3JwQ3I0M0I4MEh3M0VJRy14OURybnBWWWM1a3JQSk5RN2lkdlFFTTA4Zm5jRzVCb2lwaTNHWEJlSTRIOXowQnRNVmdiSk1Ga0Y4aVJkaVd2dw?oc=5",
-        "publisher_name": "Christie's Press",
-        "publisher_url": "https://press.christies.com",
-        "published_at": "2025-12-17T08:00:00+00:00",
-        "indicative_usd": 234000000
       }
     ]
   },
@@ -10258,6 +10350,38 @@
     ]
   },
   {
+    "group_id": "c50aecb1adfc2eb4",
+    "title": "RELEASE | The First 5000 Days, sold for $69,346,250 to Metakovan, founder of Metapurse - Christie's Press",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      69346250
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2021-03-12T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "5da855aae2a31882"
+    ],
+    "links": [
+      {
+        "candidate_id": "5da855aae2a31882",
+        "title": "RELEASE | The First 5000 Days, sold for $69,346,250 to Metakovan, founder of Metapurse - Christie's Press",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXRCZmdQSkRUR3Z6RDdDc0VJMmRzeGY0anhQVngzdlFxczluTHlNRFNOTDZqMmJiSkJDRWh6T3lsTXU1d0poSm5GbzdEM0NsX3VtOGZOYVluM2tBSXNjWTRtMU1aandkclhrQjg5dW9qSjJtSER5Q1hFR2ZuRERodkJqOFhnVk9SX3NkelhGc284THlmWW50ZmhuS3d5ZlBTRnV6XzE5VWh3OGg5cVZPTg?oc=5",
+        "publisher_name": "Christie's Press",
+        "publisher_url": "https://press.christies.com",
+        "published_at": "2021-03-12T08:00:00+00:00",
+        "indicative_usd": 69346250
+      }
+    ]
+  },
+  {
     "group_id": "722f2ffa17613503",
     "title": "JPG File Sells for $69 Million, as ‘NFT Mania’ Gathers Pace (Published 2021) - The New York Times",
     "category_hint": "other",
@@ -10482,6 +10606,38 @@
         "publisher_url": "https://www.nationaljeweler.com",
         "published_at": "2020-11-12T08:00:00+00:00",
         "indicative_usd": 26000000
+      }
+    ]
+  },
+  {
+    "group_id": "f8fb7ece2878761c",
+    "title": "RELEASE: William Shakespeare’s 'First Folio' Sells for $9,978,000 and Sets World Auction Record for Any Work of Literature at Christie’s - Christie's Press",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      9978000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2020-10-14T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "295f0c2429d1df83"
+    ],
+    "links": [
+      {
+        "candidate_id": "295f0c2429d1df83",
+        "title": "RELEASE: William Shakespeare’s 'First Folio' Sells for $9,978,000 and Sets World Auction Record for Any Work of Literature at Christie’s - Christie's Press",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0h6aVFJTGtJMVNYV1BqWjZLUmJ1Wm55Z0xqUW9rTFhzcDYtaGtRYVp2V19aaXplM0xfcE5lZUNLRUJVTk1hQlpNR2lDYXo2M215NTY0bFlwRjV0YzZMaE9RMU1FS0xIdGVkRW9MeHBkUzJ1dXkxVzlVRllhSGhQaW9qaGpRaGhfUE5TN3A0RklYb3hnN1E3clNwLUdxNDlZaEpqRTV6cUlFM2pwM0pvc20xLWN2VmhRcjJ0YXNTWkNKTDdTNWRUQ1Y1UnVZdVJRWHJ3S25tT0w2VjNXdkpxUjduYS1ucHd2bm5yN09OWUVHZw?oc=5",
+        "publisher_name": "Christie's Press",
+        "publisher_url": "https://press.christies.com",
+        "published_at": "2020-10-14T07:00:00+00:00",
+        "indicative_usd": 9978000
       }
     ]
   },
@@ -10744,6 +10900,38 @@
     ]
   },
   {
+    "group_id": "179600a46a61a9e9",
+    "title": "Ed Ruscha painting sells for record price of $52.4 million - Christie’s",
+    "category_hint": "art",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      52400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2019-11-14T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "ee2d5450d3aa83ae"
+    ],
+    "links": [
+      {
+        "candidate_id": "ee2d5450d3aa83ae",
+        "title": "Ed Ruscha painting sells for record price of $52.4 million - Christie’s",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRWhmRU9QakxfWXpWektLcmVfYkU3Z0FDblpRMDFEaUlUZjhobHJ6ODVwS3VwMi1zOVlZemgxY3VZQk9KamFCRTFHQUVFcWpwcThDTXRIeHZnd3gyT1pRZGZOWFhFZDJjRE9zSU9sbnFveWY3MVRIdWplTEVTSUZDTUd1LWk2ZlNQcS1SdHpKcjhSajJtR3RyU28xMWxaU0hLM1plMm1vUXZRbmlGbUNscEdQLTZaNDdYb3FjRmhWUnNsZ3hKSXBFMUs5S0Q4YlM4?oc=5",
+        "publisher_name": "Christie’s",
+        "publisher_url": "https://www.christies.com",
+        "published_at": "2019-11-14T08:00:00+00:00",
+        "indicative_usd": 52400000
+      }
+    ]
+  },
+  {
     "group_id": "d5fd9b3f906fb957",
     "title": "A Patek Philippe ‘Grandmaster’ Watch Just Sold for an Astonishing $31 Million at Christie’s, Setting a New World Record - Artnet News",
     "category_hint": "watch",
@@ -10868,6 +11056,38 @@
         "publisher_url": "https://www.christies.com",
         "published_at": "2019-06-21T07:00:00+00:00",
         "indicative_usd": 21500000
+      }
+    ]
+  },
+  {
+    "group_id": "c5f4aac884c2e357",
+    "title": "Maharajas & Mughal Magnificence collection sells for $109.3 million - Christie’s",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      109300000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2019-06-20T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "95ca0cf124316079"
+    ],
+    "links": [
+      {
+        "candidate_id": "95ca0cf124316079",
+        "title": "Maharajas & Mughal Magnificence collection sells for $109.3 million - Christie’s",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVk1PSC1SeXJsZndCTU8zS092ME5kTDZhMTQxMVVQdUNhSzdRSTNRb045MXd0a1hzdElrRUlsUDJJUHJCd3dTMFRndmVaYy13Zk42VzhLeFcwazBrNzQzWFduQlBXbGVmNVphT21xeUJBQ1hvc0YwZVBSd1RXak9oUkNUcmtBMy1HUUlaRkh4TVVCNm9yUWF3RU82azcza2h5a2lSTXl5TUNzeUlRb3JVUHpyQ09wbUZBVzZuR3dNZFllMzg?oc=5",
+        "publisher_name": "Christie’s",
+        "publisher_url": "https://www.christies.com",
+        "published_at": "2019-06-20T07:00:00+00:00",
+        "indicative_usd": 109300000
       }
     ]
   },
@@ -11094,6 +11314,38 @@
         "publisher_url": "https://coins.ha.com",
         "published_at": "2019-01-11T08:00:00+00:00",
         "indicative_usd": 3960000
+      }
+    ]
+  },
+  {
+    "group_id": "db307d89dde04bcc",
+    "title": "RESULTS: Tiffany’s ‘Pond Lily’ sells for $3.4 million setting a new world auction record - Christie's Press",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      3400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2018-12-19T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "ba11d765902c821d"
+    ],
+    "links": [
+      {
+        "candidate_id": "ba11d765902c821d",
+        "title": "RESULTS: Tiffany’s ‘Pond Lily’ sells for $3.4 million setting a new world auction record - Christie's Press",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcmV3MEtHWVhfdnFlSkVaVEtZQmFiTXZDSmVtWVR4WkpXejlqQmJVcG9yZkFkN2dQal9pb1RJMHRQQjkwUnFzdWMwZFJEN0h3bmFnT2hwdHB6VjFIOXMzTnNkWUkxeWhPQjZnTzJHcHVaaFBRVFd1eXJnZFd2RFNpRDVQeXJRc2lFYVpKYWc4X0xmX1hBRGFGeVRMMXpETXgtMEpBamFOcklibE9WZXY3ag?oc=5",
+        "publisher_name": "Christie's Press",
+        "publisher_url": "https://press.christies.com",
+        "published_at": "2018-12-19T08:00:00+00:00",
+        "indicative_usd": 3400000
       }
     ]
   },
