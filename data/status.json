@@ -1,20 +1,20 @@
 {
-  "last_attempt_utc": "2026-11-19T19:24:34.786304+00:00",
+  "last_attempt_utc": "2026-11-20T01:33:54.118126+00:00",
   "sources_checked": 10,
   "sources_ok": 10,
-  "candidates_count": 362,
+  "candidates_count": 422,
   "verified_automatic": 0,
   "checks": [
     {
       "name": "Google News: auction \"sold for\" \"million\"",
       "status": "ok",
-      "articles_seen": 93,
-      "new_candidates": 8
+      "articles_seen": 97,
+      "new_candidates": 9
     },
     {
       "name": "Google News: collectible auction \"sells for\"",
       "status": "ok",
-      "articles_seen": 53,
+      "articles_seen": 50,
       "new_candidates": 0
     },
     {
@@ -26,14 +26,14 @@
     {
       "name": "Google News: private sale art collectible \"million\"",
       "status": "ok",
-      "articles_seen": 36,
-      "new_candidates": 0
+      "articles_seen": 77,
+      "new_candidates": 13
     },
     {
       "name": "Google News: vintage car auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 38,
-      "new_candidates": 0
+      "articles_seen": 100,
+      "new_candidates": 9
     },
     {
       "name": "Google News: rare coin auction \"sold\"",
@@ -44,26 +44,26 @@
     {
       "name": "Google News: jewelry diamond auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 100,
-      "new_candidates": 11
+      "articles_seen": 60,
+      "new_candidates": 0
     },
     {
       "name": "Google News: sports card collectible auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 35,
-      "new_candidates": 0
+      "articles_seen": 100,
+      "new_candidates": 26
     },
     {
       "name": "Google News: comic book auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 50,
+      "articles_seen": 51,
       "new_candidates": 0
     },
     {
       "name": "Google News: watch auction \"sold for\" million",
       "status": "ok",
       "articles_seen": 55,
-      "new_candidates": 1
+      "new_candidates": 0
     }
   ],
   "notice": "RSS-публикации являются кандидатами, не подтверждёнными продажами."
