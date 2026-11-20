@@ -1,44 +1,44 @@
 {
-  "last_attempt_utc": "2026-11-20T01:33:54.118126+00:00",
+  "last_attempt_utc": "2026-11-20T07:41:54.737571+00:00",
   "sources_checked": 10,
   "sources_ok": 10,
-  "candidates_count": 422,
+  "candidates_count": 461,
   "verified_automatic": 0,
   "checks": [
     {
       "name": "Google News: auction \"sold for\" \"million\"",
       "status": "ok",
-      "articles_seen": 97,
-      "new_candidates": 9
+      "articles_seen": 100,
+      "new_candidates": 3
     },
     {
       "name": "Google News: collectible auction \"sells for\"",
       "status": "ok",
-      "articles_seen": 50,
+      "articles_seen": 51,
       "new_candidates": 0
     },
     {
       "name": "Google News: auction \"achieves\" \"$\"",
       "status": "ok",
-      "articles_seen": 52,
-      "new_candidates": 0
+      "articles_seen": 53,
+      "new_candidates": 1
     },
     {
       "name": "Google News: private sale art collectible \"million\"",
       "status": "ok",
-      "articles_seen": 77,
-      "new_candidates": 13
+      "articles_seen": 36,
+      "new_candidates": 1
     },
     {
       "name": "Google News: vintage car auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 100,
-      "new_candidates": 9
+      "articles_seen": 39,
+      "new_candidates": 0
     },
     {
       "name": "Google News: rare coin auction \"sold\"",
       "status": "ok",
-      "articles_seen": 36,
+      "articles_seen": 34,
       "new_candidates": 0
     },
     {
@@ -50,19 +50,19 @@
     {
       "name": "Google News: sports card collectible auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 100,
-      "new_candidates": 26
+      "articles_seen": 34,
+      "new_candidates": 0
     },
     {
       "name": "Google News: comic book auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 51,
-      "new_candidates": 0
+      "articles_seen": 100,
+      "new_candidates": 23
     },
     {
       "name": "Google News: watch auction \"sold for\" million",
       "status": "ok",
-      "articles_seen": 55,
+      "articles_seen": 56,
       "new_candidates": 0
     }
   ],
