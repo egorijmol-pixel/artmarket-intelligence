@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-20T13:50:45.325927+00:00",
+  "checked_utc": "2026-11-20T15:30:07.446759+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -38,14 +38,14 @@
   ],
   "registry_coverage": "curated, not exhaustive",
   "batch_size": 13,
-  "rss_ok": 13,
-  "rss_errors": 0,
+  "rss_ok": 0,
+  "rss_errors": 13,
   "new_candidates": 0,
   "candidate_queue_size": 19,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 143,
-  "scan_cycles_completed": 2,
+  "next_cursor": 0,
+  "scan_cycles_completed": 3,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
     "No direct requests to blocked auction sites",
@@ -55,108 +55,108 @@
   ],
   "checks": [
     {
-      "house": "Saffronart",
-      "country": "IN",
-      "domain": "saffronart.com",
-      "status": "ok",
-      "rss_items": 36,
-      "new_leads": 0
-    },
-    {
-      "house": "AstaGuru",
-      "country": "IN",
-      "domain": "astaguru.com",
-      "status": "ok",
-      "rss_items": 13,
-      "new_leads": 0
-    },
-    {
-      "house": "Pundole's",
-      "country": "IN",
-      "domain": "pundoles.com",
-      "status": "ok",
-      "rss_items": 54,
-      "new_leads": 0
-    },
-    {
-      "house": "Strauss & Co",
-      "country": "ZA",
-      "domain": "straussart.co.za",
-      "status": "ok",
-      "rss_items": 9,
-      "new_leads": 0
-    },
-    {
-      "house": "Aspire Art",
-      "country": "ZA",
-      "domain": "aspireart.net",
-      "status": "ok",
-      "rss_items": 9,
-      "new_leads": 0
-    },
-    {
-      "house": "Stephan Welz",
-      "country": "ZA",
-      "domain": "swelco.co.za",
-      "status": "ok",
-      "rss_items": 2,
-      "new_leads": 0
-    },
-    {
-      "house": "Leonard Joel",
-      "country": "AU",
-      "domain": "leonardjoel.com.au",
-      "status": "ok",
-      "rss_items": 9,
-      "new_leads": 0
-    },
-    {
-      "house": "Deutscher and Hackett",
-      "country": "AU",
-      "domain": "deutscherandhackett.com",
-      "status": "ok",
-      "rss_items": 9,
-      "new_leads": 0
-    },
-    {
-      "house": "Menzies Art Brands",
-      "country": "AU",
-      "domain": "menziesartbrands.com",
-      "status": "ok",
-      "rss_items": 9,
-      "new_leads": 0
-    },
-    {
-      "house": "Smith & Singer",
-      "country": "AU",
-      "domain": "smithandsinger.com.au",
-      "status": "ok",
-      "rss_items": 7,
-      "new_leads": 0
-    },
-    {
-      "house": "Shapiro Auctions",
-      "country": "AU",
-      "domain": "shapiro.com.au",
-      "status": "ok",
-      "rss_items": 7,
-      "new_leads": 0
-    },
-    {
-      "house": "Noble Numismatics",
-      "country": "AU",
-      "domain": "noble.com.au",
-      "status": "ok",
-      "rss_items": 8,
-      "new_leads": 0
-    },
-    {
-      "house": "Webb's",
+      "house": "Art+Object",
       "country": "NZ",
-      "domain": "webbs.co.nz",
-      "status": "ok",
-      "rss_items": 9,
-      "new_leads": 0
+      "domain": "artandobject.co.nz",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "house": "Dunbar Sloane",
+      "country": "NZ",
+      "domain": "dunbarsloane.co.nz",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "house": "Morton Subastas",
+      "country": "MX",
+      "domain": "mortonsubastas.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "house": "Bolsa de Arte",
+      "country": "BR",
+      "domain": "bolsadearte.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "house": "Tiroche",
+      "country": "IL",
+      "domain": "tiroche.co.il",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "house": "Kedem",
+      "country": "IL",
+      "domain": "kedem-auctions.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "house": "Matsart",
+      "country": "IL",
+      "domain": "matsartauctioneers.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "house": "Литфонд",
+      "country": "RU",
+      "domain": "litfund.ru",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "house": "Artinvestment",
+      "country": "RU",
+      "domain": "artinvestment.ru",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "house": "Совком",
+      "country": "RU",
+      "domain": "sovcom.ru",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "house": "Монеты и медали",
+      "country": "RU",
+      "domain": "numismat.ru",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "house": "Auction.ru",
+      "country": "RU",
+      "domain": "auction.ru",
+      "status": "error",
+      "http_code": 429,
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "house": "Bidspirit",
+      "country": "Global",
+      "domain": "bidspirit.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
     }
   ]
 }
