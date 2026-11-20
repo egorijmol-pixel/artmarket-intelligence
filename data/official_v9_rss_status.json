@@ -1,10 +1,10 @@
 {
-  "checked_utc": "2026-11-20T01:34:25.177101+00:00",
+  "checked_utc": "2026-11-20T07:42:22.290373+00:00",
   "mode": "Official-publisher RSS headline evidence, no direct auction-house requests",
   "sources_checked": 8,
   "sources_ok": 8,
-  "new_rss_candidates": 11,
-  "total_rss_review_leads": 55,
+  "new_rss_candidates": 8,
+  "total_rss_review_leads": 66,
   "confirmed_sales_added": 0,
   "minimum_sale_price_usd": 300000,
   "phillips_excluded_from_new_collection": true,
@@ -18,8 +18,8 @@
     {
       "source": "Heritage Auctions",
       "status": "ok",
-      "rss_articles_seen": 100,
-      "new_candidates": 11,
+      "rss_articles_seen": 57,
+      "new_candidates": 0,
       "previously_known": 3
     },
     {
@@ -39,16 +39,16 @@
     {
       "source": "Stack's Bowers",
       "status": "ok",
-      "rss_articles_seen": 60,
+      "rss_articles_seen": 59,
       "new_candidates": 0,
       "previously_known": 3
     },
     {
       "source": "Christie's",
       "status": "ok",
-      "rss_articles_seen": 72,
-      "new_candidates": 0,
-      "previously_known": 3
+      "rss_articles_seen": 100,
+      "new_candidates": 8,
+      "previously_known": 6
     },
     {
       "source": "Sotheby's",
@@ -60,14 +60,14 @@
     {
       "source": "Bonhams",
       "status": "ok",
-      "rss_articles_seen": 63,
+      "rss_articles_seen": 61,
       "new_candidates": 0,
       "previously_known": 0
     },
     {
       "source": "Goldin",
       "status": "ok",
-      "rss_articles_seen": 100,
+      "rss_articles_seen": 50,
       "new_candidates": 0,
       "previously_known": 0
     }
