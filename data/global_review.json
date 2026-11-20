@@ -534,6 +534,31 @@
     ]
   },
   {
+    "id": "1b43fec2e0b99c541e05",
+    "house": "Spink",
+    "country": "GB",
+    "domain": "spink.com",
+    "source_type": "house",
+    "category": "coins",
+    "title": "Rare Gold 'Diss' Torc Fetches £50,700 at Auction - Spink & Son",
+    "publication_at": "2018-01-05T15:28:25+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11RWwyejJGNWc1em4yMXJRcVIwMXFYSjZGZHNySFB6dFF2a1dWalpZWGF4c216emItX1k4a3lyY2V6SFU2NVpDOWk2RjdiMU0?oc=5",
+    "publisher_website": "https://www.spink.com",
+    "native_amount": 50700,
+    "native_currency": "GBP",
+    "raw_price": "£50,700",
+    "indicative_usd": null,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой",
+      "Требуется конвертация валюты на дату продажи; порог $300 000 ещё не проверен"
+    ]
+  },
+  {
     "id": "1134e9773231b8ba3a81",
     "house": "Bonhams",
     "country": "Global",
