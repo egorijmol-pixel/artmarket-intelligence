@@ -1779,6 +1779,48 @@
     ]
   },
   {
+    "group_id": "f6617a8398e08410",
+    "title": "Michael Jordan's Ferrari 550 Maranello Sets Auction Record At $2.7 Million - Motor1.com",
+    "category_hint": "cars",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      2700000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-01T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "f278094df69f41c6",
+      "e015a66d6d613316"
+    ],
+    "links": [
+      {
+        "candidate_id": "f278094df69f41c6",
+        "title": "Michael Jordan's Ferrari 550 Maranello Sets Auction Record At $2.7 Million - Motor1.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10N1pSZjl2My1NYVVGZFM5Y0tUdlBvZ3VDekN0aUVCRHRzT2x2bFpBcGZFREV6MHZ6eGpNYTFUNEFFaWJmejR0VFhmNmllMUFxY2JSTE1XZkxYSy1wanBYMHRKNVJMSnZLVE5xNzc5NjAzY2NkZjZWZQ?oc=5",
+        "publisher_name": "Motor1.com",
+        "publisher_url": "https://www.motor1.com",
+        "published_at": "2026-10-01T07:00:00+00:00",
+        "indicative_usd": 2700000
+      },
+      {
+        "candidate_id": "e015a66d6d613316",
+        "title": "Michael Jordan's Ferrari 550 Maranello Sold for a Record $2.7 Million on Pharrell’s Auction Site - Car and Driver",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRm50MXNxS1N4Y0swMDUxOTI1RWd3d3VoWGZTOG9nd255bXJRdkZ1M3B3cjZOME1wenptOFdxX3dYUk9iZmZOcnpPX3dndEJxTW13RHVCWnZ5bjFhVktsUG9Fb3FKZlREbHZJQUdvQXZuQmhHcExQWmpYSUZmR1ZWVVVnSk1jd2Vna3BWZWxMVklTc2wwWlpwTTZpQmo?oc=5",
+        "publisher_name": "Car and Driver",
+        "publisher_url": "https://www.caranddriver.com",
+        "published_at": "2026-09-03T07:00:00+00:00",
+        "indicative_usd": 2700000
+      }
+    ]
+  },
+  {
     "group_id": "11ab58cffa14b469",
     "title": "Type 1 photo with image used for 1952 Topps Mickey Mantle card sells for record $3M - Sports Collectors Digest",
     "category_hint": "other",
@@ -2486,6 +2528,38 @@
         "publisher_url": "https://www.voiceofemirates.com",
         "published_at": "2026-11-20T06:36:32+00:00",
         "indicative_usd": 104000000
+      }
+    ]
+  },
+  {
+    "group_id": "780440e7e8a86881",
+    "title": "Joe Dante's 1984 Rescue of 'Citizen Kane' Sled Sells for $14.75 Million at Auction - AOL.com",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      14750000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-20T03:22:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "30c485da636a4d06"
+    ],
+    "links": [
+      {
+        "candidate_id": "30c485da636a4d06",
+        "title": "Joe Dante's 1984 Rescue of 'Citizen Kane' Sled Sells for $14.75 Million at Auction - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CSFlBUGpVd3Q4TmszbWRQTWVSVFR2UVIzLTUzVFByYmlQdjB2SmZkUnFhLTZzUUxsMlNiNVdLU3hxRHdTUDNscmhrSU1WSkdST2QwVEZ2dm5USUt3NUo2Qk9WdU93NnlZNnUzY1JnQVhPQkhTTVFPSXBqWmVqcW8?oc=5",
+        "publisher_name": "AOL.com",
+        "publisher_url": "https://www.aol.com",
+        "published_at": "2026-11-20T03:22:00+00:00",
+        "indicative_usd": 14750000
       }
     ]
   },
@@ -3774,6 +3848,38 @@
     ]
   },
   {
+    "group_id": "90dc9d2241c07bcb",
+    "title": "A Rookie NBA Card Sold for $8.04 Million. A Collector's Windfall May Never Add a Dollar to His Social Security Earnings - 24/7 Wall St.",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      8040000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-25T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "256304c62f417c19"
+    ],
+    "links": [
+      {
+        "candidate_id": "256304c62f417c19",
+        "title": "A Rookie NBA Card Sold for $8.04 Million. A Collector's Windfall May Never Add a Dollar to His Social Security Earnings - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYlRpUGdTdEREMVRsM2xMdEp3QWxJUE9FUndaelN0N3RXSnFFandFZkNEeDM3YlRaOE03TERwU0VzRjBXQWQ3bkgtam0wU05SbTJaclY5OUN4YW1uTmpybEtKNF9iQkNMODZSTC1tUXJOMW4tWGEwN0dORTV5d2NPeUJGaTNmWGZTUlhKSHdIdVZvbjNRTjhPYkpLWGxGa1NQUE0zT2VXMU1DcElfeHVtZUxiOWVsbXRrSjZkZXZQcjZDZzVyemtoczZfcUxHS0gyRll2SVd0cDdzTXNEd2U5NVpTWVNOU01Xd1V1bGZLTFhpeXN2S0FRQ1MxUjVZdG9FQ1hvV04wQTRHNUFSMHpSQw?oc=5",
+        "publisher_name": "24/7 Wall St.",
+        "publisher_url": "https://247wallst.com",
+        "published_at": "2026-10-25T07:00:00+00:00",
+        "indicative_usd": 8040000
+      }
+    ]
+  },
+  {
     "group_id": "9a8cd29c86b35719",
     "title": "WrestleMania III Collectible Sells for Staggering $716,750 at Auction - Yahoo Sports",
     "category_hint": "other",
@@ -4156,38 +4262,6 @@
         "publisher_url": "https://thediamondcollective.world",
         "published_at": "2026-10-01T18:54:16+00:00",
         "indicative_usd": 25000000
-      }
-    ]
-  },
-  {
-    "group_id": "3cfffb1a2b71900d",
-    "title": "Michael Jordan's Ferrari 550 Maranello Sets Auction Record At $2.7 Million - Motor1.com",
-    "category_hint": "cars",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      2700000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-10-01T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "f278094df69f41c6"
-    ],
-    "links": [
-      {
-        "candidate_id": "f278094df69f41c6",
-        "title": "Michael Jordan's Ferrari 550 Maranello Sets Auction Record At $2.7 Million - Motor1.com",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10N1pSZjl2My1NYVVGZFM5Y0tUdlBvZ3VDekN0aUVCRHRzT2x2bFpBcGZFREV6MHZ6eGpNYTFUNEFFaWJmejR0VFhmNmllMUFxY2JSTE1XZkxYSy1wanBYMHRKNVJMSnZLVE5xNzc5NjAzY2NkZjZWZQ?oc=5",
-        "publisher_name": "Motor1.com",
-        "publisher_url": "https://www.motor1.com",
-        "published_at": "2026-10-01T07:00:00+00:00",
-        "indicative_usd": 2700000
       }
     ]
   },
@@ -9315,6 +9389,38 @@
         "publisher_url": "https://www.espn.com",
         "published_at": "2022-08-28T07:00:00+00:00",
         "indicative_usd": 12600000
+      }
+    ]
+  },
+  {
+    "group_id": "ccf476e6133b0964",
+    "title": "Buzz Aldrin’s Space Memorabilia Sells for More Than $8 Million (Published 2022) - The New York Times",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      8000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2022-07-26T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "32f55d0fc7271674"
+    ],
+    "links": [
+      {
+        "candidate_id": "32f55d0fc7271674",
+        "title": "Buzz Aldrin’s Space Memorabilia Sells for More Than $8 Million (Published 2022) - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkF3LUdlRGV3cGVSNlpZcWtlU3VHUk5EUUE3Ull6aXVwX3FWUGlsanNoejhfYjdOOUxocGRXZk1YSF9YUXNIXzZPVG5VTUxsRjY0NWNwRTlOVmJxZTFlNGdFb0JFZW9kaXNmZTFLSzBlSFU4ZzdMUWJ4RU5QdTBtUHhRUXBqOVJyU1ltZEpn?oc=5",
+        "publisher_name": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "published_at": "2022-07-26T07:00:00+00:00",
+        "indicative_usd": 8000000
       }
     ]
   },

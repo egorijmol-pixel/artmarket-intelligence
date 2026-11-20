@@ -1,15 +1,15 @@
 {
-  "last_attempt_utc": "2026-11-20T13:37:18.953898+00:00",
+  "last_attempt_utc": "2026-11-20T19:26:06.263664+00:00",
   "sources_checked": 10,
   "sources_ok": 10,
-  "candidates_count": 473,
+  "candidates_count": 477,
   "verified_automatic": 0,
   "checks": [
     {
       "name": "Google News: auction \"sold for\" \"million\"",
       "status": "ok",
       "articles_seen": 100,
-      "new_candidates": 3
+      "new_candidates": 1
     },
     {
       "name": "Google News: collectible auction \"sells for\"",
@@ -32,8 +32,8 @@
     {
       "name": "Google News: vintage car auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 39,
-      "new_candidates": 0
+      "articles_seen": 100,
+      "new_candidates": 1
     },
     {
       "name": "Google News: rare coin auction \"sold\"",
@@ -50,8 +50,8 @@
     {
       "name": "Google News: sports card collectible auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 34,
-      "new_candidates": 0
+      "articles_seen": 100,
+      "new_candidates": 1
     },
     {
       "name": "Google News: comic book auction \"sold for\"",
@@ -62,7 +62,7 @@
     {
       "name": "Google News: watch auction \"sold for\" million",
       "status": "ok",
-      "articles_seen": 56,
+      "articles_seen": 57,
       "new_candidates": 0
     }
   ],
