@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-20T07:51:10.038242+00:00",
+  "checked_utc": "2026-11-20T09:33:57.178370+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -38,13 +38,13 @@
   ],
   "registry_coverage": "curated, not exhaustive",
   "batch_size": 13,
-  "rss_ok": 12,
-  "rss_errors": 1,
+  "rss_ok": 13,
+  "rss_errors": 0,
   "new_candidates": 0,
   "candidate_queue_size": 19,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 104,
+  "next_cursor": 117,
   "scan_cycles_completed": 2,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
@@ -55,107 +55,107 @@
   ],
   "checks": [
     {
-      "house": "Finarte",
-      "country": "IT",
-      "domain": "finarte.it",
-      "status": "ok",
-      "rss_items": 59,
-      "new_leads": 0
-    },
-    {
-      "house": "Pandolfini",
-      "country": "IT",
-      "domain": "pandolfini.it",
+      "house": "Durán Subastas",
+      "country": "ES",
+      "domain": "duran-subastas.com",
       "status": "ok",
       "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "Cambi",
-      "country": "IT",
-      "domain": "cambiaste.com",
+      "house": "Bukowskis",
+      "country": "SE",
+      "domain": "bukowskis.com",
       "status": "ok",
-      "rss_items": 60,
+      "rss_items": 34,
       "new_leads": 0
     },
     {
-      "house": "Il Ponte",
-      "country": "IT",
-      "domain": "ilponteonline.com",
-      "status": "error",
-      "http_code": 429,
-      "reason": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "house": "Wannenes",
-      "country": "IT",
-      "domain": "wannenesgroup.com",
+      "house": "Uppsala Auktionskammare",
+      "country": "SE",
+      "domain": "uppsalaauktion.se",
       "status": "ok",
-      "rss_items": 60,
+      "rss_items": 59,
       "new_leads": 0
     },
     {
-      "house": "Bertolami Fine Arts",
-      "country": "IT",
-      "domain": "bertolamifinearts.com",
+      "house": "Stockholms Auktionsverk",
+      "country": "SE",
+      "domain": "stockholmsauktionsverk.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Bruun Rasmussen",
+      "country": "DK",
+      "domain": "bruun-rasmussen.dk",
       "status": "ok",
       "rss_items": 0,
       "new_leads": 0
     },
     {
-      "house": "Bolaffi",
-      "country": "IT",
-      "domain": "bolaffi.it",
+      "house": "Blomqvist",
+      "country": "NO",
+      "domain": "blomqvist.no",
       "status": "ok",
-      "rss_items": 59,
+      "rss_items": 1,
       "new_leads": 0
     },
     {
-      "house": "Aste Boetto",
-      "country": "IT",
-      "domain": "asteboetto.it",
+      "house": "Grev Wedels Plass",
+      "country": "NO",
+      "domain": "gwpa.no",
       "status": "ok",
-      "rss_items": 11,
+      "rss_items": 1,
       "new_leads": 0
     },
     {
-      "house": "Subastas Segre",
-      "country": "ES",
-      "domain": "subastassegre.es",
+      "house": "Hagelstam",
+      "country": "FI",
+      "domain": "hagelstam.fi",
       "status": "ok",
-      "rss_items": 80,
+      "rss_items": 25,
       "new_leads": 0
     },
     {
-      "house": "Fernando Durán",
-      "country": "ES",
-      "domain": "fernandoduran.com",
+      "house": "Helander",
+      "country": "FI",
+      "domain": "helander.com",
       "status": "ok",
-      "rss_items": 55,
+      "rss_items": 10,
       "new_leads": 0
     },
     {
-      "house": "Setdart",
-      "country": "ES",
-      "domain": "setdart.com",
+      "house": "Venduehuis Den Haag",
+      "country": "NL",
+      "domain": "venduehuis.com",
       "status": "ok",
       "rss_items": 53,
       "new_leads": 0
     },
     {
-      "house": "Balclis",
-      "country": "ES",
-      "domain": "balclis.com",
+      "house": "AAG Auctioneers",
+      "country": "NL",
+      "domain": "aagauctioneers.com",
       "status": "ok",
-      "rss_items": 51,
+      "rss_items": 0,
       "new_leads": 0
     },
     {
-      "house": "Ansorena",
-      "country": "ES",
-      "domain": "ansorena.com",
+      "house": "Bernaerts",
+      "country": "BE",
+      "domain": "bernaerts.eu",
       "status": "ok",
-      "rss_items": 80,
+      "rss_items": 30,
+      "new_leads": 0
+    },
+    {
+      "house": "De Vuyst",
+      "country": "BE",
+      "domain": "de-vuyst.com",
+      "status": "ok",
+      "rss_items": 18,
       "new_leads": 0
     }
   ]
