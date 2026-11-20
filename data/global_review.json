@@ -125,6 +125,54 @@
     ]
   },
   {
+    "id": "3186319a7ec18e73e12c",
+    "house": "Bonhams",
+    "country": "Global",
+    "domain": "bonhams.com",
+    "source_type": "house",
+    "category": "cars",
+    "title": "Bonhams|Cars Auction at America's National Automobile Museum Delivers 100% of Lots Sold and $5,256,000 of Sales - Bonhams",
+    "publication_at": "2026-06-13T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56bjYxSDcxVUNDSzlBa2pmR05LUEhhcjRfbXMwcHE5Y1hHb3pOdWJWM1hpdmZOQWlMMVhMLWtIaHkzbVJ2MEpsM0hCUEtJYUVQMkk3MnVDRQ?oc=5",
+    "publisher_website": "https://www.bonhams.com",
+    "native_amount": 5256000,
+    "native_currency": "USD",
+    "raw_price": "$5,256,000",
+    "indicative_usd": 5256000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
+    "id": "57ccd9167fa1a95402d6",
+    "house": "Heritage Auctions",
+    "country": "US",
+    "domain": "ha.com",
+    "source_type": "house",
+    "category": "collectibles",
+    "title": "Highest-Graded Super Mario Bros. Sells for Record $3 Million at Heritage Auctions - Heritage Auctions",
+    "publication_at": "2026-06-12T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWHIxeXpxTzZ2OW5ia2V0SGlnYThYRDEzdFgyRmlIRTA5WnI1TXRFcGptZlFqbjZpTGgtZmZRbzlnM3Nxbzh0ejRJWVFkd1hvRDFZN25pQU5hRDB4Y29VVW56Mm8tel9kU3NITFlvMk9ualFNZDFCb3BDaUR5dUwzckxGSnRXVUdiTWNFbzVRNlFTdGRTQVRGNDhWdzFacXAzWFZJTXFGcEZ6aXBWYW5RSTFkQURHa2ZPQnM4LTdwRUVYMVpwZWJfSmJPZUFSQ2VkeVFES3lrZ2M2SXZxVmFEY0R3Ty1FTFZLVUxOc3hKVVpCMGRiekhkb0trTkc?oc=5",
+    "publisher_website": "https://entertainment.ha.com",
+    "native_amount": 3000000,
+    "native_currency": "USD",
+    "raw_price": "$3 Million",
+    "indicative_usd": 3000000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "feef87a2729a6bac2058",
     "house": "Christie's",
     "country": "Global",
@@ -243,6 +291,30 @@
       "Дата публикации не считается датой продажи",
       "Без официального результата запись не является подтверждённой",
       "Требуется конвертация валюты на дату продажи; порог $300 000 ещё не проверен"
+    ]
+  },
+  {
+    "id": "9e80c1ea8bb041c15718",
+    "house": "Heritage Auctions",
+    "country": "US",
+    "domain": "ha.com",
+    "source_type": "house",
+    "category": "collectibles",
+    "title": "Rosebud, the Iconic Sled from Citizen Kane, Breaks Auction Records and Sells for $14.75 Million... - Heritage Auctions",
+    "publication_at": "2025-07-16T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNdGJfd2JKWjBlaWlGTXd4YmRVZG9Wdmk0dVdkejFRNG52M05DVFZGR3d3NWVQa1VFeXhNa0RUNjR2allGTXI2ZXNfMTNoTC1yczZVcmV2MDROQVBIMkF6REZhWi1rNkF2NXpOamRiQ2dMakFwNEQ2QW5yTDNTd200UlY5NFVRV0hsSjFmQkkxc2FGMmZEUGM2cElNMExaZF9nS2g4Tld6NVhZSEo0VmM3b2lmOHlUd3I2aDQ1cTFJMmh5eV8wQ1dGd0lZWTdSUUFxaDlseWtSaldzaHJqcndNTU9Pd3BQdEVsZFgxYV8yUnJ4a1NZNGNvb1otdHBsZ3BPa011Tk9kNjRqb1NvZ29EdU1mNUQ0dUxHSHhVWXR5MEU3OVZWalJ5Xw?oc=5",
+    "publisher_website": "https://entertainment.ha.com",
+    "native_amount": 14750000,
+    "native_currency": "USD",
+    "raw_price": "$14.75 Million",
+    "indicative_usd": 14750000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
     ]
   },
   {
@@ -459,6 +531,31 @@
       "Требуется оригинальная страница с окончательной ценой конкретного лота",
       "Дата публикации не считается датой продажи",
       "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
+    "id": "1134e9773231b8ba3a81",
+    "house": "Bonhams",
+    "country": "Global",
+    "domain": "bonhams.com",
+    "source_type": "house",
+    "category": "art",
+    "title": "A LIFETIMES COLLECTION OF MOTORING SOLD FOR £3 MILLION AT BONHAMS MICHAEL BANFIELD COLLECTION SALE - Bonhams",
+    "publication_at": "2014-06-17T22:11:27+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrMUlRYUJmZ1ZFeVZoWXVHSFZuLS05MHZ1RlNlMVJfVjlEUW9EQmJPODRiSUFNMC1lLVJTYlFjdG5XNW5CN1FwaWpZWXFhMnNhZmtQTmVzUQ?oc=5",
+    "publisher_website": "https://www.bonhams.com",
+    "native_amount": 3000000,
+    "native_currency": "GBP",
+    "raw_price": "£3 MILLION",
+    "indicative_usd": null,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой",
+      "Требуется конвертация валюты на дату продажи; порог $300 000 ещё не проверен"
     ]
   }
 ]
