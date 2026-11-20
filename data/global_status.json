@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-20T03:23:03.254130+00:00",
+  "checked_utc": "2026-11-20T05:36:36.184824+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -44,7 +44,7 @@
   "candidate_queue_size": 19,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 78,
+  "next_cursor": 91,
   "scan_cycles_completed": 2,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
@@ -55,107 +55,107 @@
   ],
   "checks": [
     {
-      "house": "Swann Galleries",
+      "house": "Stack's Bowers",
       "country": "US",
-      "domain": "swanngalleries.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Freeman's",
-      "country": "US",
-      "domain": "freemansauction.com",
+      "domain": "stacksbowers.com",
       "status": "ok",
       "rss_items": 59,
       "new_leads": 0
     },
     {
-      "house": "Hindman",
+      "house": "GreatCollections",
       "country": "US",
-      "domain": "hindmanauctions.com",
+      "domain": "greatcollections.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Legend Rare Coin Auctions",
+      "country": "US",
+      "domain": "legendauctions.com",
       "status": "ok",
       "rss_items": 0,
       "new_leads": 0
     },
     {
-      "house": "Leland Little",
+      "house": "Classical Numismatic Group",
       "country": "US",
-      "domain": "lelandlittle.com",
-      "status": "error",
-      "http_code": 429,
-      "reason": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "house": "Brunk Auctions",
-      "country": "US",
-      "domain": "brunkauctions.com",
+      "domain": "cngcoins.com",
       "status": "ok",
-      "rss_items": 50,
+      "rss_items": 54,
       "new_leads": 0
     },
     {
-      "house": "Clars",
+      "house": "Goldberg Coins",
       "country": "US",
-      "domain": "clars.com",
+      "domain": "goldbergcoins.com",
       "status": "ok",
-      "rss_items": 59,
+      "rss_items": 43,
       "new_leads": 0
     },
     {
-      "house": "Julien's Auctions",
+      "house": "Stephen Album Rare Coins",
       "country": "US",
-      "domain": "juliensauctions.com",
+      "domain": "stevealbum.com",
       "status": "ok",
-      "rss_items": 62,
+      "rss_items": 56,
       "new_leads": 0
     },
     {
-      "house": "Propstore",
+      "house": "Acker Wines",
       "country": "US",
-      "domain": "propstoreauction.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "RR Auction",
-      "country": "US",
-      "domain": "rrauction.com",
+      "domain": "ackerwines.com",
       "status": "ok",
       "rss_items": 60,
       "new_leads": 0
     },
     {
-      "house": "Goldin",
+      "house": "Hart Davis Hart",
       "country": "US",
-      "domain": "goldin.co",
+      "domain": "hdhwine.com",
       "status": "ok",
-      "rss_items": 40,
+      "rss_items": 6,
       "new_leads": 0
     },
     {
-      "house": "Robert Edward Auctions",
+      "house": "Zachys",
       "country": "US",
-      "domain": "robertedwardauctions.com",
+      "domain": "zachys.com",
       "status": "ok",
-      "rss_items": 1,
+      "rss_items": 54,
       "new_leads": 0
     },
     {
-      "house": "Lelands",
+      "house": "WineBid",
       "country": "US",
-      "domain": "lelands.com",
+      "domain": "winebid.com",
       "status": "ok",
-      "rss_items": 59,
+      "rss_items": 54,
       "new_leads": 0
     },
     {
-      "house": "Pristine Auction",
-      "country": "US",
-      "domain": "pristineauction.com",
+      "house": "Heffel",
+      "country": "CA",
+      "domain": "heffel.com",
       "status": "ok",
-      "rss_items": 44,
+      "rss_items": 8,
+      "new_leads": 0
+    },
+    {
+      "house": "Waddington's",
+      "country": "CA",
+      "domain": "waddingtons.ca",
+      "status": "error",
+      "http_code": 429,
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "house": "Cowley Abbott",
+      "country": "CA",
+      "domain": "cowleyabbott.ca",
+      "status": "ok",
+      "rss_items": 9,
       "new_leads": 0
     }
   ]
