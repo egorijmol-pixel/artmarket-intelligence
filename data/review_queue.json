@@ -1017,6 +1017,68 @@
     ]
   },
   {
+    "group_id": "9bd6f075f14a3ec1",
+    "title": "Van Gogh's 'Chataigniers en Fleurs' Sells at Auction for Record $190.4 Million - شبكة تواصل الإخبارية",
+    "category_hint": "other",
+    "articles": 4,
+    "publishers": 4,
+    "indicative_usd_values": [
+      190400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-19T11:12:54+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "f2bf887690a59cab",
+      "bf43a84c7a9757ae",
+      "7df5918a57959d72",
+      "10540713c0d527dd"
+    ],
+    "links": [
+      {
+        "candidate_id": "f2bf887690a59cab",
+        "title": "Van Gogh's 'Chataigniers en Fleurs' Sells at Auction for Record $190.4 Million - شبكة تواصل الإخبارية",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LS0VDb0xHUVF6NklGTVBKQllJeENRcW9BaW5PVDU0dVdFYzdIT0lEWEJiRVVmNDlIR3JDVDdEOVAzRFN2WTBJUy1LVWJ4Nk1PSFlV?oc=5",
+        "publisher_name": "شبكة تواصل الإخبارية",
+        "publisher_url": "https://twaslnews1.twaslnews.com",
+        "published_at": "2026-11-19T11:12:54+00:00",
+        "indicative_usd": 190400000
+      },
+      {
+        "candidate_id": "bf43a84c7a9757ae",
+        "title": "Van Gogh's 'Chataigniers en Fleurs' sells at auction for record $190.4 million - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzRHbm1wODU4d2dRTXJTUGN0aTVqb3hTS3FSVUNCdFJmN3NSeS1TQm4wTGJnQnRDV0pQcTM0YWVBVHkxTTVlS2FWOFh0MTBMOGpyQ3NOd2JLVk11cVNEUC1xOXF6SFp0UmdEdFJOemMzdWJNYVZ5ZVU1d1Q1bG9iM2J2YmHSAYoBQVVfeXFMTTZlU3V3TTZnS2w0TzZ3ZWwzemhZZ19pdWNGUXNvN0djT2tFanJac28ta2tWVll2bHhPYnMyYmpkenBaRlg5cVF2eE9qVHpPYWVFV1FmQk9hekdjZklUaHNBc3FzMFJQR0llTzZ3TW01dWJQVWhWUjQwQ1VweVkzbldBVHZaRDNBcGtB?oc=5",
+        "publisher_name": "CNBC",
+        "publisher_url": "https://www.cnbc.com",
+        "published_at": "2026-11-19T07:48:46+00:00",
+        "indicative_usd": 190400000
+      },
+      {
+        "candidate_id": "7df5918a57959d72",
+        "title": "Van Goghs Chataigniers en Fleurs sells at auction for record $190.4 million - The Tribune",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjFSVUZtbmFiZTBiTy0zTDBlbzNLdVlWRmU1THU4NGQzN1N3Vmk2RWNZSFNWdEtoTmdYRHgyOWxKcVFjT2lmMlE4MTJ1MmNQckZacVBOTVdYbURHSHhNRUkzTEdhTk5pVEVnQmxlcnhnTk5Qd3hqRTNSMXFqdDdPLXdVeFhuNVJQN1lfamVLYjVscmNfaDQ4MnJXZmxBTk9VQWVRMWRsVk41eHotTDRaZjVTTWRXd9IBugFBVV95cUxPWEZhUFUtTzZEanUtS2RBcEU1TV8zcnNRUlMwVUlXbWdXMnd2Slh1bUItWVNzYnRqYmd4NVRMaEVDdDcxenAtdEE3M3Z1bUdyOEhqa1l4WjZYY3ZocEZfaURxNHlKMUhSMmFaS09jMktJZTQ4bGZTRTE5V3R5aVpiTGg5MkJ6ZW1FcGpLbzQySnI4dFdpWlEyZ1EtY0N1TU8ycDBxT29ObEo2T1I5MFdzM2FfNVFmcTN2REE?oc=5",
+        "publisher_name": "The Tribune",
+        "publisher_url": "https://www.tribuneindia.com",
+        "published_at": "2026-11-19T06:45:59+00:00",
+        "indicative_usd": 190400000
+      },
+      {
+        "candidate_id": "10540713c0d527dd",
+        "title": "Van Gogh's 'Chataigniers en Fleurs' sells at auction for record $190.4 million - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkhENkZEV3Q5NDZTMmtKbXpyZzluQ1BWMVFneFVheVVtdXN5YU1yNENBblF6MmhMZ2dQRGpuVUNGZmZCU19TbzBoX0JmdDBIM0Z2azVpMlQyX1AtbjQ1WmhNOVhlei04RDFzX1VUbWQ3SFd3aG1lZHU4OVB4TlVPcTFOSE01ejI1RnhQX2lBRmtxNW9EZzZZdEpSTnhyRnJCTzB3LU0yWjU1dS01UVlObHpB?oc=5",
+        "publisher_name": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "published_at": "2026-11-19T06:42:00+00:00",
+        "indicative_usd": 190400000
+      }
+    ]
+  },
+  {
     "group_id": "5f582f3ad395588f",
     "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KCCI",
     "category_hint": "art",
@@ -1262,58 +1324,6 @@
         "publisher_url": "https://www.kcra.com",
         "published_at": "2022-08-28T07:00:00+00:00",
         "indicative_usd": 12600000
-      }
-    ]
-  },
-  {
-    "group_id": "f0f83949546e9c0a",
-    "title": "Van Gogh's 'Chataigniers en Fleurs' Sells at Auction for Record $190.4 Million - شبكة تواصل الإخبارية",
-    "category_hint": "other",
-    "articles": 3,
-    "publishers": 3,
-    "indicative_usd_values": [
-      190400000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-11-19T11:12:54+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "f2bf887690a59cab",
-      "bf43a84c7a9757ae",
-      "7df5918a57959d72"
-    ],
-    "links": [
-      {
-        "candidate_id": "f2bf887690a59cab",
-        "title": "Van Gogh's 'Chataigniers en Fleurs' Sells at Auction for Record $190.4 Million - شبكة تواصل الإخبارية",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LS0VDb0xHUVF6NklGTVBKQllJeENRcW9BaW5PVDU0dVdFYzdIT0lEWEJiRVVmNDlIR3JDVDdEOVAzRFN2WTBJUy1LVWJ4Nk1PSFlV?oc=5",
-        "publisher_name": "شبكة تواصل الإخبارية",
-        "publisher_url": "https://twaslnews1.twaslnews.com",
-        "published_at": "2026-11-19T11:12:54+00:00",
-        "indicative_usd": 190400000
-      },
-      {
-        "candidate_id": "bf43a84c7a9757ae",
-        "title": "Van Gogh's 'Chataigniers en Fleurs' sells at auction for record $190.4 million - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzRHbm1wODU4d2dRTXJTUGN0aTVqb3hTS3FSVUNCdFJmN3NSeS1TQm4wTGJnQnRDV0pQcTM0YWVBVHkxTTVlS2FWOFh0MTBMOGpyQ3NOd2JLVk11cVNEUC1xOXF6SFp0UmdEdFJOemMzdWJNYVZ5ZVU1d1Q1bG9iM2J2YmHSAYoBQVVfeXFMTTZlU3V3TTZnS2w0TzZ3ZWwzemhZZ19pdWNGUXNvN0djT2tFanJac28ta2tWVll2bHhPYnMyYmpkenBaRlg5cVF2eE9qVHpPYWVFV1FmQk9hekdjZklUaHNBc3FzMFJQR0llTzZ3TW01dWJQVWhWUjQwQ1VweVkzbldBVHZaRDNBcGtB?oc=5",
-        "publisher_name": "CNBC",
-        "publisher_url": "https://www.cnbc.com",
-        "published_at": "2026-11-19T07:48:46+00:00",
-        "indicative_usd": 190400000
-      },
-      {
-        "candidate_id": "7df5918a57959d72",
-        "title": "Van Goghs Chataigniers en Fleurs sells at auction for record $190.4 million - The Tribune",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjFSVUZtbmFiZTBiTy0zTDBlbzNLdVlWRmU1THU4NGQzN1N3Vmk2RWNZSFNWdEtoTmdYRHgyOWxKcVFjT2lmMlE4MTJ1MmNQckZacVBOTVdYbURHSHhNRUkzTEdhTk5pVEVnQmxlcnhnTk5Qd3hqRTNSMXFqdDdPLXdVeFhuNVJQN1lfamVLYjVscmNfaDQ4MnJXZmxBTk9VQWVRMWRsVk41eHotTDRaZjVTTWRXd9IBugFBVV95cUxPWEZhUFUtTzZEanUtS2RBcEU1TV8zcnNRUlMwVUlXbWdXMnd2Slh1bUItWVNzYnRqYmd4NVRMaEVDdDcxenAtdEE3M3Z1bUdyOEhqa1l4WjZYY3ZocEZfaURxNHlKMUhSMmFaS09jMktJZTQ4bGZTRTE5V3R5aVpiTGg5MkJ6ZW1FcGpLbzQySnI4dFdpWlEyZ1EtY0N1TU8ycDBxT29ObEo2T1I5MFdzM2FfNVFmcTN2REE?oc=5",
-        "publisher_name": "The Tribune",
-        "publisher_url": "https://www.tribuneindia.com",
-        "published_at": "2026-11-19T06:45:59+00:00",
-        "indicative_usd": 190400000
       }
     ]
   },
@@ -1779,6 +1789,48 @@
     ]
   },
   {
+    "group_id": "6d135f48f07053e0",
+    "title": "The First Patek Philippe Ref. 3970 Sold for a Record $2.3 Million - Robb Report",
+    "category_hint": "watch",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      2300000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-10T20:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "02844452362b4cae",
+      "62ec5494d12d030e"
+    ],
+    "links": [
+      {
+        "candidate_id": "02844452362b4cae",
+        "title": "The First Patek Philippe Ref. 3970 Sold for a Record $2.3 Million - Robb Report",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXQtVU8xWGdWaEg1MGFyeEdMSXJ4aDdTblRqTk1pZFpRSXlLMlJwVzgzTDh0VFhLdk9Fa2JWSTI0MVQ0alNCVFNLVjVkdEFRN05RTWl5NUdpRTl0NHNJLXN6cDdsM1VDRlZscWRKdnFVc19CZ1dyeDEteW5KVlJlQ0VJd1RGajdERWtTQ0d2dFRMNVNyNlA5Vl9jZw?oc=5",
+        "publisher_name": "Robb Report",
+        "publisher_url": "https://robbreport.com",
+        "published_at": "2026-11-10T20:00:00+00:00",
+        "indicative_usd": 2300000
+      },
+      {
+        "candidate_id": "62ec5494d12d030e",
+        "title": "The First Patek Philippe Ref. 3970 Sold for a Record $2.3 Million - Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXFLaGtyYnpUZzNCMEpWa3FOZTRRRERKaUhWMjVkV2FJdUlxT1pEMDZnMHo1Q3JOOWlYYjNMZnRtNzVLc1N4djU1Uy1lUGIwX3ZQa0Q0ZWlPaW8zRk1ucE52ekNqc3k3RmUyel9IUmc5TDVENVN6WC1TVjBFRFRaOGcwVm4?oc=5",
+        "publisher_name": "Yahoo Finance Singapore",
+        "publisher_url": "https://sg.finance.yahoo.com",
+        "published_at": "2026-11-10T08:00:00+00:00",
+        "indicative_usd": 2300000
+      }
+    ]
+  },
+  {
     "group_id": "f6617a8398e08410",
     "title": "Michael Jordan's Ferrari 550 Maranello Sets Auction Record At $2.7 Million - Motor1.com",
     "category_hint": "cars",
@@ -1817,6 +1869,91 @@
         "publisher_url": "https://www.caranddriver.com",
         "published_at": "2026-09-03T07:00:00+00:00",
         "indicative_usd": 2700000
+      }
+    ]
+  },
+  {
+    "group_id": "7ccb398521adbef4",
+    "title": "Rolex Four Seasons Auction: 4 One-of-a-Kind Daytonas Sold for $49.4 Million—See the Price of Each - Esquire India",
+    "category_hint": "watch",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      49400000,
+      49500000
+    ],
+    "amount_variation_pct": 0.2,
+    "last_publication_at": "2026-09-30T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "d4c7606400c52e14",
+      "0f8bb7d6337cb0e8"
+    ],
+    "links": [
+      {
+        "candidate_id": "d4c7606400c52e14",
+        "title": "Rolex Four Seasons Auction: 4 One-of-a-Kind Daytonas Sold for $49.4 Million—See the Price of Each - Esquire India",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZjM3aFh3RnRvSloxdFlzNk5fUnNNZVNfNl9YYTUtbi1jSTk4OTVTVGxNclVWTDFYbkEyR3RvVi1GejFIRjU4ektFUmFiVG5jdjc3Mkw5Y241VVBRcU04NnhISVRFNXd5dUFMMDhzdE9MTVI1N3VPaW01WjhBbGNMNlNFUkNidTlDRDlRQXhqdTZhTC1QS0t5ekRLcG13WnFmTUlOTTNoX25rRUN1MFpfNXVBejVWRS1Kb2N3OVNUUFl0NzdhSnkwaU9TVWlLSk1aaXlIdzczdFJzSGk4NkZxVzQxekVVLWNL0gH2AUFVX3lxTE1HMVBxUVRGS3pzdjhCVXNwZGdmMUthSHYyUTBiTDJpTkxiWHFBOXBCZUZkZV9aOXZTMVE5MnRSZE1KM3NQeF9uSVh1M0lUcWhQM3RrMDc2MGpaNTFQUWlXMVRZOXM4LThoaVVDYmN6WDc3X3o3bWljcmxETHM4RUp6ajN2Q242NzFjbXJyeXZjYTM3X2pBVl9GTmVHakR1S0Z5Uk5aVjNSRG5LT0Q0T1ZwMklnVWVfYWpwUDQtVDlPeGVHTW9NQ015Vkp2eVlqRTl6YUtvYkJRekd6OXVmWFg3NTMtYWhueXJFYkNMcHQxdnBsa0ZUdw?oc=5",
+        "publisher_name": "Esquire India",
+        "publisher_url": "https://www.esquireindia.co.in",
+        "published_at": "2026-09-30T07:00:00+00:00",
+        "indicative_usd": 49400000
+      },
+      {
+        "candidate_id": "0f8bb7d6337cb0e8",
+        "title": "4 One-of-a-Kind Rolex Daytonas Just Sold for $49.5 Million - Robb Report",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkhmam9fek1sRlgxZnNacFVCS05hN2Z5VEJDZjBUaFRsX3p3T003SURIc01QbGZobFA1ekEyZldkcnotdzdGazBmMm5ZcVJ5S1VGV1J4SGhMR3czcXJTNWktMHVTY2plT1lYMUVpT1U4VWtJMmtmZnByc09MZ3BlU1FNY2RtaFEwUWdiRXhwUGhEdHJOeGVrZ1JR?oc=5",
+        "publisher_name": "Robb Report",
+        "publisher_url": "https://robbreport.com",
+        "published_at": "2026-09-29T07:00:00+00:00",
+        "indicative_usd": 49500000
+      }
+    ]
+  },
+  {
+    "group_id": "eb5fa59f88c54f18",
+    "title": "Cooper Flagg NBA Debut Patch card sells for record $8.04 million, Flagg says it’s worth more - The Athletic - The New York Times",
+    "category_hint": "other",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      8040000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-09-26T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "f7482faaa480bbb7",
+      "d2bf8dd6e48c7b0b"
+    ],
+    "links": [
+      {
+        "candidate_id": "f7482faaa480bbb7",
+        "title": "Cooper Flagg NBA Debut Patch card sells for record $8.04 million, Flagg says it’s worth more - The Athletic - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObE9yYzhjQi1IQTQ5YzhjMWxzcmQ2cTJrcjY3ZTZZWnBhVW1xY21BLXlDVXdiR3NBdWRPRzNvaE50dDBzWkNFX0pZNk1GVmR2dWRnZ3lWaE4zNFFWWU9IVTRpRl9VVFVpY0lKb2h2RlQyekNndEJxSXNkbVF4ZnpOT0ZZVEU1YVZPOHJJREJEX18?oc=5",
+        "publisher_name": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "published_at": "2026-09-26T07:00:00+00:00",
+        "indicative_usd": 8040000
+      },
+      {
+        "candidate_id": "d2bf8dd6e48c7b0b",
+        "title": "Cooper Flagg's NBA Rookie Debut Patch Autograph sells for $8.04M at auction, becomes third-most expensive NBA card ever - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORERGZzJmY3AwMkpHWnI4aGVvUXFidHVhNGlXa3p6VlJueE1nSnNqRXQwdldOYWlhbV9nakFZWUMtaVBlT1l5TU9oalp4MEJmeGxKamJGWDlSUWpnMU05YVZqaV9rUUNlSHZiRWZPRU80M1ZweDhmVnIxTUhGeGZGek9TWEROdzNRZFZCaDBaSTVXLW1TRUhVVUJibXZjdlA4QmI5VExzZjRTN2RyTHZmSWpNaUJmM2k2T0RJLVBxQVJDTEh6d2NzQ2c0N3YxTlNydHlnMXVJNU11dVVlTnQzenFUdll4TmVoY3VUanR3d2V5aWZ0N0ZjbVNFQjlnc3M3NlRhQ0JWbw?oc=5",
+        "publisher_name": "Yahoo Sports",
+        "publisher_url": "https://sports.yahoo.com",
+        "published_at": "2026-09-25T07:00:00+00:00",
+        "indicative_usd": 8040000
       }
     ]
   },
@@ -1989,6 +2126,48 @@
     ]
   },
   {
+    "group_id": "dcc6a2c7595de4c5",
+    "title": "Rare Patek Philippe Watch Sells for Record $10.2 Million at Auction - Yahoo",
+    "category_hint": "watch",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      10200000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-05-16T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "d936db2c7113e9c9",
+      "437b66e6dcc9ac67"
+    ],
+    "links": [
+      {
+        "candidate_id": "d936db2c7113e9c9",
+        "title": "Rare Patek Philippe Watch Sells for Record $10.2 Million at Auction - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZXlTYkZzeTZNRXJUTW4wcnpmQkxYWEFhWGlOWGNLcVBaUkFmRkpPcDFKLVdxZk9tWHViZUtFYUxsNXdBSjh3aHY5Uy1WVkdwNnBDUkZCVWVXYUgtVk9yT0NwTWd5Y0F3OEpvZ0ZRMWNJeEpFZ2RiNHFKSzlqakRlUG45Q2JoaEZMRmU2OXJLVWY?oc=5",
+        "publisher_name": "Yahoo",
+        "publisher_url": "https://www.yahoo.com",
+        "published_at": "2026-05-16T07:00:00+00:00",
+        "indicative_usd": 10200000
+      },
+      {
+        "candidate_id": "437b66e6dcc9ac67",
+        "title": "Rare Patek Philippe Watch Sells for Record $10.2 Million at Auction - Complex",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHFKNy1MdHFIczh3SzE5Z1JqZ3JqTDFTamRmOFRRaE5YaFVRaU9mSnlWckNMc1lsd2psM2w3azRySHhFUVRUWjJ2dzNoSk5OcWJTb1VXMW1BZkJRZUdlUGNxNFRyRHdNUjlhOWQ5dGkzZEEzUzJlakFXWHNMeC1QZDZfYUtUN3ZucVE?oc=5",
+        "publisher_name": "Complex",
+        "publisher_url": "https://www.complex.com",
+        "published_at": "2026-05-11T07:00:00+00:00",
+        "indicative_usd": 10200000
+      }
+    ]
+  },
+  {
     "group_id": "c57b2d477af4cd0b",
     "title": "The Ocean Dream Diamond Just Sold for a Record $17.3 Million - Natural Diamond Council",
     "category_hint": "jewelry",
@@ -2028,6 +2207,92 @@
         "publisher_url": "https://www.independent.co.uk",
         "published_at": "2026-05-13T07:00:00+00:00",
         "indicative_usd": 17000000
+      }
+    ]
+  },
+  {
+    "group_id": "6461813971f25bc2",
+    "title": "A Rare A. Lange & Söhne Grande Complication Watch Just Sold for a Record $2 Million - Robb Report",
+    "category_hint": "watch",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      2000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-05-12T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "96f186c2ee72df28",
+      "ef3144d1193e893f"
+    ],
+    "links": [
+      {
+        "candidate_id": "96f186c2ee72df28",
+        "title": "A Rare A. Lange & Söhne Grande Complication Watch Just Sold for a Record $2 Million - Robb Report",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnk3eDBaajdIRkdUcTBqa2JoLWVQeHgwcUdvb1VyVEpkU2hzUUtsRHp4dXdxNC0ySjc4a1hMX3c0aUh4RmlHVzh6YnFRdk9MWWk0WXBsQWlsTzdSaGNLVXZ5eFQ3N294WjBLY3A5Q1ZZTGVYRG1kel92dno2bWJ4azhSeFlCc2pKNWk1WnNvNWl6OVBMaDRrRTkzbjBoUDFGZF9NcThrd3o?oc=5",
+        "publisher_name": "Robb Report",
+        "publisher_url": "https://robbreport.com",
+        "published_at": "2026-05-12T07:00:00+00:00",
+        "indicative_usd": 2000000
+      },
+      {
+        "candidate_id": "ef3144d1193e893f",
+        "title": "A. Lange & Söhne Grande Complication Fetches $2 Million At Sotheby’s - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZk4tNnhqa2tBT3hGeGNCS00yS3JURW1JbmVDcVVTbWs3RWpXemk5WGhQQ0U5ZW85d1dLMmRmSnRxdTZPVGxfWVZ0akNQaldmZnBIMFVMTFIwZElTalU3U01WQ04yVk5EZ3oyekthME5ZdjllR2N0djlDQkhYcGNRaExEX3JGQlNOU1BKZDFyQ2RydjFnUTlxR0lzTmJLX2RfSU9rcUVra2d6YTN6amxiUE1YN2FwdFJJY2Iw?oc=5",
+        "publisher_name": "Forbes",
+        "publisher_url": "https://www.forbes.com",
+        "published_at": "2026-05-11T07:00:00+00:00",
+        "indicative_usd": 2000000
+      }
+    ]
+  },
+  {
+    "group_id": "57d1490778341f30",
+    "title": "This Cartier Crash Watch Just Sold For A Historic $2.2 Million - maxim.com",
+    "category_hint": "watch",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      2000000,
+      2200000
+    ],
+    "amount_variation_pct": 9.1,
+    "last_publication_at": "2026-04-28T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника",
+      "Различающиеся суммы из публикаций — проверить округление и комиссию"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "7ddb2def96423586",
+      "7f627900bfbbe06e"
+    ],
+    "links": [
+      {
+        "candidate_id": "7ddb2def96423586",
+        "title": "This Cartier Crash Watch Just Sold For A Historic $2.2 Million - maxim.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORUNoZHJpaWY5Y0tnd1hTMlNSbTV0UW9LZHR6VDlfSEJzUFRRQ1Y5NXF2Qld0bzlaUWlPa25NUDB6RDBTY0NDNUxFU0VIZFJVOFBJRHcxd2h5QnpIY2g5NHNZMTBFTk9lcUxQdHVVb1Y0N2Q4RTBBaVRka1YwSlpKUXdGTjNvV1JpNlpDbDNzSno2dGZLeGt1Mnl1VFNqQQ?oc=5",
+        "publisher_name": "maxim.com",
+        "publisher_url": "https://www.maxim.com",
+        "published_at": "2026-04-28T07:00:00+00:00",
+        "indicative_usd": 2200000
+      },
+      {
+        "candidate_id": "7f627900bfbbe06e",
+        "title": "This Ultra-Rare Cartier Crash Just Sold for a Record $2 Million - Robb Report",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbzhiMVpKUGJDUDNBRG9CWi0tT0dLVnE1UFJGQ0xOVHJPVmlBVllzbl9QWER1RlItU29CN3ZvM1ExS3lfbjItMVNZM3daUlppYnI4alhaQXl6TTJob2xETVJZcUxtdTJveVpkZ2tuS2hRaF9Fc3BuNnVaTnpiQWVEWmtjTUFBYUdudFR0dnBwZkJNbzlpV3FfajkxWVltcGx6cVE?oc=5",
+        "publisher_name": "Robb Report",
+        "publisher_url": "https://robbreport.com",
+        "published_at": "2026-04-27T07:00:00+00:00",
+        "indicative_usd": 2000000
       }
     ]
   },
@@ -2496,6 +2761,70 @@
         "publisher_url": "https://stacksbowers.com",
         "published_at": "2021-08-18T07:00:00+00:00",
         "indicative_usd": 7680000
+      }
+    ]
+  },
+  {
+    "group_id": "35933f2194103bbc",
+    "title": "One of Hilma af Klint's Amazingly Rare Abstract Paintings Sold for a Record $12.7 Million at Auction. But Should It Have Been on Sale at All? - Smithsonian Magazine",
+    "category_hint": "art",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      12700000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-20T21:23:48+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "5b3d59669d655378"
+    ],
+    "links": [
+      {
+        "candidate_id": "5b3d59669d655378",
+        "title": "One of Hilma af Klint's Amazingly Rare Abstract Paintings Sold for a Record $12.7 Million at Auction. But Should It Have Been on Sale at All? - Smithsonian Magazine",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTkw2bGJOaHFrdlR4Yk1uRmdweWZBaVloUlBZbmZYSGRyQS1HQVFzNjRXakRpT1JNZXJJRVBOeHc5TU5pWjR3NjRLRS15UEVqZEVHUnU1cC1QU2pRU1p4Qm51YTR2QkVrTHVtS1lPVzg0elZkaFVvQ2NKZ3Zyd1BUcnFXVmY5TWhxMm00OEl2TWVfc05kWWV0U1lHZ1ZuNTdZN1VfZ2VoZEkwWFEweDFBdzBONWJwQzZNMHNlVVVJSXZHYzBJUERMNFdWckZGSTlyVjNzeHNCeWt6TDBMcUZKNFIxbVRBc3ZwRTNvYXpMcnFxbkxFcVZGM3R4X0lCb3hHdGVjc0dHUk9JVlBvV0FTVF9DMA?oc=5",
+        "publisher_name": "Smithsonian Magazine",
+        "publisher_url": "https://www.smithsonianmag.com",
+        "published_at": "2026-11-20T21:23:48+00:00",
+        "indicative_usd": 12700000
+      }
+    ]
+  },
+  {
+    "group_id": "f2371c99dbc8fb26",
+    "title": "F.P. Journe Tourbillon Souverain “Souscription” Sells for About $11 Million at Bonhams Paris - Haute Time",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      11000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-20T18:00:16+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "6e82ee3aab28a969"
+    ],
+    "links": [
+      {
+        "candidate_id": "6e82ee3aab28a969",
+        "title": "F.P. Journe Tourbillon Souverain “Souscription” Sells for About $11 Million at Bonhams Paris - Haute Time",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHFMTk45dWg3NVp0VXNydHlPcEx0OUNkUHRUcjhKMUxRWEw0cnVwOTM3VUJTakVpRFZFNjhzc3JUZ2lSWjlTMGdWSHByQ3hFNlpmQ0t0WGx4bGE3cjJEQkxhSGVVM2RBdnRJM2Q1WVh5dzBhT1ZVUmkyUmJwRUhKdW04VmM?oc=5",
+        "publisher_name": "Haute Time",
+        "publisher_url": "https://www.hautetime.com",
+        "published_at": "2026-11-20T18:00:16+00:00",
+        "indicative_usd": 11000000
       }
     ]
   },
@@ -3172,6 +3501,38 @@
     ]
   },
   {
+    "group_id": "47d8619d2c73f79a",
+    "title": "In 2017, Kobe Bryant's game-worn No. 8 Lakers jersey sold in a $20,000 lot; nine years later, it alone brought $1.83 million at The Realest - Yahoo Sports",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1830000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-17T19:34:08+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "c69d8086062f7df5"
+    ],
+    "links": [
+      {
+        "candidate_id": "c69d8086062f7df5",
+        "title": "In 2017, Kobe Bryant's game-worn No. 8 Lakers jersey sold in a $20,000 lot; nine years later, it alone brought $1.83 million at The Realest - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQTJyY3VMWHlEM2VveVRORVd5Nk04TTBzUWNuX25yeHMwNkFfdEFYaEpKSFluVDN1Nkh2STdva0dxU3dCNWhYZms5Z0ZkampLeXc1SnVrVUxXUmhSV3A1d3RvSHJ3VUZFVUVzemZybW1WOVU3blF3enVGc3NqZVJNN1dn?oc=5",
+        "publisher_name": "Yahoo Sports",
+        "publisher_url": "https://sports.yahoo.com",
+        "published_at": "2026-11-17T19:34:08+00:00",
+        "indicative_usd": 1830000
+      }
+    ]
+  },
+  {
     "group_id": "61631caf29dd4477",
     "title": "In 2013, Gerald Fortier paid $25,000 for a Michael Jordan-Kobe Bryant dual-autograph card; 12 years later, it sold for a record $12.9 million - Yahoo Sports",
     "category_hint": "other",
@@ -3655,16 +4016,16 @@
     ]
   },
   {
-    "group_id": "10b45bbb38a27ff2",
-    "title": "The First Patek Philippe Ref. 3970 Sold for a Record $2.3 Million - Robb Report",
+    "group_id": "ded4284685139d95",
+    "title": "A rare platinum F.P. Journe wristwatch with a hand-engraved pink-gold dial sold for $10.59 million in Gen - The Times of India",
     "category_hint": "watch",
     "articles": 1,
     "publishers": 1,
     "indicative_usd_values": [
-      2300000
+      10590000
     ],
     "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-11-10T20:00:00+00:00",
+    "last_publication_at": "2026-11-10T14:00:00+00:00",
     "priority": 1,
     "checks_needed": [
       "Не найден проверенный результат конкретного лота из официального источника"
@@ -3672,17 +4033,17 @@
     "decision": "needs_official_primary_source",
     "is_verified_sale": false,
     "candidate_ids": [
-      "02844452362b4cae"
+      "8e0fffa0212a170d"
     ],
     "links": [
       {
-        "candidate_id": "02844452362b4cae",
-        "title": "The First Patek Philippe Ref. 3970 Sold for a Record $2.3 Million - Robb Report",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXQtVU8xWGdWaEg1MGFyeEdMSXJ4aDdTblRqTk1pZFpRSXlLMlJwVzgzTDh0VFhLdk9Fa2JWSTI0MVQ0alNCVFNLVjVkdEFRN05RTWl5NUdpRTl0NHNJLXN6cDdsM1VDRlZscWRKdnFVc19CZ1dyeDEteW5KVlJlQ0VJd1RGajdERWtTQ0d2dFRMNVNyNlA5Vl9jZw?oc=5",
-        "publisher_name": "Robb Report",
-        "publisher_url": "https://robbreport.com",
-        "published_at": "2026-11-10T20:00:00+00:00",
-        "indicative_usd": 2300000
+        "candidate_id": "8e0fffa0212a170d",
+        "title": "A rare platinum F.P. Journe wristwatch with a hand-engraved pink-gold dial sold for $10.59 million in Gen - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQSXJQQURaaS1xdmE5TUEzMHJYcDF5czUwYnJQSDRHR1ZKZmNSZDRyX3dlUjYyT3NDR2V6ZVNDRXRHdk9pQlJ2ZXc2dHRHb2kxcU9qdWF2eS1YaG14VVloYXhWSFZOSHZGX28yOFBYR3FMWnczSm41d3ZCR2pVc0lDdzdiS2lFTzRWTUxwZVBFdjctaHNBMk9zVmFLTEFSdERmUFhZTVdUZVoxNTVJTzdfdGltR1VaSEMza0FiazBoQnlsTlpBM0hINjAyd0Z5SlZYUXlWZFQ4RkJFYUhaR0IwajlyeFNObkJ4NElqckNfTUpWRjFQOTRib04yREN2NXRTNk5HVUVQS1V3MU42VUhNajA5VTZDdXVPVU1HdVFVVHppd3VKeDEwVWpMQ1JYZGlBSWZ0Vkh4cElxcnI0RHczdlhZT3g3TVdPNHVUelRNTFNQTEF2UExzY1gycjZ4X1ZDeHpPUlRNejFoRlVWTktYWFdzWFlFb0d3YkpHVUc5WdIBhANBVV95cUxNa3A0Um1WSVk1cTBNNWxHT19vNExQUWg2Y2pWR1RfRVVOc0ZEakFxNjFoZG5yYTRUUFBscFI4bmRsS3FSMzlBeVFONDRfU1B6blAzYV8zb0Z1TWpnc19tbXB6cnFDSU9LVmZ0ak1meXVzam5xN1IwZk1HWTNaUlFrNmF2U01tajVhRkVoa0FYOXhwcENwOGJvWUhsTEVVVnk4TFpNbVBxVm5RZFFMaDJLNXN1ZWxYREUxU19KRzZIbGRhQkM0NWF6OGNlZWxrcXdwdHpFSndiTVVZbHBBWU1IcXhvMEF4Y29PVGdyZkFxUm1PWjRFUmFaZGRQZFN2TVJLZHFocVhPem9pRDVCZDRIYnBCemZMenJycjVzQ2d3N2FrOURSZTBtUEV4LXZpTmpEWEdEbURXdGdlQ3NKTjBkazFWNVZrOHZXNnVwekVpQTdPZG04SDJfRDRIOEJ5UDBYYUZ3OUY5MXNRVjgwMm42a3dVeXhKQ1R1Q0FlTjdvWHpZcHdk?oc=5",
+        "publisher_name": "The Times of India",
+        "publisher_url": "https://timesofindia.indiatimes.com",
+        "published_at": "2026-11-10T14:00:00+00:00",
+        "indicative_usd": 10590000
       }
     ]
   },
@@ -4266,6 +4627,70 @@
     ]
   },
   {
+    "group_id": "a619483934fa824c",
+    "title": "The Rolex Daytona “Four Seasons” Set Just Sold for US$49.5 Million - Prestige Online - Singapore",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      49500000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-01T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "c455496726a66749"
+    ],
+    "links": [
+      {
+        "candidate_id": "c455496726a66749",
+        "title": "The Rolex Daytona “Four Seasons” Set Just Sold for US$49.5 Million - Prestige Online - Singapore",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZXEzLTJZN2pxVl9JcDFmY1RZN010eWgzdzhBTWdISHk4U0w5M1hEWU5zTjRtZ2g2Z3VpWjZZQTZGTVVVb0kyTDF6N2tlYkRXN3hVODZNaFk4SXVLUmQ2RkN5Q2I3ODNiczJZOXc2d1RmTTUtSC1SWkVLS0M0Q2VRTUlMQXVLS3hGdUxoQU50akF3VnBmWkhzbU5VT0ZpTXQ3c1EtOV9QQk5OUdIBrwFBVV95cUxNWkhxODBzVHp0cm00Z3dqOWpkLTVJTHQtMW82WDdhU2xGMXJoLTE1dFpIcFloUl9uTkhURFo2WXR6TU82dnFGMjJtS2pObnVUVnJPZUtwYjcxVHViNTN6VnlDSlJiSlFaelFGRjE2SGJQdzB2bFRTUlc5T2tUdTB5VUZNUDhjSTVobzUza1B0Q2hZOEJjWG5tNmVfRXo0dTUzUmdOaHBkSmNNb0RxWlQ0?oc=5",
+        "publisher_name": "Prestige Online - Singapore",
+        "publisher_url": "https://www.prestigeonline.com",
+        "published_at": "2026-10-01T07:00:00+00:00",
+        "indicative_usd": 49500000
+      }
+    ]
+  },
+  {
+    "group_id": "0dec71285672c131",
+    "title": "These Ultra-Rare Rolex Daytonas Just Fetched Nearly $50 Million At Auction - Maxim",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      50000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-01T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "52b4b7b73d6851c1"
+    ],
+    "links": [
+      {
+        "candidate_id": "52b4b7b73d6851c1",
+        "title": "These Ultra-Rare Rolex Daytonas Just Fetched Nearly $50 Million At Auction - Maxim",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdW1odVdWZ082RTlnTnFGbE5IZkkzRGpyR1NTbWtVMVZXR2RwRTF4UWd5cU5BbktOM1VDdFhSaTg1NHV2Q1ZrTDNpQ20tOEF1VUZvRWNDQ2Jad2RpTk5xT1NlbVNqV2FmX19relkxeUpFQXBlN3N4VlJFWk12blNsNV9oT0ZlMWxjQmkzeUUzMFhwNEVBc3B0ZWwxc1dhQjV0UmhfcG5JTlluV3dyQ0RWNlhR?oc=5",
+        "publisher_name": "Maxim",
+        "publisher_url": "https://www.maxim.com",
+        "published_at": "2026-10-01T07:00:00+00:00",
+        "indicative_usd": 50000000
+      }
+    ]
+  },
+  {
     "group_id": "ba5b0c60bae5fc47",
     "title": "Captain America No. 1 sells for over $700K at comics auction - New York Post",
     "category_hint": "other",
@@ -4294,6 +4719,38 @@
         "publisher_url": "https://nypost.com",
         "published_at": "2026-10-01T07:00:00+00:00",
         "indicative_usd": 700000
+      }
+    ]
+  },
+  {
+    "group_id": "aa2fbd325ba5f3a5",
+    "title": "The Rolex Four Seasons Daytona Collection Sold for AUD$70.7 Million - Man of Many",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      70700000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-09-30T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "4b3a8d4fc4f7b0d3"
+    ],
+    "links": [
+      {
+        "candidate_id": "4b3a8d4fc4f7b0d3",
+        "title": "The Rolex Four Seasons Daytona Collection Sold for AUD$70.7 Million - Man of Many",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13ZXFONEZUU0NhMmNGTEtYVnJ5bWp6TkhKbEtWNHloeGgxeFozU1F2S1RpVDNEUW5ib2RpTGRiTTNkN0V0cFVid3FYblJhY21BNkxQTXVteERHS1BIc0YyMXlmXzdEWXRvTF9EdUVDY1RlQQ?oc=5",
+        "publisher_name": "Man of Many",
+        "publisher_url": "https://manofmany.com",
+        "published_at": "2026-09-30T07:00:00+00:00",
+        "indicative_usd": 70700000
       }
     ]
   },
@@ -4362,38 +4819,6 @@
     ]
   },
   {
-    "group_id": "c263405f8cc79243",
-    "title": "4 One-of-a-Kind Rolex Daytonas Just Sold for $49.5 Million - Robb Report",
-    "category_hint": "watch",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      49500000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-09-29T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "0f8bb7d6337cb0e8"
-    ],
-    "links": [
-      {
-        "candidate_id": "0f8bb7d6337cb0e8",
-        "title": "4 One-of-a-Kind Rolex Daytonas Just Sold for $49.5 Million - Robb Report",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkhmam9fek1sRlgxZnNacFVCS05hN2Z5VEJDZjBUaFRsX3p3T003SURIc01QbGZobFA1ekEyZldkcnotdzdGazBmMm5ZcVJ5S1VGV1J4SGhMR3czcXJTNWktMHVTY2plT1lYMUVpT1U4VWtJMmtmZnByc09MZ3BlU1FNY2RtaFEwUWdiRXhwUGhEdHJOeGVrZ1JR?oc=5",
-        "publisher_name": "Robb Report",
-        "publisher_url": "https://robbreport.com",
-        "published_at": "2026-09-29T07:00:00+00:00",
-        "indicative_usd": 49500000
-      }
-    ]
-  },
-  {
     "group_id": "3b3d1d7411892c7f",
     "title": "The Rolex Four Seasons Daytona Collection Sells For A Combined $49.4M - Hodinkee",
     "category_hint": "watch",
@@ -4422,38 +4847,6 @@
         "publisher_url": "https://www.hodinkee.com",
         "published_at": "2026-09-28T07:00:00+00:00",
         "indicative_usd": 49400000
-      }
-    ]
-  },
-  {
-    "group_id": "cbb1e1e473853de9",
-    "title": "Cooper Flagg's NBA Rookie Debut Patch Autograph sells for $8.04M at auction, becomes third-most expensive NBA card ever - Yahoo Sports",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      8040000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-09-25T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "d2bf8dd6e48c7b0b"
-    ],
-    "links": [
-      {
-        "candidate_id": "d2bf8dd6e48c7b0b",
-        "title": "Cooper Flagg's NBA Rookie Debut Patch Autograph sells for $8.04M at auction, becomes third-most expensive NBA card ever - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORERGZzJmY3AwMkpHWnI4aGVvUXFidHVhNGlXa3p6VlJueE1nSnNqRXQwdldOYWlhbV9nakFZWUMtaVBlT1l5TU9oalp4MEJmeGxKamJGWDlSUWpnMU05YVZqaV9rUUNlSHZiRWZPRU80M1ZweDhmVnIxTUhGeGZGek9TWEROdzNRZFZCaDBaSTVXLW1TRUhVVUJibXZjdlA4QmI5VExzZjRTN2RyTHZmSWpNaUJmM2k2T0RJLVBxQVJDTEh6d2NzQ2c0N3YxTlNydHlnMXVJNU11dVVlTnQzenFUdll4TmVoY3VUanR3d2V5aWZ0N0ZjbVNFQjlnc3M3NlRhQ0JWbw?oc=5",
-        "publisher_name": "Yahoo Sports",
-        "publisher_url": "https://sports.yahoo.com",
-        "published_at": "2026-09-25T07:00:00+00:00",
-        "indicative_usd": 8040000
       }
     ]
   },
@@ -4748,6 +5141,38 @@
     ]
   },
   {
+    "group_id": "34420d87244c989e",
+    "title": "Entrepreneur Paul Newman's Rolex Daytona Sold for $17.8 Million. The Record-Breaking Price Wasn't Its Biggest Legacy - Inc.com",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      17800000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-09-03T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "c713eb9885c32f71"
+    ],
+    "links": [
+      {
+        "candidate_id": "c713eb9885c32f71",
+        "title": "Entrepreneur Paul Newman's Rolex Daytona Sold for $17.8 Million. The Record-Breaking Price Wasn't Its Biggest Legacy - Inc.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZFc0X0Q1X3FUUkZ5aDZXZWl5Qm02eXFaWlNUZGZhUnREWVlwclRuRGIwRTAwMktSSTNCRXRfZEVqWVBNczEzenFaVWlwLVJMbm9YUHBXNVZESTNpTHVHTkdkbGlDUURzNFFsd1lScFdQb1lKQVFwQi05bkNXdjAySFZiVm10UVpaYlMtdHRSeDBGcU5HRGRCZ2N2QzQxOVN5OEtKMEVJM3BqMjJkcGJmaDhvT3RLMUFZRG1TcG9OZkE5NFdwdXdB?oc=5",
+        "publisher_name": "Inc.com",
+        "publisher_url": "https://www.inc.com",
+        "published_at": "2026-09-03T07:00:00+00:00",
+        "indicative_usd": 17800000
+      }
+    ]
+  },
+  {
     "group_id": "8394e8e8c6a331ac",
     "title": "Thieves steal Egyptian queen’s 673-diamond necklace, last sold for $4.3 million, in Vienna museum raid - Business Insider Africa",
     "category_hint": "jewelry",
@@ -4938,6 +5363,38 @@
         "publisher_url": "https://247wallst.com",
         "published_at": "2026-08-20T07:00:00+00:00",
         "indicative_usd": 3000000
+      }
+    ]
+  },
+  {
+    "group_id": "fee05381bef88aea",
+    "title": "Ferrari's first ever electric car sold for record $40m at auction - BBC",
+    "category_hint": "cars",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      40000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-08-17T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "64dab67d3061b300"
+    ],
+    "links": [
+      {
+        "candidate_id": "64dab67d3061b300",
+        "title": "Ferrari's first ever electric car sold for record $40m at auction - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPcWk5RWNDTzZic25ROWplSHJYSV9EOG1KZHZ0WXQxT3d0SUNjT2h4ZjhJRkh0a2JJTk5FTkFrLVhkNENzbHdJMHRIUEVLaV90aF9VV2dDRno3UQ?oc=5",
+        "publisher_name": "BBC",
+        "publisher_url": "https://www.bbc.com",
+        "published_at": "2026-08-17T07:00:00+00:00",
+        "indicative_usd": 40000000
       }
     ]
   },
@@ -5200,6 +5657,38 @@
     ]
   },
   {
+    "group_id": "96480d57268aa9b5",
+    "title": "South Dakota T. rex fetches $50 million at auction - South Dakota News Watch",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      50000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-07-14T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "e12a7ea1407a6829"
+    ],
+    "links": [
+      {
+        "candidate_id": "e12a7ea1407a6829",
+        "title": "South Dakota T. rex fetches $50 million at auction - South Dakota News Watch",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OdU5sR3RBcHJPT0R2WHRYMV82OUk3LTQzVmZmd1dERnY2UUFkQWFxb2pjMElNRjFmYjl2WDhvazVXOUNlRE5xT3QwTTdBQmMxbVNqTUZkbTFieFhBWVFMZGxsNi1jeENrZU9QSjJxaHo3SU0?oc=5",
+        "publisher_name": "South Dakota News Watch",
+        "publisher_url": "https://www.sdnewswatch.org",
+        "published_at": "2026-07-14T07:00:00+00:00",
+        "indicative_usd": 50000000
+      }
+    ]
+  },
+  {
     "group_id": "f22188841fc88495",
     "title": "Rare T. rex fossil sells for record $50.1 million at auction - Gulf Coast News and Weather",
     "category_hint": "other",
@@ -5361,6 +5850,70 @@
     ]
   },
   {
+    "group_id": "33545e7aa3b77fbe",
+    "title": "Tom Brady’s F.P. Journe sells for $960,000 - WatchPro USA",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      960000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-06-16T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "5ae69a597b5d16fa"
+    ],
+    "links": [
+      {
+        "candidate_id": "5ae69a597b5d16fa",
+        "title": "Tom Brady’s F.P. Journe sells for $960,000 - WatchPro USA",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16aGZsbnlxMm9pc2RmQ1N5MlljdzJpcDVrcUpJMENQX0htbFdBUzc0ck1aUjU1bkRvcFRkOGU2TlBRdmxpQ0pUZ1A4Nzh6VG9USFQ0SXl2eXRzcDJpNWRKY1VsaTdJSExRR01rMmtwZC1MQQ?oc=5",
+        "publisher_name": "WatchPro USA",
+        "publisher_url": "https://usa.watchpro.com",
+        "published_at": "2026-06-16T07:00:00+00:00",
+        "indicative_usd": 960000
+      }
+    ]
+  },
+  {
+    "group_id": "74dc23c4e71087a4",
+    "title": "This Record-Breaking F.P. Journe Watch Just Sold For $13.9 Million - Maxim",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      13900000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-06-16T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "084d218c6bed764a"
+    ],
+    "links": [
+      {
+        "candidate_id": "084d218c6bed764a",
+        "title": "This Record-Breaking F.P. Journe Watch Just Sold For $13.9 Million - Maxim",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkZIRVpTbTJUcER3TlZuNXhKMm45dERXNXJZb0JxdEZNTFZHSENzMEE5RGtweTFBZ0JRSkxyOWVLQVFYSnVhZFdkUW9iQVVoQk51bE5QTFg3Q04ycWNScUdhbEtRS3h6dnpiZ3I2cW5OdHY5bUJVQ18wTE5OcV9kdlRCeGpjZEYtaVp4SXdPVWNuRWIzWkJ3NA?oc=5",
+        "publisher_name": "Maxim",
+        "publisher_url": "https://www.maxim.com",
+        "published_at": "2026-06-16T07:00:00+00:00",
+        "indicative_usd": 13900000
+      }
+    ]
+  },
+  {
     "group_id": "d2a12f03c100adf2",
     "title": "An F.P. Journe Chronomètre à Résonance Sells for $13.9 Million at Phillips - Robb Report",
     "category_hint": "watch",
@@ -5421,6 +5974,38 @@
         "publisher_url": "https://nationaljeweler.com",
         "published_at": "2026-06-10T07:00:00+00:00",
         "indicative_usd": 8000000
+      }
+    ]
+  },
+  {
+    "group_id": "bf1310e5ebda0e27",
+    "title": "The Legendary Patek Philippe Ref. 2499 Just Sold for Over $10 Million - Haute Time",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      10000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-05-30T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "8335640c73a4346d"
+    ],
+    "links": [
+      {
+        "candidate_id": "8335640c73a4346d",
+        "title": "The Legendary Patek Philippe Ref. 2499 Just Sold for Over $10 Million - Haute Time",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmROUXhCY3BaMkxGYWhFZGcwWFBVTG41MHVKVUZTdlAzN3BjSmVMeUxhVUZvdDFqWXVRSDhvUTJ4YWRjMENmYm5RQ08xbS10ZGlfX2dnY0FEc3ltSU85NC1WYkNWeEk5eE9Kb2VVTS1IVjkyZmtiVUl1VHRYTEpKNnNTSjJZWkg5MkgzNGcxcGVCU3VrM25CSGFB?oc=5",
+        "publisher_name": "Haute Time",
+        "publisher_url": "https://www.hautetime.com",
+        "published_at": "2026-05-30T07:00:00+00:00",
+        "indicative_usd": 10000000
       }
     ]
   },
@@ -5684,6 +6269,38 @@
     ]
   },
   {
+    "group_id": "25c6910341ae1f41",
+    "title": "Christie's Sells the Most Expensive Cartier Watch in History for Over $2 Million USD - Hypebeast",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-05-14T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "32e96e78d1c0eb33"
+    ],
+    "links": [
+      {
+        "candidate_id": "32e96e78d1c0eb33",
+        "title": "Christie's Sells the Most Expensive Cartier Watch in History for Over $2 Million USD - Hypebeast",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU0RkLUhNdkdyWHk0bjJTUGpRWXMySzhYaHZnR19rd3RiLWVUZldBVnZBMGRRRlk3Rl9nTzQ5Rno0OEgtTEpVdm11SjhuSGN5NzZJdXk0RWgyMUllQVlhSUN2YTRfdEZ5UjJpTkVMbTZ6SzZTdUFWdGI4N2hBOG96cHA5MWpsQnBKT29rN3hpdzcwckZZc25kTTYzcjdvTXMyUkZpR0RYLVk2eWhKNU5uZWRIMEQzTHU5eXotQVNTYTA?oc=5",
+        "publisher_name": "Hypebeast",
+        "publisher_url": "https://hypebeast.com",
+        "published_at": "2026-05-14T07:00:00+00:00",
+        "indicative_usd": 2000000
+      }
+    ]
+  },
+  {
     "group_id": "b5d3a2a4dffe8ef5",
     "title": "Christie’s Rare Watches achieves CHF 33 Million / US$ 42 Million - Christie's Press",
     "category_hint": "watch",
@@ -5814,9 +6431,9 @@
     ]
   },
   {
-    "group_id": "c3d3284cb443c3a5",
-    "title": "This Ultra-Rare Cartier Crash Just Sold for a Record $2 Million - Robb Report",
-    "category_hint": "other",
+    "group_id": "3500b3b96e4917a2",
+    "title": "Cartier London Crash Sells For World Record $2 Million - WatchPro",
+    "category_hint": "watch",
     "articles": 1,
     "publishers": 1,
     "indicative_usd_values": [
@@ -5831,17 +6448,49 @@
     "decision": "needs_official_primary_source",
     "is_verified_sale": false,
     "candidate_ids": [
-      "7f627900bfbbe06e"
+      "bbe7fc83c60f87a7"
     ],
     "links": [
       {
-        "candidate_id": "7f627900bfbbe06e",
-        "title": "This Ultra-Rare Cartier Crash Just Sold for a Record $2 Million - Robb Report",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbzhiMVpKUGJDUDNBRG9CWi0tT0dLVnE1UFJGQ0xOVHJPVmlBVllzbl9QWER1RlItU29CN3ZvM1ExS3lfbjItMVNZM3daUlppYnI4alhaQXl6TTJob2xETVJZcUxtdTJveVpkZ2tuS2hRaF9Fc3BuNnVaTnpiQWVEWmtjTUFBYUdudFR0dnBwZkJNbzlpV3FfajkxWVltcGx6cVE?oc=5",
-        "publisher_name": "Robb Report",
-        "publisher_url": "https://robbreport.com",
+        "candidate_id": "bbe7fc83c60f87a7",
+        "title": "Cartier London Crash Sells For World Record $2 Million - WatchPro",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xNXgyaUhtcDl5S0VabGFOTlJieGNsLUZVM1o2cm56QVlybFRlMVYxUDZqaXE1R2lLWldEeU5nejhiTHlJSFNSbEJDR25iSThPb1RBQ0xuZlJ6VWpGeEVZRGhGbGhJOGNFWFlYZmItTmtiMS1CQXd2ZDhQeEg?oc=5",
+        "publisher_name": "WatchPro",
+        "publisher_url": "https://www.watchpro.com",
         "published_at": "2026-04-27T07:00:00+00:00",
         "indicative_usd": 2000000
+      }
+    ]
+  },
+  {
+    "group_id": "ba5a0d39f06d8f12",
+    "title": "John Jacob Astor IV’s Titanic Pocket Watch Fetches $1M - nationaljeweler.com",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-04-23T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "6c06389f56f1533d"
+    ],
+    "links": [
+      {
+        "candidate_id": "6c06389f56f1533d",
+        "title": "John Jacob Astor IV’s Titanic Pocket Watch Fetches $1M - nationaljeweler.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGlLRGtHSElWOGdRS3Z5b0pPY25tLS15QlgwcnBvYnNTaXJWUzQ2MkZGUEc0X3NydTh3UDFmOGlIMWRDUUZWZjFjb3Znb2NGeXRZb3VJOTRfSE10MmJVSmhBbDBEM1FaN05TODhEa1NqWlcyUmc5QlJVckVTaVp4VnRuTzRjM2VpX3lWSWVHNDQ0NE9UcHVRay1Ya3k?oc=5",
+        "publisher_name": "nationaljeweler.com",
+        "publisher_url": "https://nationaljeweler.com",
+        "published_at": "2026-04-23T07:00:00+00:00",
+        "indicative_usd": 1000000
       }
     ]
   },
@@ -5874,6 +6523,70 @@
         "publisher_url": "https://www.phillyvoice.com",
         "published_at": "2026-04-23T07:00:00+00:00",
         "indicative_usd": 3150000
+      }
+    ]
+  },
+  {
+    "group_id": "345b7db62611727f",
+    "title": "Freeman’s Achieves Over $1.2 Million with Sale of RMS Titanic Artifacts Belonging to John Jacob Astor IV - Antique Trader",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1200000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-04-23T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "23a7ab2ab30eb699"
+    ],
+    "links": [
+      {
+        "candidate_id": "23a7ab2ab30eb699",
+        "title": "Freeman’s Achieves Over $1.2 Million with Sale of RMS Titanic Artifacts Belonging to John Jacob Astor IV - Antique Trader",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUDJQWG11XzVZOWJGTE5vU3RQbzhYT2xpME9wVmVIWFJ1LWw1TEpTSEFZSDlZSEJ4NE1MbzdMMjJ2aHJpOFFMRmw3dFdLeDUwek1uZjJIeHpKVGxzT0k1VTE4Q2VHTXFkekd2WTgzWUlxY0U2S0ZWcUhnRVpCcUVSNmh0M0IwYzJLVXdxVDhzaG8tckpnNElzcG41NmtsM1NEU2ZpcTJJQkRxMXVZcWc2aG42OU1oRU1mcktPa3AwaVlScjk5dE1hWW1fdy0?oc=5",
+        "publisher_name": "Antique Trader",
+        "publisher_url": "https://www.antiquetrader.com",
+        "published_at": "2026-04-23T07:00:00+00:00",
+        "indicative_usd": 1200000
+      }
+    ]
+  },
+  {
+    "group_id": "a3a592f94327c42b",
+    "title": "These rare Titanic artifacts sold for over $1 million at auction - FOX Weather",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-04-23T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "11eeec3408939dca"
+    ],
+    "links": [
+      {
+        "candidate_id": "11eeec3408939dca",
+        "title": "These rare Titanic artifacts sold for over $1 million at auction - FOX Weather",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeWhWQW5WVkhISll5M0Z2YU1lUmZwQU0xclRnaldRWFhHUVQ2UlMwdi1CYVBrMXVTTXBZeENHMkZETmItZEF2UlZORGZ1MmtXbUR0bHpnQkwyd3NFR3YzSU1FWGRzTUcwRTZxZllTUVJvbGtUWTNFdzA0U0llajJzdzVyY3Z5Z1kyWTMyR09EQULSAZYBQVVfeXFMTVRIcTJFRklkVlZzaWpWaUlXUVpHMEdGUEV3ZHB0c1lVRXk1VGhJQnBtRE91c0hPOV9qXzg5cnNZd3BGaG5CZFNIZXpFdkI4dXdyT2FISFF5X1l0RmJiYmpjVGZmTkhzX3BUM1gya2NvOGJaM081STZTTktqVTFfR3Vtb3g5QVRscldMZjFlSE1mNnRaVmdB?oc=5",
+        "publisher_name": "FOX Weather",
+        "publisher_url": "https://www.foxweather.com",
+        "published_at": "2026-04-23T07:00:00+00:00",
+        "indicative_usd": 1000000
       }
     ]
   },
@@ -9001,6 +9714,38 @@
         "publisher_url": "",
         "published_at": "2024-02-29T08:00:00+00:00",
         "indicative_usd": 100000000
+      }
+    ]
+  },
+  {
+    "group_id": "697778b15b4a9488",
+    "title": "Why a single 'Inverted Jenny' stamp sold for $2 million at auction - NPR",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2023-11-20T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "b2c3251fa851524f"
+    ],
+    "links": [
+      {
+        "candidate_id": "b2c3251fa851524f",
+        "title": "Why a single 'Inverted Jenny' stamp sold for $2 million at auction - NPR",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzBFaUh0dElfdHpZMVFjMEdpMVk1RmFGZTJVTjdEc2ZYbUhkQl9MdWhuWDNSQjIzdkNwX0VnT3gzSzBLMDhEWll5SXRJR3BmWjhjT29Pc2FsWkhqcV8teGptRDNuQ21hNGJlXzdvT3VIVUFvX2VjaFY4enlqZFVmTkRfUFVHU05p?oc=5",
+        "publisher_name": "NPR",
+        "publisher_url": "https://www.npr.org",
+        "published_at": "2023-11-20T08:00:00+00:00",
+        "indicative_usd": 2000000
       }
     ]
   },
@@ -12134,198 +12879,6 @@
     ]
   },
   {
-    "group_id": "eacdd509aad3ab91",
-    "title": "Rolex Record: Watch Sells for $1.2 Million at Auction - NBC News",
-    "category_hint": "watch",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1200000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2014-05-13T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "11cbb43ee31ecfc4"
-    ],
-    "links": [
-      {
-        "candidate_id": "11cbb43ee31ecfc4",
-        "title": "Rolex Record: Watch Sells for $1.2 Million at Auction - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUo4Y3lFUjBKVXNRZkRfLTU5UXhWU3JmSHhwSTl3NHRSelB5cTRpTFp2UUxPdWo3dWI4NUhjVWtVTU9wb0dISFlZSXBfNk5heEIzYU5uZHJVTS1SSHhYYlUyazZaUjdBSF8xcmFxSHlEYWRaNDdYSGFwUjQ5dUYyTWt3Vm8wY1hkaFVpWEZGaGFlUlhrS1BxQ0NR?oc=5",
-        "publisher_name": "NBC News",
-        "publisher_url": "https://www.nbcnews.com",
-        "published_at": "2014-05-13T07:00:00+00:00",
-        "indicative_usd": 1200000
-      }
-    ]
-  },
-  {
-    "group_id": "1854aa685e6509bf",
-    "title": "Rare Dime Sells For Record $1.84 Million at Auction in Philadelphia - Stack's Bowers",
-    "category_hint": "coins",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1840000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2012-08-14T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "b933ab1942b6699e"
-    ],
-    "links": [
-      {
-        "candidate_id": "b933ab1942b6699e",
-        "title": "Rare Dime Sells For Record $1.84 Million at Auction in Philadelphia - Stack's Bowers",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KekIwM3dEVXVGUlNyUFFnNjFYeFQtU2FYU3k5elNxdnJVdi16MFNiRnZvSVJnUFFzMlpYOUFSSFBSRUc0bFRobjAxNEZTWE1lTjNoc1JtNXlsNWl0WXZ5NGpERkVYa2YyY1VDS3JmVjlPajZRNUVyNjVHaC0?oc=5",
-        "publisher_name": "Stack's Bowers",
-        "publisher_url": "https://stacksbowers.com",
-        "published_at": "2012-08-14T07:00:00+00:00",
-        "indicative_usd": 1840000
-      }
-    ]
-  },
-  {
-    "group_id": "c3a42cc571983760",
-    "title": "Elizabeth Taylor jewellery auction fetches $116m - BBC",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      116000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2011-12-14T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "d35d097247489a83"
-    ],
-    "links": [
-      {
-        "candidate_id": "d35d097247489a83",
-        "title": "Elizabeth Taylor jewellery auction fetches $116m - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zU1JqdkRTb3BjaWtaQnUtNFlveDVIZjhWd3R1anJjRTdwdXh2ZWx1cDVRdXpldnFIM0lVQVFVR3VTSldYQUJHZl9GVU8teF9oMVVwekFrZUR2NmhrOW9vZGdR?oc=5",
-        "publisher_name": "BBC",
-        "publisher_url": "https://www.bbc.com",
-        "published_at": "2011-12-14T08:00:00+00:00",
-        "indicative_usd": 116000000
-      }
-    ]
-  },
-  {
-    "group_id": "e587e3609af53708",
-    "title": "Rare 1938 Gibson Advance Jumbo guitar brings $53,775 to lead $1.43 million Heritage Vintage... - Heritage Auctions",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1430000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2011-11-02T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "8143a3c4a323dd82"
-    ],
-    "links": [
-      {
-        "candidate_id": "8143a3c4a323dd82",
-        "title": "Rare 1938 Gibson Advance Jumbo guitar brings $53,775 to lead $1.43 million Heritage Vintage... - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNaS1BbjdtUzJteklvLWZKTXZBeDE4bnl6RDU0ZmVqbFFFRUR0dEhta3Nhc2hsMnM3TTFUTUlqRU5KWTRydVYwS0ZITnE3SExWWWN2YlhWNmNuM2JHeWR1ZjBrZmVNX2o5S2stMDZjS0RRRGZUNlNtTUYzSnR0cFA5MHE2eGhrbFFiU1hIWjAwc0dNcm1DY1Jnams3SE92czJZV2JfMTNyd0JaclFDYVpJMEdOcE9oSWRpUm1nMjU1Vkl3V0ZyaVg5MUktdTBTRFd1cjQxWm5DNTFXOGd2OEpmWEFEUDJRVUlwbG9sUXNybFdfSGhRYWZqNVBoVkItRXdub1BNM2VXNm9acDNpZ2ZsaUFvd2hmM0JIUjh4Mw?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://entertainment.ha.com",
-        "published_at": "2011-11-02T07:00:00+00:00",
-        "indicative_usd": 1430000
-      }
-    ]
-  },
-  {
-    "group_id": "bc864d454232adcd",
-    "title": "World Record Bobby Orr Jersey brings $191,200; drives $4.2 million+ Sports Auction - Heritage Auctions",
-    "category_hint": "sports",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      4200000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2010-05-10T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "9bba9dc965333961"
-    ],
-    "links": [
-      {
-        "candidate_id": "9bba9dc965333961",
-        "title": "World Record Bobby Orr Jersey brings $191,200; drives $4.2 million+ Sports Auction - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaXpGLWJJRjJMTDBwNEt4bFNBZmFIdF8yc09zZ1VRVlRGYk11akZiUWVwaEZOWHpIaGVHQ0Z4TGhJUWVYNXJ6aC1BUjBsbHV2RktjVGl5eFJQOFRDZFZieUh6MmEwX0VpcWJMdFdwRU1qU25OU3FCQjBTYjdvaHV1c1V1aWdER2p4QU90MW5kaXZ0NEd3dklEcEJoVXYxMEN4bjlDVzI5TFZiTFFIb20zNjhfWklMZzZ4cVItZGp1THBac2FWOVZzV2Z4NVlmR0U3dW9BWEpCdk9KcTE2WkNGeTFNN1BUV19SczhPaVhENVo?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://sports.ha.com",
-        "published_at": "2010-05-10T07:00:00+00:00",
-        "indicative_usd": 4200000
-      }
-    ]
-  },
-  {
-    "group_id": "6553adca4057f684",
-    "title": "Finest Example of Flash Comics #1 Sold for $450,000 - Heritage Auctions",
-    "category_hint": "books",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      450000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2010-03-15T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "f956ed515ca3acda"
-    ],
-    "links": [
-      {
-        "candidate_id": "f956ed515ca3acda",
-        "title": "Finest Example of Flash Comics #1 Sold for $450,000 - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbUhqdDJMSmpMVUJyR1YwdXZ5NTFxVVoxc0hicS1qZlZPSWFpUkl4WUhwWWlUWU1lSGdZT1FGV3NhWUUwSDczbUt4OEFkSUJsNDg0aXFzVnoxNklNVE1Cbjl5RlNsMlhpOHp6RTdkRUtqYlhZSFZKZXo4d0RJZHBkb3hpZk45cjc4Y1BfMzhtYUtJZjFDeWFucVU4WThJMmpLYUR5d0ZOVTVLSWU0M1pwNkMxS1ZZRk5QajRteHBtNkx2cUtNRmIxaGhR?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://comics.ha.com",
-        "published_at": "2010-03-15T07:00:00+00:00",
-        "indicative_usd": 450000
-      }
-    ]
-  },
-  {
     "group_id": "9c68a376fae8c7f6",
     "title": "Christie’s Achieves Its Highest-Ever Watch Auction Total of $58.7M - Rapaport",
     "category_hint": "watch",
@@ -12355,6 +12908,39 @@
         "publisher_url": "https://rapaport.com",
         "published_at": "2026-11-10T13:49:06+00:00",
         "indicative_usd": 58700000
+      }
+    ]
+  },
+  {
+    "group_id": "404252e501e7035e",
+    "title": "Heritage's October 16 Prints & Multiples Auction Brings $3.4 Million and Breaks Auction Records... - Heritage Auctions",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      3400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-10-17T07:00:00+00:00",
+    "priority": 0,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника",
+      "Возможный общий итог аукциона, не цена одного предмета"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "0636dcf27cc21730"
+    ],
+    "links": [
+      {
+        "candidate_id": "0636dcf27cc21730",
+        "title": "Heritage's October 16 Prints & Multiples Auction Brings $3.4 Million and Breaks Auction Records... - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOM0piVEhSUUtGN3drWW83ZElqQXY4R0IzWVMxSUt5NUZoeTNhTmthLWtjekxYemJwY2M5TFRqZWVPNXVLYkozZGFGekRQVWFsOGlqVTM2WkV6YkxxSU95Q2Vobmt6bzE0SGYxMlpnelRRamlyek1fUUxUSS11SDZ6UlpCU0p0c3NFVmJZdnFKOG5UejYwRS0zTXdYbDlaZFVXTllIMmUybzFBZC16bzRjZHVvQkJILWFYZlZ6Zi1GTWNRa08tRGlJbUc2bS03dU1ybHg1aWxpSjVYU3EzS1drQWtQMU1JMTBCcWNKaVRyMzliMkZhVUxNUm8yb04wdmVlNXREcjdNd2sxRkR1NHM0Zlh4bnZVWUxMX1NfZm9DYmEzNFZVLXFDcEpRMGJaRVE?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://www.ha.com",
+        "published_at": "2025-10-17T07:00:00+00:00",
+        "indicative_usd": 3400000
       }
     ]
   },
