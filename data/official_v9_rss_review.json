@@ -4,7 +4,7 @@
     "house": "Heritage Auctions",
     "title": "Darth Vader’s Lightsaber Sells for $4.875 Million at Heritage Auctions, Setting World... - Heritage Auctions",
     "indicative_usd": 4875000,
-    "publication_at": "2026-11-13T10:10:48+00:00",
+    "publication_at": "2026-11-12T08:00:00+00:00",
     "google_news_article": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPakh3aFBvZkFnclFodjVKSERFTGdhVG56ZGVkYkZFNnNNM3dLREY5WWtDRkpHbXFaMXI5djI2Y0NmenJXMjhCU2REWEtFbWhmOWpneU1oQWs0LTk0LVRnQ3pieV9FZmVITkdZMlNyM0M0OGFMV2w2cmRuLXZZSFZHQ3VfZ0xaMF8xZENhNkRZZVNQell2cHMycFRPOGdWdFcxZWxLdkFRMFNRZUxNbU9PRHhzZEMyYkROdzJwangxSUluOGlVSUNQNWpjUVFETG1SY3BiZ2JRS29lOVhXQkdJbU1ta0tHeVJmSTA3ODFaSEZlc1BzVklyY3pEYWlGckRZLUxrUGl1b0xZN0g5OUxNQ2xsb0k2TkU4cUZxaTl4RGdMNWY0S1dmeTByN1VNSmRDTk9yeTRIOWRhZw?oc=5",
     "publisher_name": "Heritage Auctions",
     "publisher_website": "https://www.ha.com",
@@ -116,6 +116,35 @@
     ]
   },
   {
+    "id": "ed88adc1893a3b67",
+    "house": "Heritage Auctions",
+    "title": "Michael Jordan/Kobe Bryant Logoman Card Brings Record $12,932,000, Leads Heritage’s Summer... - Heritage Auctions",
+    "indicative_usd": 12932000,
+    "publication_at": "2025-08-25T07:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOc0pXWTR3ODhyRUMzdmxvNEdMbkxEaDZEZnJNb094RHRTdzVTdTBhaHhjUE9Fd3RxcGQxSzVidG9BX3V5endUQklVVmJsOThCa21ENEJTNUhERmNtTEQ5RWt0aHdNT3l0cVhkbWZkeEppTVRXS2JwVWhZbTdhZUhpTFhnSHpNSUxjNFRTcE9STHhWTzcwS0thc2gtc1pFdUpnakluQ3dJbFJVN21NT3ZYemFNRnBmQXV4dUZudkdHalBTbllSNGI0YU1KQ0pOV3hMOEJiU0taU3MyYlJlME5XY0YwNjRrdDF1Qy1BaHZBQkFmOTVMbmo2bWwzaTJqVFZwQnBTWEdGMXVDcTJfbG8zZEhHRzJLbjFnUGNkWlNsbGF5aldPTmw4TWdpTlZLbk1Rc05oaklDR00?oc=5",
+    "publisher_name": "Heritage Auctions",
+    "publisher_website": "https://sports.ha.com",
+    "corroborating_news": [
+      {
+        "publisher": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEs4dVEtZHhaTEJHMC1LNFdpUWpyaEFOOGxiMF9mbElUZF90aGtQRjZYNEJDajZXN1VFVHNkZVJtNjBOVm5PaWtXYktzM2lkSzR0OTVuZEozMmNPSDNtaFh2ZHdLeGVGRHJWUzRPS1Z0S1RwdW5rQUo2MjYzQ291d1Nn?oc=5",
+        "indicative_usd": 12900000
+      },
+      {
+        "publisher": "Men's Journal",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlJBamRuZzhmYXJCYkl0MDE2T2lfMFF1NHRSc2JfYkxiSEZFdHRlZXRHZjhoMmVpSExLZ0ZWT3pvVEhBQ2tsSEFrbkFtUDJYUHFyMm1HUGRrOTBQUl9NUXIyQjF3X3l3X0pTb2xFbHQyNnhWOUl3aVBDeDh2bGl0VWtsRDlTTnBNSEgtX0JZNEdtZjllZ1ZxMQ?oc=5",
+        "indicative_usd": 12900000
+      }
+    ],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
     "id": "1a5726e933d5430f",
     "house": "Heritage Auctions",
     "title": "Rosebud, the Iconic Sled from Citizen Kane, Breaks Auction Records and Sells for $14.75 Million... - Heritage Auctions",
@@ -134,6 +163,30 @@
         "publisher": "Antique Trader",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFBCNkRqNFB1Z3lCOUZBOEpZWUk1WV9TZURlVjk3RllfbDBnWWN2MlV2alg3UVhvclMtdkZiY21iZ1VwMHVRUVBTTlB3bXQ5M09JSmRnMzBVdmx4WXZFTkEzbEIzclJpUC0wTUxrMDJEWnFzSDhTMHJkLUxvN0toaWNBVUZFN2ZmZmYzbA?oc=5",
         "indicative_usd": 14750000
+      }
+    ],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
+    "id": "d102717ed99d4a04",
+    "house": "Heritage Auctions",
+    "title": "Captain America's Debut Comic Book Sells for $3.12 Million at Heritage Auctions - Heritage Auctions",
+    "indicative_usd": 3120000,
+    "publication_at": "2022-04-07T07:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTGlaQW1HOUdNZlFUQnA3bjBXNy05UkNEZHo0M1dVa1pCUjk0TE9rRDdpc0U3Yll5WFdwQmxtU082NjlJZHozeWNLQkJHOU5qYmRYWkgzdi03NnZjdU1OcXdFb3V6SkpnMDJpWmZhSjMwajlLekdVMFVleHhhQXhuRFBGSW1ra1hsTzUyVFpuanc1ejJTZmxPbm9DZnc3YlB5bUlzRWMyVkY2c3dyQnNZVm9BVGNNX29RV2F6d1BZQW94V2ZqeTMzTXl4UTBhWWxkYUVzOUpLZEhpdFhhSmVBWEtyREF0ampmblZKUzFRR3Y?oc=5",
+    "publisher_name": "Heritage Auctions",
+    "publisher_website": "https://comics.ha.com",
+    "corroborating_news": [
+      {
+        "publisher": "Spectrum News",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUWVaelJlbl80alhsZmFIUEw1eWc4NGJzbXlDOGVFRHJoLTFuMnlMcUN5UTZHNDQweG9Nb2QwSEphRVFYRVVyUDF3dEZRRi1pclF4YkMzYkJ2MUlabkJSM0ZYNk9meS1US24xcTlKemNWbWF3S2kyWWFoVG10ZzBXelVldF9MQktfMUgyczQ4Vmprcmg5NzkyOTVkNkNXTGk2aFlzN2FpUVpTZjQ1RUlqb2hWa08tUm1nS1F5c3dFU0dxVTljYTgzUDMxMXJsT1F3YmhmcERJZmlGXzEw?oc=5",
+        "indicative_usd": 3120000
       }
     ],
     "review_status": "needs_primary_source_full_text",
@@ -169,12 +222,54 @@
     ]
   },
   {
+    "id": "4fd48ec311b4c65c",
+    "house": "Heritage Auctions",
+    "title": "Marvel Comics No. 1 Sells for $1.26 Million at Heritage Auctions, is Most Expensive Marvel Comic... - Heritage Auctions",
+    "indicative_usd": 1260000,
+    "publication_at": "2019-11-21T08:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNaDFiSEw5WGpQVXR0ZUNwNm9nQmxuWjFScmM4cXRfV2dEY19TS0U4WnBhNGswVGJBQUMzSHFHc3JlZGlLN2J0ZF83U2JmX1F1Z1BQWU90TU0zVV9aUUQ3VHlWVXVRaWpHNlljeEpiMG9LUF81QVhycWRhM2tnV1hTYzhmVEFySVBlajlQNUsydmJRWThCTU5PNFdSSWg5YTl3WUhJNm9jdWlUOGNXeFhpOV9HMVFJbGZvWUtFazFOYmxpQUNRZkNTV3JVdnRBYngtWm14SkZfaXotQUh4aV9acGdTcjdXUFhUSWJlM2NvamFqNi13QzVleU11eXF6Q0RYZ3VsZk5GV2I2Qk8tdGx1OElLdw?oc=5",
+    "publisher_name": "Heritage Auctions",
+    "publisher_website": "https://comics.ha.com",
+    "corroborating_news": [
+      {
+        "publisher": "Observer",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83Q2NJcnZJeElPRzNmM2dhZC1pS1FQTmg2cW55TjNZZkJZNHg0ZVFXUjNKVDNwcnNtblByNUlQS096MzBTR1dweUVzXzdnVlUwMkNEVWhKQUlaT3JZWDNUSThnRjhaNVluRTVLdTRlN0Y4M3Fl0gF6QVVfeXFMT2RoaXBieTJUQWxJaHR6RjZETmNRNjJmTVRQUDhHUmRiQ3FpM0NVQkNzd0t1V2xoTXFWalJyRnlGTlVxQ1VBdkFLUnNXWVpIZ1B3NGxEZHhPcVQyaXJFYjk5MGpzN2t3WnNTR1ZPOEpRc0U0UjNSVHNkX2c?oc=5",
+        "indicative_usd": 1260000
+      }
+    ],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
     "id": "15061ff0a3784783",
     "house": "Sotheby's",
     "title": "$1.31 Billion Achieved In Our Biggest Fine Art Sales Week Ever - Sotheby's",
     "indicative_usd": 1310000000,
     "publication_at": "2026-11-20T23:31:30+00:00",
     "google_news_article": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmZqdkFLV0s2UTNiM3E1RDZ2bklRbHMxSjRtcXpJWlZkNXN1aUZTUGVPTTd6WmpmcUJfYmFxUFpPUzNjWTJLclYzUEFiSnNjckVsT1d1ZFhfS1k5RjlPci1maW1DcURObEVESFNfa3ZqNUZyTWJYVWRFMlAtT3N4LWxjMUVUaE1FTU9nZjI5bkN2TVBDUkFTbA?oc=5",
+    "publisher_name": "Sotheby's",
+    "publisher_website": "https://www.sothebys.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
+    "id": "2c87da3c5bf5f607",
+    "house": "Sotheby's",
+    "title": "$1.31 Billion Achieved In Our Biggest Fine Art Sales Week Ever - Sotheby's",
+    "indicative_usd": 1310000000,
+    "publication_at": "2026-11-20T23:31:28+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjJuby1zSnNoWGZBaHMzQ29QYjdieVB2c1U2LTRQSVJfSDZCZDhBMHBmTUFCOUNUVmIteXBpVm5KUldxM1NzM3UwUXp3N25kUXp5a1hHUkJPbWVPOHdnY0RTUVMwemJZZDE5U01nbGpkVlNBZW44VTE4SW1pLTF4RS14NFdPNGk5WHlv?oc=5",
     "publisher_name": "Sotheby's",
     "publisher_website": "https://www.sothebys.com",
     "corroborating_news": [],
@@ -583,6 +678,24 @@
     ]
   },
   {
+    "id": "a103e592457adcf2",
+    "house": "Heritage Auctions",
+    "title": "Broadside Offering Reward For Lincoln’s Assassin Brings $200,000 In Heritage’s $1.9 Million... - Heritage Auctions",
+    "indicative_usd": 1900000,
+    "publication_at": "2024-04-29T07:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOTUpPZFltZVZnZkR6ekw5bkxJUnF2dDR6dUFuMFZ6LS1PcmV0eE1PTENUTkxTMGZtcW1EX3VtRjMxU01rQy1PcndWMGZXOHZUZGpMWjdnOGRoZHhDMTlaSXJYWmNIaU5MZFNfWXVFd09CVlZYNGpjc1g5cVBvZVVHc09VejF3VF9yYVVIUDhzcXlUMG9MdUNQakhoVVJjQ2U5TE12WHV0ZkRXZ0s1ZXJiYmI4MVA3aXNEOEYyaXJtd091SE5sMnBsMS1US05yVmF6UUFkU3ZTMXFaeS11RE84QXF6c1dOdlhPNjVjbTUyck1PdTVVNFpjNkQ1UVoxUVRsRkVXejdrLXhwQ1N4VTVSVTluMXk1dUFVaTNmd0RSc3BIMXFDdzk4NENPaVltdlk?oc=5",
+    "publisher_name": "Heritage Auctions",
+    "publisher_website": "https://historical.ha.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
     "id": "47936532c4f7d244",
     "house": "Heritage Auctions",
     "title": "1969 Chappellet Brings $64,575 at Heritage, Leads Wine Auction Past $2.4 Million - Heritage Auctions",
@@ -591,6 +704,24 @@
     "google_news_article": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYzRNb1dsbE5PMUJoWV9QVlFkTG5GQXdFZlpTdHcxQk1xdDgzUThXdE81bDBSSGlGNGhHbDhfRVlmZjV5WTZ1bEhMc21ISkhIemxBNUxFM01IcFI1bnJNZEF6dDcxdWY2MnJnTjB6OEdGc3FNMVJCaTdwcWM0aHoyVlNwLWEzSVl2OU81Z2drQVVxX1c4bVJXR0V4d0szVVZwVkQxSno0R1ZTcTJxcmxuRVRlMkZOM2FlRDhVXy0wa1ZMMVlsUEZXSk1rZzQ4MkNKeVBLMUowWUJlaTdtQUVkM2Q1SlRMTVdoR0NNYw?oc=5",
     "publisher_name": "Heritage Auctions",
     "publisher_website": "https://wine.ha.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
+    "id": "917336fba25906ba",
+    "house": "Heritage Auctions",
+    "title": "Charles II ‘Petition’ Crown Brings Record $960,000 To Lead Heritage’s NYINC World & Ancient Coins... - Heritage Auctions",
+    "indicative_usd": 960000,
+    "publication_at": "2024-01-19T08:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQWVFlZTM5RWNoRTJjNWZXVm1kR2hFYlBpUGtQMTdUajlIbm4wc0tId1VxTEZxdURaUUhUNWZuc184TTl6WW4wdVFaU25PaHZBQ3pYczdnZWxRRy1GTW1DSG5Ma090cHZBOU5aTDhzb0k5STM0eGFianVETWJ4dngwTUp1NmFUblpNbERQR0tYWk8tNjdNRG9UT3F4czk1OVpzSlNjWnJNYS1kTDJmdDFQNUNUWWhuOUVJYl9pam5zRW84dFNkcXNtMjBYY2RRRllXaTlpZnplME50NGlQS2pQNXBmSWFRQ2liU0dUR0tqblcxUmtfSWUycW80d3AwSlkwbnVhWjhxc25ybFJMX2lfZmF3T2lPSmU0Skp1S0xpeU1oWTA2NkJuWVFNM2xKTnM?oc=5",
+    "publisher_name": "Heritage Auctions",
+    "publisher_website": "https://coins.ha.com",
     "corroborating_news": [],
     "review_status": "needs_primary_source_full_text",
     "is_verified_sale": false,
@@ -801,11 +932,11 @@
   {
     "id": "927f45e9490705e5",
     "house": "Sotheby's",
-    "title": "$17 Million Realized in Sotheby’s First NFT Sale with Digital Creator Pak - Sotheby's",
+    "title": "$17 Million Realized in Sotheby’s First NFT Sale with Digital Creator Pak - Sothebys.com",
     "indicative_usd": 17000000,
     "publication_at": "2021-04-16T07:00:00+00:00",
     "google_news_article": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVkyN1hhN016cVQtdTZhbHZOMkttcW5lcnMwLWctbG91UGpZZjhESkhkVzQwX3hPNXhoWmtONW5SVG9UQ2VOZmloOG5HTGZKMm5UbHhiVXdTR2E2OWItUGxjaGZFcTlzaHZiZmlnaS1sbWRIUG1nLWcwa2k4aUZyb3U4UVItMUw1Z3BBdXMtX09BY3B1V3VkZjY5aF9yYTBXUzJxaWtVZmoySjhl?oc=5",
-    "publisher_name": "Sotheby's",
+    "publisher_name": "Sothebys.com",
     "publisher_website": "https://www.sothebys.com",
     "corroborating_news": [],
     "review_status": "needs_primary_source_full_text",
@@ -933,6 +1064,24 @@
     "google_news_article": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONG1EeXB6UDE1QnpaSERfMGNyQk9yTUdRQnU4aXlQbWhWd1NfUC1BNlYtQ0MtVlFKSlVxN2ItcEpFMllVd1BZTVRIZzNhUDhhVWdWcFRtamRHVlg1bFJkRHVSX2RheTA5RmpaOU56QWlYVGx5czJnZUpGLUlPbkQtRFpfMDRMVV9sNnVpRjFGcDUtUDN2aXRUT1M0bDNDSVhVZHJKNlpGdW5WOThvSEFV?oc=5",
     "publisher_name": "Stack's Bowers",
     "publisher_website": "https://stacksbowers.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
+    "id": "6e92b92012a5006a",
+    "house": "Heritage Auctions",
+    "title": "Patrick Nagel Portrait of Real Housewives Star Jeana Keough Brings $350,000, Shatters World Record - Heritage Auctions",
+    "indicative_usd": 350000,
+    "publication_at": "2020-10-16T07:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNlFpaEFmYk94NFZBcVp2eHRRRlE4VTlWX0ZJNThtUWJ1YXphN1l0NHhONktBQmJEMEV5OUFYTTZmYk9xdk5sSVZIS0dTRDRab01vbVR6SmV3eUlOeUkzSWpSc2xFNGxBRTVfQ2tZTWI5S25aeVBKWVB2QnJqNTRyYmJWb25KS29kcFoxdm80Z0l3amVmWGxuR2FSOVp5OV9EdTdBb2FRMUNkWVVVNWdUUFU1UDNVZ0xEMDQ5bmltdjh3WUtIc1AtVUQ4cUExRXZ0TFFOTE1EZjd0VlJieDdjQ3NJalVmMWE4XzgtUkN0bW1hRE9NZmZKNHdsWlRfTGFGZjFpdks4amZQZw?oc=5",
+    "publisher_name": "Heritage Auctions",
+    "publisher_website": "https://fineart.ha.com",
     "corroborating_news": [],
     "review_status": "needs_primary_source_full_text",
     "is_verified_sale": false,
@@ -1177,6 +1326,24 @@
     ]
   },
   {
+    "id": "4e3f570dcac71890",
+    "house": "Heritage Auctions",
+    "title": "The U.S. Flag that led D-Day invasion June 6, 1944, brings $514,000 at Heritage Auctions - Heritage Auctions",
+    "indicative_usd": 514000,
+    "publication_at": "2016-06-13T07:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcmtSTHNDTkVFNlBDX25fODZTcGFaXzJUQm5FVGp4ak5KTFFXQ3otLXpsbkFPT0dfQ3JNaDJzNFZkRVR4MEt2RHZ2YVAwcVlhQjRCTFFhT0RZYVpLZV9vRlZ1LWEtcERaek0weTNJSEtRd1E3TzY4SzdMN3c5TlQzc09rYUZLNUJZWDBWTDYwd0tHUzlsYjNaclo3WDYxZXoxUy1ISUxvWnhDaGMwZkNjQzZUcUplZjRzbDBaWXNRYlpXYmJldXh2MEk2Y2ZRaXlHMndweGo5WndPTnVHRDh0Ni0tV1hoVUZPcFR1RFRYajFDTjc4aTB6TDZ6cXFNT1k?oc=5",
+    "publisher_name": "Heritage Auctions",
+    "publisher_website": "https://historical.ha.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
     "id": "791c18110b3ff69e",
     "house": "Heritage Auctions",
     "title": "Discarded Frankenstein movie poster sells for $358,500 at Heritage Auctions - Heritage Auctions",
@@ -1185,6 +1352,24 @@
     "google_news_article": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTkVFYkdBcDlhYVU3cDR5YS1ERUkxUEp4bU9vVEhGLU5VTDZabzYtS0FqOEYzbFhKeFg3RHZaSHItTFM0b0FRbWNmTUtvT3QtcEFOZW9IdjFyTHJwOHd3ckcwcG1tYmpKOGNXM3F1MF9jQmFsYzAtNGg4dlhEQmJlaUlDQXc4MFhocThTa0Viakl6X2lUNl85eEdhR0JxRkxFZlp2eEVhaG44N044Y3lkM0pNdzJMSWU1YmJWc2R4R3duaVRxNHpOMTlOMF9GQlcwRHNOeDY5NGFLNklOSFU0anZDUW40ZndyaXhsVGstbDFiN1pTN2NiN1Q1Zk1jZG5ETWZrNW5LYU8yR1NFX3c?oc=5",
     "publisher_name": "Heritage Auctions",
     "publisher_website": "https://movieposters.ha.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
+    "id": "46da3f487dea4b39",
+    "house": "Heritage Auctions",
+    "title": "Gatling Gun brings $395,000 in $3.1+ million Civil War/Arms & Armor weekend - Heritage Auctions",
+    "indicative_usd": 395000,
+    "publication_at": "2014-12-16T08:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSVd3VDJVd29PQ3lGWXg4LWRmNUR3QW9yYzZ1RU1zS1ptMzhnR2s2bTJCQmhpMUVrR3AyTl9wWlUxcHN1Vm44RVp6ZTNQX2tQeVpBeElqU1Zjc05DX1IyOHlKZkx0c0dFSHNUSFdSWHZVb1YwU0dkTU5BRThIMk1BY1pGNHpKT1RJdHZWOVhzX3JzaGg3M3plelU0cFdiYmczdUN4V21uYlNCVVNqVlRETzkzWm1Db2xoeGtKV3JQUTlTRlBqOVJiRFJxX005bUJJOTk2S21TUF9rdWlfd0VnUm9vMW9COEFFMk5fSk9tVzA?oc=5",
+    "publisher_name": "Heritage Auctions",
+    "publisher_website": "https://historical.ha.com",
     "corroborating_news": [],
     "review_status": "needs_primary_source_full_text",
     "is_verified_sale": false,
@@ -1213,6 +1398,24 @@
     ]
   },
   {
+    "id": "59ccb7b4fd2d8197",
+    "house": "Heritage Auctions",
+    "title": "1890 $1,000 Grand Watermelon Note Brings World Record $3.29 Million At Heritage Auctions - Heritage Auctions",
+    "indicative_usd": 3290000,
+    "publication_at": "2014-01-13T08:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeVY3YnBNWjdZT21abEUya0lvWnVqT3FUNFJXNTZzakQ1MnJyRmx5TjRBODY0RnE0dnZ0VWFwRGZtc1o5ZlZhZTQ2OVV0WHQ3MXJUNG8zb1hOWFp1ckhFZlFzUTlCa1ZKYW5aaWVyenNCR1BrZmRLWjZScFQwY20tQnROd2JoV196YUFWdzhoZURiS2I4UVNWTVRxMHlPWEdtRkRUNmlySXlLc21fdXRzTGcwRUR2ZlEzRjJyZjlobkpfbG5kWnAwZ1BEeUN0VGc4cGJqOTFHbGUyajJUSm5rX1BUZmtWbW10Ylp5aXIwVUFKZHNmZXFaUnUzdk9rZw?oc=5",
+    "publisher_name": "Heritage Auctions",
+    "publisher_website": "https://currency.ha.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
     "id": "b933ab1942b6699e",
     "house": "Stack's Bowers",
     "title": "Rare Dime Sells For Record $1.84 Million at Auction in Philadelphia - Stack's Bowers",
@@ -1231,6 +1434,42 @@
     ]
   },
   {
+    "id": "49a022b3081b20ff",
+    "house": "Heritage Auctions",
+    "title": "Todd McFarlane 1990 Spider-Man #328 Cover Art Brings World Record $657,250+ at Heritage Auctions - Heritage Auctions",
+    "indicative_usd": 657250,
+    "publication_at": "2012-07-26T07:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVXpWOExLcXpaeG5NWGNUem5pWktZWlVlR3FxTnZqQmpBYThoUmtpa2Njak1aT1F2MHJZSWRaS3hGanpYdFZSS0xZYm5CRzRxVlVlMUxhNS16YkgzamwxWHBmRjkwdEE2Y1JDRjdKR0xSa05Jb05SVHdBYjZ4ZW1pckRQR1pVU0l4RWlxNldiVWFvcDZ1WGRlMlhVT2VaZkNLZlBVaVU0U3lWdzlHOFNTd1RqV1cwNzhqbWpvemdROWhxd2hrd2hZZ1c5dzVka1NmbDAzXzdXUmxpalhGQnRKQk9nODZhaGhJWlNSZUNxSTVOdUdSXzlUbTlvNllsbVFzWXFLeg?oc=5",
+    "publisher_name": "Heritage Auctions",
+    "publisher_website": "https://comics.ha.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
+    "id": "345e056a6709c5ef",
+    "house": "Heritage Auctions",
+    "title": "1922 Ty Cobb Detroit Uniform Brings $358,500 In $5.3 Million Heritage Sports Auction - Heritage Auctions",
+    "indicative_usd": 5300000,
+    "publication_at": "2011-11-23T08:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa2UzeEZUUjNhREdvMExycGh0SHZCelBuZnVMbjM4WjRGR0dKTUh5WHpKVlZ5WWVmRU1uTjlmMmZIY2R1akdiSTAzSHQwM2ZZLUJTcW9pUzBNZzRkeGUwOWlvSXNjQl9DNkxjVE1mc0FOaFMtdlpMRFItMnBBZmw4STgyNzBxX2lYbW9yam1hVjg4cGJfRm04aEV3TUtXWTNpcjVzN1ZLanFYVkFoeHdITmVTZE5yOWVwRVh1UzRxVUFYOVZmUkdqakF4NVp5V0ZQUTNDSm5vX3JmLXQ5UzVOZjloRWsxSkF4eU9WSXlyZWJtRWROTnc?oc=5",
+    "publisher_name": "Heritage Auctions",
+    "publisher_website": "https://sports.ha.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
     "id": "8143a3c4a323dd82",
     "house": "Heritage Auctions",
     "title": "Rare 1938 Gibson Advance Jumbo guitar brings $53,775 to lead $1.43 million Heritage Vintage... - Heritage Auctions",
@@ -1239,6 +1478,24 @@
     "google_news_article": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNaS1BbjdtUzJteklvLWZKTXZBeDE4bnl6RDU0ZmVqbFFFRUR0dEhta3Nhc2hsMnM3TTFUTUlqRU5KWTRydVYwS0ZITnE3SExWWWN2YlhWNmNuM2JHeWR1ZjBrZmVNX2o5S2stMDZjS0RRRGZUNlNtTUYzSnR0cFA5MHE2eGhrbFFiU1hIWjAwc0dNcm1DY1Jnams3SE92czJZV2JfMTNyd0JaclFDYVpJMEdOcE9oSWRpUm1nMjU1Vkl3V0ZyaVg5MUktdTBTRFd1cjQxWm5DNTFXOGd2OEpmWEFEUDJRVUlwbG9sUXNybFdfSGhRYWZqNVBoVkItRXdub1BNM2VXNm9acDNpZ2ZsaUFvd2hmM0JIUjh4Mw?oc=5",
     "publisher_name": "Heritage Auctions",
     "publisher_website": "https://entertainment.ha.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
+    "id": "839225d082331aa5",
+    "house": "Heritage Auctions",
+    "title": "Lou Gehrig Collection Brings Nearly $1 Million To Fuel Record-Setting $4.95+ Million Heritage... - Heritage Auctions",
+    "indicative_usd": 1000000,
+    "publication_at": "2011-08-09T07:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOQU1hZWhNWnN3TzN2OVRzWTNvS0pKZGZpQlZZZlNQTVQ0cDFRT0hUTzhfZjE5eTNYM1NxQ0VNejllM2FPQThGQXV0VnFlNGlmOFVJcEpnbldMRE5fbUE5TFNPOC1nRG9WNUtKSFMzcm5pYzdQYVZGNzc0OHpZaDBIaUVNZTI0ZE1la2poaThnR1pORWVrLUp1YXNzTEtqQno4cE1LUkhGbGpnNHpxV0JGVHhHVE5Ud3hVcVpDUlNHckdmdkxxeW1aUmQ2Uy02RVA4VHozcHdXd1RZQ3hfZ2ZfNXBodHZfcGlyU25scU1fMUVfLUdUUXhuSXdndWVFb0NfR3ZjeDFxQVM0d2JMSnlNeVZBazE?oc=5",
+    "publisher_name": "Heritage Auctions",
+    "publisher_website": "https://sports.ha.com",
     "corroborating_news": [],
     "review_status": "needs_primary_source_full_text",
     "is_verified_sale": false,
@@ -1275,6 +1532,24 @@
     "google_news_article": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbUhqdDJMSmpMVUJyR1YwdXZ5NTFxVVoxc0hicS1qZlZPSWFpUkl4WUhwWWlUWU1lSGdZT1FGV3NhWUUwSDczbUt4OEFkSUJsNDg0aXFzVnoxNklNVE1Cbjl5RlNsMlhpOHp6RTdkRUtqYlhZSFZKZXo4d0RJZHBkb3hpZk45cjc4Y1BfMzhtYUtJZjFDeWFucVU4WThJMmpLYUR5d0ZOVTVLSWU0M1pwNkMxS1ZZRk5QajRteHBtNkx2cUtNRmIxaGhR?oc=5",
     "publisher_name": "Heritage Auctions",
     "publisher_website": "https://comics.ha.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
+    "id": "18c975ab45a215f9",
+    "house": "Heritage Auctions",
+    "title": "Gold at $3,989 per Ounce, Huge, Historic Nugget Brings $1.5 Million - Heritage Auctions",
+    "indicative_usd": 1500000,
+    "publication_at": "2008-01-21T08:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeENWTV96MTJVS2RjQUVYSHlMQWh2ZVJhZjE3LThoU2pzeDY1RjlPR1Z3aGdFTkhuekxYWmpfQ3NoanRsZ1JzQ01MTGlVQ0lSVVh1RHdkckZaZmc0UkJiQndPLXdNRURYVHdDSGtlOWt0UHd1U2E1QWVqaXJyUERmZ0lRS0hKN29taVVlRE11eUlLa3VHOVRxRFRHTVpMNVRpbGJZVmI1ZTZRNmNiQ01Ib3hVR3BpQU9fTTJwN2dHTXVMbFo4dlYzeFN0QkVwS3R4YUxIa2ZLNjJFb2F0a2c?oc=5",
+    "publisher_name": "Heritage Auctions",
+    "publisher_website": "https://fineart.ha.com",
     "corroborating_news": [],
     "review_status": "needs_primary_source_full_text",
     "is_verified_sale": false,
