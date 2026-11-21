@@ -1,5 +1,29 @@
 [
   {
+    "id": "99215fa15eab31ce12fd",
+    "house": "Sotheby's",
+    "country": "Global",
+    "domain": "sothebys.com",
+    "source_type": "house",
+    "category": "art",
+    "title": "$1.31 Billion Achieved In Our Biggest Fine Art Sales Week Ever - Sotheby's",
+    "publication_at": "2026-11-20T23:31:28+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjJuby1zSnNoWGZBaHMzQ29QYjdieVB2c1U2LTRQSVJfSDZCZDhBMHBmTUFCOUNUVmIteXBpVm5KUldxM1NzM3UwUXp3N25kUXp5a1hHUkJPbWVPOHdnY0RTUVMwemJZZDE5U01nbGpkVlNBZW44VTE4SW1pLTF4RS14NFdPNGk5WHlv?oc=5",
+    "publisher_website": "https://www.sothebys.com",
+    "native_amount": 1310000000,
+    "native_currency": "USD",
+    "raw_price": "$1.31 Billion",
+    "indicative_usd": 1310000000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "9a6f3ebf79e68b803a89",
     "house": "Heritage Auctions",
     "country": "US",
