@@ -1,5 +1,19 @@
 [
   {
+    "id": "15061ff0a3784783",
+    "title": "$1.31 Billion Achieved In Our Biggest Fine Art Sales Week Ever - Sotheby's",
+    "summary": "$1.31 Billion Achieved In Our Biggest Fine Art Sales Week Ever Sotheby's",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmZqdkFLV0s2UTNiM3E1RDZ2bklRbHMxSjRtcXpJWlZkNXN1aUZTUGVPTTd6WmpmcUJfYmFxUFpPUzNjWTJLclYzUEFiSnNjckVsT1d1ZFhfS1k5RjlPci1maW1DcURObEVESFNfa3ZqNUZyTWJYVWRFMlAtT3N4LWxjMUVUaE1FTU9nZjI5bkN2TVBDUkFTbA?oc=5",
+    "published_at": "2026-11-20T23:31:30+00:00",
+    "indicative_usd": 1310000000,
+    "category_hint": "other",
+    "source_name": "Google News (official publisher): Sotheby's",
+    "publisher_name": "Sotheby's",
+    "publisher_url": "https://www.sothebys.com",
+    "status": "candidate",
+    "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
+  },
+  {
     "id": "5b3d59669d655378",
     "title": "One of Hilma af Klint's Amazingly Rare Abstract Paintings Sold for a Record $12.7 Million at Auction. But Should It Have Been on Sale at All? - Smithsonian Magazine",
     "summary": "One of Hilma af Klint's Amazingly Rare Abstract Paintings Sold for a Record $12.7 Million at Auction. But Should It Have Been on Sale at All?    Smithsonian Magazine",
@@ -6774,19 +6788,5 @@
     "publisher_url": "https://www.ebayinc.com",
     "status": "candidate",
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
-  },
-  {
-    "id": "791c18110b3ff69e",
-    "title": "Discarded Frankenstein movie poster sells for $358,500 at Heritage Auctions - Heritage Auctions",
-    "summary": "Discarded Frankenstein movie poster sells for $358,500 at Heritage Auctions Heritage Auctions",
-    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTkVFYkdBcDlhYVU3cDR5YS1ERUkxUEp4bU9vVEhGLU5VTDZabzYtS0FqOEYzbFhKeFg3RHZaSHItTFM0b0FRbWNmTUtvT3QtcEFOZW9IdjFyTHJwOHd3ckcwcG1tYmpKOGNXM3F1MF9jQmFsYzAtNGg4dlhEQmJlaUlDQXc4MFhocThTa0Viakl6X2lUNl85eEdhR0JxRkxFZlp2eEVhaG44N044Y3lkM0pNdzJMSWU1YmJWc2R4R3duaVRxNHpOMTlOMF9GQlcwRHNOeDY5NGFLNklOSFU0anZDUW40ZndyaXhsVGstbDFiN1pTN2NiN1Q1Zk1jZG5ETWZrNW5LYU8yR1NFX3c?oc=5",
-    "published_at": "2015-04-01T07:00:00+00:00",
-    "indicative_usd": 358500,
-    "category_hint": "other",
-    "source_name": "Google News (official publisher): Heritage Auctions",
-    "publisher_name": "Heritage Auctions",
-    "publisher_url": "https://movieposters.ha.com",
-    "status": "candidate",
-    "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
   }
 ]

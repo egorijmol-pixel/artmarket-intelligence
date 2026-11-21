@@ -169,6 +169,24 @@
     ]
   },
   {
+    "id": "15061ff0a3784783",
+    "house": "Sotheby's",
+    "title": "$1.31 Billion Achieved In Our Biggest Fine Art Sales Week Ever - Sotheby's",
+    "indicative_usd": 1310000000,
+    "publication_at": "2026-11-20T23:31:30+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmZqdkFLV0s2UTNiM3E1RDZ2bklRbHMxSjRtcXpJWlZkNXN1aUZTUGVPTTd6WmpmcUJfYmFxUFpPUzNjWTJLclYzUEFiSnNjckVsT1d1ZFhfS1k5RjlPci1maW1DcURObEVESFNfa3ZqNUZyTWJYVWRFMlAtT3N4LWxjMUVUaE1FTU9nZjI5bkN2TVBDUkFTbA?oc=5",
+    "publisher_name": "Sotheby's",
+    "publisher_website": "https://www.sothebys.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
     "id": "4d061c950233f292",
     "house": "Heritage Auctions",
     "title": "1959 Gibson Les Paul Brings $781,250 at Heritage, Setting World Auction Record for a Vintage... - Heritage Auctions",
