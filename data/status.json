@@ -1,5 +1,5 @@
 {
-  "last_attempt_utc": "2026-11-21T01:38:24.786164+00:00",
+  "last_attempt_utc": "2026-11-21T07:35:58.963267+00:00",
   "sources_checked": 10,
   "sources_ok": 10,
   "candidates_count": 500,
@@ -9,12 +9,12 @@
       "name": "Google News: auction \"sold for\" \"million\"",
       "status": "ok",
       "articles_seen": 100,
-      "new_candidates": 5
+      "new_candidates": 0
     },
     {
       "name": "Google News: collectible auction \"sells for\"",
       "status": "ok",
-      "articles_seen": 46,
+      "articles_seen": 50,
       "new_candidates": 0
     },
     {
@@ -38,13 +38,13 @@
     {
       "name": "Google News: rare coin auction \"sold\"",
       "status": "ok",
-      "articles_seen": 34,
+      "articles_seen": 36,
       "new_candidates": 0
     },
     {
       "name": "Google News: jewelry diamond auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 57,
+      "articles_seen": 58,
       "new_candidates": 0
     },
     {
@@ -63,7 +63,7 @@
       "name": "Google News: watch auction \"sold for\" million",
       "status": "ok",
       "articles_seen": 100,
-      "new_candidates": 23
+      "new_candidates": 1
     }
   ],
   "notice": "RSS-публикации являются кандидатами, не подтверждёнными продажами."

@@ -2084,6 +2084,48 @@
     ]
   },
   {
+    "group_id": "ef8aa3a6858f0102",
+    "title": "Jackson Pollock painting sells for record $181m at US auction - BBC",
+    "category_hint": "art",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      181000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-05-19T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "f7ebd39fd6eee88c",
+      "92098253397f6f04"
+    ],
+    "links": [
+      {
+        "candidate_id": "f7ebd39fd6eee88c",
+        "title": "Jackson Pollock painting sells for record $181m at US auction - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTGtMTEpyMjBvSE5MWjRNZ0pwZmdSaDgyOVJpTWVDeDRJZVZLMmJ3OEFZTkFZRjM4cjZwOUlQMkxJR1RoZmpEOVcxYUtyWktqXzlyRXhpUVFvQQ?oc=5",
+        "publisher_name": "BBC",
+        "publisher_url": "https://www.bbc.com",
+        "published_at": "2026-05-19T07:00:00+00:00",
+        "indicative_usd": 181000000
+      },
+      {
+        "candidate_id": "92098253397f6f04",
+        "title": "Jackson Pollock breaks auction record with $181 million painting. - Artsy",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU0szM2dBdE1JeUpfUEtTSmQ3cHZRU3BvNmVRdzY5aTVyLUI2bVRUOFlWTzhSbWFEZXVkSFVPLU1oLTFVdVQ2U1h0alRNV0IwRnppWGVvVVFsRnJpclFqcVY0ZS1HU0hDMWdYekViUXMyR094ZEItSXhUZUhndGdIamZ4a2l2WGJjaTBPUVF3R09hNnJVVGx5bjZiZUM2N2xFaHpnYmpkSQ?oc=5",
+        "publisher_name": "Artsy",
+        "publisher_url": "",
+        "published_at": "2026-05-19T07:00:00+00:00",
+        "indicative_usd": 181000000
+      }
+    ]
+  },
+  {
     "group_id": "775c50dcdd31d192",
     "title": "Ultra-rare signed Lionel Messi trading card sells for over $550K at auction - MARCA",
     "category_hint": "other",
@@ -6103,39 +6145,6 @@
         "publisher_url": "",
         "published_at": "2026-05-21T07:00:00+00:00",
         "indicative_usd": 1000000
-      }
-    ]
-  },
-  {
-    "group_id": "901976695d396809",
-    "title": "Jackson Pollock breaks auction record with $181 million painting. - Artsy",
-    "category_hint": "art",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      181000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-05-19T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "92098253397f6f04"
-    ],
-    "links": [
-      {
-        "candidate_id": "92098253397f6f04",
-        "title": "Jackson Pollock breaks auction record with $181 million painting. - Artsy",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU0szM2dBdE1JeUpfUEtTSmQ3cHZRU3BvNmVRdzY5aTVyLUI2bVRUOFlWTzhSbWFEZXVkSFVPLU1oLTFVdVQ2U1h0alRNV0IwRnppWGVvVVFsRnJpclFqcVY0ZS1HU0hDMWdYekViUXMyR094ZEItSXhUZUhndGdIamZ4a2l2WGJjaTBPUVF3R09hNnJVVGx5bjZiZUM2N2xFaHpnYmpkSQ?oc=5",
-        "publisher_name": "Artsy",
-        "publisher_url": "",
-        "published_at": "2026-05-19T07:00:00+00:00",
-        "indicative_usd": 181000000
       }
     ]
   },
@@ -12843,38 +12852,6 @@
         "publisher_url": "",
         "published_at": "2015-02-05T08:00:00+00:00",
         "indicative_usd": 300000000
-      }
-    ]
-  },
-  {
-    "group_id": "93c058cdf7a4582e",
-    "title": "First Wolverine Art Page Brings World Record $657,250 At Heritage Auctions - Heritage Auctions",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      657250
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2014-05-19T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "3dbed6e0e2719921"
-    ],
-    "links": [
-      {
-        "candidate_id": "3dbed6e0e2719921",
-        "title": "First Wolverine Art Page Brings World Record $657,250 At Heritage Auctions - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTndNWnFaaWVsNTU1M0E5My1YWm4zdDIwRGV5ZkhBb3MxYVpuRmRaQWI5cWc5bjV1alFYTjZzTF9ROXVraVhEUHpHczdRVm84cUF1MHRGS0VuWk1ScFNMTjVOdU9wSVYtLVUyRGlwQWVOY05zRi1KemFORFN6c3E0bGhneEs0UktqdUtySV9TWHdPZUdWSnF3aTNuTUZJWk90MFJod1M1UXQ3TkdqVkhGWTlmTnhTalZwaDJsdWI2WjNTLURmdmhlZXZWYmZ3LXd0UW1jSllsWlhkS04xN3FCRVJQWm8zWWJfblE?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://comics.ha.com",
-        "published_at": "2014-05-19T07:00:00+00:00",
-        "indicative_usd": 657250
       }
     ]
   },

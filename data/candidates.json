@@ -2834,6 +2834,20 @@
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
   {
+    "id": "f7ebd39fd6eee88c",
+    "title": "Jackson Pollock painting sells for record $181m at US auction - BBC",
+    "summary": "Jackson Pollock painting sells for record $181m at US auction    BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTGtMTEpyMjBvSE5MWjRNZ0pwZmdSaDgyOVJpTWVDeDRJZVZLMmJ3OEFZTkFZRjM4cjZwOUlQMkxJR1RoZmpEOVcxYUtyWktqXzlyRXhpUVFvQQ?oc=5",
+    "published_at": "2026-05-19T07:00:00+00:00",
+    "indicative_usd": 181000000,
+    "category_hint": "art",
+    "source_name": "Google News: watch auction \"sold for\" million",
+    "publisher_name": "BBC",
+    "publisher_url": "https://www.bbc.com",
+    "status": "candidate",
+    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
+  },
+  {
     "id": "d048e16a3a78acf0",
     "title": "Ultra-rare signed Lionel Messi trading card sells for over $550K at auction - MARCA",
     "summary": "Ultra-rare signed Lionel Messi trading card sells for over $550K at auction    MARCA",
@@ -6772,19 +6786,5 @@
     "source_name": "Google News: private sale art collectible \"million\"",
     "status": "candidate",
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
-  },
-  {
-    "id": "3dbed6e0e2719921",
-    "title": "First Wolverine Art Page Brings World Record $657,250 At Heritage Auctions - Heritage Auctions",
-    "summary": "First Wolverine Art Page Brings World Record $657,250 At Heritage Auctions Heritage Auctions",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTndNWnFaaWVsNTU1M0E5My1YWm4zdDIwRGV5ZkhBb3MxYVpuRmRaQWI5cWc5bjV1alFYTjZzTF9ROXVraVhEUHpHczdRVm84cUF1MHRGS0VuWk1ScFNMTjVOdU9wSVYtLVUyRGlwQWVOY05zRi1KemFORFN6c3E0bGhneEs0UktqdUtySV9TWHdPZUdWSnF3aTNuTUZJWk90MFJod1M1UXQ3TkdqVkhGWTlmTnhTalZwaDJsdWI2WjNTLURmdmhlZXZWYmZ3LXd0UW1jSllsWlhkS04xN3FCRVJQWm8zWWJfblE?oc=5",
-    "published_at": "2014-05-19T07:00:00+00:00",
-    "indicative_usd": 657250,
-    "category_hint": "other",
-    "source_name": "Google News (official publisher): Heritage Auctions",
-    "publisher_name": "Heritage Auctions",
-    "publisher_url": "https://comics.ha.com",
-    "status": "candidate",
-    "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
   }
 ]
