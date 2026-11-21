@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-11-21T13:23:35.474267+00:00",
+  "generated_at_utc": "2026-11-21T19:13:44.384164+00:00",
   "candidate_messages": 500,
-  "potential_sale_groups": 361,
-  "potential_repeats": 139,
+  "potential_sale_groups": 358,
+  "potential_repeats": 142,
   "groups_with_multiple_publishers": 43,
   "groups_with_price_conflicts": 3,
   "officially_verified_by_this_step": 0,

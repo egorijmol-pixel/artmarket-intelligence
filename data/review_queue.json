@@ -945,6 +945,88 @@
     ]
   },
   {
+    "group_id": "7f73eaf0ebc0c999",
+    "title": "First comic book to feature Superman sells for record $6M at auction - Scripps News",
+    "category_hint": "books",
+    "articles": 6,
+    "publishers": 6,
+    "indicative_usd_values": [
+      6000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2024-04-23T03:51:12+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "154338b05db89b8e",
+      "0bb43b9081e79696",
+      "c5046e06c36002eb",
+      "a1792ff47f36df9e",
+      "b54dac323961b5d2",
+      "dfdd30d566960e1d"
+    ],
+    "links": [
+      {
+        "candidate_id": "154338b05db89b8e",
+        "title": "First comic book to feature Superman sells for record $6M at auction - Scripps News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGpJZWxfOU9RcktiNDYzOWE4eEZlNWd5V1JyQ0dZdHBHeVdrd1RiRmxaeWRod1R5aE10dnN6eVpJd3FBdUhRR2FrSS16S3dfelk1TUVXQkNzXzNLOTVGal94VGVZMDU4UV93RWdQelBibFR6MDk5V21ua3lQTmt2ZHVqU0pKcWQwdm51WTZPSEtPdC12dVdZdVRSdlZDdmgzWWlyLTlSVUxnT1p5SWxCeERqLTRGQQ?oc=5",
+        "publisher_name": "Scripps News",
+        "publisher_url": "https://www.scrippsnews.com",
+        "published_at": "2024-04-23T03:51:12+00:00",
+        "indicative_usd": 6000000
+      },
+      {
+        "candidate_id": "0bb43b9081e79696",
+        "title": "Superman’s first appearance from 1938 becomes most expensive comic book ever sold at auction, netting $6 million - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcnJ0STlZRW1BWW9lYTEtMGtzNzlnUklpZVNwYThJb1J1Y0FMQlplLWtMTF9fd3Jubmgxd0Q1MU1PX1hwd1JwS1kxOW9ZYm1tQ1prMl9ueGR6X3FKYmVEZHlvaDFIV2tQTG8yQV9iV0ZWZ0tDLXlucXBDTVpIREJlbHhicTdXNHJkelE?oc=5",
+        "publisher_name": "Fortune",
+        "publisher_url": "https://fortune.com",
+        "published_at": "2024-04-09T07:00:00+00:00",
+        "indicative_usd": 6000000
+      },
+      {
+        "candidate_id": "c5046e06c36002eb",
+        "title": "First Superman Comic Book From 1938 Sells for Record $6 Million - Antique Trader",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oQ0FTTUVPZEd2Y05KYVZmaFd1SDlvV2EySjA5dGlSUmg5Tk9TbE0wMHh5cmZuZG5tMTFYSjhlOVkyUHZqWnFvMDhjYXVmeWR5a1h4RGZqeTJPaXpqeDA0aGczeHBrNFoyVjRwR2xzalROZ0lUejFMY2FlTHU?oc=5",
+        "publisher_name": "Antique Trader",
+        "publisher_url": "https://www.antiquetrader.com",
+        "published_at": "2024-04-08T07:00:00+00:00",
+        "indicative_usd": 6000000
+      },
+      {
+        "candidate_id": "a1792ff47f36df9e",
+        "title": "Comic book featuring Superman's first ever appearance sells for record $6 million - ABC7 Los Angeles",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXd2ejUxSk1pazNXVzlBVEtmNklWWXQtTS1OVjUzTkFua0gzS2oyb3NfaXRyR0wtUnduM3RwTXBOXzFBc3hOb2YzZ3ptbmdVVFZYVUtOczRWNHBkMUJEODlnbFhBLWtnaWRvVDFYdmZlZmtiaHJoWkk2bHpScUFJdzNUaXJrTTdWZG1DSG5XRTVsbHFxbEVVZHN1djVteC1MczNQU2Jn0gGrAUFVX3lxTFBmWVFxQV9BSDNrUzhMV25aZXhzZWtVUnFRNm1OY1cteUxnVWExbXdsUzktUk8zNzJZbVhielBWRzFJS2hycDl2R1IwUzR3RnhyMU1yYXZWWWVCZEdOT1h2UksxeXZTUllObmlNdVVZTDFsNWJpYmVkNFYxSFZoaDdCTnQyMnI3RjNuV202Q3daejBIM01VaVJsM1BBS3Ntd0VVcE9sUlkzS0plZw?oc=5",
+        "publisher_name": "ABC7 Los Angeles",
+        "publisher_url": "https://abc7.com",
+        "published_at": "2024-04-07T07:00:00+00:00",
+        "indicative_usd": 6000000
+      },
+      {
+        "candidate_id": "b54dac323961b5d2",
+        "title": "First comic book to feature Superman sells for $6 million in Dallas - NBC 5 Dallas-Fort Worth",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGhEalM1LXQ5ZUloeG9XTjN1VlRJSTlvUUVvcjBxOUxuRHZFSFlXakJvRXRhM0o4NkdpN0dELWU4MldRRGUyQ1Z2Ymc5NzR2cElZWkRnMXBaQWlPNFQ1aWFTNVlxRDVqaDZIRVlPaWREcDViN1k5RHlUd2ZUNVhKUDN5S3JaTmVt0gGQAUFVX3lxTE9rUUVnTkRNaFpydFZVakFSSUFIYzNULWo5UHEybDgxbFdaek01WlJVRWszOEVFUVhzZW11aEpGaDR5bkwtWTVjaURTRmxkUm9SRldkV2dXcjhrdzZtSV9qZ1BWSzhtc1gxQnE0TllDR09EWjJWSE92YmVzTDJpU2tfc2FnSjBGRTJrc1pTLVBBaw?oc=5",
+        "publisher_name": "NBC 5 Dallas-Fort Worth",
+        "publisher_url": "https://www.nbcdfw.com",
+        "published_at": "2024-04-06T07:00:00+00:00",
+        "indicative_usd": 6000000
+      },
+      {
+        "candidate_id": "dfdd30d566960e1d",
+        "title": "'Action Comics' No. 1 with Superman's Debut Sold For $6 Million to Become World's Most Expensive Comic Book - Fine Books Magazine",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXFLOFFWNWQzTDhxNnhPSDdpVV9pQzVUYUxUb3Y0TTJzelJ4X2ZKbjRlZXZRdS1XSURsd1E1cWFKLU9nX2FEaGh6SFdzOF9xY3E5LWttdXVlVWtkbXBvNHF1SC00dFVqSlJ3TEV4ZzNSZ1dQeUtFSTRFanFBajlUQlFOQzBESHNYVF9hU3hqOHlSNVFWRzZYSldVeEJuWG9lOXMteURvdDdLd2x5Vzh0MUNpNEFSM2J1S3loRWVLSUhwSGRMdFdv?oc=5",
+        "publisher_name": "Fine Books Magazine",
+        "publisher_url": "https://www.finebooksmagazine.com",
+        "published_at": "2024-04-05T07:00:00+00:00",
+        "indicative_usd": 6000000
+      }
+    ]
+  },
+  {
     "group_id": "df376c9888cc9b16",
     "title": "Cage's Stolen Superman Comic Fetches $15M Record - 조선일보",
     "category_hint": "other",
@@ -1639,58 +1721,6 @@
         "publisher_url": "https://www.nbcnews.com",
         "published_at": "2025-11-23T08:00:00+00:00",
         "indicative_usd": 2300000
-      }
-    ]
-  },
-  {
-    "group_id": "7de66a286a9d43f7",
-    "title": "Superman’s first appearance from 1938 becomes most expensive comic book ever sold at auction, netting $6 million - Fortune",
-    "category_hint": "books",
-    "articles": 3,
-    "publishers": 3,
-    "indicative_usd_values": [
-      6000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-04-09T07:00:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "0bb43b9081e79696",
-      "c5046e06c36002eb",
-      "a1792ff47f36df9e"
-    ],
-    "links": [
-      {
-        "candidate_id": "0bb43b9081e79696",
-        "title": "Superman’s first appearance from 1938 becomes most expensive comic book ever sold at auction, netting $6 million - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcnJ0STlZRW1BWW9lYTEtMGtzNzlnUklpZVNwYThJb1J1Y0FMQlplLWtMTF9fd3Jubmgxd0Q1MU1PX1hwd1JwS1kxOW9ZYm1tQ1prMl9ueGR6X3FKYmVEZHlvaDFIV2tQTG8yQV9iV0ZWZ0tDLXlucXBDTVpIREJlbHhicTdXNHJkelE?oc=5",
-        "publisher_name": "Fortune",
-        "publisher_url": "https://fortune.com",
-        "published_at": "2024-04-09T07:00:00+00:00",
-        "indicative_usd": 6000000
-      },
-      {
-        "candidate_id": "c5046e06c36002eb",
-        "title": "First Superman Comic Book From 1938 Sells for Record $6 Million - Antique Trader",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oQ0FTTUVPZEd2Y05KYVZmaFd1SDlvV2EySjA5dGlSUmg5Tk9TbE0wMHh5cmZuZG5tMTFYSjhlOVkyUHZqWnFvMDhjYXVmeWR5a1h4RGZqeTJPaXpqeDA0aGczeHBrNFoyVjRwR2xzalROZ0lUejFMY2FlTHU?oc=5",
-        "publisher_name": "Antique Trader",
-        "publisher_url": "https://www.antiquetrader.com",
-        "published_at": "2024-04-08T07:00:00+00:00",
-        "indicative_usd": 6000000
-      },
-      {
-        "candidate_id": "a1792ff47f36df9e",
-        "title": "Comic book featuring Superman's first ever appearance sells for record $6 million - ABC7 Los Angeles",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXd2ejUxSk1pazNXVzlBVEtmNklWWXQtTS1OVjUzTkFua0gzS2oyb3NfaXRyR0wtUnduM3RwTXBOXzFBc3hOb2YzZ3ptbmdVVFZYVUtOczRWNHBkMUJEODlnbFhBLWtnaWRvVDFYdmZlZmtiaHJoWkk2bHpScUFJdzNUaXJrTTdWZG1DSG5XRTVsbHFxbEVVZHN1djVteC1MczNQU2Jn0gGrAUFVX3lxTFBmWVFxQV9BSDNrUzhMV25aZXhzZWtVUnFRNm1OY1cteUxnVWExbXdsUzktUk8zNzJZbVhielBWRzFJS2hycDl2R1IwUzR3RnhyMU1yYXZWWWVCZEdOT1h2UksxeXZTUllObmlNdVVZTDFsNWJpYmVkNFYxSFZoaDdCTnQyMnI3RjNuV202Q3daejBIM01VaVJsM1BBS3Ntd0VVcE9sUlkzS0plZw?oc=5",
-        "publisher_name": "ABC7 Los Angeles",
-        "publisher_url": "https://abc7.com",
-        "published_at": "2024-04-07T07:00:00+00:00",
-        "indicative_usd": 6000000
       }
     ]
   },
@@ -2845,6 +2875,38 @@
         "publisher_url": "https://stacksbowers.com",
         "published_at": "2021-08-18T07:00:00+00:00",
         "indicative_usd": 7680000
+      }
+    ]
+  },
+  {
+    "group_id": "7bdd6963a8879bf1",
+    "title": "$1.31 Billion Achieved In Our Biggest Fine Art Sales Week Ever - Sotheby's",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1310000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-20T23:31:30+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "15061ff0a3784783"
+    ],
+    "links": [
+      {
+        "candidate_id": "15061ff0a3784783",
+        "title": "$1.31 Billion Achieved In Our Biggest Fine Art Sales Week Ever - Sotheby's",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmZqdkFLV0s2UTNiM3E1RDZ2bklRbHMxSjRtcXpJWlZkNXN1aUZTUGVPTTd6WmpmcUJfYmFxUFpPUzNjWTJLclYzUEFiSnNjckVsT1d1ZFhfS1k5RjlPci1maW1DcURObEVESFNfa3ZqNUZyTWJYVWRFMlAtT3N4LWxjMUVUaE1FTU9nZjI5bkN2TVBDUkFTbA?oc=5",
+        "publisher_name": "Sotheby's",
+        "publisher_url": "https://www.sothebys.com",
+        "published_at": "2026-11-20T23:31:30+00:00",
+        "indicative_usd": 1310000000
       }
     ]
   },
@@ -9542,70 +9604,6 @@
     ]
   },
   {
-    "group_id": "59e72cb43df4747d",
-    "title": "First comic book to feature Superman sells for $6 million in Dallas - NBC 5 Dallas-Fort Worth",
-    "category_hint": "books",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      6000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-04-06T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "b54dac323961b5d2"
-    ],
-    "links": [
-      {
-        "candidate_id": "b54dac323961b5d2",
-        "title": "First comic book to feature Superman sells for $6 million in Dallas - NBC 5 Dallas-Fort Worth",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGhEalM1LXQ5ZUloeG9XTjN1VlRJSTlvUUVvcjBxOUxuRHZFSFlXakJvRXRhM0o4NkdpN0dELWU4MldRRGUyQ1Z2Ymc5NzR2cElZWkRnMXBaQWlPNFQ1aWFTNVlxRDVqaDZIRVlPaWREcDViN1k5RHlUd2ZUNVhKUDN5S3JaTmVt0gGQAUFVX3lxTE9rUUVnTkRNaFpydFZVakFSSUFIYzNULWo5UHEybDgxbFdaek01WlJVRWszOEVFUVhzZW11aEpGaDR5bkwtWTVjaURTRmxkUm9SRldkV2dXcjhrdzZtSV9qZ1BWSzhtc1gxQnE0TllDR09EWjJWSE92YmVzTDJpU2tfc2FnSjBGRTJrc1pTLVBBaw?oc=5",
-        "publisher_name": "NBC 5 Dallas-Fort Worth",
-        "publisher_url": "https://www.nbcdfw.com",
-        "published_at": "2024-04-06T07:00:00+00:00",
-        "indicative_usd": 6000000
-      }
-    ]
-  },
-  {
-    "group_id": "7908313b501730b0",
-    "title": "'Action Comics' No. 1 with Superman's Debut Sold For $6 Million to Become World's Most Expensive Comic Book - Fine Books Magazine",
-    "category_hint": "books",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      6000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-04-05T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "dfdd30d566960e1d"
-    ],
-    "links": [
-      {
-        "candidate_id": "dfdd30d566960e1d",
-        "title": "'Action Comics' No. 1 with Superman's Debut Sold For $6 Million to Become World's Most Expensive Comic Book - Fine Books Magazine",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXFLOFFWNWQzTDhxNnhPSDdpVV9pQzVUYUxUb3Y0TTJzelJ4X2ZKbjRlZXZRdS1XSURsd1E1cWFKLU9nX2FEaGh6SFdzOF9xY3E5LWttdXVlVWtkbXBvNHF1SC00dFVqSlJ3TEV4ZzNSZ1dQeUtFSTRFanFBajlUQlFOQzBESHNYVF9hU3hqOHlSNVFWRzZYSldVeEJuWG9lOXMteURvdDdLd2x5Vzh0MUNpNEFSM2J1S3loRWVLSUhwSGRMdFdv?oc=5",
-        "publisher_name": "Fine Books Magazine",
-        "publisher_url": "https://www.finebooksmagazine.com",
-        "published_at": "2024-04-05T07:00:00+00:00",
-        "indicative_usd": 6000000
-      }
-    ]
-  },
-  {
     "group_id": "1dd1ee738e340a06",
     "title": "16-Carat Yellow Diamond Fetches $1M+ at Phillips HK - nationaljeweler.com",
     "category_hint": "jewelry",
@@ -12764,70 +12762,6 @@
         "publisher_url": "https://www.cbc.ca",
         "published_at": "2016-05-20T07:00:00+00:00",
         "indicative_usd": 15700000
-      }
-    ]
-  },
-  {
-    "group_id": "47eddef882c479ed",
-    "title": "The First Superman Comic Sells for a Record $3.2M on eBay - eBay Inc.",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      3200000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2015-07-19T17:41:50+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "928f3fa15d1cd378"
-    ],
-    "links": [
-      {
-        "candidate_id": "928f3fa15d1cd378",
-        "title": "The First Superman Comic Sells for a Record $3.2M on eBay - eBay Inc.",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVpSczFFalN2a0w2Wk1McGx3bkJOYzgxS1RaakJ5UFhPRGFqeC1MakFud3FPcHI2RVg0c2tkRXlxdzQybTZnbTVCdDhoSnhaa0tiUXF3VDdVY0tRcENLdTdsMFBPTUhyVVF6blgzeEZ0SjVnTnYzeDFVNWFVV1UxX1NZYUJpQ1E?oc=5",
-        "publisher_name": "eBay Inc.",
-        "publisher_url": "https://www.ebayinc.com",
-        "published_at": "2015-07-19T17:41:50+00:00",
-        "indicative_usd": 3200000
-      }
-    ]
-  },
-  {
-    "group_id": "bc2201c883f50f4e",
-    "title": "Discarded Frankenstein movie poster sells for $358,500 at Heritage Auctions - Heritage Auctions",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      358500
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2015-04-01T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "791c18110b3ff69e"
-    ],
-    "links": [
-      {
-        "candidate_id": "791c18110b3ff69e",
-        "title": "Discarded Frankenstein movie poster sells for $358,500 at Heritage Auctions - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTkVFYkdBcDlhYVU3cDR5YS1ERUkxUEp4bU9vVEhGLU5VTDZabzYtS0FqOEYzbFhKeFg3RHZaSHItTFM0b0FRbWNmTUtvT3QtcEFOZW9IdjFyTHJwOHd3ckcwcG1tYmpKOGNXM3F1MF9jQmFsYzAtNGg4dlhEQmJlaUlDQXc4MFhocThTa0Viakl6X2lUNl85eEdhR0JxRkxFZlp2eEVhaG44N044Y3lkM0pNdzJMSWU1YmJWc2R4R3duaVRxNHpOMTlOMF9GQlcwRHNOeDY5NGFLNklOSFU0anZDUW40ZndyaXhsVGstbDFiN1pTN2NiN1Q1Zk1jZG5ETWZrNW5LYU8yR1NFX3c?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://movieposters.ha.com",
-        "published_at": "2015-04-01T07:00:00+00:00",
-        "indicative_usd": 358500
       }
     ]
   },

@@ -5172,6 +5172,20 @@
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
   {
+    "id": "154338b05db89b8e",
+    "title": "First comic book to feature Superman sells for record $6M at auction - Scripps News",
+    "summary": "First comic book to feature Superman sells for record $6M at auction    Scripps News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGpJZWxfOU9RcktiNDYzOWE4eEZlNWd5V1JyQ0dZdHBHeVdrd1RiRmxaeWRod1R5aE10dnN6eVpJd3FBdUhRR2FrSS16S3dfelk1TUVXQkNzXzNLOTVGal94VGVZMDU4UV93RWdQelBibFR6MDk5V21ua3lQTmt2ZHVqU0pKcWQwdm51WTZPSEtPdC12dVdZdVRSdlZDdmgzWWlyLTlSVUxnT1p5SWxCeERqLTRGQQ?oc=5",
+    "published_at": "2024-04-23T03:51:12+00:00",
+    "indicative_usd": 6000000,
+    "category_hint": "books",
+    "source_name": "Google News: comic book auction \"sold for\"",
+    "publisher_name": "Scripps News",
+    "publisher_url": "https://www.scrippsnews.com",
+    "status": "candidate",
+    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
+  },
+  {
     "id": "0bb43b9081e79696",
     "title": "Superman’s first appearance from 1938 becomes most expensive comic book ever sold at auction, netting $6 million - Fortune",
     "summary": "Superman’s first appearance from 1938 becomes most expensive comic book ever sold at auction, netting $6 million    Fortune",
@@ -6772,20 +6786,6 @@
     "source_name": "Google News: private sale art collectible \"million\"",
     "publisher_name": "CBC",
     "publisher_url": "https://www.cbc.ca",
-    "status": "candidate",
-    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
-  },
-  {
-    "id": "928f3fa15d1cd378",
-    "title": "The First Superman Comic Sells for a Record $3.2M on eBay - eBay Inc.",
-    "summary": "The First Superman Comic Sells for a Record $3.2M on eBay    eBay Inc.",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVpSczFFalN2a0w2Wk1McGx3bkJOYzgxS1RaakJ5UFhPRGFqeC1MakFud3FPcHI2RVg0c2tkRXlxdzQybTZnbTVCdDhoSnhaa0tiUXF3VDdVY0tRcENLdTdsMFBPTUhyVVF6blgzeEZ0SjVnTnYzeDFVNWFVV1UxX1NZYUJpQ1E?oc=5",
-    "published_at": "2015-07-19T17:41:50+00:00",
-    "indicative_usd": 3200000,
-    "category_hint": "other",
-    "source_name": "Google News: comic book auction \"sold for\"",
-    "publisher_name": "eBay Inc.",
-    "publisher_url": "https://www.ebayinc.com",
     "status": "candidate",
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   }
