@@ -1864,6 +1864,20 @@
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
   {
+    "id": "8ce1c72d9c545fa5",
+    "title": "WrestleMania III Collectible Sells for Staggering $716,750 at Auction - Athlon Sports",
+    "summary": "WrestleMania III Collectible Sells for Staggering $716,750 at Auction    Athlon Sports",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRXJPMzd1ekgxTnpSM3FCYjhFcnM2dFI3MWVMbDdyMnFrR2Fhc0pVZElaTk9jRGpFUGZWbHF2RUdROGtEWURONXh3bWpHS1QwNnMyY2JYZXhHS0xpeUNSVXU1MHhKSnhzRVpiTktzQ1I1dXZRSmlJdTE1UW53Nm9xSnVEcU9jR0pKVkR3RUoyNk9jZVltOUp6d2hxbWdFUjNPeFhfQw?oc=5",
+    "published_at": "2026-10-25T07:00:00+00:00",
+    "indicative_usd": 716750,
+    "category_hint": "other",
+    "source_name": "Google News: collectible auction \"sells for\"",
+    "publisher_name": "Athlon Sports",
+    "publisher_url": "https://athlonsports.com",
+    "status": "candidate",
+    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
+  },
+  {
     "id": "256304c62f417c19",
     "title": "A Rookie NBA Card Sold for $8.04 Million. A Collector's Windfall May Never Add a Dollar to His Social Security Earnings - 24/7 Wall St.",
     "summary": "A Rookie NBA Card Sold for $8.04 Million. A Collector's Windfall May Never Add a Dollar to His Social Security Earnings    24/7 Wall St.",
@@ -6774,17 +6788,5 @@
     "publisher_url": "https://movieposters.ha.com",
     "status": "candidate",
     "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
-  },
-  {
-    "id": "0004e89b3e00165a",
-    "title": "Paul Gauguin Painting Sells for Record $300 Million to Qatar Museums in Private Sale - Artnet News",
-    "summary": "Paul Gauguin Painting Sells for Record $300 Million to Qatar Museums in Private Sale    Artnet News",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONGRkUFctNnBRNFhUVG5RUEdEeXF1ZTNYaFVJbzR1enVscGQtT2drZ1dITGZQWGNmeVlqLUJENzFrb3JVcnMwRnFxMG51SjRjY1JSRTJVbnh1ZDZhNWIwRjZGY3pETGxkQjRvUm80cVFJT1F0REZEU0xKZmpEUGllcWdOMTR1OTR3OGV1aC16TjIxZHl4X2psaWp4ZUpBVEEzNDYxN19RdlZ2dWdWM2o4YU02MUZxZ2JMQ3Btc2pR0gHGAUFVX3lxTE9QdTBmVW9oMFdxQy1PbjdORjF0U290bXVmc2todC1rUjJWSzNIMUQwbnRvN2dsdkVwWEFTcXktaUtHSGVZTlQteTlMc2Z4YlU3ai13bkVhZGVOOU5oQUlwRExYU3NubTlwQ2tLeVNub2Rrb081RVN2c2Ztc2dRRGxsNWRMX0dfelZjLTJpNGh5amdHclVZZlpnX3BiX2ZMbEZ6aGtvSzZ1RDdQckpraEhmZXZIS09RMVZfVGZZekxPLU9hdTlLUQ?oc=5",
-    "published_at": "2015-02-05T08:00:00+00:00",
-    "indicative_usd": 300000000,
-    "category_hint": "art",
-    "source_name": "Google News: private sale art collectible \"million\"",
-    "status": "candidate",
-    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   }
 ]

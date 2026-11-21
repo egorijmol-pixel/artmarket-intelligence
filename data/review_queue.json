@@ -1831,6 +1831,48 @@
     ]
   },
   {
+    "group_id": "5d3c52e4a3190257",
+    "title": "WrestleMania III Collectible Sells for Staggering $716,750 at Auction - Athlon Sports",
+    "category_hint": "other",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      716750
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-25T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "8ce1c72d9c545fa5",
+      "02c3f66cb4b78b17"
+    ],
+    "links": [
+      {
+        "candidate_id": "8ce1c72d9c545fa5",
+        "title": "WrestleMania III Collectible Sells for Staggering $716,750 at Auction - Athlon Sports",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRXJPMzd1ekgxTnpSM3FCYjhFcnM2dFI3MWVMbDdyMnFrR2Fhc0pVZElaTk9jRGpFUGZWbHF2RUdROGtEWURONXh3bWpHS1QwNnMyY2JYZXhHS0xpeUNSVXU1MHhKSnhzRVpiTktzQ1I1dXZRSmlJdTE1UW53Nm9xSnVEcU9jR0pKVkR3RUoyNk9jZVltOUp6d2hxbWdFUjNPeFhfQw?oc=5",
+        "publisher_name": "Athlon Sports",
+        "publisher_url": "https://athlonsports.com",
+        "published_at": "2026-10-25T07:00:00+00:00",
+        "indicative_usd": 716750
+      },
+      {
+        "candidate_id": "02c3f66cb4b78b17",
+        "title": "WrestleMania III Collectible Sells for Staggering $716,750 at Auction - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFJiTmVhRlNlaTRjZDY5VWFQRVRyNUgyTVZSMGNnUWJ4ekdPcmFrVHNLWlBwXzdzcy1xTWh0Z0FIOGdSdGpsZjhZSm00RGVmOFgyeFV4ajRJZ3hqUWswZnVISU1yd1NPYTZ6YnFKb2t4SzVnTGk2VmF5YnBGbWJRZ05Calp5SmxuSTRMaWphZnl4MmQwQnBzNm9B?oc=5",
+        "publisher_name": "Yahoo Sports",
+        "publisher_url": "",
+        "published_at": "2026-10-25T07:00:00+00:00",
+        "indicative_usd": 716750
+      }
+    ]
+  },
+  {
     "group_id": "f6617a8398e08410",
     "title": "Michael Jordan's Ferrari 550 Maranello Sets Auction Record At $2.7 Million - Motor1.com",
     "category_hint": "cars",
@@ -4279,39 +4321,6 @@
         "publisher_url": "https://247wallst.com",
         "published_at": "2026-10-25T07:00:00+00:00",
         "indicative_usd": 8040000
-      }
-    ]
-  },
-  {
-    "group_id": "9a8cd29c86b35719",
-    "title": "WrestleMania III Collectible Sells for Staggering $716,750 at Auction - Yahoo Sports",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      716750
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-10-25T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "02c3f66cb4b78b17"
-    ],
-    "links": [
-      {
-        "candidate_id": "02c3f66cb4b78b17",
-        "title": "WrestleMania III Collectible Sells for Staggering $716,750 at Auction - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFJiTmVhRlNlaTRjZDY5VWFQRVRyNUgyTVZSMGNnUWJ4ekdPcmFrVHNLWlBwXzdzcy1xTWh0Z0FIOGdSdGpsZjhZSm00RGVmOFgyeFV4ajRJZ3hqUWswZnVISU1yd1NPYTZ6YnFKb2t4SzVnTGk2VmF5YnBGbWJRZ05Calp5SmxuSTRMaWphZnl4MmQwQnBzNm9B?oc=5",
-        "publisher_name": "Yahoo Sports",
-        "publisher_url": "",
-        "published_at": "2026-10-25T07:00:00+00:00",
-        "indicative_usd": 716750
       }
     ]
   },
@@ -12819,39 +12828,6 @@
         "publisher_url": "https://movieposters.ha.com",
         "published_at": "2015-04-01T07:00:00+00:00",
         "indicative_usd": 358500
-      }
-    ]
-  },
-  {
-    "group_id": "de8f3eb73721b243",
-    "title": "Paul Gauguin Painting Sells for Record $300 Million to Qatar Museums in Private Sale - Artnet News",
-    "category_hint": "art",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      300000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2015-02-05T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "0004e89b3e00165a"
-    ],
-    "links": [
-      {
-        "candidate_id": "0004e89b3e00165a",
-        "title": "Paul Gauguin Painting Sells for Record $300 Million to Qatar Museums in Private Sale - Artnet News",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONGRkUFctNnBRNFhUVG5RUEdEeXF1ZTNYaFVJbzR1enVscGQtT2drZ1dITGZQWGNmeVlqLUJENzFrb3JVcnMwRnFxMG51SjRjY1JSRTJVbnh1ZDZhNWIwRjZGY3pETGxkQjRvUm80cVFJT1F0REZEU0xKZmpEUGllcWdOMTR1OTR3OGV1aC16TjIxZHl4X2psaWp4ZUpBVEEzNDYxN19RdlZ2dWdWM2o4YU02MUZxZ2JMQ3Btc2pR0gHGAUFVX3lxTE9QdTBmVW9oMFdxQy1PbjdORjF0U290bXVmc2todC1rUjJWSzNIMUQwbnRvN2dsdkVwWEFTcXktaUtHSGVZTlQteTlMc2Z4YlU3ai13bkVhZGVOOU5oQUlwRExYU3NubTlwQ2tLeVNub2Rrb081RVN2c2Ztc2dRRGxsNWRMX0dfelZjLTJpNGh5amdHclVZZlpnX3BiX2ZMbEZ6aGtvSzZ1RDdQckpraEhmZXZIS09RMVZfVGZZekxPLU9hdTlLUQ?oc=5",
-        "publisher_name": "Artnet News",
-        "publisher_url": "",
-        "published_at": "2015-02-05T08:00:00+00:00",
-        "indicative_usd": 300000000
       }
     ]
   },
