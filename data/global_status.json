@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-22T15:22:32.741556+00:00",
+  "checked_utc": "2026-11-22T17:21:27.136086+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -44,7 +44,7 @@
   "candidate_queue_size": 25,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 0,
+  "next_cursor": 13,
   "scan_cycles_completed": 5,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
@@ -55,107 +55,107 @@
   ],
   "checks": [
     {
-      "house": "Art+Object",
-      "country": "NZ",
-      "domain": "artandobject.co.nz",
-      "status": "ok",
-      "rss_items": 79,
-      "new_leads": 0
-    },
-    {
-      "house": "Dunbar Sloane",
-      "country": "NZ",
-      "domain": "dunbarsloane.co.nz",
-      "status": "ok",
-      "rss_items": 9,
-      "new_leads": 0
-    },
-    {
-      "house": "Morton Subastas",
-      "country": "MX",
-      "domain": "mortonsubastas.com",
-      "status": "ok",
-      "rss_items": 59,
-      "new_leads": 0
-    },
-    {
-      "house": "Bolsa de Arte",
-      "country": "BR",
-      "domain": "bolsadearte.com",
-      "status": "ok",
-      "rss_items": 52,
-      "new_leads": 0
-    },
-    {
-      "house": "Tiroche",
-      "country": "IL",
-      "domain": "tiroche.co.il",
-      "status": "ok",
-      "rss_items": 15,
-      "new_leads": 0
-    },
-    {
-      "house": "Kedem",
-      "country": "IL",
-      "domain": "kedem-auctions.com",
-      "status": "ok",
-      "rss_items": 60,
-      "new_leads": 0
-    },
-    {
-      "house": "Matsart",
-      "country": "IL",
-      "domain": "matsartauctioneers.com",
-      "status": "ok",
-      "rss_items": 0,
-      "new_leads": 0
-    },
-    {
-      "house": "Литфонд",
-      "country": "RU",
-      "domain": "litfund.ru",
-      "status": "ok",
-      "rss_items": 58,
-      "new_leads": 0
-    },
-    {
-      "house": "Artinvestment",
-      "country": "RU",
-      "domain": "artinvestment.ru",
-      "status": "ok",
-      "rss_items": 59,
-      "new_leads": 0
-    },
-    {
-      "house": "Совком",
-      "country": "RU",
-      "domain": "sovcom.ru",
+      "house": "Sotheby's",
+      "country": "Global",
+      "domain": "sothebys.com",
       "status": "ok",
       "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "Монеты и медали",
-      "country": "RU",
-      "domain": "numismat.ru",
+      "house": "Christie's",
+      "country": "Global",
+      "domain": "christies.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Bonhams",
+      "country": "Global",
+      "domain": "bonhams.com",
+      "status": "ok",
+      "rss_items": 74,
+      "new_leads": 0
+    },
+    {
+      "house": "Heritage Auctions",
+      "country": "US",
+      "domain": "ha.com",
       "status": "ok",
       "rss_items": 59,
       "new_leads": 0
     },
     {
-      "house": "Auction.ru",
-      "country": "RU",
-      "domain": "auction.ru",
+      "house": "RM Sotheby's",
+      "country": "Global",
+      "domain": "rmsothebys.com",
       "status": "ok",
-      "rss_items": 60,
+      "rss_items": 59,
       "new_leads": 0
     },
     {
-      "house": "Bidspirit",
-      "country": "Global",
-      "domain": "bidspirit.com",
+      "house": "Gooding Christie's",
+      "country": "US",
+      "domain": "goodingco.com",
       "status": "ok",
-      "rss_items": 20,
+      "rss_items": 55,
+      "new_leads": 0
+    },
+    {
+      "house": "Broad Arrow Auctions",
+      "country": "US",
+      "domain": "broadarrowauctions.com",
+      "status": "ok",
+      "rss_items": 36,
+      "new_leads": 0
+    },
+    {
+      "house": "Mecum Auctions",
+      "country": "US",
+      "domain": "mecum.com",
+      "status": "ok",
+      "rss_items": 41,
+      "new_leads": 0
+    },
+    {
+      "house": "Barrett-Jackson",
+      "country": "US",
+      "domain": "barrett-jackson.com",
+      "status": "ok",
+      "rss_items": 61,
+      "new_leads": 0
+    },
+    {
+      "house": "Bring a Trailer",
+      "country": "US",
+      "domain": "bringatrailer.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Cars & Bids",
+      "country": "US",
+      "domain": "carsandbids.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Artcurial",
+      "country": "FR",
+      "domain": "artcurial.com",
+      "status": "ok",
+      "rss_items": 58,
+      "new_leads": 0
+    },
+    {
+      "house": "Tajan",
+      "country": "FR",
+      "domain": "tajan.com",
+      "status": "ok",
+      "rss_items": 60,
       "new_leads": 0
     }
   ]
