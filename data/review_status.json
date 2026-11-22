@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-11-22T13:21:46.231327+00:00",
+  "generated_at_utc": "2026-11-22T19:14:15.061110+00:00",
   "candidate_messages": 500,
-  "potential_sale_groups": 361,
-  "potential_repeats": 139,
-  "groups_with_multiple_publishers": 46,
+  "potential_sale_groups": 351,
+  "potential_repeats": 149,
+  "groups_with_multiple_publishers": 43,
   "groups_with_price_conflicts": 2,
   "officially_verified_by_this_step": 0,
   "status": "triage_only",

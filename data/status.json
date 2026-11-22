@@ -1,33 +1,33 @@
 {
-  "last_attempt_utc": "2026-11-22T13:21:41.656732+00:00",
+  "last_attempt_utc": "2026-11-22T19:14:11.099998+00:00",
   "sources_checked": 10,
-  "sources_ok": 9,
+  "sources_ok": 10,
   "candidates_count": 500,
   "verified_automatic": 0,
   "checks": [
     {
       "name": "Google News: auction \"sold for\" \"million\"",
       "status": "ok",
-      "articles_seen": 100,
-      "new_candidates": 3
+      "articles_seen": 99,
+      "new_candidates": 7
     },
     {
       "name": "Google News: collectible auction \"sells for\"",
       "status": "ok",
       "articles_seen": 52,
-      "new_candidates": 1
+      "new_candidates": 2
     },
     {
       "name": "Google News: auction \"achieves\" \"$\"",
       "status": "ok",
-      "articles_seen": 53,
+      "articles_seen": 55,
       "new_candidates": 1
     },
     {
       "name": "Google News: private sale art collectible \"million\"",
       "status": "ok",
       "articles_seen": 36,
-      "new_candidates": 3
+      "new_candidates": 2
     },
     {
       "name": "Google News: vintage car auction \"sold for\"",
@@ -44,19 +44,20 @@
     {
       "name": "Google News: jewelry diamond auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 64,
+      "articles_seen": 66,
       "new_candidates": 5
     },
     {
       "name": "Google News: sports card collectible auction \"sold for\"",
-      "status": "error",
-      "reason": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "articles_seen": 32,
+      "new_candidates": 0
     },
     {
       "name": "Google News: comic book auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 51,
-      "new_candidates": 2
+      "articles_seen": 100,
+      "new_candidates": 1
     },
     {
       "name": "Google News: watch auction \"sold for\" million",
