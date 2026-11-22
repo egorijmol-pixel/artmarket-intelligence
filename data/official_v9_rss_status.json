@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-22T01:34:43.328985+00:00",
+  "checked_utc": "2026-11-22T07:36:48.643647+00:00",
   "mode": "Official-publisher RSS headline evidence, no direct auction-house requests",
   "sources_checked": 8,
   "sources_ok": 8,
@@ -53,14 +53,14 @@
     {
       "source": "Sotheby's",
       "status": "ok",
-      "rss_articles_seen": 61,
+      "rss_articles_seen": 100,
       "new_candidates": 3,
-      "previously_known": 3
+      "previously_known": 4
     },
     {
       "source": "Bonhams",
       "status": "ok",
-      "rss_articles_seen": 64,
+      "rss_articles_seen": 65,
       "new_candidates": 0,
       "previously_known": 0
     },
