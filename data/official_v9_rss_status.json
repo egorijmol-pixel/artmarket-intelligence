@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-22T07:36:48.643647+00:00",
+  "checked_utc": "2026-11-22T13:22:15.615375+00:00",
   "mode": "Official-publisher RSS headline evidence, no direct auction-house requests",
   "sources_checked": 8,
   "sources_ok": 8,
@@ -18,9 +18,9 @@
     {
       "source": "Heritage Auctions",
       "status": "ok",
-      "rss_articles_seen": 57,
+      "rss_articles_seen": 56,
       "new_candidates": 0,
-      "previously_known": 4
+      "previously_known": 5
     },
     {
       "source": "Heritage Auctions",
@@ -53,21 +53,21 @@
     {
       "source": "Sotheby's",
       "status": "ok",
-      "rss_articles_seen": 100,
+      "rss_articles_seen": 61,
       "new_candidates": 3,
-      "previously_known": 4
+      "previously_known": 3
     },
     {
       "source": "Bonhams",
       "status": "ok",
-      "rss_articles_seen": 65,
+      "rss_articles_seen": 67,
       "new_candidates": 0,
       "previously_known": 0
     },
     {
       "source": "Goldin",
       "status": "ok",
-      "rss_articles_seen": 54,
+      "rss_articles_seen": 52,
       "new_candidates": 0,
       "previously_known": 0
     }
