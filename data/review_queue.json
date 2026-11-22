@@ -2835,48 +2835,6 @@
     ]
   },
   {
-    "group_id": "49f254e489365b73",
-    "title": "The World's Most Expensive Watch Has Sold for $31 Million - Architectural Digest",
-    "category_hint": "watch",
-    "articles": 2,
-    "publishers": 2,
-    "indicative_usd_values": [
-      31000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2019-11-13T08:00:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "0933da00475da7a9",
-      "9d3d34f12dd9c04f"
-    ],
-    "links": [
-      {
-        "candidate_id": "0933da00475da7a9",
-        "title": "The World's Most Expensive Watch Has Sold for $31 Million - Architectural Digest",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHY3aVk4VWI1SHVhYXRLV2IwLVB2eWYzTkowR3dPWThuNmdDb1Z2ZzRvNk9vbnYwVW93aXJpZjZWcGxRY1BUSzNuSm5DaUFwNmlfV2pDcmdJa0NPcmZRV19sWW1yNW9qRTNFSDhEMVhpbGRGUU5STDZoR095SzBmbmZEcFRFQkFKNDNZakVB?oc=5",
-        "publisher_name": "Architectural Digest",
-        "publisher_url": "https://www.architecturaldigest.com",
-        "published_at": "2019-11-13T08:00:00+00:00",
-        "indicative_usd": 31000000
-      },
-      {
-        "candidate_id": "9d3d34f12dd9c04f",
-        "title": "Patek Philippe’s $31 Million Grandmaster Chime Becomes Most Expensive Watch Ever Sold - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWY3djhhV1VrMU5iYTZzMUhRVEdZT3BfY2hEcTF2V283WXBXb01UN0ZkSzUtdFJyVVpOazBpSzB4dUt0TVVYXzYweDBSZ0lyTU00N1VJQV9reEdjWTZpbUFNNEM2OWU1Q0tPU0t2WWwwVTltN3RlVjdyalg2NlBobDJ0R2ZCUUNPUGRPTlg5T3FBQjlqQk1IODBMVDRpT1VNMkI3UGJHeVhSSzJKZXd5SFNVNmR5UnI5akxaOUZmSzZZRWo2Njdr?oc=5",
-        "publisher_name": "Barron's",
-        "publisher_url": "https://www.barrons.com",
-        "published_at": "2019-11-11T08:00:00+00:00",
-        "indicative_usd": 31000000
-      }
-    ]
-  },
-  {
     "group_id": "82e03558aec1a8e8",
     "title": "$1.31 Billion Achieved In Our Biggest Fine Art Sales Week Ever - Sotheby's",
     "category_hint": "other",
@@ -3041,6 +2999,70 @@
         "publisher_url": "https://stacksbowers.com",
         "published_at": "2021-08-18T07:00:00+00:00",
         "indicative_usd": 7680000
+      }
+    ]
+  },
+  {
+    "group_id": "c046b20a360264f3",
+    "title": "Shop-top home on Melbourne’s ‘coolest street’ fetches $945,000 - SMH.com.au",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      945000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-22T05:53:28+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "f53f640ce05a3919"
+    ],
+    "links": [
+      {
+        "candidate_id": "f53f640ce05a3919",
+        "title": "Shop-top home on Melbourne’s ‘coolest street’ fetches $945,000 - SMH.com.au",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN3NSMk90eHpSOWhQeTB6M0ZIbkRxMmpZY1dBV05YeHc2bTJSTVpUQWo4RFFlcWYtQjNqTldUS2ltSHlxdzdJV3NXVUlKLW1kaHAyZU1UbHFCNU1rcnB2TVFpdXBkQjZHYUtfcHo5SHpmMmU2N1I1VmlxV0xfNWllcDQtYjU0eHVNbUNHX3VPdXdxSnN6SV9jM0t5c2p0V21RbjBZTS01ZUVna25MM0hTMHlkTi1wZHo2?oc=5",
+        "publisher_name": "SMH.com.au",
+        "publisher_url": "https://www.smh.com.au",
+        "published_at": "2026-11-22T05:53:28+00:00",
+        "indicative_usd": 945000
+      }
+    ]
+  },
+  {
+    "group_id": "c875c96fe1cf39bd",
+    "title": "A Hilma af Klint Painting Just Sold for a Record $12.7 Million - Yahoo News Singapore",
+    "category_hint": "art",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      12700000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-21T20:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "414a88e7aa12add7"
+    ],
+    "links": [
+      {
+        "candidate_id": "414a88e7aa12add7",
+        "title": "A Hilma af Klint Painting Just Sold for a Record $12.7 Million - Yahoo News Singapore",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MZ21ONlBQbnFTdzM1U3dsYTFSenZhNGNwalNVNVJjVXRrd3E1RU14bWVET21vNnNkWUdnTGJpQjBNQWVqZGthX1ZZVUtOc2lPMDJfZHVNRXQxajdBZENNQUhfRVRhWmk4NmtsbUZjTmlwSlVrV3kxbw?oc=5",
+        "publisher_name": "Yahoo News Singapore",
+        "publisher_url": "https://sg.news.yahoo.com",
+        "published_at": "2026-11-21T20:00:00+00:00",
+        "indicative_usd": 12700000
       }
     ]
   },
@@ -12733,6 +12755,38 @@
     ]
   },
   {
+    "group_id": "61e240904e8c1b98",
+    "title": "The World's Most Expensive Watch Has Sold for $31 Million - Architectural Digest",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      31000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2019-11-13T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "0933da00475da7a9"
+    ],
+    "links": [
+      {
+        "candidate_id": "0933da00475da7a9",
+        "title": "The World's Most Expensive Watch Has Sold for $31 Million - Architectural Digest",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHY3aVk4VWI1SHVhYXRLV2IwLVB2eWYzTkowR3dPWThuNmdDb1Z2ZzRvNk9vbnYwVW93aXJpZjZWcGxRY1BUSzNuSm5DaUFwNmlfV2pDcmdJa0NPcmZRV19sWW1yNW9qRTNFSDhEMVhpbGRGUU5STDZoR095SzBmbmZEcFRFQkFKNDNZakVB?oc=5",
+        "publisher_name": "Architectural Digest",
+        "publisher_url": "https://www.architecturaldigest.com",
+        "published_at": "2019-11-13T08:00:00+00:00",
+        "indicative_usd": 31000000
+      }
+    ]
+  },
+  {
     "group_id": "d5fd9b3f906fb957",
     "title": "A Patek Philippe ‘Grandmaster’ Watch Just Sold for an Astonishing $31 Million at Christie’s, Setting a New World Record - Artnet News",
     "category_hint": "watch",
@@ -12959,40 +13013,6 @@
         "publisher_url": "",
         "published_at": "2023-10-22T07:00:00+00:00",
         "indicative_usd": 3000000
-      }
-    ]
-  },
-  {
-    "group_id": "45cc776d861bd759",
-    "title": "Worldwide’s Corpus Christi Old Car Museum auction achieves $5.8 million - Old Cars Weekly",
-    "category_hint": "cars",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      5800000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2019-10-14T07:00:00+00:00",
-    "priority": 0,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Возможный общий итог аукциона, не цена одного предмета",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "e3434396684cbf17"
-    ],
-    "links": [
-      {
-        "candidate_id": "e3434396684cbf17",
-        "title": "Worldwide’s Corpus Christi Old Car Museum auction achieves $5.8 million - Old Cars Weekly",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTGFFWkR3TmprMFZlSUJDQ3ZPMVB1Y0U4MmNyOWJ3R184QzdUMV9CcHlINmxJNktjWkJ5dTRKV1I2N0VHNEdzbmRLTHFseDYwdXZsTEFtSU5LZmp2dmJNcUV5VTZNSUJHU2ZCNkhqQnJqcFFscEk0VDRhRGFqLXRnMVNvMXhkOFpoRC1OcGZPLWFLMWsyTWdrOWNDMnJMSHI5NzBMemFzQQ?oc=5",
-        "publisher_name": "Old Cars Weekly",
-        "publisher_url": "",
-        "published_at": "2019-10-14T07:00:00+00:00",
-        "indicative_usd": 5800000
       }
     ]
   }
