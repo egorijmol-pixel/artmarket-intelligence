@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-22T17:21:27.136086+00:00",
+  "checked_utc": "2026-11-22T19:28:52.210134+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -44,7 +44,7 @@
   "candidate_queue_size": 25,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 13,
+  "next_cursor": 26,
   "scan_cycles_completed": 5,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
@@ -55,105 +55,105 @@
   ],
   "checks": [
     {
-      "house": "Sotheby's",
-      "country": "Global",
-      "domain": "sothebys.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Christie's",
-      "country": "Global",
-      "domain": "christies.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Bonhams",
-      "country": "Global",
-      "domain": "bonhams.com",
-      "status": "ok",
-      "rss_items": 74,
-      "new_leads": 0
-    },
-    {
-      "house": "Heritage Auctions",
-      "country": "US",
-      "domain": "ha.com",
-      "status": "ok",
-      "rss_items": 59,
-      "new_leads": 0
-    },
-    {
-      "house": "RM Sotheby's",
-      "country": "Global",
-      "domain": "rmsothebys.com",
-      "status": "ok",
-      "rss_items": 59,
-      "new_leads": 0
-    },
-    {
-      "house": "Gooding Christie's",
-      "country": "US",
-      "domain": "goodingco.com",
-      "status": "ok",
-      "rss_items": 55,
-      "new_leads": 0
-    },
-    {
-      "house": "Broad Arrow Auctions",
-      "country": "US",
-      "domain": "broadarrowauctions.com",
-      "status": "ok",
-      "rss_items": 36,
-      "new_leads": 0
-    },
-    {
-      "house": "Mecum Auctions",
-      "country": "US",
-      "domain": "mecum.com",
-      "status": "ok",
-      "rss_items": 41,
-      "new_leads": 0
-    },
-    {
-      "house": "Barrett-Jackson",
-      "country": "US",
-      "domain": "barrett-jackson.com",
-      "status": "ok",
-      "rss_items": 61,
-      "new_leads": 0
-    },
-    {
-      "house": "Bring a Trailer",
-      "country": "US",
-      "domain": "bringatrailer.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Cars & Bids",
-      "country": "US",
-      "domain": "carsandbids.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Artcurial",
+      "house": "Piasa",
       "country": "FR",
-      "domain": "artcurial.com",
+      "domain": "piasa.fr",
+      "status": "ok",
+      "rss_items": 57,
+      "new_leads": 0
+    },
+    {
+      "house": "Aguttes",
+      "country": "FR",
+      "domain": "aguttes.com",
       "status": "ok",
       "rss_items": 58,
       "new_leads": 0
     },
     {
-      "house": "Tajan",
+      "house": "Osenat",
       "country": "FR",
-      "domain": "tajan.com",
+      "domain": "osenat.com",
+      "status": "ok",
+      "rss_items": 59,
+      "new_leads": 0
+    },
+    {
+      "house": "Millon",
+      "country": "FR",
+      "domain": "millon.com",
+      "status": "ok",
+      "rss_items": 56,
+      "new_leads": 0
+    },
+    {
+      "house": "Ader",
+      "country": "FR",
+      "domain": "ader-paris.fr",
+      "status": "ok",
+      "rss_items": 55,
+      "new_leads": 0
+    },
+    {
+      "house": "Rossini",
+      "country": "FR",
+      "domain": "rossini.fr",
+      "status": "ok",
+      "rss_items": 59,
+      "new_leads": 0
+    },
+    {
+      "house": "Drouot",
+      "country": "FR",
+      "domain": "drouot.com",
+      "status": "ok",
+      "rss_items": 58,
+      "new_leads": 0
+    },
+    {
+      "house": "Interencheres",
+      "country": "FR",
+      "domain": "interencheres.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Hôtel des Ventes de Monte-Carlo",
+      "country": "MC",
+      "domain": "hvmc.com",
+      "status": "ok",
+      "rss_items": 34,
+      "new_leads": 0
+    },
+    {
+      "house": "Lempertz",
+      "country": "DE",
+      "domain": "lempertz.com",
+      "status": "ok",
+      "rss_items": 60,
+      "new_leads": 0
+    },
+    {
+      "house": "Grisebach",
+      "country": "DE",
+      "domain": "grisebach.com",
+      "status": "ok",
+      "rss_items": 55,
+      "new_leads": 0
+    },
+    {
+      "house": "Ketterer Kunst",
+      "country": "DE",
+      "domain": "kettererkunst.com",
+      "status": "ok",
+      "rss_items": 13,
+      "new_leads": 0
+    },
+    {
+      "house": "Van Ham",
+      "country": "DE",
+      "domain": "van-ham.com",
       "status": "ok",
       "rss_items": 60,
       "new_leads": 0
