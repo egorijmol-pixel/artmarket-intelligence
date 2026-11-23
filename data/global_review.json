@@ -390,6 +390,31 @@
     ]
   },
   {
+    "id": "101fa98c6cb10fe4b3f6",
+    "house": "Woolley & Wallis",
+    "country": "GB",
+    "domain": "woolleyandwallis.co.uk",
+    "source_type": "house",
+    "category": "art",
+    "title": "Two Turner sketches sold at auction for over £60,000. - Woolley & Wallis Salisbury",
+    "publication_at": "2023-09-06T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY3RRTnEzR3hCMXpqWW9WbFVKNENqbjY5bnFiUDE1d0p0YzBRMHpYdzVoWkF0MWh4cV9mTVJCdDRseGJ5NWtmQ0tTNHNyTWJZQmNLamxENkw1T2FnZzlBMmF6em9HUEdtbTV1bVhZaWRpVEMxeHc?oc=5",
+    "publisher_website": "https://www.woolleyandwallis.co.uk",
+    "native_amount": 60000,
+    "native_currency": "GBP",
+    "raw_price": "£60,000",
+    "indicative_usd": null,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой",
+      "Требуется конвертация валюты на дату продажи; порог $300 000 ещё не проверен"
+    ]
+  },
+  {
     "id": "10256e78908a3b364d4e",
     "house": "Cowley Abbott",
     "country": "CA",
@@ -435,6 +460,106 @@
       "Требуется оригинальная страница с окончательной ценой конкретного лота",
       "Дата публикации не считается датой продажи",
       "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
+    "id": "4d54d6412d6251084c9f",
+    "house": "Woolley & Wallis",
+    "country": "GB",
+    "domain": "woolleyandwallis.co.uk",
+    "source_type": "house",
+    "category": "art",
+    "title": "Imperial jade vase with a Royal provenance sold for £312,500 - Woolley & Wallis",
+    "publication_at": "2022-05-18T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41WjFCTGk5cVhqT3N4VE8tOWhENDAxV2NmY1N1a0NHU252cVU3MFBaZlFyQnRvWUFtLXVqcTRjVzNJRV9pZVVmVzBDUDVCemNxUktfNy1wdE1iYWcxTjl1Z0htbkZaV2xzNTFvUXRuS0ZRdTQ?oc=5",
+    "publisher_website": "https://www.woolleyandwallis.co.uk",
+    "native_amount": 312500,
+    "native_currency": "GBP",
+    "raw_price": "£312,500",
+    "indicative_usd": null,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой",
+      "Требуется конвертация валюты на дату продажи; порог $300 000 ещё не проверен"
+    ]
+  },
+  {
+    "id": "c11e7694493fe3ef2753",
+    "house": "Woolley & Wallis",
+    "country": "GB",
+    "domain": "woolleyandwallis.co.uk",
+    "source_type": "house",
+    "category": "art",
+    "title": "Newly discovered Chinese bowls sold for £131,250. - Woolley & Wallis Salisbury",
+    "publication_at": "2022-05-12T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11VHlQZUNSRDdocGd5QTBtSTZ6VHpIMEtaaFlaYzhpSTR4blZWYS1PTGxNSWpOamdUWDMzVXlua0t3UGtRRUNvSHljazU1UV8zQjFfWEZOOXJodDJ2QjBUS0xtbUk1ZXRqaTExcFlhNGpuYzJ1WHc?oc=5",
+    "publisher_website": "https://www.woolleyandwallis.co.uk",
+    "native_amount": 131250,
+    "native_currency": "GBP",
+    "raw_price": "£131,250",
+    "indicative_usd": null,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой",
+      "Требуется конвертация валюты на дату продажи; порог $300 000 ещё не проверен"
+    ]
+  },
+  {
+    "id": "b2b6fd08234767220652",
+    "house": "Woolley & Wallis",
+    "country": "GB",
+    "domain": "woolleyandwallis.co.uk",
+    "source_type": "house",
+    "category": "art",
+    "title": "Family heirloom by H G Murphy sells at auction for £11,250. - Woolley & Wallis Salisbury",
+    "publication_at": "2021-07-16T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jRXlKcC1IVzkzQXh2RWl1cHBmbmVyNTZPM2hiVnZVSjUzWjZKenRuYUFERm9YZWh5aW84VWZnT0hnNmdrM0ljSTFhMDk3OURlcEViWmU2NWVXV3d5UWYyMmt6bzdvOC1rZ3dGOXNrSDRpN3JyZWxF?oc=5",
+    "publisher_website": "https://www.woolleyandwallis.co.uk",
+    "native_amount": 11250,
+    "native_currency": "GBP",
+    "raw_price": "£11,250",
+    "indicative_usd": null,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой",
+      "Требуется конвертация валюты на дату продажи; порог $300 000 ещё не проверен"
+    ]
+  },
+  {
+    "id": "ec154ef75573eca1c6a5",
+    "house": "Woolley & Wallis",
+    "country": "GB",
+    "domain": "woolleyandwallis.co.uk",
+    "source_type": "house",
+    "category": "art",
+    "title": "Sir Anthony Eden's medals sold at auction for £27,500. - Woolley & Wallis Salisbury",
+    "publication_at": "2021-06-22T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLW5taGR6OFhGTndVVTlkWlZ1VW8xS00wYkdSMnQzTENHbHc2R0hfVDA2bW8taVdGX3Qyd0F2QjZVbV9NNkwzRUZVUnJmampBUmVBSzZEbHVUVjRGdmd4NUwzMC11TEdMSE9rQjlOak9GYlJKVU9EYkpzbGY3VFZIS2FWMjRmWXQ5SWpkQVozeWw0WWlF?oc=5",
+    "publisher_website": "https://www.woolleyandwallis.co.uk",
+    "native_amount": 27500,
+    "native_currency": "GBP",
+    "raw_price": "£27,500",
+    "indicative_usd": null,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой",
+      "Требуется конвертация валюты на дату продажи; порог $300 000 ещё не проверен"
     ]
   },
   {
