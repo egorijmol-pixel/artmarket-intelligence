@@ -390,6 +390,30 @@
     ]
   },
   {
+    "id": "10256e78908a3b364d4e",
+    "house": "Cowley Abbott",
+    "country": "CA",
+    "domain": "cowleyabbott.ca",
+    "source_type": "house",
+    "category": "art",
+    "title": "Over $16 Million Dollars of Art Sold at Cowley Abbott’s Spring Live Auction - Cowley Abbott Fine Art",
+    "publication_at": "2023-06-12T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWZtZEdHd3dla3ZQM0ZNUW5OVXJheWFYT2hFS1NyYkR5a0Zad2FUcVVNV24ydDhFbktMSC1xcFZzTGJJVHA4bXdnY0JHcFR6OTBZWlJVSWVWb3kzTDVfT2s1TFFWejRrOUZPSUhLWjZKSjBQWlZjRkcxN205SWozdFpacm1ZUVNxekFzVVllMnJNYVkxOGY1VHpVWFFEM05ic0dXajdn?oc=5",
+    "publisher_website": "https://blog.cowleyabbott.ca",
+    "native_amount": 16000000,
+    "native_currency": "USD",
+    "raw_price": "$16 Million",
+    "indicative_usd": 16000000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "0e30bfd3250f5fae819f",
     "house": "Whisky Auctioneer",
     "country": "GB",
@@ -500,6 +524,30 @@
     "native_currency": "USD",
     "raw_price": "$1,650,513",
     "indicative_usd": 1650513,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
+    "id": "fd95ad6409972d3ee339",
+    "house": "Stack's Bowers",
+    "country": "US",
+    "domain": "stacksbowers.com",
+    "source_type": "house",
+    "category": "coins",
+    "title": "Over $5 Million Realized in the Stack’s Bowers Galleries June 2020 Santa Ana Auction - Stack's Bowers",
+    "publication_at": "2020-06-26T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56TXdJR2FSY01EZm5kV1FyQW9CenpVaHpFOUY3TDJrUV92dXdKT1NtTDEyY3pzcVZMejA0MGhoTHBTbFpPbGwxalpSN2xSdDB1NUxnTGMxQkZCdHZ6dFllNA?oc=5",
+    "publisher_website": "https://stacksbowers.com",
+    "native_amount": 5000000,
+    "native_currency": "USD",
+    "raw_price": "$5 Million",
+    "indicative_usd": 5000000,
     "possible_aggregate": false,
     "status": "needs_primary_source",
     "verified_sale": false,
