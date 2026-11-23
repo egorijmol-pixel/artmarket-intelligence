@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-22T23:20:02.964054+00:00",
+  "checked_utc": "2026-11-23T01:55:44.929505+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -44,7 +44,7 @@
   "candidate_queue_size": 25,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 52,
+  "next_cursor": 65,
   "scan_cycles_completed": 5,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
@@ -55,107 +55,107 @@
   ],
   "checks": [
     {
-      "house": "Antiquorum",
-      "country": "CH",
-      "domain": "antiquorum.swiss",
+      "house": "Morton & Eden",
+      "country": "GB",
+      "domain": "mortonandeden.com",
       "status": "ok",
-      "rss_items": 79,
+      "rss_items": 55,
       "new_leads": 0
     },
     {
-      "house": "Schuler Auktionen",
-      "country": "CH",
-      "domain": "schulerauktionen.ch",
+      "house": "H&H Classics",
+      "country": "GB",
+      "domain": "handh.co.uk",
       "status": "ok",
-      "rss_items": 50,
+      "rss_items": 9,
       "new_leads": 0
     },
     {
-      "house": "Galerie Kornfeld",
-      "country": "CH",
-      "domain": "kornfeld.ch",
+      "house": "Iconic Auctioneers",
+      "country": "GB",
+      "domain": "iconicauctioneers.com",
+      "status": "ok",
+      "rss_items": 39,
+      "new_leads": 0
+    },
+    {
+      "house": "Collecting Cars",
+      "country": "GB",
+      "domain": "collectingcars.com",
+      "status": "ok",
+      "rss_items": 51,
+      "new_leads": 0
+    },
+    {
+      "house": "Whisky Auctioneer",
+      "country": "GB",
+      "domain": "whiskyauctioneer.com",
+      "status": "ok",
+      "rss_items": 42,
+      "new_leads": 0
+    },
+    {
+      "house": "The Saleroom",
+      "country": "GB",
+      "domain": "the-saleroom.com",
+      "status": "ok",
+      "rss_items": 15,
+      "new_leads": 0
+    },
+    {
+      "house": "Invaluable",
+      "country": "US",
+      "domain": "invaluable.com",
       "status": "ok",
       "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "Dreweatts",
-      "country": "GB",
-      "domain": "dreweatts.com",
+      "house": "LiveAuctioneers",
+      "country": "US",
+      "domain": "liveauctioneers.com",
+      "status": "ok",
+      "rss_items": 66,
+      "new_leads": 0
+    },
+    {
+      "house": "AuctionZip",
+      "country": "US",
+      "domain": "auctionzip.com",
       "status": "ok",
       "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "Woolley & Wallis",
-      "country": "GB",
-      "domain": "woolleyandwallis.co.uk",
+      "house": "Catawiki",
+      "country": "NL",
+      "domain": "catawiki.com",
       "status": "ok",
-      "rss_items": 9,
+      "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "Sworders",
-      "country": "GB",
-      "domain": "sworder.co.uk",
+      "house": "Rago",
+      "country": "US",
+      "domain": "ragoarts.com",
       "status": "ok",
-      "rss_items": 10,
+      "rss_items": 53,
       "new_leads": 0
     },
     {
-      "house": "Chiswick Auctions",
-      "country": "GB",
-      "domain": "chiswickauctions.co.uk",
+      "house": "Wright",
+      "country": "US",
+      "domain": "wright20.com",
       "status": "ok",
-      "rss_items": 9,
+      "rss_items": 44,
       "new_leads": 0
     },
     {
-      "house": "Roseberys",
-      "country": "GB",
-      "domain": "roseberys.co.uk",
+      "house": "Doyle",
+      "country": "US",
+      "domain": "doyle.com",
       "status": "ok",
-      "rss_items": 9,
-      "new_leads": 0
-    },
-    {
-      "house": "Lyon & Turnbull",
-      "country": "GB",
-      "domain": "lyonandturnbull.com",
-      "status": "ok",
-      "rss_items": 28,
-      "new_leads": 0
-    },
-    {
-      "house": "Forum Auctions",
-      "country": "GB",
-      "domain": "forumauctions.co.uk",
-      "status": "ok",
-      "rss_items": 17,
-      "new_leads": 0
-    },
-    {
-      "house": "Dominic Winter",
-      "country": "GB",
-      "domain": "dominicwinter.co.uk",
-      "status": "ok",
-      "rss_items": 10,
-      "new_leads": 0
-    },
-    {
-      "house": "Spink",
-      "country": "GB",
-      "domain": "spink.com",
-      "status": "ok",
-      "rss_items": 52,
-      "new_leads": 0
-    },
-    {
-      "house": "Noonans",
-      "country": "GB",
-      "domain": "noonans.co.uk",
-      "status": "ok",
-      "rss_items": 11,
+      "rss_items": 59,
       "new_leads": 0
     }
   ]
