@@ -369,6 +369,139 @@
     ]
   },
   {
+    "group_id": "7b2ce132f38a24d9",
+    "title": "A van Gogh with a complex past sells for a record $190 million at auction - WECT",
+    "category_hint": "other",
+    "articles": 11,
+    "publishers": 11,
+    "indicative_usd_values": [
+      190000000,
+      190400000
+    ],
+    "amount_variation_pct": 0.2,
+    "last_publication_at": "2026-11-20T12:35:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "7d547a277ae49696",
+      "20e40c8f8c5efd27",
+      "118495c843fae61e",
+      "ba545b69ac448d73",
+      "a499b53534dd5b6f",
+      "36f3cb868e542539",
+      "0de9f465ed8662bd",
+      "d65db52cef513492",
+      "151f26caca8de053",
+      "af009891998b272a",
+      "a5e3c057eb73a3b2"
+    ],
+    "links": [
+      {
+        "candidate_id": "7d547a277ae49696",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - WECT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHZVZjdFTXFFTFlWWElLTFp1UDBxQnQ3cE9PemRkQlJHaXoxVE5zTEs4N1Jfb1EybWszengtM01ORjVwTEM2X3FmNWxIWExaLWdGUDdCeGpDRnFNZjh3bFFaOGRya1RsYzdvV0NTd0FfYWxkVGE0TkNwU3RUdUE4dGc0R2dfT1R3ZWlWelZya2djXzZGdkN4REdPdDREQkk?oc=5",
+        "publisher_name": "WECT",
+        "publisher_url": "https://www.wect.com",
+        "published_at": "2026-11-20T12:35:00+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "20e40c8f8c5efd27",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - hpenews.com",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZnlhRHktbS1QZi1DYkdnVTdZYktxOU9pbWNvRl9rY1NaNjBSUnBSUUNWY0MxMEdEcVYxUUtXUWM3dnYxajBZNlBnSV9aSUFSMklSdXJUZnR1cFdCSkdNeDNYNVEyWjctWm5fVUdMcGUyaUtpQVpONmFidkpqSWxWVTFmU29KM29xN0N1OEdoMmVIU0o2RGUyeThpdXd0SE9BMTB0Z051SjdyTWxfQkhjQWtZbHpQM3MySVhxNXZGekFtV2RBOUJaa3l1bHExbThaX09QMjZ1OG9KYk9uRWNJbVZaQmVtYXNtblhR?oc=5",
+        "publisher_name": "hpenews.com",
+        "publisher_url": "https://www.hpenews.com",
+        "published_at": "2026-11-20T05:00:00+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "118495c843fae61e",
+        "title": "Van Gogh painting with a complex Jewish history sells for record $190.4 million at auction - Jewish Telegraphic Agency",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjlNR1FxYTBSZ21pN215WWxqU3paaEJNTDN6TkQ3Vkg0MS1YVEh4dzZWSkd6ZzExZ2xXNWpCdk00aWFnZ0xZLWt5Z2NqMjVGSFZhTmlDUGZGQVJ2dDE4ZXhyTll6NFVxbEhzYzZ2UWpSMlhzalpSbkg4bEh5RWFJUEVPeWNDZjh1S2xRNGdPeE1CZnFsQnoxQmgxNWV5RVJiQXJqc2ZDWmdIUjEtUTlDZ1RzYUp2TTk3VGZValpHOUQ?oc=5",
+        "publisher_name": "Jewish Telegraphic Agency",
+        "publisher_url": "https://www.jta.org",
+        "published_at": "2026-11-19T18:38:58+00:00",
+        "indicative_usd": 190400000
+      },
+      {
+        "candidate_id": "ba545b69ac448d73",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGYyM0FrNFVQN3JaWEtab3EwMGdSMkY2eVRDUTJWdHg5LTF6UjlEQWFmcmZuS2dJQk5OTUdoY1U0eHFUZ3d4RU56U0trSkxKM29CYmdUcW03VEtnTGV6R0pWdHNacVpudDdxVGRfNTFNREE1ckwtckVsTm9IUXBXX0E0enZ2c2pqSm5McHJ5cG9PM2JJTUVsbUljT3hpN2pWMXfSAacBQVVfeXFMT3FwQm5waGdoc09vVTV0UGZWWW5fc1ctSjJJeHBrc2tNdmkzY1lLY0ZTOVZtMWV1Wk5zVTlUMlB3MUUzYlRBbGhJcG5saE9xRnVWdk1zdjU1YTdpMjNvclpWWnEtbHk4Skp3UXEtMXVZMmloUDdYSXZURzhIdjZZeU1NMnZta2dGUjNfczYwUERFeGtVLUVCZVRUOWstLWdwaGxneUNhYzA?oc=5",
+        "publisher_name": "ABC News - Breaking News, Latest News and Videos",
+        "publisher_url": "https://abcnews.com",
+        "published_at": "2026-11-19T13:30:00+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "a499b53534dd5b6f",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - The Herald Journal",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeHBJN09aMEVGdXc5eVpSWWt6QlR4bFNFUVl2Y0ItQ2JLTGtfOHkyVDFYaHd6V2dmeXoxc0ZLajZRcHVtWl90MncyZmhNQ0NWM00zeFFtOWYycUd4a05PRW1lRUFBeHJCd1VURG1CbTV6cDZjLUFZaUl2cmNub0JuRDF5SkN1WFN5SnZHNy1BaHJaaTBjaEZVTUZSekFtb2FkZTZoMFo5T3dZZzJpUlZTQ1R3cENPN2tYQVhpQXlTSDAwTGdxOTdrUVN1VVpGWWlWX3RqdDgtdkZNUjJDT3NaUEdlX05MdmRPNXNrcHJyMUc?oc=5",
+        "publisher_name": "The Herald Journal",
+        "publisher_url": "https://www.hjnews.com",
+        "published_at": "2026-11-19T13:27:26+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "36f3cb868e542539",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - WV News",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYm14SlcwY1dCMVhYME9qRGN4VnJGV0xDSXpTV2FjM1pYemFGMmozcHVKaGdiZW5RRVprN3dYZzZmRXJPOF94YjMwV0xFRW1PQXJhOW1EVDJwclZHTUJtbFltelJCZnhXM3Nib0dyVXlrVnY3cmEtOXlqeGNyTktVWGVTWFpIRjIwUHdkVUZMc0hKYWdSNW1YNjNQZnhMQUpXRl9OdkZEeGVacHlTQ1ZCaHRGR0ZmcmZJTWdnNjdNRlU4NTdiQUoxczRsdDI5Q09uQVRwOGxzaVpkWnRoZ3N3VExKTmhqQWJfNW52c210SU8xZw?oc=5",
+        "publisher_name": "WV News",
+        "publisher_url": "https://www.wvnews.com",
+        "published_at": "2026-11-19T13:27:26+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "0de9f465ed8662bd",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - Caledonian Record",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZXRqREpWSks5Y2hLN00yU3JXZXFFU2kzZ0RiY1RjdkZXQXZPMF9TSG1Wa3BJeUQzd09lRkdyc3NEOExlSlRGTWFSeXgzYzlRTjRacnZhOVR0R0VJS0xUSDBkT3psWnBZT1BRM3puOVh1VExmdFRpYXBFMzdLcVgyZ3JKaVhrRS1JMnBGTG9aU05jdTc0Z2t5UW5QM0cwVmxNWmQ2MGU4UFBDd0hqSHhNMGRxWEM1LWxsOGpZdzR2VEhxRGc1VkcyRXRRM25BelJic3ZVc2R3X2NDX1M1dE5ENTRzM1B0cHlfWFhuMXlVNFVqYVdCYmVUdEl4Qi1Jdw?oc=5",
+        "publisher_name": "Caledonian Record",
+        "publisher_url": "https://www.caledonianrecord.com",
+        "published_at": "2026-11-19T13:27:26+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "d65db52cef513492",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - Bangor Daily News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMW53QUZJSXhQRXJoVkJSVzNSZXN6T0VFVVBMcjk2WE9wOVViY0JwTzlKWk1uZUVxdnJ4eXkxUERRbm1kTU9hSmx5NEdWbVB5VjBTTHhjTVlTRkJYOFZocDhvWTRaWWdpcjk2Y2loajJWSTRxV0xETUZGNVJSQnFJWW5hQjZyQU0xZDVJMndiU0ZOOVFUR1F1SVhWR2EtME94VUR3UGMxbkpNaHczVDU0YVcyS0FKUFBfMGxjeWVpOVk?oc=5",
+        "publisher_name": "Bangor Daily News",
+        "publisher_url": "https://www.bangordailynews.com",
+        "published_at": "2026-11-19T12:31:38+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "151f26caca8de053",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - KSAT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd2FfXzRsSGRaUXJGNDZuRmtDZTVDVkFUTWZFZURxLWc3SEdOQ0NzM0t3SW8zZUZ0WEp1Y2NCMFoyS2V3MFhCeVdrWHVPY1lkNzZwc2h3eDB3OUFTU082MzQ1WWNpSm9qQVF3TmFGWjVCT2ZrR04xSU9RdjdqSXBLUDkwSDZTN3d1cHI4ZTAyMjB5bWtBNWUwb19YRkExUHJkcGpabXZjVkFFaGRDTHEwY3VQaURBNncxNnhv?oc=5",
+        "publisher_name": "KSAT",
+        "publisher_url": "https://www.ksat.com",
+        "published_at": "2026-11-19T12:31:38+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "af009891998b272a",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - The Killeen Daily Herald",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdU5GVTF0Vl92S1Rfa1pSbzBJZFNRTTVOS2swR2RoaFFhTTRmeW5aa1p5OF9KNXk3blBmakMzYWJVSkNGM1hWaWpWNmdfNjVEVlZ5VkM4MGptdHF6OFBVcjdlZHdicGdIX3hSc1dTOTVxaWZCTkpJdGRNMGR5NG9vSThWM09CV0hfdDQtUldzYUFuYi11aHFYcGdPYkhTTk95M2NLWGxOUzhkUjRFT2E4QTU2MlFxellQaVBkYmltQUZldXdHTERSY05IbTFlYVQ1TkJ1TW56S2I4S0ExR2hiY3hhMDg3YlU?oc=5",
+        "publisher_name": "The Killeen Daily Herald",
+        "publisher_url": "https://kdhnews.com",
+        "published_at": "2026-11-18T08:00:00+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "a5e3c057eb73a3b2",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - Herald Bulletin",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdTNvZ19zcklWQURrTFRjRGh6SVhYandpSmVNS1dGNDFrQ3dFci1JUUdSZktlQThYVlNISHd1bDZyQnU1MHNfTGt2STJWU2JFcDJjbWUzRFIxMU54bFQySndGbjhoYmFjcGZHdVNNc0dJaW5mUHRaWXc0V0U1UThNdUxDOF9iV2hjWFVJeTNydUZfLUFDVmU3ZWhjd3dWTEwxY1RaX3hWWnJ3aWxOazJIbjU2V2ZYbk5KSVZnV2xhTXRvQV9zUXg4MmxsQk43VEtINlZwS29Hd1gtam4xbDJ5NzV5YlZaZmYxZFNHRzNjd3pLQk1FTUtxOURNNkZ5Vm5h?oc=5",
+        "publisher_name": "Herald Bulletin",
+        "publisher_url": "https://www.heraldbulletin.com",
+        "published_at": "2026-11-18T08:00:00+00:00",
+        "indicative_usd": 190000000
+      }
+    ]
+  },
+  {
     "group_id": "79d3530aa3993d21",
     "title": "Darth Vader’s lightsaber sold for $4.8 million, setting a \"Star Wars\" record - Українські Національні Новини (УНН)",
     "category_hint": "other",
@@ -622,129 +755,6 @@
         "publisher_url": "",
         "published_at": "2026-11-19T01:14:41+00:00",
         "indicative_usd": 190400000
-      }
-    ]
-  },
-  {
-    "group_id": "58f8f05290f5277a",
-    "title": "A van Gogh with a complex past sells for a record $190 million at auction - WECT",
-    "category_hint": "other",
-    "articles": 10,
-    "publishers": 10,
-    "indicative_usd_values": [
-      190000000,
-      190400000
-    ],
-    "amount_variation_pct": 0.2,
-    "last_publication_at": "2026-11-20T12:35:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "7d547a277ae49696",
-      "20e40c8f8c5efd27",
-      "118495c843fae61e",
-      "ba545b69ac448d73",
-      "a499b53534dd5b6f",
-      "36f3cb868e542539",
-      "0de9f465ed8662bd",
-      "d65db52cef513492",
-      "af009891998b272a",
-      "a5e3c057eb73a3b2"
-    ],
-    "links": [
-      {
-        "candidate_id": "7d547a277ae49696",
-        "title": "A van Gogh with a complex past sells for a record $190 million at auction - WECT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHZVZjdFTXFFTFlWWElLTFp1UDBxQnQ3cE9PemRkQlJHaXoxVE5zTEs4N1Jfb1EybWszengtM01ORjVwTEM2X3FmNWxIWExaLWdGUDdCeGpDRnFNZjh3bFFaOGRya1RsYzdvV0NTd0FfYWxkVGE0TkNwU3RUdUE4dGc0R2dfT1R3ZWlWelZya2djXzZGdkN4REdPdDREQkk?oc=5",
-        "publisher_name": "WECT",
-        "publisher_url": "https://www.wect.com",
-        "published_at": "2026-11-20T12:35:00+00:00",
-        "indicative_usd": 190000000
-      },
-      {
-        "candidate_id": "20e40c8f8c5efd27",
-        "title": "A van Gogh with a complex past sells for a record $190 million at auction - hpenews.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZnlhRHktbS1QZi1DYkdnVTdZYktxOU9pbWNvRl9rY1NaNjBSUnBSUUNWY0MxMEdEcVYxUUtXUWM3dnYxajBZNlBnSV9aSUFSMklSdXJUZnR1cFdCSkdNeDNYNVEyWjctWm5fVUdMcGUyaUtpQVpONmFidkpqSWxWVTFmU29KM29xN0N1OEdoMmVIU0o2RGUyeThpdXd0SE9BMTB0Z051SjdyTWxfQkhjQWtZbHpQM3MySVhxNXZGekFtV2RBOUJaa3l1bHExbThaX09QMjZ1OG9KYk9uRWNJbVZaQmVtYXNtblhR?oc=5",
-        "publisher_name": "hpenews.com",
-        "publisher_url": "https://www.hpenews.com",
-        "published_at": "2026-11-20T05:00:00+00:00",
-        "indicative_usd": 190000000
-      },
-      {
-        "candidate_id": "118495c843fae61e",
-        "title": "Van Gogh painting with a complex Jewish history sells for record $190.4 million at auction - Jewish Telegraphic Agency",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjlNR1FxYTBSZ21pN215WWxqU3paaEJNTDN6TkQ3Vkg0MS1YVEh4dzZWSkd6ZzExZ2xXNWpCdk00aWFnZ0xZLWt5Z2NqMjVGSFZhTmlDUGZGQVJ2dDE4ZXhyTll6NFVxbEhzYzZ2UWpSMlhzalpSbkg4bEh5RWFJUEVPeWNDZjh1S2xRNGdPeE1CZnFsQnoxQmgxNWV5RVJiQXJqc2ZDWmdIUjEtUTlDZ1RzYUp2TTk3VGZValpHOUQ?oc=5",
-        "publisher_name": "Jewish Telegraphic Agency",
-        "publisher_url": "https://www.jta.org",
-        "published_at": "2026-11-19T18:38:58+00:00",
-        "indicative_usd": 190400000
-      },
-      {
-        "candidate_id": "ba545b69ac448d73",
-        "title": "A van Gogh with a complex past sells for a record $190 million at auction - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGYyM0FrNFVQN3JaWEtab3EwMGdSMkY2eVRDUTJWdHg5LTF6UjlEQWFmcmZuS2dJQk5OTUdoY1U0eHFUZ3d4RU56U0trSkxKM29CYmdUcW03VEtnTGV6R0pWdHNacVpudDdxVGRfNTFNREE1ckwtckVsTm9IUXBXX0E0enZ2c2pqSm5McHJ5cG9PM2JJTUVsbUljT3hpN2pWMXfSAacBQVVfeXFMT3FwQm5waGdoc09vVTV0UGZWWW5fc1ctSjJJeHBrc2tNdmkzY1lLY0ZTOVZtMWV1Wk5zVTlUMlB3MUUzYlRBbGhJcG5saE9xRnVWdk1zdjU1YTdpMjNvclpWWnEtbHk4Skp3UXEtMXVZMmloUDdYSXZURzhIdjZZeU1NMnZta2dGUjNfczYwUERFeGtVLUVCZVRUOWstLWdwaGxneUNhYzA?oc=5",
-        "publisher_name": "ABC News - Breaking News, Latest News and Videos",
-        "publisher_url": "https://abcnews.com",
-        "published_at": "2026-11-19T13:30:00+00:00",
-        "indicative_usd": 190000000
-      },
-      {
-        "candidate_id": "a499b53534dd5b6f",
-        "title": "A van Gogh with a complex past sells for a record $190 million at auction - The Herald Journal",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeHBJN09aMEVGdXc5eVpSWWt6QlR4bFNFUVl2Y0ItQ2JLTGtfOHkyVDFYaHd6V2dmeXoxc0ZLajZRcHVtWl90MncyZmhNQ0NWM00zeFFtOWYycUd4a05PRW1lRUFBeHJCd1VURG1CbTV6cDZjLUFZaUl2cmNub0JuRDF5SkN1WFN5SnZHNy1BaHJaaTBjaEZVTUZSekFtb2FkZTZoMFo5T3dZZzJpUlZTQ1R3cENPN2tYQVhpQXlTSDAwTGdxOTdrUVN1VVpGWWlWX3RqdDgtdkZNUjJDT3NaUEdlX05MdmRPNXNrcHJyMUc?oc=5",
-        "publisher_name": "The Herald Journal",
-        "publisher_url": "https://www.hjnews.com",
-        "published_at": "2026-11-19T13:27:26+00:00",
-        "indicative_usd": 190000000
-      },
-      {
-        "candidate_id": "36f3cb868e542539",
-        "title": "A van Gogh with a complex past sells for a record $190 million at auction - WV News",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYm14SlcwY1dCMVhYME9qRGN4VnJGV0xDSXpTV2FjM1pYemFGMmozcHVKaGdiZW5RRVprN3dYZzZmRXJPOF94YjMwV0xFRW1PQXJhOW1EVDJwclZHTUJtbFltelJCZnhXM3Nib0dyVXlrVnY3cmEtOXlqeGNyTktVWGVTWFpIRjIwUHdkVUZMc0hKYWdSNW1YNjNQZnhMQUpXRl9OdkZEeGVacHlTQ1ZCaHRGR0ZmcmZJTWdnNjdNRlU4NTdiQUoxczRsdDI5Q09uQVRwOGxzaVpkWnRoZ3N3VExKTmhqQWJfNW52c210SU8xZw?oc=5",
-        "publisher_name": "WV News",
-        "publisher_url": "https://www.wvnews.com",
-        "published_at": "2026-11-19T13:27:26+00:00",
-        "indicative_usd": 190000000
-      },
-      {
-        "candidate_id": "0de9f465ed8662bd",
-        "title": "A van Gogh with a complex past sells for a record $190 million at auction - Caledonian Record",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZXRqREpWSks5Y2hLN00yU3JXZXFFU2kzZ0RiY1RjdkZXQXZPMF9TSG1Wa3BJeUQzd09lRkdyc3NEOExlSlRGTWFSeXgzYzlRTjRacnZhOVR0R0VJS0xUSDBkT3psWnBZT1BRM3puOVh1VExmdFRpYXBFMzdLcVgyZ3JKaVhrRS1JMnBGTG9aU05jdTc0Z2t5UW5QM0cwVmxNWmQ2MGU4UFBDd0hqSHhNMGRxWEM1LWxsOGpZdzR2VEhxRGc1VkcyRXRRM25BelJic3ZVc2R3X2NDX1M1dE5ENTRzM1B0cHlfWFhuMXlVNFVqYVdCYmVUdEl4Qi1Jdw?oc=5",
-        "publisher_name": "Caledonian Record",
-        "publisher_url": "https://www.caledonianrecord.com",
-        "published_at": "2026-11-19T13:27:26+00:00",
-        "indicative_usd": 190000000
-      },
-      {
-        "candidate_id": "d65db52cef513492",
-        "title": "A van Gogh with a complex past sells for a record $190 million at auction - Bangor Daily News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMW53QUZJSXhQRXJoVkJSVzNSZXN6T0VFVVBMcjk2WE9wOVViY0JwTzlKWk1uZUVxdnJ4eXkxUERRbm1kTU9hSmx5NEdWbVB5VjBTTHhjTVlTRkJYOFZocDhvWTRaWWdpcjk2Y2loajJWSTRxV0xETUZGNVJSQnFJWW5hQjZyQU0xZDVJMndiU0ZOOVFUR1F1SVhWR2EtME94VUR3UGMxbkpNaHczVDU0YVcyS0FKUFBfMGxjeWVpOVk?oc=5",
-        "publisher_name": "Bangor Daily News",
-        "publisher_url": "https://www.bangordailynews.com",
-        "published_at": "2026-11-19T12:31:38+00:00",
-        "indicative_usd": 190000000
-      },
-      {
-        "candidate_id": "af009891998b272a",
-        "title": "A van Gogh with a complex past sells for a record $190 million at auction - The Killeen Daily Herald",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdU5GVTF0Vl92S1Rfa1pSbzBJZFNRTTVOS2swR2RoaFFhTTRmeW5aa1p5OF9KNXk3blBmakMzYWJVSkNGM1hWaWpWNmdfNjVEVlZ5VkM4MGptdHF6OFBVcjdlZHdicGdIX3hSc1dTOTVxaWZCTkpJdGRNMGR5NG9vSThWM09CV0hfdDQtUldzYUFuYi11aHFYcGdPYkhTTk95M2NLWGxOUzhkUjRFT2E4QTU2MlFxellQaVBkYmltQUZldXdHTERSY05IbTFlYVQ1TkJ1TW56S2I4S0ExR2hiY3hhMDg3YlU?oc=5",
-        "publisher_name": "The Killeen Daily Herald",
-        "publisher_url": "https://kdhnews.com",
-        "published_at": "2026-11-18T08:00:00+00:00",
-        "indicative_usd": 190000000
-      },
-      {
-        "candidate_id": "a5e3c057eb73a3b2",
-        "title": "A van Gogh with a complex past sells for a record $190 million at auction - Herald Bulletin",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdTNvZ19zcklWQURrTFRjRGh6SVhYandpSmVNS1dGNDFrQ3dFci1JUUdSZktlQThYVlNISHd1bDZyQnU1MHNfTGt2STJWU2JFcDJjbWUzRFIxMU54bFQySndGbjhoYmFjcGZHdVNNc0dJaW5mUHRaWXc0V0U1UThNdUxDOF9iV2hjWFVJeTNydUZfLUFDVmU3ZWhjd3dWTEwxY1RaX3hWWnJ3aWxOazJIbjU2V2ZYbk5KSVZnV2xhTXRvQV9zUXg4MmxsQk43VEtINlZwS29Hd1gtam4xbDJ5NzV5YlZaZmYxZFNHRzNjd3pLQk1FTUtxOURNNkZ5Vm5h?oc=5",
-        "publisher_name": "Herald Bulletin",
-        "publisher_url": "https://www.heraldbulletin.com",
-        "published_at": "2026-11-18T08:00:00+00:00",
-        "indicative_usd": 190000000
       }
     ]
   },
@@ -1266,6 +1276,68 @@
     ]
   },
   {
+    "group_id": "100a02ad10fa026a",
+    "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - WRAL",
+    "category_hint": "jewelry",
+    "articles": 4,
+    "publishers": 4,
+    "indicative_usd_values": [
+      4900000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-13T18:53:41+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "0f4e3f27d9e15854",
+      "2e4a6427c60d7df8",
+      "00146205996eb812",
+      "bbdd141ca74392e2"
+    ],
+    "links": [
+      {
+        "candidate_id": "0f4e3f27d9e15854",
+        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - WRAL",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1VrSXVrcmZ3Q2lodmRSRlBxTzJpVk5VSzB2LVQ5NF9ia2tjT0Z2b0gxUGdwdmFUMnMxWVNkUkM2UzlFb0F1N25icmJEVUJfXzFtaFRGeEwtRW84Tk9qWWxtUHRia1I5OG5vRWhaaEc1aVgwODhCWXJaM3docFBxaHZPemdTbGp3MDZvRm1zOWw0ZmdzX2xXZkxpZVRGbnRVS2trRHhicno?oc=5",
+        "publisher_name": "WRAL",
+        "publisher_url": "https://www.wral.com",
+        "published_at": "2026-11-13T18:53:41+00:00",
+        "indicative_usd": 4900000
+      },
+      {
+        "candidate_id": "2e4a6427c60d7df8",
+        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGhGVmU4WWxRbVdhTU1uSEVsdDgxMzVKS2duVzN6bXd5Ql9WU2J2ZURDZ0hFb3puSzJNakVGc0NCRWV4OWI4aDRmR3hQcF9PenFQckl0bFhEM0dvRU9fdTE3X0VLLVdmTEdXbThrS2tUdFVtbl9RN1U2UUlwTmtfSjBvLU5xeFVnNUVGUWZxVzVRVnZRdGRLcEFLY1VwN0pURFVHaXA2dzQxQdIBrwFBVV95cUxOLS1hVlJKVHlhcHZpbVFob3ZTNXpCQXlUWUR4YkJObFNfUGo4VkxFODNnSFpkRFlTd1ZEUUxfbFNZX0o4ZmZKeUV0eElYQ1JCNlJkYXExWjUyQUdPZTluVWxNTWZHeXFYNHBLYXIyOWc0Wmp2cmNEcWtpRHZJN2dRQXdUVi1OdDYwcUQ4UkgyeW9EOWhJVzdXR3VhaF8zM1VzeUgyMVlQVTVBRFRvSVEw?oc=5",
+        "publisher_name": "Breaking News, Latest News and Videos",
+        "publisher_url": "",
+        "published_at": "2026-11-12T08:34:42+00:00",
+        "indicative_usd": 4900000
+      },
+      {
+        "candidate_id": "00146205996eb812",
+        "title": "A Romanov Sapphire Bracelet Sells for $4.9 Million at a Geneva Auction - U.S. News & World Report",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSHVORThJb1AyWWN2RGl6VHpUZFEtZjR6T3RuN1l5S1YzZVhSZ2w1bS0xakVTRk93dHQ0TllsWHJsdEFjQUJlX1lkNkMzeVo5eGFSelhkaUdOMFFNYkx6X1B3dl9lREJ1ZFExblI1bkY5a0M3TVl4OWF6aU9iWVJuMG1ibjR6NmVEVVJHeVFEaVVBWTFiYnd2cHhtN21vbzlWVWhnMXFCYnJtYVcxTjJqblBnYWNvU0hnVkFQS3dPa3hxa1E2?oc=5",
+        "publisher_name": "U.S. News & World Report",
+        "publisher_url": "https://www.usnews.com",
+        "published_at": "2026-11-12T08:14:00+00:00",
+        "indicative_usd": 4900000
+      },
+      {
+        "candidate_id": "bbdd141ca74392e2",
+        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - Boston Herald",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83QzduLWRvcXExUWctUUVBdEk3bHBPV0VEaXZCbmc5M09HRFlxVHk3NzZqQmhXUC1fVXVzanFIV0FYNXc1STRXTGFoQ0pIZlJyeVV3cFQwV29oVUwwUjFKOTlqTjI2M0lhVUhOdFZWR1hrUmJBTjFkbEUxUHIwaDg?oc=5",
+        "publisher_name": "Boston Herald",
+        "publisher_url": "https://www.bostonherald.com",
+        "published_at": "2026-11-12T08:00:00+00:00",
+        "indicative_usd": 4900000
+      }
+    ]
+  },
+  {
     "group_id": "92cf4e8d4f1810cb",
     "title": "Rare comic introducing Superman sells for US$15m - Taipei Times",
     "category_hint": "other",
@@ -1600,58 +1672,6 @@
     ]
   },
   {
-    "group_id": "8ad854b89bcf4ee0",
-    "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - WRAL",
-    "category_hint": "jewelry",
-    "articles": 3,
-    "publishers": 3,
-    "indicative_usd_values": [
-      4900000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-11-13T18:53:41+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "0f4e3f27d9e15854",
-      "2e4a6427c60d7df8",
-      "00146205996eb812"
-    ],
-    "links": [
-      {
-        "candidate_id": "0f4e3f27d9e15854",
-        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - WRAL",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1VrSXVrcmZ3Q2lodmRSRlBxTzJpVk5VSzB2LVQ5NF9ia2tjT0Z2b0gxUGdwdmFUMnMxWVNkUkM2UzlFb0F1N25icmJEVUJfXzFtaFRGeEwtRW84Tk9qWWxtUHRia1I5OG5vRWhaaEc1aVgwODhCWXJaM3docFBxaHZPemdTbGp3MDZvRm1zOWw0ZmdzX2xXZkxpZVRGbnRVS2trRHhicno?oc=5",
-        "publisher_name": "WRAL",
-        "publisher_url": "https://www.wral.com",
-        "published_at": "2026-11-13T18:53:41+00:00",
-        "indicative_usd": 4900000
-      },
-      {
-        "candidate_id": "2e4a6427c60d7df8",
-        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGhGVmU4WWxRbVdhTU1uSEVsdDgxMzVKS2duVzN6bXd5Ql9WU2J2ZURDZ0hFb3puSzJNakVGc0NCRWV4OWI4aDRmR3hQcF9PenFQckl0bFhEM0dvRU9fdTE3X0VLLVdmTEdXbThrS2tUdFVtbl9RN1U2UUlwTmtfSjBvLU5xeFVnNUVGUWZxVzVRVnZRdGRLcEFLY1VwN0pURFVHaXA2dzQxQdIBrwFBVV95cUxOLS1hVlJKVHlhcHZpbVFob3ZTNXpCQXlUWUR4YkJObFNfUGo4VkxFODNnSFpkRFlTd1ZEUUxfbFNZX0o4ZmZKeUV0eElYQ1JCNlJkYXExWjUyQUdPZTluVWxNTWZHeXFYNHBLYXIyOWc0Wmp2cmNEcWtpRHZJN2dRQXdUVi1OdDYwcUQ4UkgyeW9EOWhJVzdXR3VhaF8zM1VzeUgyMVlQVTVBRFRvSVEw?oc=5",
-        "publisher_name": "Breaking News, Latest News and Videos",
-        "publisher_url": "",
-        "published_at": "2026-11-12T08:34:42+00:00",
-        "indicative_usd": 4900000
-      },
-      {
-        "candidate_id": "00146205996eb812",
-        "title": "A Romanov Sapphire Bracelet Sells for $4.9 Million at a Geneva Auction - U.S. News & World Report",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSHVORThJb1AyWWN2RGl6VHpUZFEtZjR6T3RuN1l5S1YzZVhSZ2w1bS0xakVTRk93dHQ0TllsWHJsdEFjQUJlX1lkNkMzeVo5eGFSelhkaUdOMFFNYkx6X1B3dl9lREJ1ZFExblI1bkY5a0M3TVl4OWF6aU9iWVJuMG1ibjR6NmVEVVJHeVFEaVVBWTFiYnd2cHhtN21vbzlWVWhnMXFCYnJtYVcxTjJqblBnYWNvU0hnVkFQS3dPa3hxa1E2?oc=5",
-        "publisher_name": "U.S. News & World Report",
-        "publisher_url": "https://www.usnews.com",
-        "published_at": "2026-11-12T08:14:00+00:00",
-        "indicative_usd": 4900000
-      }
-    ]
-  },
-  {
     "group_id": "5243362527c7d0c6",
     "title": "Darth Vader’s Screen-Used Lightsaber From 'The Empire Strikes Back' Sells for a Record $4.875 Million USD - Hypebeast",
     "category_hint": "other",
@@ -1754,6 +1774,58 @@
         "publisher_url": "https://www.caranddriver.com",
         "published_at": "2026-09-03T07:00:00+00:00",
         "indicative_usd": 2700000
+      }
+    ]
+  },
+  {
+    "group_id": "69b00b7c8f634b7f",
+    "title": "Cooper Flagg NBA Debut Patch card sells for record $8.04 million, Flagg says it’s worth more - The Athletic - The New York Times",
+    "category_hint": "other",
+    "articles": 3,
+    "publishers": 3,
+    "indicative_usd_values": [
+      8040000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-09-26T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "f7482faaa480bbb7",
+      "d2bf8dd6e48c7b0b",
+      "42e719877a7bddb0"
+    ],
+    "links": [
+      {
+        "candidate_id": "f7482faaa480bbb7",
+        "title": "Cooper Flagg NBA Debut Patch card sells for record $8.04 million, Flagg says it’s worth more - The Athletic - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObE9yYzhjQi1IQTQ5YzhjMWxzcmQ2cTJrcjY3ZTZZWnBhVW1xY21BLXlDVXdiR3NBdWRPRzNvaE50dDBzWkNFX0pZNk1GVmR2dWRnZ3lWaE4zNFFWWU9IVTRpRl9VVFVpY0lKb2h2RlQyekNndEJxSXNkbVF4ZnpOT0ZZVEU1YVZPOHJJREJEX18?oc=5",
+        "publisher_name": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "published_at": "2026-09-26T07:00:00+00:00",
+        "indicative_usd": 8040000
+      },
+      {
+        "candidate_id": "d2bf8dd6e48c7b0b",
+        "title": "Cooper Flagg's NBA Rookie Debut Patch Autograph sells for $8.04M at auction, becomes third-most expensive NBA card ever - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORERGZzJmY3AwMkpHWnI4aGVvUXFidHVhNGlXa3p6VlJueE1nSnNqRXQwdldOYWlhbV9nakFZWUMtaVBlT1l5TU9oalp4MEJmeGxKamJGWDlSUWpnMU05YVZqaV9rUUNlSHZiRWZPRU80M1ZweDhmVnIxTUhGeGZGek9TWEROdzNRZFZCaDBaSTVXLW1TRUhVVUJibXZjdlA4QmI5VExzZjRTN2RyTHZmSWpNaUJmM2k2T0RJLVBxQVJDTEh6d2NzQ2c0N3YxTlNydHlnMXVJNU11dVVlTnQzenFUdll4TmVoY3VUanR3d2V5aWZ0N0ZjbVNFQjlnc3M3NlRhQ0JWbw?oc=5",
+        "publisher_name": "Yahoo Sports",
+        "publisher_url": "https://sports.yahoo.com",
+        "published_at": "2026-09-25T07:00:00+00:00",
+        "indicative_usd": 8040000
+      },
+      {
+        "candidate_id": "42e719877a7bddb0",
+        "title": "Cooper Flagg's rookie debut patch card sells for record $8.04 million - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeFZmV19KdnRhNWt0VVdoQnNnblI2aTZlMFBKSnd0eGlDQ2hoQ0p6TlV6R2NUTlVIWTU2NWFqSmxjOW9fQUdrS1Z2bDluTmhjWF9TS3pGZVJDbU9McU1tNi1RcjY0dUh5MTVBRWZ5enZiVU9UclphSTZra3ZQeHRxMVVQNi1DSGpKYkNpQmstbTZzSW5XNDZndGxUN0dZc2htbm9TNkVBbFRwekJmdWJIeGRMQnFwTk5KUWVUbXRlOFhfXzUtT3JTYnN3?oc=5",
+        "publisher_name": "ESPN",
+        "publisher_url": "https://www.espn.com",
+        "published_at": "2026-09-25T07:00:00+00:00",
+        "indicative_usd": 8040000
       }
     ]
   },
@@ -2093,6 +2165,91 @@
     ]
   },
   {
+    "group_id": "8ea61df88a446586",
+    "title": "Second most valuable dinosaur fossil in the world is sold for over $47 million - FOX Weather",
+    "category_hint": "other",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      47000000,
+      47300000
+    ],
+    "amount_variation_pct": 0.6,
+    "last_publication_at": "2026-10-29T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "1f1475b597204298",
+      "32cf8c17da113b68"
+    ],
+    "links": [
+      {
+        "candidate_id": "1f1475b597204298",
+        "title": "Second most valuable dinosaur fossil in the world is sold for over $47 million - FOX Weather",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3FCMEdkYUpDWW9sM3g2QmtZMmc4NTNvWG43MUFXcVh0aU9NcVptLVllZHd4cFk1ZS05Q055MEVmSXpfMWw3RnN2cE1kV2F1eUNPQ0F3WXhtODBqN3M4aUMzbndFbWZqX0hVWmJBWHlKS1VkdWJ1Q2tQTkY3c2hDR3ZFMHhUVVJINWIyU3RJR3YwRzVWMDZ5X2RzU2NVZ9IBowFBVV95cUxPRG9xTU1YbVRwNEk5S3dYWlNuOVdOeTNsY2h6VGIwSVVZQkgzVDFSZm1paWpkTHM5SXdiYWw3NTQ2anlrMzVndEFwTXZERmxOcGNGMW5JVEp3UXlQNUZYd0RPN1NzbWNPalNHQ2o5NUNseUxnR2hTVFFaNFN6aXRoV1JMYzEzUTdkN0FIUWlVLW5PQmozSzhPd3c2Z1A4VVpRUEM0?oc=5",
+        "publisher_name": "FOX Weather",
+        "publisher_url": "https://www.foxweather.com",
+        "published_at": "2026-10-29T07:00:00+00:00",
+        "indicative_usd": 47000000
+      },
+      {
+        "candidate_id": "32cf8c17da113b68",
+        "title": "Rare Nanotyrannus sells at auction for $47.3 million, becoming second most valuable fossil ever - CNN",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TM0pweWxDVzl2d2NXWXRtN0Y5SU95cDR5VXVqeG1XNnB2eVFvRzdDcnNqVVVIR1gzcFJkMnV6d0RGRm9JZGdLVGFKb2dFNThSR0l5MDQtRWNDaHV0cWNZc2UxRE1BaTlDc0FrbnRn?oc=5",
+        "publisher_name": "CNN",
+        "publisher_url": "https://www.cnn.com",
+        "published_at": "2026-10-27T07:00:00+00:00",
+        "indicative_usd": 47300000
+      }
+    ]
+  },
+  {
+    "group_id": "ffd15fb3aedbe482",
+    "title": "Dinosaur fossil sells for $47 million in just 12 minutes - fox23.com",
+    "category_hint": "other",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      47000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-27T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "ee63f96b3e7ead19",
+      "eb6865135871ae96"
+    ],
+    "links": [
+      {
+        "candidate_id": "ee63f96b3e7ead19",
+        "title": "Dinosaur fossil sells for $47 million in just 12 minutes - fox23.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON1NTRXIxSDY3RDZiOWFXNENlVUw3enoxUTVVNUhWblpsUHpNcmhSdGxxX1FDaG5kR1NiYzlEMGo0bVQ4dnBDNWJEdEVRb1I2LWtQdEI3RnFUVmlCdC1ydWtLZGVBXzB1ZUkzeU93R2xmWjl3SllOdzB5eU9tNU9VUTNkVkh2QUN2TDRhTVpDTFRXLTBUcGc?oc=5",
+        "publisher_name": "fox23.com",
+        "publisher_url": "https://fox23.com",
+        "published_at": "2026-10-27T07:00:00+00:00",
+        "indicative_usd": 47000000
+      },
+      {
+        "candidate_id": "eb6865135871ae96",
+        "title": "A dinosaur fossil that looks like a mini T. rex just sold for a giant $47 million - AP News",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDV4TWZfVndUbFJpUlUxRlhWVEM0Z25WZ0RJRGJBR0FqbGZLcVlwdU9KNTlVU2VHRmJLTnI4bk93QTJMd3d2bThfMkNEa2lCbDM0STFtcFBWQ3lsUHNfOWQ1WU1NTGVsd1Z2cDJlbW1icTMzZlc0STk0V0dNN0NYc1J0YUJGd3RPQ0ZxZTkzVjkyTTNzWTJKUE83S2lOOGgya2ZubXNTR01pejR4ZTJKVA?oc=5",
+        "publisher_name": "AP News",
+        "publisher_url": "https://apnews.com",
+        "published_at": "2026-10-27T07:00:00+00:00",
+        "indicative_usd": 47000000
+      }
+    ]
+  },
+  {
     "group_id": "5d3c52e4a3190257",
     "title": "WrestleMania III Collectible Sells for Staggering $716,750 at Auction - Athlon Sports",
     "category_hint": "other",
@@ -2174,48 +2331,6 @@
         "publisher_url": "https://robbreport.com",
         "published_at": "2026-09-29T07:00:00+00:00",
         "indicative_usd": 49500000
-      }
-    ]
-  },
-  {
-    "group_id": "eb5fa59f88c54f18",
-    "title": "Cooper Flagg NBA Debut Patch card sells for record $8.04 million, Flagg says it’s worth more - The Athletic - The New York Times",
-    "category_hint": "other",
-    "articles": 2,
-    "publishers": 2,
-    "indicative_usd_values": [
-      8040000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-09-26T07:00:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "f7482faaa480bbb7",
-      "d2bf8dd6e48c7b0b"
-    ],
-    "links": [
-      {
-        "candidate_id": "f7482faaa480bbb7",
-        "title": "Cooper Flagg NBA Debut Patch card sells for record $8.04 million, Flagg says it’s worth more - The Athletic - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObE9yYzhjQi1IQTQ5YzhjMWxzcmQ2cTJrcjY3ZTZZWnBhVW1xY21BLXlDVXdiR3NBdWRPRzNvaE50dDBzWkNFX0pZNk1GVmR2dWRnZ3lWaE4zNFFWWU9IVTRpRl9VVFVpY0lKb2h2RlQyekNndEJxSXNkbVF4ZnpOT0ZZVEU1YVZPOHJJREJEX18?oc=5",
-        "publisher_name": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "published_at": "2026-09-26T07:00:00+00:00",
-        "indicative_usd": 8040000
-      },
-      {
-        "candidate_id": "d2bf8dd6e48c7b0b",
-        "title": "Cooper Flagg's NBA Rookie Debut Patch Autograph sells for $8.04M at auction, becomes third-most expensive NBA card ever - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORERGZzJmY3AwMkpHWnI4aGVvUXFidHVhNGlXa3p6VlJueE1nSnNqRXQwdldOYWlhbV9nakFZWUMtaVBlT1l5TU9oalp4MEJmeGxKamJGWDlSUWpnMU05YVZqaV9rUUNlSHZiRWZPRU80M1ZweDhmVnIxTUhGeGZGek9TWEROdzNRZFZCaDBaSTVXLW1TRUhVVUJibXZjdlA4QmI5VExzZjRTN2RyTHZmSWpNaUJmM2k2T0RJLVBxQVJDTEh6d2NzQ2c0N3YxTlNydHlnMXVJNU11dVVlTnQzenFUdll4TmVoY3VUanR3d2V5aWZ0N0ZjbVNFQjlnc3M3NlRhQ0JWbw?oc=5",
-        "publisher_name": "Yahoo Sports",
-        "publisher_url": "https://sports.yahoo.com",
-        "published_at": "2026-09-25T07:00:00+00:00",
-        "indicative_usd": 8040000
       }
     ]
   },
@@ -3067,6 +3182,38 @@
     ]
   },
   {
+    "group_id": "29fb355e47ea34ad",
+    "title": "Steve McQueen's Ferrari NART Spider Just Sold For $18.9 Million - Motor1.com",
+    "category_hint": "cars",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      18900000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-23T08:27:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "8d18d709627f2c40"
+    ],
+    "links": [
+      {
+        "candidate_id": "8d18d709627f2c40",
+        "title": "Steve McQueen's Ferrari NART Spider Just Sold For $18.9 Million - Motor1.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvM0I5aUt3ZVdWLVdwaFkyVXhENzdWTTBVQ05md2l2bFVDTk9rLWs1VHU2dlpHam14RXZqenJTNTRZa0M4UVhxZXIzRERDbU1xdC1oUllmd29Ra0RMeFBOODlRcktKRTBVN01DLU9TVlRBbE1WRzBPXw?oc=5",
+        "publisher_name": "Motor1.com",
+        "publisher_url": "https://www.motor1.com",
+        "published_at": "2026-11-23T08:27:00+00:00",
+        "indicative_usd": 18900000
+      }
+    ]
+  },
+  {
     "group_id": "ef285c877c123cf6",
     "title": "In 2021, a Tom Brady rookie card sold at auction for a record $2.25 million; two months later, a different copy sold for $3.1 million - Yahoo Sports",
     "category_hint": "other",
@@ -3095,6 +3242,38 @@
         "publisher_url": "https://sports.yahoo.com",
         "published_at": "2026-11-22T19:28:27+00:00",
         "indicative_usd": 3100000
+      }
+    ]
+  },
+  {
+    "group_id": "46e48fef30670446",
+    "title": "Two Nearly Identical Ferraris Sold On The Same Day. One Fetched $7.6 Million More - Motor1.com",
+    "category_hint": "cars",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      7600000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-22T14:46:29+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "1bd171971dc753fe"
+    ],
+    "links": [
+      {
+        "candidate_id": "1bd171971dc753fe",
+        "title": "Two Nearly Identical Ferraris Sold On The Same Day. One Fetched $7.6 Million More - Motor1.com",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoVnJ0ZDgxV1lMWE5XQ0E2OTRlMzBaRVpBWWFFSGhTbUFDTEJiQUhHN29JdWFBaDJta3JJNW9FcWQ2REowbGxYRnZ6Qk5vdUx1QTUwcWV5Ym9jNkVzN1lKRzhlUXc2QjlUZ3JqdU95T2lqWnRKeFFJdEtR?oc=5",
+        "publisher_name": "Motor1.com",
+        "publisher_url": "https://www.motor1.com",
+        "published_at": "2026-11-22T14:46:29+00:00",
+        "indicative_usd": 7600000
       }
     ]
   },
@@ -4702,6 +4881,102 @@
     ]
   },
   {
+    "group_id": "81f8e756c2c9bbfd",
+    "title": "Ferrari F50 Sets New Auction Record With $18.7 Million Sale - Motor1.com",
+    "category_hint": "cars",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      18700000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-03T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "4f8abfcdaf89ac6a"
+    ],
+    "links": [
+      {
+        "candidate_id": "4f8abfcdaf89ac6a",
+        "title": "Ferrari F50 Sets New Auction Record With $18.7 Million Sale - Motor1.com",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGUk80eGZQcmRiM1gyNWdUR283Y0VTQy1JdGJuTHEyQTVZVlhlcmQzUkZjSm1ZbjdoM2RNNHp0LWRWakl6YXBoS3d3VU1wYUhpblppdl9DTVIySVpBUDRiS0p3MHdtVnJVRkt3UWdkdHE?oc=5",
+        "publisher_name": "Motor1.com",
+        "publisher_url": "https://www.motor1.com",
+        "published_at": "2026-11-03T08:00:00+00:00",
+        "indicative_usd": 18700000
+      }
+    ]
+  },
+  {
+    "group_id": "b4cf7ad35d320fbe",
+    "title": "Ferrari Daytona SP3 sells for $18.5 million at auction in Las Vegas - The Supercar Blog",
+    "category_hint": "cars",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      18500000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-01T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "e88a6ee043b7a05e"
+    ],
+    "links": [
+      {
+        "candidate_id": "e88a6ee043b7a05e",
+        "title": "Ferrari Daytona SP3 sells for $18.5 million at auction in Las Vegas - The Supercar Blog",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUVHeEVHOXA0MWs3dnhuZXBlbzZ6RVRtMDdpWkl4U3R0VEcxX05wd0stNktjb1ExTC1ta2xhcjEySUhpTXNsVGcySWIyZ2l2QjBoR3M3bVFBc3lKX0g5QlJGaHQ3eHFDUllnUUtZTlNFX2F3dEVmOWNxck1LRGxfV0Nyc29rQmJSOVE3U0JnT0hQZ0stRmxENDJDeFR4Y0tO?oc=5",
+        "publisher_name": "The Supercar Blog",
+        "publisher_url": "https://www.thesupercarblog.com",
+        "published_at": "2026-11-01T07:00:00+00:00",
+        "indicative_usd": 18500000
+      }
+    ]
+  },
+  {
+    "group_id": "3bdc2dc2a64e7519",
+    "title": "Kobe Bryant High School Jersey Sells for Record-Breaking $2.2 Million at Auction - Complex",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2200000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-31T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "a06492784b279a44"
+    ],
+    "links": [
+      {
+        "candidate_id": "a06492784b279a44",
+        "title": "Kobe Bryant High School Jersey Sells for Record-Breaking $2.2 Million at Auction - Complex",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWHhYNDk1M0VTcjNXYUFSZDdhRnRFcUlCQml5bFFGajBTa0prZHVJalJxd20wMHVlTHEzeVVDeWpkVkVJSzRac1dsc1lYc2owQXFuNUFtVGdwUG5ldjlHb2tNQ0NPOENlNDlVeGV5WUdrWG5qN2lYemc0Q3NpVV9URmtwWl9oSzR3WE85ZHc3VGJhRHQ4?oc=5",
+        "publisher_name": "Complex",
+        "publisher_url": "https://www.complex.com",
+        "published_at": "2026-10-31T07:00:00+00:00",
+        "indicative_usd": 2200000
+      }
+    ]
+  },
+  {
     "group_id": "4b933538523b5a39",
     "title": "The Robert Taylor Ranch sold at auction for $12 million in 2012; a hedge fund had taken it two years earlier over a $27.5 million claim - Parade Magazine",
     "category_hint": "other",
@@ -4798,6 +5073,38 @@
     ]
   },
   {
+    "group_id": "152447f2e03055c5",
+    "title": "Rare dinosaur skeleton discovered in Montana sells for $47 million at auction - KTVQ",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      47000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-29T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "225c451a87ba7c20"
+    ],
+    "links": [
+      {
+        "candidate_id": "225c451a87ba7c20",
+        "title": "Rare dinosaur skeleton discovered in Montana sells for $47 million at auction - KTVQ",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM2RMb3MtUVN3ZFlhTHM3TTNXM1EyaDYwWFdKbDczemdxalYwdUg3aHpKWFRKblUyZGFlaXN5RklLZXI5U1hyRTRfQ2UxNzU1dXlKYkR4ZTdHQzItX2YwQ0xudU15bzNRaHZTTzlieE1SRG1ISFZlVUNBZXFMUG9rVHhTSmpFOU9ZVXJPV0pGVlg1TENtTlR5eGNqOU9lU0JXWUVFTQ?oc=5",
+        "publisher_name": "KTVQ",
+        "publisher_url": "https://www.ktvq.com",
+        "published_at": "2026-10-29T07:00:00+00:00",
+        "indicative_usd": 47000000
+      }
+    ]
+  },
+  {
     "group_id": "2f88a120dbf6f391",
     "title": "Long Island's Oheka Castle sold for $72 million at private auction - ABC7 New York",
     "category_hint": "other",
@@ -4827,6 +5134,70 @@
         "publisher_url": "",
         "published_at": "2026-10-28T07:00:00+00:00",
         "indicative_usd": 72000000
+      }
+    ]
+  },
+  {
+    "group_id": "f8e8e0da7cf67a18",
+    "title": "Oheka Castle sold for $72M at auction after Chapter 11 bankruptcy - News12 | Long Island",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      72000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-28T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "2ccbe2af373d7895"
+    ],
+    "links": [
+      {
+        "candidate_id": "2ccbe2af373d7895",
+        "title": "Oheka Castle sold for $72M at auction after Chapter 11 bankruptcy - News12 | Long Island",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMzdCZ2FWSkVqenpQZUFZV2xFV1hzNmdkRFdXOVdYNENnRmU4ZkV6YTQ2cTFqNzN2UGNicC1EYnhGTndsSTlUanFXakU5SWgtUDh2UkpfbVQ0SXZDbXRUR3dLdWZJclhCMlhRUzBFaUhMbkVGZmtxZFlfRHMzb1FkZkl2WDlkdktMMldqQ3dZa1NFWWRLMEZ3dHV5RWQzODc2LXR2M1RkWFZMSjdOemhVazRZTU5ibjhzemlObDZvSWJWMmc3RndN?oc=5",
+        "publisher_name": "News12 | Long Island",
+        "publisher_url": "https://longisland.news12.com",
+        "published_at": "2026-10-28T07:00:00+00:00",
+        "indicative_usd": 72000000
+      }
+    ]
+  },
+  {
+    "group_id": "aeeddc4770ed9e57",
+    "title": "Rare Nanotyrannus skeleton sells for $47.3M at US auction - Anadolu Ajansı",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      47300000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-27T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "1aa37a140f78887b"
+    ],
+    "links": [
+      {
+        "candidate_id": "1aa37a140f78887b",
+        "title": "Rare Nanotyrannus skeleton sells for $47.3M at US auction - Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGtrLWtlTmdWZF81aTBsb0hqNTJTUG9tQmloVGpCd0stSUxLekE5d1RJOE5ZNEFsUGNKMkZjTEx6aGt0NFdhMm5BS0Z4TFUyazdlUHZ1QnRkX19NTU40ZVhqaFE4YjFkS192VGVKaUR5aVQ5R1Aycl9yLWt2aEdZTlcxNmNBLWV6cFdjeF9TU1kwaUw3WUF6SDRjV2hqUQ?oc=5",
+        "publisher_name": "Anadolu Ajansı",
+        "publisher_url": "https://www.aa.com.tr",
+        "published_at": "2026-10-27T07:00:00+00:00",
+        "indicative_usd": 47300000
       }
     ]
   },
@@ -4863,6 +5234,38 @@
     ]
   },
   {
+    "group_id": "554d1d58c135d745",
+    "title": "Former Lisbon lettuce grower Springworks Farm sold for $1.1 million at auction - Sun Journal",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1100000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-26T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "0e1b0457bdeaca47"
+    ],
+    "links": [
+      {
+        "candidate_id": "0e1b0457bdeaca47",
+        "title": "Former Lisbon lettuce grower Springworks Farm sold for $1.1 million at auction - Sun Journal",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYlZvYl9YQVNNSElXMmtyTS12WER5T2NfQzhKSjF6eGJSQVNhenlYV0dCeWNMRDZqd2lwR0RhV2dCLVAwUmNIejVWNzltQjBrb19JS2lGTHYyTWlqcjEyZkpfeXg0ZDZ5Z0JQbzVZdGJ2RWZzdlBSNHRhVTJaXzZMU2p0cm1Pc1I0Z3Z3X2FqYTJCVnM1RzVRNlN6ZldDc3hsemliLTk2ZU9iXzhBbi0tY2ZJT1NnWlU?oc=5",
+        "publisher_name": "Sun Journal",
+        "publisher_url": "https://www.sunjournal.com",
+        "published_at": "2026-10-26T07:00:00+00:00",
+        "indicative_usd": 1100000
+      }
+    ]
+  },
+  {
     "group_id": "90dc9d2241c07bcb",
     "title": "A Rookie NBA Card Sold for $8.04 Million. A Collector's Windfall May Never Add a Dollar to His Social Security Earnings - 24/7 Wall St.",
     "category_hint": "other",
@@ -4891,6 +5294,70 @@
         "publisher_url": "https://247wallst.com",
         "published_at": "2026-10-25T07:00:00+00:00",
         "indicative_usd": 8040000
+      }
+    ]
+  },
+  {
+    "group_id": "984d46dce2f272ae",
+    "title": "$56.2 million Claude Monet “Iris” painting sets a French auction record at Sotheby’s. - Artsy",
+    "category_hint": "art",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      56200000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-23T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "b2d659509ab8d373"
+    ],
+    "links": [
+      {
+        "candidate_id": "b2d659509ab8d373",
+        "title": "$56.2 million Claude Monet “Iris” painting sets a French auction record at Sotheby’s. - Artsy",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWhVX21sRV9UU0owNm5rc0h3TXE0TFNLektQT2daVjdITXNlZWR4alZ0RVNRdDZieGJOUkdNMzljS1hpNm5jSEdxU1lYVlNxWXBKYlFiYXFkWU1Fd3JkOG5oVzBMNGcwZE1jemVINW5OalN3TDl2bGJMMnNNVVZVNnllR2Y4clgzX002UkxzRHRWOE1OWWhzdk1SdDIwZ0dyUjAwZ2p0ZzlLcnYxMFl3X0ZJZ3owUlV2VUlCTQ?oc=5",
+        "publisher_name": "Artsy",
+        "publisher_url": "https://www.artsy.net",
+        "published_at": "2026-10-23T07:00:00+00:00",
+        "indicative_usd": 56200000
+      }
+    ]
+  },
+  {
+    "group_id": "09a8d7935995b152",
+    "title": "Monet Painting Sells for $56.2 M., Setting French Auction Record at Sotheby’s Paris - ARTnews.com",
+    "category_hint": "art",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      56200000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-22T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "286fd352dc334534"
+    ],
+    "links": [
+      {
+        "candidate_id": "286fd352dc334534",
+        "title": "Monet Painting Sells for $56.2 M., Setting French Auction Record at Sotheby’s Paris - ARTnews.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2phUlpMaEFHNFhydGhjU2ZBdVVPQnlkOERtXzVfTUhWZGdQUE9zQ0hUOENkUmFaZjMzd3VZTVhZY1hqWXo3MTBQeEFIMDlCaS1OMGJwMXEtQzlVMy1FVFp4d3cxZi1JT0dhTXZKWTh3Q2k4cElxcHRMYTBBRkxuY19UNjJSTVphckV4QnRsSHZaanRCSE5KOEk5OVkyRVEyWWtFQncyTzMydw?oc=5",
+        "publisher_name": "ARTnews.com",
+        "publisher_url": "https://www.artnews.com",
+        "published_at": "2026-10-22T07:00:00+00:00",
+        "indicative_usd": 56200000
       }
     ]
   },
@@ -5216,6 +5683,70 @@
     ]
   },
   {
+    "group_id": "317bdeca4cbd83a7",
+    "title": "From $30 Estate Sale Discovery to $1.35 Million: Abercrombie’s Shells Sets New Auction Record - ArtDependence",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1350000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-03T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "a8bbabb8c1c60edb"
+    ],
+    "links": [
+      {
+        "candidate_id": "a8bbabb8c1c60edb",
+        "title": "From $30 Estate Sale Discovery to $1.35 Million: Abercrombie’s Shells Sets New Auction Record - ArtDependence",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN29DQ0NNMXRsbHV2aWVJaU0yTk9XQWo3V0t5SjVyZFktdk9uazZiNjFHdnVyMUxQN2RDOGtKblFzLS1HWXVVTUZ5bXVsZlBnMVBYRnYybU9ubEVKM1hWTWdMUzRvdTkxWFdER0c3R1hzNnhyQ2FHb2ZQQ1VvQnB3V0RwMGNZRGlCLS15MTJwNVFlbUF6UGdkYmlRSHVDWlhpeUFFMjRyUDhOTU5ZUEdJUXRYdDVyb3JOdmpwOWZldUp2bUk?oc=5",
+        "publisher_name": "ArtDependence",
+        "publisher_url": "https://artdependence.com",
+        "published_at": "2026-10-03T07:00:00+00:00",
+        "indicative_usd": 1350000
+      }
+    ]
+  },
+  {
+    "group_id": "cd3bb26df0a21fbe",
+    "title": "This $30 Estate Sale Find Just Sold for $1.35 Million at Auction - ELLE Decor",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1350000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-02T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "77ab2997c2b625e0"
+    ],
+    "links": [
+      {
+        "candidate_id": "77ab2997c2b625e0",
+        "title": "This $30 Estate Sale Find Just Sold for $1.35 Million at Auction - ELLE Decor",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTTVhUUJaajRCWEp5Ukdhakc4VVZKVlZoQnhjVXNZTXE0a2NDS3pUMDRuUWRfN0Zqdnkyd0ZRbDgxc2cxVTF5Q0RkOC1YSHdVVzlwVDdnZmVFUllKODZWWWxlRzQ1alFYR0ZMSXJuanpaLXJuOUR2V2hkaWpaMFY5aEhRbHlVT00wRHpIWlVDR3Zxd3dONnBUV0k1M0lNVjg2czFSeFV2ZU1aVElRTVE?oc=5",
+        "publisher_name": "ELLE Decor",
+        "publisher_url": "https://www.elledecor.com",
+        "published_at": "2026-10-02T07:00:00+00:00",
+        "indicative_usd": 1350000
+      }
+    ]
+  },
+  {
     "group_id": "21e53de0b3eb74dc",
     "title": "Mellon Blue Diamond: The Ultra Rare Stone Sells for $25M - Natural Diamond Council",
     "category_hint": "jewelry",
@@ -5244,6 +5775,38 @@
         "publisher_url": "https://thediamondcollective.world",
         "published_at": "2026-10-01T18:54:16+00:00",
         "indicative_usd": 25000000
+      }
+    ]
+  },
+  {
+    "group_id": "813e4e6921c42bf2",
+    "title": "Long-lost painting by Chicago artist Gertrude Abercrombie found at estate sale sells for $1.35 million at auction - CBS News",
+    "category_hint": "art",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1350000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-01T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "ecc0cb8782809420"
+    ],
+    "links": [
+      {
+        "candidate_id": "ecc0cb8782809420",
+        "title": "Long-lost painting by Chicago artist Gertrude Abercrombie found at estate sale sells for $1.35 million at auction - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXVWb2dYdnBLZTFLckZlZGxFcHZua3IwVTEtODAtajF4V1RXSzFKOHJobjVTU21wLWVoQ3FiY1RNTE1zUU1wMnFwblFMQ1g5YlI4YjVqS0J0c3JLTW1vNnpmeXFnZ21hcnFYZ3dXaVlsZ29LQ0pYY2V2Y3RzZnhtZGJNQUNfZ1hFbmNsUGdzWEZfQVU1Q2NQbW1kSDkwbndJakJwYzRn?oc=5",
+        "publisher_name": "CBS News",
+        "publisher_url": "https://www.cbsnews.com",
+        "published_at": "2026-10-01T07:00:00+00:00",
+        "indicative_usd": 1350000
       }
     ]
   },
@@ -6117,6 +6680,38 @@
     ]
   },
   {
+    "group_id": "27b239982c793992",
+    "title": "[VIDEO] SOLD! 1963 Corvette Grand Sport Chassis 003 Sells for $18.7 Million at RM Sotheby’s Monterey Auction - CorvetteBlogger",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      18700000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-08-15T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "ed16077c7d814d39"
+    ],
+    "links": [
+      {
+        "candidate_id": "ed16077c7d814d39",
+        "title": "[VIDEO] SOLD! 1963 Corvette Grand Sport Chassis 003 Sells for $18.7 Million at RM Sotheby’s Monterey Auction - CorvetteBlogger",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQelNaZUo4elFhREZlZHlOZFZWcGJCQVlteGVTYm9nOEJ5Z0dlV0dvM2p2SS04cW4tTWJBWWpkTGZtdjJCZ05laXZzUGwwdjQ1WFM5dGNOaDJwUVVuVm5IM3NJSzFLemVIQkZ3b2JwNF81YjBkNGp3WkNnUkE3ZXNHNkVKWVo0ZDdRQm1ISjl2cXBkLUhNSUdmWnRpQjdCam01eW9IS3VUdncwTEh3QXFkT242elRiOVBkcWdibmZhd3FBZ2xLdkVmZVdJYjh0SVI4NjZLUWhESEZLZnZQXzhRVg?oc=5",
+        "publisher_name": "CorvetteBlogger",
+        "publisher_url": "https://www.corvetteblogger.com",
+        "published_at": "2026-08-15T07:00:00+00:00",
+        "indicative_usd": 18700000
+      }
+    ]
+  },
+  {
     "group_id": "33016a23fd797830",
     "title": "Restored Honus Wagner Baseball Card Sells for $1.3M in Kingston - Chronogram Magazine",
     "category_hint": "other",
@@ -6342,6 +6937,38 @@
     ]
   },
   {
+    "group_id": "c4e1f6d30edb2f47",
+    "title": "T. Rex Sells for Record $50 Million at Sotheby’s Auction - Bloomberg.com",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      50000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-07-14T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "f8d40a65a5770330"
+    ],
+    "links": [
+      {
+        "candidate_id": "f8d40a65a5770330",
+        "title": "T. Rex Sells for Record $50 Million at Sotheby’s Auction - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaEVrMHJQcWE5SXF2S1d1UzRPX3JPdk56aFA3UUpqOGh0Z2E5b21NV1hGNGlycExrYzFCYWFsdWdvTUdwdll2OTE1S3Uzcmh6UHFqeEJYLWJTZE5KNnM4b3RzV1dtNnUyOVpQMjFlSVZpYWc5cHlOZ243R3VJak5hbEttZkhqVjhyLUEtQk5WaVlsaFFQM29acUR3SDBjQ1NoMTMwejRDa0E?oc=5",
+        "publisher_name": "Bloomberg.com",
+        "publisher_url": "https://www.bloomberg.com",
+        "published_at": "2026-07-14T07:00:00+00:00",
+        "indicative_usd": 50000000
+      }
+    ]
+  },
+  {
     "group_id": "96480d57268aa9b5",
     "title": "South Dakota T. rex fetches $50 million at auction - South Dakota News Watch",
     "category_hint": "watch",
@@ -6401,6 +7028,38 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3lrR0lRTWJVYl9tSWhabW0tWFhJdmg0TGg3QlhmcjJqV3FIZUhGUHA4QVIzZnJRbEZyRDRRMXVIcjNZNlNBeThnY2dKcklWeGhUWEdYU0xIa3pwTF9TNS03TzhwYllNRkxxRFdzNDNBRDU3OGhFWk9LMUNZVlJlTF96eU15QjJOT2tacnBWbFl1UFJRc01MOGlKakpPTDY4?oc=5",
         "publisher_name": "Gulf Coast News and Weather",
         "publisher_url": "",
+        "published_at": "2026-07-14T07:00:00+00:00",
+        "indicative_usd": 50100000
+      }
+    ]
+  },
+  {
+    "group_id": "693fabbec9a3b937",
+    "title": "The Most Expensive Dinosaur Just Sold for $50.1 Million - WSJ",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      50100000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-07-14T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "3fba4c9923e30208"
+    ],
+    "links": [
+      {
+        "candidate_id": "3fba4c9923e30208",
+        "title": "The Most Expensive Dinosaur Just Sold for $50.1 Million - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHFZYUstRXBScmRxQjRSSzc2VjVMelRCeUE3VUtNa3ZxVlgta3dxNExDYUg3WXp2aHlkS1RjQlIzT3ZleTZTTzRQdmNiYUZ0dEVfMzVPWlFfRTZ2LWhyWnBMZmlINUNFeUJmMDhEdEI2NWxNZzNfejJ3RWc4VEYyTl9aQ3ppYWVOQlBqRmNQMDU?oc=5",
+        "publisher_name": "WSJ",
+        "publisher_url": "https://www.wsj.com",
         "published_at": "2026-07-14T07:00:00+00:00",
         "indicative_usd": 50100000
       }
@@ -7207,6 +7866,38 @@
         "publisher_url": "https://www.watchpro.com",
         "published_at": "2026-04-27T07:00:00+00:00",
         "indicative_usd": 2000000
+      }
+    ]
+  },
+  {
+    "group_id": "57f8b683157cc158",
+    "title": "$33.5 Million Sale Heralds New Auction Record for Claude Lalanne - Ocula",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      33500000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-04-23T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "e0bc35f752d79802"
+    ],
+    "links": [
+      {
+        "candidate_id": "e0bc35f752d79802",
+        "title": "$33.5 Million Sale Heralds New Auction Record for Claude Lalanne - Ocula",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTTVzZVhycEI5bXI5TzM1M1dnVWY0TFh3WnFBYk12TXBJMlR5b0pFNVA0bXFCaUNNZFR5eTdoVVdubGViM1pPY2c3Um9neTJKUDZYc0JrZWszNEdoSFZtbzhOSmZNTlR4MW5FZzRya1gwWXhzbjNNbHFvdTZQYU5VaW5kbUI?oc=5",
+        "publisher_name": "Ocula",
+        "publisher_url": "https://ocula.com",
+        "published_at": "2026-04-23T07:00:00+00:00",
+        "indicative_usd": 33500000
       }
     ]
   },
@@ -11974,815 +12665,6 @@
         "publisher_url": "https://entertainment.ha.com",
         "published_at": "2021-07-17T07:00:00+00:00",
         "indicative_usd": 915000
-      }
-    ]
-  },
-  {
-    "group_id": "d6c56a8b2d5ca158",
-    "title": "Rare copy of 'Super Mario 64' video game sells at auction for $1.56 million - USA Today",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1560000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-07-13T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "15ffccc77957369e"
-    ],
-    "links": [
-      {
-        "candidate_id": "15ffccc77957369e",
-        "title": "Rare copy of 'Super Mario 64' video game sells at auction for $1.56 million - USA Today",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdG5UbTdEX3J3YkRLN2xaMjZHM21xYjE2SnFBRW1kT1JDYV8tNWZQbXgyc04xX25XSVlzbUFEWmdQaklWZUtWQVR4cExiT3IyMnhEZTVvRVdORVl2b1BiTHlodUVIM1kyVlRhSlF1M3Z4RnZCRDFLVmVxR3F2dGp0QS0xUHYyS05wYmxWOEp3MVg5TkJwQk9VWjlSVHJzMFVnM2NIcS16Yw?oc=5",
-        "publisher_name": "USA Today",
-        "publisher_url": "",
-        "published_at": "2021-07-13T07:00:00+00:00",
-        "indicative_usd": 1560000
-      }
-    ]
-  },
-  {
-    "group_id": "952d57c19830ba60",
-    "title": "The World’s Most Valuable Coin Sells at Auction for $18.9 Million - Smithsonian Magazine",
-    "category_hint": "coins",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      18900000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-06-11T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "e36e4014043c06bc"
-    ],
-    "links": [
-      {
-        "candidate_id": "e36e4014043c06bc",
-        "title": "The World’s Most Valuable Coin Sells at Auction for $18.9 Million - Smithsonian Magazine",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS0R4TFdDZC1WUmQyLS1rQjdLYlhWNGdLeThjSUdPcmxjaUJZQ1VIVEpDbEI2b3FkNlFvV29ZWENPYjlYV0hOUWYwWnlVNmFWX1NvWDVmR1k5ZnRZNkFLREd3VGJUeG1YeEZoMlRsQ01DWVNpSTcwM3BCVDlsYjE4SzNmWWtIeF93VS1OUm1EcDJlSG1VV3ZnU0gzMk54U3FDNUlVZ3llTlZlOXp4QzVVX0FiUzRja1RKMjJQZ2FQSWVLNmc?oc=5",
-        "publisher_name": "Smithsonian Magazine",
-        "publisher_url": "https://www.smithsonianmag.com",
-        "published_at": "2021-06-11T07:00:00+00:00",
-        "indicative_usd": 18900000
-      }
-    ]
-  },
-  {
-    "group_id": "a03fb3bdba43faa4",
-    "title": "'CryptoPunk' NFT sells for $11.8 million at Sotheby's - Reuters",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      11800000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-06-10T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "45695d50c7cfd355"
-    ],
-    "links": [
-      {
-        "candidate_id": "45695d50c7cfd355",
-        "title": "'CryptoPunk' NFT sells for $11.8 million at Sotheby's - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTzRvMm9OdTZKN0d5cU5ha28xb0lMdWJQM2w5dC1pMjVZYU55MlJKTHE2UnpuMWdvdTNFbjdvS1lUMTk4d3JpN1NEbWZsRE5XTUlyVTFlUDNxU3pIWmdDZDYta0NhY0NBQVg2cVRZWURNN3E2YTNqTjhtQ2daRjNvZkNpZU1SSXkyRExUT3QyVENrQQ?oc=5",
-        "publisher_name": "Reuters",
-        "publisher_url": "",
-        "published_at": "2021-06-10T07:00:00+00:00",
-        "indicative_usd": 11800000
-      }
-    ]
-  },
-  {
-    "group_id": "d109fb8a881ce4fb",
-    "title": "The 15-Carat ‘Sakura’ Purple-Pink Diamond Sells for $29M - nationaljeweler.com",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      29000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-05-26T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "aa325e14897f6e74"
-    ],
-    "links": [
-      {
-        "candidate_id": "aa325e14897f6e74",
-        "title": "The 15-Carat ‘Sakura’ Purple-Pink Diamond Sells for $29M - nationaljeweler.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVU8zNnFtRVRJS1BEZzlDWGdvWl92Z0hLTTVIc3p6X1hHeHhqbFdCRlhONldsQkd4ZzJXRVRxOG9aTzY3TU54ZDZBOHNUSFRkX25NZHRseGJKQ2dOUHFNc1ZHOTlOeFNtNEd0cDdxaFlOZy1RY2hWU3k3OFF4Vnl6dlRXR0tWdzV1U1R3U0wta0FQQk1jWE5MX1o1NHdBMUN3?oc=5",
-        "publisher_name": "nationaljeweler.com",
-        "publisher_url": "https://www.nationaljeweler.com",
-        "published_at": "2021-05-26T07:00:00+00:00",
-        "indicative_usd": 29000000
-      }
-    ]
-  },
-  {
-    "group_id": "6ddb07ff49b0db6d",
-    "title": "Copper Prototype of First U.S. Dollar Brings $840,000 at Heritage Auctions - Heritage Auctions",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      840000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-04-23T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "bb17748330aaebac"
-    ],
-    "links": [
-      {
-        "candidate_id": "bb17748330aaebac",
-        "title": "Copper Prototype of First U.S. Dollar Brings $840,000 at Heritage Auctions - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVHlUMzdONThtTUQ5cHQ2RnZVOF9xNm9hM0dsb1dKbXdPLWh5aTBLdUVnWU1HeElLanEwX2M3aU5GMGI3ZjZmSWY3R1lGeGhBZlZqY0pySFlQQmxua3JzRTEwWXpKaENFeTdVckd3R0JxWUstTGc4TkU2TUVkZVdrZENIVDhaRXUtbVB0MG1fNzQ3a1B2M0hYQ1BHM1lsc3cxUGRsZTZRaWJKMzlzZ2o3NXpVVzNvUE1Sc1prdlhLX1E3blNVTWF1MVJkWElRdEVkanVtNVM1TjRRVFdPNWNzVFhfeW1mcnAy?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://coins.ha.com",
-        "published_at": "2021-04-23T07:00:00+00:00",
-        "indicative_usd": 840000
-      }
-    ]
-  },
-  {
-    "group_id": "f1892ead65a5f413",
-    "title": "$17 Million Realized in Sotheby’s First NFT Sale with Digital Creator Pak - Sotheby's",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      17000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-04-16T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "927f45e9490705e5"
-    ],
-    "links": [
-      {
-        "candidate_id": "927f45e9490705e5",
-        "title": "$17 Million Realized in Sotheby’s First NFT Sale with Digital Creator Pak - Sotheby's",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVkyN1hhN016cVQtdTZhbHZOMkttcW5lcnMwLWctbG91UGpZZjhESkhkVzQwX3hPNXhoWmtONW5SVG9UQ2VOZmloOG5HTGZKMm5UbHhiVXdTR2E2OWItUGxjaGZFcTlzaHZiZmlnaS1sbWRIUG1nLWcwa2k4aUZyb3U4UVItMUw1Z3BBdXMtX09BY3B1V3VkZjY5aF9yYTBXUzJxaWtVZmoySjhl?oc=5",
-        "publisher_name": "Sotheby's",
-        "publisher_url": "https://www.sothebys.com",
-        "published_at": "2021-04-16T07:00:00+00:00",
-        "indicative_usd": 17000000
-      }
-    ]
-  },
-  {
-    "group_id": "558d3fdf0ae81526",
-    "title": "1797 Half Dollar Sold for $1.68 Million in the Stack’s Bowers Galleries March 2021 Auction - Stack's Bowers",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1680000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-04-08T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "d0ae53ba10b7d5f6"
-    ],
-    "links": [
-      {
-        "candidate_id": "d0ae53ba10b7d5f6",
-        "title": "1797 Half Dollar Sold for $1.68 Million in the Stack’s Bowers Galleries March 2021 Auction - Stack's Bowers",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUDZzbW5keWNORlJkbnI5TkEyb1k4Q01QMEtYWkh3aWdKTENSNGI5NWtjV3JMZ0dacHpjSGhxc2ljSEhsY1l1RlI1YklZUHAzMGFOajFhbldaY3FzMkVCejlNVk1YdDF0MHBFbWNXRFRIRVVGbFZNUzFzcHZMNFBScC1pTmktcVdJZ0E1TXNTdlVzZktGLWJHZVQxMzJGT28?oc=5",
-        "publisher_name": "Stack's Bowers",
-        "publisher_url": "https://stacksbowers.com",
-        "published_at": "2021-04-08T07:00:00+00:00",
-        "indicative_usd": 1680000
-      }
-    ]
-  },
-  {
-    "group_id": "b147088f816598d4",
-    "title": "Rare Super Mario Bros. cartridge sells for $660K, highest price ever for a video game - Polygon.com",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      660000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-04-02T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "fd9bc36121806f67"
-    ],
-    "links": [
-      {
-        "candidate_id": "fd9bc36121806f67",
-        "title": "Rare Super Mario Bros. cartridge sells for $660K, highest price ever for a video game - Polygon.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNE1mLXBpdWtQcGFra0xGNE1pOThtRS1NZm1QZ090LUZoVHF4TFhSVTl1WEVTVjlSZlpHTUFBOFAzbVppWlZtZTdVcDBWVHJhUkpQNlFSeWRwQ2JoQkVxOW82ZUNSR09BZUloMkxYSzZYTkx6U2NLa2s2aHJaazdZRDFGVkNhaE9UWWVMMXk0Y1VnMy1CcVZwYQ?oc=5",
-        "publisher_name": "Polygon.com",
-        "publisher_url": "",
-        "published_at": "2021-04-02T07:00:00+00:00",
-        "indicative_usd": 660000
-      }
-    ]
-  },
-  {
-    "group_id": "9052e572e327cd26",
-    "title": "Record-Setting Paramount Collection Brings $41.94 Million at Heritage Auctions - Heritage Auctions",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      41940000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-03-30T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "2c8e160e5e4ae215"
-    ],
-    "links": [
-      {
-        "candidate_id": "2c8e160e5e4ae215",
-        "title": "Record-Setting Paramount Collection Brings $41.94 Million at Heritage Auctions - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUkdILVlkSXpfNnJtRzNVYUxKdWhEeW9kV1liUkpTYWNJbGpzbVN3Wkd2bmNoRVZtc1ZqTEpxckdfeTYyenZTdmFYOHh3QXZZYnhrcEVoSlJHeS1kbjNDMVZITVFUZll5UV8zTV9jR1BpVGlNXzNhVXpqSzJtYkZyTmNxVWdtWFNZVjlQUUFMODE5bGtkYW8wVnBhQVE0M0JwdUZfNjhoUnFqNENqSlIwNU9GNGZUcWZxdklmWWI5WXJYYUVJN3dEZTk4cktjcGVFZUs3MkwybHR1bEtlRnRUUGVScWl1XzFoSG9LcnJB?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://coins.ha.com",
-        "published_at": "2021-03-30T07:00:00+00:00",
-        "indicative_usd": 41940000
-      }
-    ]
-  },
-  {
-    "group_id": "58b22bc580be5cba",
-    "title": "World’s Most Expensive British Coin Brings $2.28 Million at Heritage Auctions - Heritage Auctions",
-    "category_hint": "coins",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      2280000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-03-26T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "e750cc2f54d4f363"
-    ],
-    "links": [
-      {
-        "candidate_id": "e750cc2f54d4f363",
-        "title": "World’s Most Expensive British Coin Brings $2.28 Million at Heritage Auctions - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQndzV3Qxdm0zcHpjQldKM2hzTEJ6MXJSZ0JuMHJxeGFYVHp2VjVHM0ZUX19EeW5xbmtfUDZic0ptRE16MHhJc1Z0Q3I3TVVvYUdVQmo2OVZxQjNHV0pfVF9WNzVLWklMVlBHUkJkMDFvd3pZUXRLN2FHZFVQN0dFUkZRSG9KbFN0STRVMG1paHBWS0Fub3JRV3dXUnhsUjRGS2pkd3plajBURVRMX3M3REk2T3Q5Sms2cERJVW1udE1qd09xZW51NUZxMXh6QWRZdF9FalcteTJlb0V3MXZfNUVtVElrY0VMU3VKVg?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://coins.ha.com",
-        "published_at": "2021-03-26T07:00:00+00:00",
-        "indicative_usd": 2280000
-      }
-    ]
-  },
-  {
-    "group_id": "570ea1398a96d839",
-    "title": "Historic 1822 Half Eagle Sold for $8.4 Million in the Stack's Bowers Galleries March 2021 Auction - Stack's Bowers",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      8400000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-03-26T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "4f65be8c2081e316"
-    ],
-    "links": [
-      {
-        "candidate_id": "4f65be8c2081e316",
-        "title": "Historic 1822 Half Eagle Sold for $8.4 Million in the Stack's Bowers Galleries March 2021 Auction - Stack's Bowers",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNWJWSmJ6cktuSWVMdGZQT1Bib0loTDZ0RnpHQTFDdTBJcGdaU3gwTW5jZFF3QVFRRVNVeEY1T2VncVhLbnRlZGlObkxNeDY3LXFwdndKYnFfU1dPck5UUE5PMm1DLXpKUnMxN1VOejloaWF2Ymp5N3VERnpKcXNOa2g1RE00eE5tUmp1VWpQY2NEN0dsOFMwaVZ4WjRWVjJmTU9oUjlR?oc=5",
-        "publisher_name": "Stack's Bowers",
-        "publisher_url": "https://stacksbowers.com",
-        "published_at": "2021-03-26T07:00:00+00:00",
-        "indicative_usd": 8400000
-      }
-    ]
-  },
-  {
-    "group_id": "c50aecb1adfc2eb4",
-    "title": "RELEASE | The First 5000 Days, sold for $69,346,250 to Metakovan, founder of Metapurse - Christie's Press",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      69346250
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-03-12T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "5da855aae2a31882"
-    ],
-    "links": [
-      {
-        "candidate_id": "5da855aae2a31882",
-        "title": "RELEASE | The First 5000 Days, sold for $69,346,250 to Metakovan, founder of Metapurse - Christie's Press",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXRCZmdQSkRUR3Z6RDdDc0VJMmRzeGY0anhQVngzdlFxczluTHlNRFNOTDZqMmJiSkJDRWh6T3lsTXU1d0poSm5GbzdEM0NsX3VtOGZOYVluM2tBSXNjWTRtMU1aandkclhrQjg5dW9qSjJtSER5Q1hFR2ZuRERodkJqOFhnVk9SX3NkelhGc284THlmWW50ZmhuS3d5ZlBTRnV6XzE5VWh3OGg5cVZPTg?oc=5",
-        "publisher_name": "Christie's Press",
-        "publisher_url": "https://press.christies.com",
-        "published_at": "2021-03-12T08:00:00+00:00",
-        "indicative_usd": 69346250
-      }
-    ]
-  },
-  {
-    "group_id": "722f2ffa17613503",
-    "title": "JPG File Sells for $69 Million, as ‘NFT Mania’ Gathers Pace (Published 2021) - The New York Times",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      69000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-03-11T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "8c0ce02573aad9cc"
-    ],
-    "links": [
-      {
-        "candidate_id": "8c0ce02573aad9cc",
-        "title": "JPG File Sells for $69 Million, as ‘NFT Mania’ Gathers Pace (Published 2021) - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUldaU2ZhTGlGQWVYLTVqYV9lQU1HWVZOdG1hS2dFX0ZQbVphSTlWWUVrOTM1WEt6aUpjNnFvQ2k0LUpDNGdTbGhOLUdtWUZ6eHFuX3hvRGRnSUVGTWtORTczUjBtQ3E5dVhTdk1iaW42YzhfdGZUVlE1UlN0QWxrNmJBZmtUaUU?oc=5",
-        "publisher_name": "The New York Times",
-        "publisher_url": "",
-        "published_at": "2021-03-11T08:00:00+00:00",
-        "indicative_usd": 69000000
-      }
-    ]
-  },
-  {
-    "group_id": "cb1efc5bb68ce13e",
-    "title": "Beeple sold an NFT for $69 million - The Verge",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      69000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-03-11T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "57d5da404d7351f8"
-    ],
-    "links": [
-      {
-        "candidate_id": "57d5da404d7351f8",
-        "title": "Beeple sold an NFT for $69 million - The Verge",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLW90VjF1cnpuX2oxVEVadEFJYzFXMy0tX2xYampfdHNXLVNFeG5MenJBRGI2ZW5YWTllN09rQjcxeHRvZTZkdi1Gb0dzZ2hQb25tYjdJdUxQd3AxMUUwWmRQZ2NWaVRVMTBhZlZWSDM4NUg2R3Q5S1diWkhKODVTR1dIRUk0Y0xyY3NMYWlfZ0JaUjRCN0NHTlFuMA?oc=5",
-        "publisher_name": "The Verge",
-        "publisher_url": "",
-        "published_at": "2021-03-11T08:00:00+00:00",
-        "indicative_usd": 69000000
-      }
-    ]
-  },
-  {
-    "group_id": "83b01056ef0aa47e",
-    "title": "This rare rookie card of Chiefs’ Patrick Mahomes sold for $861,000, setting a record - Kansas City Star",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      861000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-02-02T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "0b83a09dc858262b"
-    ],
-    "links": [
-      {
-        "candidate_id": "0b83a09dc858262b",
-        "title": "This rare rookie card of Chiefs’ Patrick Mahomes sold for $861,000, setting a record - Kansas City Star",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUDNIXzdnaHFic1VyRXhSdks0LVBtTnRVNlByNDhkY3oyN3AtcEdnVm5ZeXk1X1VubXRsRTkwUGxyZTlHWVZKQnM1aVd0NDRfaUR2RV9zQ3hYLXczWHI1dE5aS01sSXZoYkZnQmdDaEhPUHpPSXUzYk9NczhvZzJiY3A2ZTRWbmtTVlRyV0RSalFWd9IBkgFBVV95cUxPVTVHWFFoU2JrQmZ3cWFtbWotcm5GQlR0Y21rbzBnWFpPUE9qZVVHSTZUbWQwS3psV0xWMkpTSVFBZk1JWVM4eW5nTHQyNnFZYjduN3dOd2k2bnBtdUVaUFVfVFk0RXlnMHBkX2tscWEyN1BtMjRVSWMzS3hjN3hDX09pVVRrZG1DRzdJNGFYRjdUdw?oc=5",
-        "publisher_name": "Kansas City Star",
-        "publisher_url": "",
-        "published_at": "2021-02-02T08:00:00+00:00",
-        "indicative_usd": 861000
-      }
-    ]
-  },
-  {
-    "group_id": "4ab14c1aaec9af96",
-    "title": "**NEWSFLASH**NEWSFLASH** SANDRO BOTTICELLI'S PORTRAIT OF A YOUNG MAN HOLDING A ROUNDEL SELLS FOR RECORD $92.2 MILLION AT SOTHEBY'S NEW YORK - Sothebys.com",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      92200000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-01-28T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "88a02b579d0c4037"
-    ],
-    "links": [
-      {
-        "candidate_id": "88a02b579d0c4037",
-        "title": "**NEWSFLASH**NEWSFLASH** SANDRO BOTTICELLI'S PORTRAIT OF A YOUNG MAN HOLDING A ROUNDEL SELLS FOR RECORD $92.2 MILLION AT SOTHEBY'S NEW YORK - Sothebys.com",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wZG5Zc0VVRXRSWE1xUEpobUtneTVjUE4zbU41TFVXREZPT1NDSlB3aERSV0dRaG8zb1V2SXNEVXNfTmt2ZGhOZTJyU2p0bndtYUhvaGtxaGk2UWNTbDlVYlZVWi1YTGRHYTA5dm53?oc=5",
-        "publisher_name": "Sothebys.com",
-        "publisher_url": "https://www.sothebys.com",
-        "published_at": "2021-01-28T08:00:00+00:00",
-        "indicative_usd": 92200000
-      }
-    ]
-  },
-  {
-    "group_id": "1b17eb1e28ab841f",
-    "title": "Christie’s Hong Kong Modern and Contemporary Art auction series achieves HK$1.73 billion, the highest total for any auction house in Asia this year - Christie’s",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1730000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2020-12-09T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "474e6657db23f2d7"
-    ],
-    "links": [
-      {
-        "candidate_id": "474e6657db23f2d7",
-        "title": "Christie’s Hong Kong Modern and Contemporary Art auction series achieves HK$1.73 billion, the highest total for any auction house in Asia this year - Christie’s",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORDUtYWo2dV9RWW40R25jNWFYLV9nMDRJWVMwS3FMU0U2ajIwZUsxa1lxYzBGS2VzZm9teVQxVTM1Q0ZYUG8wMXZ1NHpNNzhra1RSeTVhTXY2bmlMdkhLMURlMzBOamFtWHQ1ek5lRUdhalYzN1FLSmRmZkQ5cXBtM1NnTUc1a010VW5SY2w0dGltdFl4UXRxZ3loV090OVNZUXZYQ0JRdHNEX2puNXhEd3ZUOVVqU0JtMWEtb2NQSU5mWVpMTGtpSU9iOXEzVHotb1d4d3R3OA?oc=5",
-        "publisher_name": "Christie’s",
-        "publisher_url": "",
-        "published_at": "2020-12-09T08:00:00+00:00",
-        "indicative_usd": 1730000000
-      }
-    ]
-  },
-  {
-    "group_id": "82aec2f638f36ce8",
-    "title": "The Larry Ness Collection of Indian Peace Medals Brings Over $900,000 at the Stack’s Bowers Galleries November 2020 Auction - Stack's Bowers",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      900000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2020-11-20T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "5837ef8fb3768246"
-    ],
-    "links": [
-      {
-        "candidate_id": "5837ef8fb3768246",
-        "title": "The Larry Ness Collection of Indian Peace Medals Brings Over $900,000 at the Stack’s Bowers Galleries November 2020 Auction - Stack's Bowers",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONG1EeXB6UDE1QnpaSERfMGNyQk9yTUdRQnU4aXlQbWhWd1NfUC1BNlYtQ0MtVlFKSlVxN2ItcEpFMllVd1BZTVRIZzNhUDhhVWdWcFRtamRHVlg1bFJkRHVSX2RheTA5RmpaOU56QWlYVGx5czJnZUpGLUlPbkQtRFpfMDRMVV9sNnVpRjFGcDUtUDN2aXRUT1M0bDNDSVhVZHJKNlpGdW5WOThvSEFV?oc=5",
-        "publisher_name": "Stack's Bowers",
-        "publisher_url": "https://stacksbowers.com",
-        "published_at": "2020-11-20T08:00:00+00:00",
-        "indicative_usd": 900000
-      }
-    ]
-  },
-  {
-    "group_id": "e0a657124773b2ec",
-    "title": "This 15-Carat Pink Diamond Sold for $26 Million - nationaljeweler.com",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      26000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2020-11-12T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "a13d73a8557ebdb9"
-    ],
-    "links": [
-      {
-        "candidate_id": "a13d73a8557ebdb9",
-        "title": "This 15-Carat Pink Diamond Sold for $26 Million - nationaljeweler.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZEduc2VKaklJMUllSThWQ2VOUDJlZjFXVVVocDZ4b1JmcXhURHNNLW1aNnEtQms0bFAtd1ZZQVFadFVkbmZiQkQtQkJKaEh6Q0VzZzNFZGhuY0Z3ZWR0R0xudDBJS0tMTTVMN2FrWllGdVM3Ym45cmJIaFBIZXBTZ3dTM1dPRE1SN1JIcHk0T2lVaUh3V1VV?oc=5",
-        "publisher_name": "nationaljeweler.com",
-        "publisher_url": "https://www.nationaljeweler.com",
-        "published_at": "2020-11-12T08:00:00+00:00",
-        "indicative_usd": 26000000
-      }
-    ]
-  },
-  {
-    "group_id": "d1c19b67a587c154",
-    "title": "Patrick Nagel Portrait of Real Housewives Star Jeana Keough Brings $350,000, Shatters World Record - Heritage Auctions",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      350000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2020-10-16T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "6e92b92012a5006a"
-    ],
-    "links": [
-      {
-        "candidate_id": "6e92b92012a5006a",
-        "title": "Patrick Nagel Portrait of Real Housewives Star Jeana Keough Brings $350,000, Shatters World Record - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNlFpaEFmYk94NFZBcVp2eHRRRlE4VTlWX0ZJNThtUWJ1YXphN1l0NHhONktBQmJEMEV5OUFYTTZmYk9xdk5sSVZIS0dTRDRab01vbVR6SmV3eUlOeUkzSWpSc2xFNGxBRTVfQ2tZTWI5S25aeVBKWVB2QnJqNTRyYmJWb25KS29kcFoxdm80Z0l3amVmWGxuR2FSOVp5OV9EdTdBb2FRMUNkWVVVNWdUUFU1UDNVZ0xEMDQ5bmltdjh3WUtIc1AtVUQ4cUExRXZ0TFFOTE1EZjd0VlJieDdjQ3NJalVmMWE4XzgtUkN0bW1hRE9NZmZKNHdsWlRfTGFGZjFpdks4amZQZw?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://fineart.ha.com",
-        "published_at": "2020-10-16T07:00:00+00:00",
-        "indicative_usd": 350000
-      }
-    ]
-  },
-  {
-    "group_id": "f8fb7ece2878761c",
-    "title": "RELEASE: William Shakespeare’s 'First Folio' Sells for $9,978,000 and Sets World Auction Record for Any Work of Literature at Christie’s - Christie's Press",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      9978000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2020-10-14T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "295f0c2429d1df83"
-    ],
-    "links": [
-      {
-        "candidate_id": "295f0c2429d1df83",
-        "title": "RELEASE: William Shakespeare’s 'First Folio' Sells for $9,978,000 and Sets World Auction Record for Any Work of Literature at Christie’s - Christie's Press",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0h6aVFJTGtJMVNYV1BqWjZLUmJ1Wm55Z0xqUW9rTFhzcDYtaGtRYVp2V19aaXplM0xfcE5lZUNLRUJVTk1hQlpNR2lDYXo2M215NTY0bFlwRjV0YzZMaE9RMU1FS0xIdGVkRW9MeHBkUzJ1dXkxVzlVRllhSGhQaW9qaGpRaGhfUE5TN3A0RklYb3hnN1E3clNwLUdxNDlZaEpqRTV6cUlFM2pwM0pvc20xLWN2VmhRcjJ0YXNTWkNKTDdTNWRUQ1Y1UnVZdVJRWHJ3S25tT0w2VjNXdkpxUjduYS1ucHd2bm5yN09OWUVHZw?oc=5",
-        "publisher_name": "Christie's Press",
-        "publisher_url": "https://press.christies.com",
-        "published_at": "2020-10-14T07:00:00+00:00",
-        "indicative_usd": 9978000
-      }
-    ]
-  },
-  {
-    "group_id": "bdb02f2830231c52",
-    "title": "The ‘Perfect’ 102-Carat Oval Diamond Sold for About $16M - nationaljeweler.com",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      16000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2020-10-06T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "7dca9802a9d380ef"
-    ],
-    "links": [
-      {
-        "candidate_id": "7dca9802a9d380ef",
-        "title": "The ‘Perfect’ 102-Carat Oval Diamond Sold for About $16M - nationaljeweler.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVI0Y3J1NVlzcUJtZzYwcElQdTlKc1FMaGY5RFp2RWRGV2YtNXJILTUzdi0yS19ydDBmOHNScEphOUx5SVdqbDU1VWk1bWVpZXI0OHhKY3FtR01EY2RFTWNFbzRaODhwcDJVc1MyNU5xa0tPU2ZBckppdnNKMlc2TGlDam5UZWgyX0puQUF6a0F6NG9md0ZDR3FLbHBfblRJ?oc=5",
-        "publisher_name": "nationaljeweler.com",
-        "publisher_url": "https://www.nationaljeweler.com",
-        "published_at": "2020-10-06T07:00:00+00:00",
-        "indicative_usd": 16000000
-      }
-    ]
-  },
-  {
-    "group_id": "6c7409ea81531c88",
-    "title": "One of the Last Privately Owned Botticelli Portraits Just Sold for $92 Million - Smithsonian Magazine",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      92000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2020-09-25T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "eefa4c2da537766b"
-    ],
-    "links": [
-      {
-        "candidate_id": "eefa4c2da537766b",
-        "title": "One of the Last Privately Owned Botticelli Portraits Just Sold for $92 Million - Smithsonian Magazine",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0hsUjZkUHIxaGl4TUVlVHVGeEV1WHFtWGhuUjlLeXJ2ZlVtekNYWHNPTjVpZGREX09xeEUyLUFQRXhjcVViTVc0Vkg4Wl8ySU9NM2xnNTZlbXg0cVdFNjhfempXdzZYSV91Yk56NWdaTkptdTk1MGMzZGNLY0xWSFJZdUQ5WVYyb05SZmRfTDhQQUM1M0NVQkNZMk1ROFVMOUxweXRrdw?oc=5",
-        "publisher_name": "Smithsonian Magazine",
-        "publisher_url": "",
-        "published_at": "2020-09-25T07:00:00+00:00",
-        "indicative_usd": 92000000
-      }
-    ]
-  },
-  {
-    "group_id": "41c4203f681dcbfd",
-    "title": "LeBron James rookie card sold for $1.8 million at auction - NBA.com",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1800000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2020-07-19T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "a3677e1bd9a98c9b"
-    ],
-    "links": [
-      {
-        "candidate_id": "a3677e1bd9a98c9b",
-        "title": "LeBron James rookie card sold for $1.8 million at auction - NBA.com",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BUXJEOEdlVlZjY1hQem10cG9JRlhLeUJKNW5kaERFeEpfN09TdXJvOFQyeWdUTUZ3MWY0VVdKbkE5QU5CU25rVFkwbTd0N1ZndzJabFNqdEIwMWxpZmNaaWRxUVVmdmpaMUlEWjdSdkVNeUM5?oc=5",
-        "publisher_name": "NBA.com",
-        "publisher_url": "",
-        "published_at": "2020-07-19T07:00:00+00:00",
-        "indicative_usd": 1800000
-      }
-    ]
-  },
-  {
-    "group_id": "13807f07a74ec56c",
-    "title": "Over $5 Million Realized in the Stack’s Bowers Galleries June 2020 Santa Ana Auction - Stack's Bowers",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      5000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2020-06-26T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "40d1e4f0d9cc136a"
-    ],
-    "links": [
-      {
-        "candidate_id": "40d1e4f0d9cc136a",
-        "title": "Over $5 Million Realized in the Stack’s Bowers Galleries June 2020 Santa Ana Auction - Stack's Bowers",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56TXdJR2FSY01EZm5kV1FyQW9CenpVaHpFOUY3TDJrUV92dXdKT1NtTDEyY3pzcVZMejA0MGhoTHBTbFpPbGwxalpSN2xSdDB1NUxnTGMxQkZCdHZ6dFllNA?oc=5",
-        "publisher_name": "Stack's Bowers",
-        "publisher_url": "https://stacksbowers.com",
-        "published_at": "2020-06-26T07:00:00+00:00",
-        "indicative_usd": 5000000
       }
     ]
   },
