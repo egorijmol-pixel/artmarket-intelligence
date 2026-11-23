@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-23T09:53:45.504052+00:00",
+  "checked_utc": "2026-11-23T11:28:33.927125+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -44,7 +44,7 @@
   "candidate_queue_size": 27,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 117,
+  "next_cursor": 130,
   "scan_cycles_completed": 5,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
@@ -55,107 +55,107 @@
   ],
   "checks": [
     {
-      "house": "Durán Subastas",
-      "country": "ES",
-      "domain": "duran-subastas.com",
+      "house": "DESA Unicum",
+      "country": "PL",
+      "domain": "desa.pl",
+      "status": "ok",
+      "rss_items": 40,
+      "new_leads": 0
+    },
+    {
+      "house": "Agra-Art",
+      "country": "PL",
+      "domain": "agraart.pl",
       "status": "ok",
       "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "Bukowskis",
-      "country": "SE",
-      "domain": "bukowskis.com",
+      "house": "Polswiss Art",
+      "country": "PL",
+      "domain": "polswissart.pl",
       "status": "ok",
-      "rss_items": 35,
+      "rss_items": 39,
       "new_leads": 0
     },
     {
-      "house": "Uppsala Auktionskammare",
-      "country": "SE",
-      "domain": "uppsalaauktion.se",
+      "house": "Sopocki Dom Aukcyjny",
+      "country": "PL",
+      "domain": "sda.pl",
       "status": "ok",
       "rss_items": 59,
       "new_leads": 0
     },
     {
-      "house": "Stockholms Auktionsverk",
-      "country": "SE",
-      "domain": "stockholmsauktionsverk.com",
-      "status": "ok",
-      "rss_items": 61,
-      "new_leads": 0
-    },
-    {
-      "house": "Bruun Rasmussen",
-      "country": "DK",
-      "domain": "bruun-rasmussen.dk",
+      "house": "Galerie KODL",
+      "country": "CZ",
+      "domain": "galerie-kodl.cz",
       "status": "ok",
       "rss_items": 0,
       "new_leads": 0
     },
     {
-      "house": "Blomqvist",
-      "country": "NO",
-      "domain": "blomqvist.no",
-      "status": "ok",
-      "rss_items": 2,
-      "new_leads": 0
-    },
-    {
-      "house": "Grev Wedels Plass",
-      "country": "NO",
-      "domain": "gwpa.no",
-      "status": "ok",
-      "rss_items": 1,
-      "new_leads": 0
-    },
-    {
-      "house": "Hagelstam",
-      "country": "FI",
-      "domain": "hagelstam.fi",
-      "status": "ok",
-      "rss_items": 30,
-      "new_leads": 0
-    },
-    {
-      "house": "Helander",
-      "country": "FI",
-      "domain": "helander.com",
-      "status": "ok",
-      "rss_items": 14,
-      "new_leads": 0
-    },
-    {
-      "house": "Venduehuis Den Haag",
-      "country": "NL",
-      "domain": "venduehuis.com",
-      "status": "ok",
-      "rss_items": 54,
-      "new_leads": 0
-    },
-    {
-      "house": "AAG Auctioneers",
-      "country": "NL",
-      "domain": "aagauctioneers.com",
+      "house": "Arthouse Hejtmánek",
+      "country": "CZ",
+      "domain": "arthouse-hejtmanek.cz",
       "status": "ok",
       "rss_items": 0,
       "new_leads": 0
     },
     {
-      "house": "Bernaerts",
-      "country": "BE",
-      "domain": "bernaerts.eu",
+      "house": "Seoul Auction",
+      "country": "KR",
+      "domain": "seoulauction.com",
       "status": "ok",
-      "rss_items": 35,
+      "rss_items": 46,
       "new_leads": 0
     },
     {
-      "house": "De Vuyst",
-      "country": "BE",
-      "domain": "de-vuyst.com",
+      "house": "K Auction",
+      "country": "KR",
+      "domain": "k-auction.com",
       "status": "ok",
-      "rss_items": 19,
+      "rss_items": 56,
+      "new_leads": 0
+    },
+    {
+      "house": "Ravenel",
+      "country": "TW",
+      "domain": "ravenel.com",
+      "status": "ok",
+      "rss_items": 60,
+      "new_leads": 0
+    },
+    {
+      "house": "Poly Auction Hong Kong",
+      "country": "HK",
+      "domain": "polyauction.com.hk",
+      "status": "ok",
+      "rss_items": 52,
+      "new_leads": 0
+    },
+    {
+      "house": "Mainichi Auction",
+      "country": "JP",
+      "domain": "mainichi-auction.com",
+      "status": "ok",
+      "rss_items": 0,
+      "new_leads": 0
+    },
+    {
+      "house": "SBI Art Auction",
+      "country": "JP",
+      "domain": "sbiartauction.co.jp",
+      "status": "ok",
+      "rss_items": 52,
+      "new_leads": 0
+    },
+    {
+      "house": "Tokyo Chuo Auction",
+      "country": "JP",
+      "domain": "chuo-auction.co.jp",
+      "status": "ok",
+      "rss_items": 0,
       "new_leads": 0
     }
   ]
