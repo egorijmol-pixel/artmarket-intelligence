@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-24T19:36:47.214232+00:00",
+  "checked_utc": "2026-11-24T21:29:50.669652+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -44,7 +44,7 @@
   "candidate_queue_size": 36,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 26,
+  "next_cursor": 39,
   "scan_cycles_completed": 7,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
@@ -55,107 +55,107 @@
   ],
   "checks": [
     {
-      "house": "Piasa",
-      "country": "FR",
-      "domain": "piasa.fr",
+      "house": "Neumeister",
+      "country": "DE",
+      "domain": "neumeister.com",
+      "status": "ok",
+      "rss_items": 74,
+      "new_leads": 0
+    },
+    {
+      "house": "Hampel",
+      "country": "DE",
+      "domain": "hampel-auctions.com",
+      "status": "ok",
+      "rss_items": 50,
+      "new_leads": 0
+    },
+    {
+      "house": "Nagel Auktionen",
+      "country": "DE",
+      "domain": "nagel-auctions.de",
+      "status": "ok",
+      "rss_items": 0,
+      "new_leads": 0
+    },
+    {
+      "house": "Quittenbaum",
+      "country": "DE",
+      "domain": "quittenbaum.de",
+      "status": "ok",
+      "rss_items": 58,
+      "new_leads": 0
+    },
+    {
+      "house": "Bassenge",
+      "country": "DE",
+      "domain": "bassenge.com",
       "status": "ok",
       "rss_items": 57,
       "new_leads": 0
     },
     {
-      "house": "Aguttes",
-      "country": "FR",
-      "domain": "aguttes.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Osenat",
-      "country": "FR",
-      "domain": "osenat.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Millon",
-      "country": "FR",
-      "domain": "millon.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Ader",
-      "country": "FR",
-      "domain": "ader-paris.fr",
-      "status": "ok",
-      "rss_items": 57,
-      "new_leads": 0
-    },
-    {
-      "house": "Rossini",
-      "country": "FR",
-      "domain": "rossini.fr",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Drouot",
-      "country": "FR",
-      "domain": "drouot.com",
-      "status": "ok",
-      "rss_items": 57,
-      "new_leads": 0
-    },
-    {
-      "house": "Interencheres",
-      "country": "FR",
-      "domain": "interencheres.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Hôtel des Ventes de Monte-Carlo",
-      "country": "MC",
-      "domain": "hvmc.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Lempertz",
+      "house": "Karl & Faber",
       "country": "DE",
-      "domain": "lempertz.com",
+      "domain": "karlundfaber.de",
+      "status": "ok",
+      "rss_items": 54,
+      "new_leads": 0
+    },
+    {
+      "house": "Henry's Auktionshaus",
+      "country": "DE",
+      "domain": "henrys.de",
+      "status": "ok",
+      "rss_items": 34,
+      "new_leads": 0
+    },
+    {
+      "house": "Dorotheum",
+      "country": "AT",
+      "domain": "dorotheum.com",
       "status": "ok",
       "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "Grisebach",
-      "country": "DE",
-      "domain": "grisebach.com",
+      "house": "Im Kinsky",
+      "country": "AT",
+      "domain": "imkinsky.com",
       "status": "ok",
-      "rss_items": 55,
+      "rss_items": 60,
       "new_leads": 0
     },
     {
-      "house": "Ketterer Kunst",
-      "country": "DE",
-      "domain": "kettererkunst.com",
+      "house": "WestLicht",
+      "country": "AT",
+      "domain": "westlicht-auction.com",
       "status": "ok",
-      "rss_items": 17,
+      "rss_items": 0,
       "new_leads": 0
     },
     {
-      "house": "Van Ham",
-      "country": "DE",
-      "domain": "van-ham.com",
+      "house": "Numismatik Naumann",
+      "country": "AT",
+      "domain": "numismatik-naumann.at",
+      "status": "ok",
+      "rss_items": 56,
+      "new_leads": 0
+    },
+    {
+      "house": "Koller",
+      "country": "CH",
+      "domain": "kollerauktionen.ch",
       "status": "ok",
       "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Piguet",
+      "country": "CH",
+      "domain": "piguet.com",
+      "status": "ok",
+      "rss_items": 51,
       "new_leads": 0
     }
   ]
