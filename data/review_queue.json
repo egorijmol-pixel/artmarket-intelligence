@@ -1047,16 +1047,16 @@
     ]
   },
   {
-    "group_id": "7f73eaf0ebc0c999",
-    "title": "First comic book to feature Superman sells for record $6M at auction - Scripps News",
-    "category_hint": "books",
-    "articles": 6,
-    "publishers": 6,
+    "group_id": "49f54c94682a6b38",
+    "title": "Rare T. rex fossil sells for record $50.1 million at auction - WISN",
+    "category_hint": "other",
+    "articles": 5,
+    "publishers": 5,
     "indicative_usd_values": [
-      6000000
+      50100000
     ],
     "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-04-23T03:51:12+00:00",
+    "last_publication_at": "2026-07-14T07:00:00+00:00",
     "priority": 2,
     "checks_needed": [
       "Не найден проверенный результат конкретного лота из официального источника"
@@ -1064,67 +1064,130 @@
     "decision": "needs_official_primary_source",
     "is_verified_sale": false,
     "candidate_ids": [
-      "154338b05db89b8e",
-      "0bb43b9081e79696",
-      "c5046e06c36002eb",
-      "a1792ff47f36df9e",
-      "b54dac323961b5d2",
-      "dfdd30d566960e1d"
+      "591239eadd350255",
+      "57929bfe174cb1b5",
+      "40ffdca6c26bc153",
+      "375421c1adbc6f56",
+      "2017067e79fa8b0a"
     ],
     "links": [
       {
-        "candidate_id": "154338b05db89b8e",
-        "title": "First comic book to feature Superman sells for record $6M at auction - Scripps News",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGpJZWxfOU9RcktiNDYzOWE4eEZlNWd5V1JyQ0dZdHBHeVdrd1RiRmxaeWRod1R5aE10dnN6eVpJd3FBdUhRR2FrSS16S3dfelk1TUVXQkNzXzNLOTVGal94VGVZMDU4UV93RWdQelBibFR6MDk5V21ua3lQTmt2ZHVqU0pKcWQwdm51WTZPSEtPdC12dVdZdVRSdlZDdmgzWWlyLTlSVUxnT1p5SWxCeERqLTRGQQ?oc=5",
-        "publisher_name": "Scripps News",
-        "publisher_url": "https://www.scrippsnews.com",
-        "published_at": "2024-04-23T03:51:12+00:00",
-        "indicative_usd": 6000000
+        "candidate_id": "591239eadd350255",
+        "title": "Rare T. rex fossil sells for record $50.1 million at auction - WISN",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcEpXZng2RUVMSzZaTUlZTkx5d2FwcWZ6SHpMbHVZbUhSR2pheWN2OTV2YVpUMENjV1d6bm1CeGJDbmZpd0JPWUVBZXlPU0ExNENsZ2lHNmxaMFVkUWJuWnNOb3VHVnVWbWpic2h5akg0NUJaZG8yaURSbU02YndST2t0RDZDbEVma2VVZ1BIZEI?oc=5",
+        "publisher_name": "WISN",
+        "publisher_url": "https://www.wisn.com",
+        "published_at": "2026-07-14T07:00:00+00:00",
+        "indicative_usd": 50100000
       },
       {
-        "candidate_id": "0bb43b9081e79696",
-        "title": "Superman’s first appearance from 1938 becomes most expensive comic book ever sold at auction, netting $6 million - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcnJ0STlZRW1BWW9lYTEtMGtzNzlnUklpZVNwYThJb1J1Y0FMQlplLWtMTF9fd3Jubmgxd0Q1MU1PX1hwd1JwS1kxOW9ZYm1tQ1prMl9ueGR6X3FKYmVEZHlvaDFIV2tQTG8yQV9iV0ZWZ0tDLXlucXBDTVpIREJlbHhicTdXNHJkelE?oc=5",
-        "publisher_name": "Fortune",
-        "publisher_url": "https://fortune.com",
-        "published_at": "2024-04-09T07:00:00+00:00",
-        "indicative_usd": 6000000
+        "candidate_id": "57929bfe174cb1b5",
+        "title": "Rare T. rex fossil sells for record $50.1 million at auction - Gulf Coast News and Weather",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3lrR0lRTWJVYl9tSWhabW0tWFhJdmg0TGg3QlhmcjJqV3FIZUhGUHA4QVIzZnJRbEZyRDRRMXVIcjNZNlNBeThnY2dKcklWeGhUWEdYU0xIa3pwTF9TNS03TzhwYllNRkxxRFdzNDNBRDU3OGhFWk9LMUNZVlJlTF96eU15QjJOT2tacnBWbFl1UFJRc01MOGlKakpPTDY4?oc=5",
+        "publisher_name": "Gulf Coast News and Weather",
+        "publisher_url": "",
+        "published_at": "2026-07-14T07:00:00+00:00",
+        "indicative_usd": 50100000
       },
       {
-        "candidate_id": "c5046e06c36002eb",
-        "title": "First Superman Comic Book From 1938 Sells for Record $6 Million - Antique Trader",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oQ0FTTUVPZEd2Y05KYVZmaFd1SDlvV2EySjA5dGlSUmg5Tk9TbE0wMHh5cmZuZG5tMTFYSjhlOVkyUHZqWnFvMDhjYXVmeWR5a1h4RGZqeTJPaXpqeDA0aGczeHBrNFoyVjRwR2xzalROZ0lUejFMY2FlTHU?oc=5",
+        "candidate_id": "40ffdca6c26bc153",
+        "title": "Rare T. rex fossil sells for record $50.1 million at auction - WESH",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1p6a0JuQUxHbmlMTDBMc3p3WXV2RDJUYllFMHBwOEJkUjFxcnVlYTdvSVVoRWNpUHVhZERNU1NIaU9TaVp1b3Y5czljb2RCcUtiaU9rbVVKdm5Tb2pwQVZBTFhZYUR6aDR2NUpTR3R3Y2FraThPN2VjbTdGTUplUldsWnRLYVBMdHlDMEVBWUo?oc=5",
+        "publisher_name": "WESH",
+        "publisher_url": "https://www.wesh.com",
+        "published_at": "2026-07-14T07:00:00+00:00",
+        "indicative_usd": 50100000
+      },
+      {
+        "candidate_id": "375421c1adbc6f56",
+        "title": "Rare T. rex fossil sells for record $50.1 million at auction - KETV",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN18wcXpfOTg2anJ5bDY3M3RGNm8tOEFuUG8yX3ZMWTJKaVJuVmtqVmNTdUFleHdoVnplcnd2eGo2X0I1WGhCUEMxY2oydVpiQnZEd1JvVkE3ZVBodWdYV0ozTlNlcXVoeVNzc0UzSklQWFdTOTNRMXB4NDhBY1BYQXd0TERCT0xCU0o4UmlqMlU?oc=5",
+        "publisher_name": "KETV",
+        "publisher_url": "https://www.ketv.com",
+        "published_at": "2026-07-14T07:00:00+00:00",
+        "indicative_usd": 50100000
+      },
+      {
+        "candidate_id": "2017067e79fa8b0a",
+        "title": "Rare T. rex fossil sells for record $50.1 million at auction - WMTW",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSGxTd0w5ZUVqNU1VcHRuN3JoYjJ1SlRaNUZtcmFDVldHTVdxejV1Q2k4eTNUMnF0bnBjd1F1VlFqMDZibFNyNFpfVW93a1d5d3g2VWVVMnlTUnY1bHI2YUJnVk5WMXFMNmppSENqQ3o4Xzh2RDRwOERTdlZzXzNqY2lrZ1dXTkpuTHJsb0s4VzA?oc=5",
+        "publisher_name": "WMTW",
+        "publisher_url": "https://www.wmtw.com",
+        "published_at": "2026-07-14T07:00:00+00:00",
+        "indicative_usd": 50100000
+      }
+    ]
+  },
+  {
+    "group_id": "776b24574365c8dc",
+    "title": "Logan Paul’s ultra-rare Pikachu Illustrator Pokémon card just sold for a jaw-dropping $16.5 million at auction - 107.5 Kool FM",
+    "category_hint": "other",
+    "articles": 5,
+    "publishers": 5,
+    "indicative_usd_values": [
+      16490000,
+      16500000
+    ],
+    "amount_variation_pct": 0.1,
+    "last_publication_at": "2026-02-18T08:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "492993966cc406a8",
+      "e4f4006733a04d02",
+      "6156864411b8eb8f",
+      "3fe9fa5fbc56d4a2",
+      "efb6daa08b18f905"
+    ],
+    "links": [
+      {
+        "candidate_id": "492993966cc406a8",
+        "title": "Logan Paul’s ultra-rare Pikachu Illustrator Pokémon card just sold for a jaw-dropping $16.5 million at auction - 107.5 Kool FM",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtVW1rZE1oUVB3TmRuN3FLanZ1ZXF3VktVUXNOOU1kc0R5X0Nad1pEQTFWaHo5N0ZDWTlEeFI0cUV6LTRFUUlMSlNoLWxmY2FwWnJacnN0d3lJc1A2YktwVWJBY0gyMjU3cXZZdUVwQ3dVQVBBRDVN?oc=5",
+        "publisher_name": "107.5 Kool FM",
+        "publisher_url": "https://1075koolfm.com",
+        "published_at": "2026-02-18T08:00:00+00:00",
+        "indicative_usd": 16500000
+      },
+      {
+        "candidate_id": "e4f4006733a04d02",
+        "title": "Logan Paul’s Pikachu Illustrator Sells for Record $16.49 Million - Antique Trader",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQemQzMHc4bmJLYUp4STM1eEllWkdydnVWaGFrX1piejdZdk1PMWhLckhZM3hvZFo3ck5QaVAzZmZmRVhyOTM1WU1MdzFlWk9SSTZGWjN6V054RVF2Z3pzS1kwa3RRYnpWbXBBUWJHMlptWWxRNlExXzBvNE9MNzM4alA4ZXlOTGo0Ukk5aTh3eFBDUkE0aWdF?oc=5",
         "publisher_name": "Antique Trader",
         "publisher_url": "https://www.antiquetrader.com",
-        "published_at": "2024-04-08T07:00:00+00:00",
-        "indicative_usd": 6000000
+        "published_at": "2026-02-17T08:00:00+00:00",
+        "indicative_usd": 16490000
       },
       {
-        "candidate_id": "a1792ff47f36df9e",
-        "title": "Comic book featuring Superman's first ever appearance sells for record $6 million - ABC7 Los Angeles",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXd2ejUxSk1pazNXVzlBVEtmNklWWXQtTS1OVjUzTkFua0gzS2oyb3NfaXRyR0wtUnduM3RwTXBOXzFBc3hOb2YzZ3ptbmdVVFZYVUtOczRWNHBkMUJEODlnbFhBLWtnaWRvVDFYdmZlZmtiaHJoWkk2bHpScUFJdzNUaXJrTTdWZG1DSG5XRTVsbHFxbEVVZHN1djVteC1MczNQU2Jn0gGrAUFVX3lxTFBmWVFxQV9BSDNrUzhMV25aZXhzZWtVUnFRNm1OY1cteUxnVWExbXdsUzktUk8zNzJZbVhielBWRzFJS2hycDl2R1IwUzR3RnhyMU1yYXZWWWVCZEdOT1h2UksxeXZTUllObmlNdVVZTDFsNWJpYmVkNFYxSFZoaDdCTnQyMnI3RjNuV202Q3daejBIM01VaVJsM1BBS3Ntd0VVcE9sUlkzS0plZw?oc=5",
-        "publisher_name": "ABC7 Los Angeles",
-        "publisher_url": "https://abc7.com",
-        "published_at": "2024-04-07T07:00:00+00:00",
-        "indicative_usd": 6000000
+        "candidate_id": "6156864411b8eb8f",
+        "title": "Logan Paul’s rare Pokemon card sells for record $16.49M at N.J. auction house - NJ.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcHF2VFpxc285QlJmdUhqckhtaGoyTEZEN0tjYzZSTjMyOVBURzI0UENkWFU5eFlDN0dHek56ZDFmTVJkNVh5d2docm4yT2tlVGU5TVBpZHVpd2pwcGFUTWpfQmkxbDJVU3JJd1NWbWVBeTdYb1FIVzBUTVBqbVpxV0U1YkRBdjltQ0NVX1dwWG94bzdCZEVqZURodUVYU05HNnZvbk1QRHg2VzE5ZTlqYQ?oc=5",
+        "publisher_name": "NJ.com",
+        "publisher_url": "",
+        "published_at": "2026-02-17T08:00:00+00:00",
+        "indicative_usd": 16490000
       },
       {
-        "candidate_id": "b54dac323961b5d2",
-        "title": "First comic book to feature Superman sells for $6 million in Dallas - NBC 5 Dallas-Fort Worth",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGhEalM1LXQ5ZUloeG9XTjN1VlRJSTlvUUVvcjBxOUxuRHZFSFlXakJvRXRhM0o4NkdpN0dELWU4MldRRGUyQ1Z2Ymc5NzR2cElZWkRnMXBaQWlPNFQ1aWFTNVlxRDVqaDZIRVlPaWREcDViN1k5RHlUd2ZUNVhKUDN5S3JaTmVt0gGQAUFVX3lxTE9rUUVnTkRNaFpydFZVakFSSUFIYzNULWo5UHEybDgxbFdaek01WlJVRWszOEVFUVhzZW11aEpGaDR5bkwtWTVjaURTRmxkUm9SRldkV2dXcjhrdzZtSV9qZ1BWSzhtc1gxQnE0TllDR09EWjJWSE92YmVzTDJpU2tfc2FnSjBGRTJrc1pTLVBBaw?oc=5",
-        "publisher_name": "NBC 5 Dallas-Fort Worth",
-        "publisher_url": "https://www.nbcdfw.com",
-        "published_at": "2024-04-06T07:00:00+00:00",
-        "indicative_usd": 6000000
+        "candidate_id": "3fe9fa5fbc56d4a2",
+        "title": "Logan Paul’s rare Pokemon card sells for record $16.49M at N.J. auction house - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazkzcWhpcmw2dThIZU1nekljS19uMFlMNUNPblFNWlcyYm1DUUpSZkZjcGJWbUZNY3I4bmlfRUJtcW9sc3ZxOWU0ZjJkdFZqWENIQjRZa1cycDBvdnhZeVh1SGdfcmRwYmJJRm01RmRTS2FvNmxTOUh6ZXNsRU0yeEpoX200ckpPTE5KR2QwY1RTdFpnSTNBVUM3enlMZGs?oc=5",
+        "publisher_name": "Yahoo",
+        "publisher_url": "https://www.yahoo.com",
+        "published_at": "2026-02-17T08:00:00+00:00",
+        "indicative_usd": 16490000
       },
       {
-        "candidate_id": "dfdd30d566960e1d",
-        "title": "'Action Comics' No. 1 with Superman's Debut Sold For $6 Million to Become World's Most Expensive Comic Book - Fine Books Magazine",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXFLOFFWNWQzTDhxNnhPSDdpVV9pQzVUYUxUb3Y0TTJzelJ4X2ZKbjRlZXZRdS1XSURsd1E1cWFKLU9nX2FEaGh6SFdzOF9xY3E5LWttdXVlVWtkbXBvNHF1SC00dFVqSlJ3TEV4ZzNSZ1dQeUtFSTRFanFBajlUQlFOQzBESHNYVF9hU3hqOHlSNVFWRzZYSldVeEJuWG9lOXMteURvdDdLd2x5Vzh0MUNpNEFSM2J1S3loRWVLSUhwSGRMdFdv?oc=5",
-        "publisher_name": "Fine Books Magazine",
-        "publisher_url": "https://www.finebooksmagazine.com",
-        "published_at": "2024-04-05T07:00:00+00:00",
-        "indicative_usd": 6000000
+        "candidate_id": "efb6daa08b18f905",
+        "title": "Logan Paul’s Pikachu Illustrator Pokémon card sells for record $16.5M at auction - AP News",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2l1SnhtVkVFTHdvekFrMXJzM0pBZkh2ZEhiSmdUVTU3d2hFSG12UE5MQ1liRFJGZGF3RGx4ZURZTktuWFROcjNhMmh5TkVpaFJpNTRNeWY1anhEX2k1SF9aSXBoNkhBM0dpY1JtVVdha3VMcklzaHBBelVvSzhCY2taUmxrSjhYemh1TUJsengwOVBpeUQ1Yw?oc=5",
+        "publisher_name": "AP News",
+        "publisher_url": "",
+        "published_at": "2026-02-16T08:00:00+00:00",
+        "indicative_usd": 16500000
       }
     ]
   },
@@ -1379,6 +1442,130 @@
     ]
   },
   {
+    "group_id": "5a72ece4ddaf8c75",
+    "title": "Sealed Copy of ‘Super Mario Bros.’ Sells for Record $3 Million at Heritage Auctions - Intelligent Collector",
+    "category_hint": "other",
+    "articles": 4,
+    "publishers": 4,
+    "indicative_usd_values": [
+      3000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-06-16T15:42:14+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "35e5ab3a61360161",
+      "b2e56d7c39f79d7a",
+      "d5941f9c6cc148cc",
+      "19b02b6d18ee0ed6"
+    ],
+    "links": [
+      {
+        "candidate_id": "35e5ab3a61360161",
+        "title": "Sealed Copy of ‘Super Mario Bros.’ Sells for Record $3 Million at Heritage Auctions - Intelligent Collector",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZW5rbXVTYXpGN2xySGtGYkN5a0NRM00zeW11eGVpMFE4eUYxeFBWd2d6UE8zNVJwVVk5Wk4zQ0llVmpILVE2TVR4eVRqTkttdGNqcnBLb3l1MjRfT2RULVNMdFRCbG4zUjV4OFlvMWpaYkZHc0t0cFZoSGVRb2puYWt5b3ZQVE5YaFc4UldrQldjQ2YySFcxRmNtaEtxcnVaZG1TNGR3M0huV0RLajJpLV9Hbw?oc=5",
+        "publisher_name": "Intelligent Collector",
+        "publisher_url": "",
+        "published_at": "2026-06-16T15:42:14+00:00",
+        "indicative_usd": 3000000
+      },
+      {
+        "candidate_id": "b2e56d7c39f79d7a",
+        "title": "Sealed Super Mario Bros. Copy Sells For $3 Million At Auction - Tech My Money",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSjV4SlZtSE9sM2xWQWJlMVNlOFp2Q0RKd1p1TjhSWHlYd0g5ZXdRQ0JORE9mQ3cwVC1sTTRma1U4eW1DR1FnYmRacjRNanVhVDZ4SEtKeWpkc2RHZXRwaXJjajZnUnNVczlNTzdUTXQ4MG50UC15TWFpMmdlbFRjN2VzOGFac3dRTC0xTk5STWFLUdIBkgFBVV95cUxNSjV4SlZtSE9sM2xWQWJlMVNlOFp2Q0RKd1p1TjhSWHlYd0g5ZXdRQ0JORE9mQ3cwVC1sTTRma1U4eW1DR1FnYmRacjRNanVhVDZ4SEtKeWpkc2RHZXRwaXJjajZnUnNVczlNTzdUTXQ4MG50UC15TWFpMmdlbFRjN2VzOGFac3dRTC0xTk5STWFLUQ?oc=5",
+        "publisher_name": "Tech My Money",
+        "publisher_url": "https://techmymoney.com",
+        "published_at": "2026-06-15T07:00:00+00:00",
+        "indicative_usd": 3000000
+      },
+      {
+        "candidate_id": "d5941f9c6cc148cc",
+        "title": "Highest-Graded Super Mario Bros. Sells for Record $3 Million at Heritage Auctions - Heritage Auctions",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWHIxeXpxTzZ2OW5ia2V0SGlnYThYRDEzdFgyRmlIRTA5WnI1TXRFcGptZlFqbjZpTGgtZmZRbzlnM3Nxbzh0ejRJWVFkd1hvRDFZN25pQU5hRDB4Y29VVW56Mm8tel9kU3NITFlvMk9ualFNZDFCb3BDaUR5dUwzckxGSnRXVUdiTWNFbzVRNlFTdGRTQVRGNDhWdzFacXAzWFZJTXFGcEZ6aXBWYW5RSTFkQURHa2ZPQnM4LTdwRUVYMVpwZWJfSmJPZUFSQ2VkeVFES3lrZ2M2SXZxVmFEY0R3Ty1FTFZLVUxOc3hKVVpCMGRiekhkb0trTkc?oc=5",
+        "publisher_name": "Heritage Auctions",
+        "publisher_url": "https://entertainment.ha.com",
+        "published_at": "2026-06-12T07:00:00+00:00",
+        "indicative_usd": 3000000
+      },
+      {
+        "candidate_id": "19b02b6d18ee0ed6",
+        "title": "Copy of Super Mario Bros. Sells For $3 Million In Auction - Kotaku",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjNQT1J4SlZLSk5TWVpTYW5YRG4zR3pwRWhzX05lUC1FRDM2cG1jQi1fb2FkM1dVZE9yRUJkZ0QzLTdBZTk5RE1iNDVWRXdMX1ZfQ2ZJVmdEVk9QajRmWmJaSTR4ejBBUGVKb0E1S1NIc083TzhzVUEwTFR2NGdWVUJ1TThSNG51V2R5b0xR?oc=5",
+        "publisher_name": "Kotaku",
+        "publisher_url": "https://kotaku.com",
+        "published_at": "2026-06-12T07:00:00+00:00",
+        "indicative_usd": 3000000
+      }
+    ]
+  },
+  {
+    "group_id": "311ddc5d8d197cc1",
+    "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 13 Tampa Bay",
+    "category_hint": "other",
+    "articles": 4,
+    "publishers": 4,
+    "indicative_usd_values": [
+      5124000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-02-25T08:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "de452db3e9e737ba",
+      "d4a81f8e278be03b",
+      "7549df0533517d4a",
+      "02743050af909f76"
+    ],
+    "links": [
+      {
+        "candidate_id": "de452db3e9e737ba",
+        "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 13 Tampa Bay",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVkluQzhRODJBejVDX1c4SXRtUnFNRkU1LXpBQ09jOWxqMUxQUDFIbXp2MHBnTUFrMHlRN0JDVzlXRDJQNUlPMFBwc0dJX3VaWldYcmVkSmlxcWFjYnJyODFmZ183XzFFWkFGYnp3N1pMcDRSanNJblhMcEw1S2ZDZ1lESzdwVUg0clRXQnloMDNwZFZ1ZDlUR0w1UUJfVDdteUk1bWZkajlsTFlHODIyaEZKMFJlRlFGaWc?oc=5",
+        "publisher_name": "FOX 13 Tampa Bay",
+        "publisher_url": "https://www.fox13news.com",
+        "published_at": "2026-02-25T08:00:00+00:00",
+        "indicative_usd": 5124000
+      },
+      {
+        "candidate_id": "d4a81f8e278be03b",
+        "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 2 Detroit",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOEVIVkVFNXlKV01JSkw3OWRrRWhrczRSVTV6STZOQ0JtZ3FkcDR3amRjTXBoZnlpbW1hZWFzS0t3d2U2bjlHdU4zT3d4UEdkX2E2dlM0Zlg3aHVHRXdwYWR6Z1BfY1MzYjhyaE5xMnBvZmV0OERET1RZOWJ6YUhlc25rOGRCQy16MUtld3cyTXF0NTNfN09FS0c4b3k1S1pNQ1JwNlhIYkRVV1FjS0trbTNEamlvVnI3Vk40LQ?oc=5",
+        "publisher_name": "FOX 2 Detroit",
+        "publisher_url": "",
+        "published_at": "2026-02-25T08:00:00+00:00",
+        "indicative_usd": 5124000
+      },
+      {
+        "candidate_id": "7549df0533517d4a",
+        "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 29 Philadelphia",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFE4SXVVTjl0VDNpcm9qSEZJeUF2b0ZGY1UxcTRUTEREMFJ0c0k4RG5nanBGYnQ5NUJXaW01dmFvbjV2dTNCNHBhaWN5cnMyeXItcDJ6YmhmUkw3bFNjMkNOOEJlQndZNWhBSGRaTzktUGdUcC0wRC02Zjl6VFFoUGJNbUpGRE1FUFJrbVh5Z0twQlZEWENlRzhyM2pfNDF4Vl92bTVvRlRPVzdaRjBla3pBSXM?oc=5",
+        "publisher_name": "FOX 29 Philadelphia",
+        "publisher_url": "https://www.fox29.com",
+        "published_at": "2026-02-25T08:00:00+00:00",
+        "indicative_usd": 5124000
+      },
+      {
+        "candidate_id": "02743050af909f76",
+        "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - LiveNOW from FOX",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2FRR2x1djFwVUhPU19FSlYwTEpKQXQ4TzdHZFBRdlZKbG11NVc1SmtDRFVBS1NrYU9WMlQ1d1BNTWJpMHQtTnk2c3ZyR0Z3WG5kQkJlSUtycVhIeUN5cUE1RnB2eE9iMmU0STJpT3ZOOXlrdElLQ1RWM3B4XzE2RzlsTEdLeVdYSHFUWlZreGZwRWZNczljMXhpUndzUVd1YjhEVzRUZFBrZV9ldEYzaVRSelVNWXdYdE5R?oc=5",
+        "publisher_name": "LiveNOW from FOX",
+        "publisher_url": "https://www.livenowfox.com",
+        "published_at": "2026-02-25T08:00:00+00:00",
+        "indicative_usd": 5124000
+      }
+    ]
+  },
+  {
     "group_id": "92cf4e8d4f1810cb",
     "title": "Rare comic introducing Superman sells for US$15m - Taipei Times",
     "category_hint": "other",
@@ -1437,68 +1624,6 @@
         "publisher_url": "",
         "published_at": "2026-01-09T08:00:00+00:00",
         "indicative_usd": 15000000
-      }
-    ]
-  },
-  {
-    "group_id": "5895a09fbd62fe42",
-    "title": "A Mickey Mantle Baseball Card Just Fetched $12.6 Million at Auction—Setting a Record for the Most Expensive Piece of Sports Memorabilia Ever Sold - Artnet News",
-    "category_hint": "other",
-    "articles": 4,
-    "publishers": 4,
-    "indicative_usd_values": [
-      12600000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-08-29T07:00:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "dd69d2c191d5f3b0",
-      "d9b5b826dd6e9484",
-      "a407b223aee4505a",
-      "2f9be0027a393550"
-    ],
-    "links": [
-      {
-        "candidate_id": "dd69d2c191d5f3b0",
-        "title": "A Mickey Mantle Baseball Card Just Fetched $12.6 Million at Auction—Setting a Record for the Most Expensive Piece of Sports Memorabilia Ever Sold - Artnet News",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jekR3VFlnU3J4d0hNTTRMLUxmS09vRGxPMjRZR2hKTEg4c1dPWTRXaGQ0czBUa0FSWjVEQU9zNFJmNW1HRU0wVjM5MGplbVNOTWZyeXpXZ3RQYl9YN3BQaGVYZ0hMc1pmT3l6RlNLenFyRm1iekZ6UW5WaGdvUdIBhgFBVV95cUxPalpXM3lNVkNVTWNDejM1Ql9VWDNINjhxR0dJcUhpUkdjZ1V4SG9EMmhqTDRlbFF1Yzd0SVQxY3U1cXRGbEZuQ1RzaTlJejNJTmRPd2NLU1N2X1hneU1tdFdsRDlmV0lfMC0ycmtaVkFSQjJEUzBVMF9EaGFLam5tX0JCS1NDQQ?oc=5",
-        "publisher_name": "Artnet News",
-        "publisher_url": "https://news.artnet.com",
-        "published_at": "2022-08-29T07:00:00+00:00",
-        "indicative_usd": 12600000
-      },
-      {
-        "candidate_id": "d9b5b826dd6e9484",
-        "title": "A Mickey Mantle Baseball Card Sold for $12.6 Million, Becoming the Most Expensive Sports Collectible - observer.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGQ4NENRdjl5Ull5NnNIRk91VWVUSTVCRGVtMnVSUGRIbzRIaF9xOEJwa0p5OC1qRlh3dXBqbkUycEhjRUJENFJHRVlCZTdNT21NX1lEaVFzVzM4QmpSeHhBbWpZY29wQjlVYXpXNDY5akZEN0swajRnMnBIeEJaTjBBd1RZUUktd1VKdkc3RzgxYVRpcFVTeU5nQjE0a0l5OHIzNjUzWWtaMkNfSUFZNnNqTERsU0ZnM1o4el9kRzlUTmFYQ0RJ?oc=5",
-        "publisher_name": "observer.com",
-        "publisher_url": "https://observer.com",
-        "published_at": "2022-08-29T07:00:00+00:00",
-        "indicative_usd": 12600000
-      },
-      {
-        "candidate_id": "a407b223aee4505a",
-        "title": "$12.6 million Mickey Mantle baseball card sets new sports memorabilia auction record - PBS",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWNsdGJNNHFBcVlyWndBZEgyUnhienhwTW5VXzE4blljTXdjdzZLV21hREMxeVNkT2FmU1ZIRW9nbVJvNFkyZmZQU1J2aGFDTkhEOVg1WWFURXN3aEh4OE5FRTRKb251OEdiQXVSUl9Idkc5Ui1hb1pIejdGSDFVczFaVUpFYl9BaXRYbjhUZUdwMURMQTRiYXpMcmk4TUpGVTJUY1pFX0JrNF9VQ3VpXzdQbXpQTDhrcGJJ0gHAAUFVX3lxTE5JNGk4Q09IZk0yRVZsTXhtb0JpQUwtQzdWaGVfSDdBcHB1cGFPekhtQUMzdHVub2tXRUhRd3dEQlJ2aUJuR1hzY0lmSHZibE5uRW1OQW1ESURxc08tWTQzM0xFTFpVdy1qNURsUUNvWkpLejJkV3FQNXFLblM5c0RWelFfRWIzaW1CcTFrMFcydDAzOTVCZndFSkZHZ0cxM3NlOWNQNW1ySVlPVEZJQ1ZaNDFzaGY5YWtOMURlZ2pqVA?oc=5",
-        "publisher_name": "PBS",
-        "publisher_url": "",
-        "published_at": "2022-08-28T07:00:00+00:00",
-        "indicative_usd": 12600000
-      },
-      {
-        "candidate_id": "2f9be0027a393550",
-        "title": "The most expensive baseball card in history just sold for $12.6 million - KCRA",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX050Vl9XZTRmVEZOcW91b1RPNzgxeHFnT2pPNE5zX1ZqYXdzbDRubHM2X1B3ZTNRWUJDOEdpb2pUY2NvY3RWYTE2S01MajdNbjNiUWdibkJ0aTRLT2FIREE4LTU5RWtaZElxdVdFVlFFTmp0WDNOc284cVZlcmFsOG5CWWMtMkEzX3NucUpNZw?oc=5",
-        "publisher_name": "KCRA",
-        "publisher_url": "https://www.kcra.com",
-        "published_at": "2022-08-28T07:00:00+00:00",
-        "indicative_usd": 12600000
       }
     ]
   },
@@ -1871,68 +1996,71 @@
     ]
   },
   {
-    "group_id": "bdb6de9674e91294",
-    "title": "Sealed Copy of ‘Super Mario Bros.’ Sells for Record $3 Million at Heritage Auctions - Intelligent Collector",
+    "group_id": "da08b20d222fb0b6",
+    "title": "Ultra-rare signed Lionel Messi trading card sells for over $550K at auction - MARCA",
     "category_hint": "other",
     "articles": 3,
     "publishers": 3,
     "indicative_usd_values": [
-      3000000
+      500000,
+      550000
     ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-06-16T15:42:14+00:00",
+    "amount_variation_pct": 9.1,
+    "last_publication_at": "2026-05-19T07:00:00+00:00",
     "priority": 2,
     "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
+      "Не найден проверенный результат конкретного лота из официального источника",
+      "Различающиеся суммы из публикаций — проверить округление и комиссию"
     ],
     "decision": "needs_official_primary_source",
     "is_verified_sale": false,
     "candidate_ids": [
-      "35e5ab3a61360161",
-      "d5941f9c6cc148cc",
-      "19b02b6d18ee0ed6"
+      "d048e16a3a78acf0",
+      "18b252d29df0e078",
+      "c6f1b556f40f5988"
     ],
     "links": [
       {
-        "candidate_id": "35e5ab3a61360161",
-        "title": "Sealed Copy of ‘Super Mario Bros.’ Sells for Record $3 Million at Heritage Auctions - Intelligent Collector",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZW5rbXVTYXpGN2xySGtGYkN5a0NRM00zeW11eGVpMFE4eUYxeFBWd2d6UE8zNVJwVVk5Wk4zQ0llVmpILVE2TVR4eVRqTkttdGNqcnBLb3l1MjRfT2RULVNMdFRCbG4zUjV4OFlvMWpaYkZHc0t0cFZoSGVRb2puYWt5b3ZQVE5YaFc4UldrQldjQ2YySFcxRmNtaEtxcnVaZG1TNGR3M0huV0RLajJpLV9Hbw?oc=5",
-        "publisher_name": "Intelligent Collector",
-        "publisher_url": "",
-        "published_at": "2026-06-16T15:42:14+00:00",
-        "indicative_usd": 3000000
+        "candidate_id": "d048e16a3a78acf0",
+        "title": "Ultra-rare signed Lionel Messi trading card sells for over $550K at auction - MARCA",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOHNkZmF0RjBsVDZZYkFYYnduaEw0Nlh6S1QtY0RneGNIT3YxUzNBeXN6SVVKdHc0SnRMaUJvdlZQTk0xbHd1ZTkxcEs3ZWhRb0M3VFZIeW1tZUFzZDRPQ3ozY0diWG9zNDVLZ01KZkJLZ0llMVpNVF9VQW1HakFmRUItLXkzVFlsU20wcGp1R1o1QnZ4bkVYXzl0eEMxckdkSF9MY2NQdEVpSzNSRURsbE5HMFBVYlZsZU0wUXFNeDk4RE1QTEhz0gHHAUFVX3lxTFBLUHhyS0VzSlZZbHhVQmtCSFZlcHhYVG9KdlRIRFpCOWczNW52VUZGS3RJY3RPNkN5Y1hxQkhiUTBGREVvZWNVTTZHdzhSQlZpRndiSWRlMDNJMmhSNzBkLUlwR2g3RUpiWWFUcW42R1VHUXNnSVZtWXk1R3p1cmM0eVk2bHBBSDhFUE1qSDI4eEphZTR4R0RhbHVIVnlmelRGR0p6Q3FrRE5sR2l4RU5MVnFCZW82NnJlZnRsdmtSa3JOTDNTT0k?oc=5",
+        "publisher_name": "MARCA",
+        "publisher_url": "https://www.marca.com",
+        "published_at": "2026-05-19T07:00:00+00:00",
+        "indicative_usd": 550000
       },
       {
-        "candidate_id": "d5941f9c6cc148cc",
-        "title": "Highest-Graded Super Mario Bros. Sells for Record $3 Million at Heritage Auctions - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWHIxeXpxTzZ2OW5ia2V0SGlnYThYRDEzdFgyRmlIRTA5WnI1TXRFcGptZlFqbjZpTGgtZmZRbzlnM3Nxbzh0ejRJWVFkd1hvRDFZN25pQU5hRDB4Y29VVW56Mm8tel9kU3NITFlvMk9ualFNZDFCb3BDaUR5dUwzckxGSnRXVUdiTWNFbzVRNlFTdGRTQVRGNDhWdzFacXAzWFZJTXFGcEZ6aXBWYW5RSTFkQURHa2ZPQnM4LTdwRUVYMVpwZWJfSmJPZUFSQ2VkeVFES3lrZ2M2SXZxVmFEY0R3Ty1FTFZLVUxOc3hKVVpCMGRiekhkb0trTkc?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://entertainment.ha.com",
-        "published_at": "2026-06-12T07:00:00+00:00",
-        "indicative_usd": 3000000
+        "candidate_id": "18b252d29df0e078",
+        "title": "Ultra-rare signed Lionel Messi trading card sells for over $550K - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV3g0NUZ1WVpOeS16dFotbVpDVW1CcU9sX3k2eDdXMU5zanBQbEhneVE2VEV2Wk5uWEhCLUdDN3NMWHc5R205Q0cyNVFTbDFmbkNWOExCdXYtWHlkbGRDTnIxdjhkYWZNUUJIRnhkVklrOC0tN21ydXQzUFlqZUVZMC1EUnNZRVlib2lYRUZvVi1GbGFkTEZXMWRB?oc=5",
+        "publisher_name": "New York Post",
+        "publisher_url": "https://nypost.com",
+        "published_at": "2026-05-19T07:00:00+00:00",
+        "indicative_usd": 550000
       },
       {
-        "candidate_id": "19b02b6d18ee0ed6",
-        "title": "Copy of Super Mario Bros. Sells For $3 Million In Auction - Kotaku",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjNQT1J4SlZLSk5TWVpTYW5YRG4zR3pwRWhzX05lUC1FRDM2cG1jQi1fb2FkM1dVZE9yRUJkZ0QzLTdBZTk5RE1iNDVWRXdMX1ZfQ2ZJVmdEVk9QajRmWmJaSTR4ejBBUGVKb0E1S1NIc083TzhzVUEwTFR2NGdWVUJ1TThSNG51V2R5b0xR?oc=5",
-        "publisher_name": "Kotaku",
-        "publisher_url": "https://kotaku.com",
-        "published_at": "2026-06-12T07:00:00+00:00",
-        "indicative_usd": 3000000
+        "candidate_id": "c6f1b556f40f5988",
+        "title": "Ultra-rare signed Lionel Messi card sells for more than $500,000 | National - SF Weekly",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMUpRSmFhTkRoc1oybjVQeHVvTzQ2SHM0NkNJckwySzZheUpJcENKLWgwX3dqTjNMYy1WMlNUb2RIcUVtN2d6SVNEQjVySEJkcVhqYng1bDBkcnBjSTEyekVIb3BPVEVDamZqQ0w5U3lPUU9DZ2szRmRnWEVmREFFWjZ3LWFaQ1A0bVVGZmRORVlFVXVFNXlSREsyRXRBXzdFZmZrUXVIX291bjQ3LXdzcnBjOGNNOU9sU1dJRTV2eFljVVdicVdEN3VfcXE1RFNmNVdGeVBDMVg5MXc2QTJBUHhuR1duVUE?oc=5",
+        "publisher_name": "SF Weekly",
+        "publisher_url": "https://www.sfweekly.com",
+        "published_at": "2026-05-18T07:00:00+00:00",
+        "indicative_usd": 500000
       }
     ]
   },
   {
-    "group_id": "5d440eb954de1c38",
-    "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 2 Detroit",
-    "category_hint": "other",
+    "group_id": "e0cb4dca51ab84d5",
+    "title": "Rare ‘Ocean Dream’ Diamond Sells for Record $17.3 Million at Christie’s - Artnet News",
+    "category_hint": "jewelry",
     "articles": 3,
     "publishers": 3,
     "indicative_usd_values": [
-      5124000
+      17000000,
+      17300000
     ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-02-25T08:00:00+00:00",
+    "amount_variation_pct": 1.7,
+    "last_publication_at": "2026-05-18T07:00:00+00:00",
     "priority": 2,
     "checks_needed": [
       "Не найден проверенный результат конкретного лота из официального источника"
@@ -1940,90 +2068,37 @@
     "decision": "needs_official_primary_source",
     "is_verified_sale": false,
     "candidate_ids": [
-      "d4a81f8e278be03b",
-      "7549df0533517d4a",
-      "02743050af909f76"
+      "77875b690134d8c6",
+      "6456407faa3526c1",
+      "177f729c41cf1db1"
     ],
     "links": [
       {
-        "candidate_id": "d4a81f8e278be03b",
-        "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 2 Detroit",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOEVIVkVFNXlKV01JSkw3OWRrRWhrczRSVTV6STZOQ0JtZ3FkcDR3amRjTXBoZnlpbW1hZWFzS0t3d2U2bjlHdU4zT3d4UEdkX2E2dlM0Zlg3aHVHRXdwYWR6Z1BfY1MzYjhyaE5xMnBvZmV0OERET1RZOWJ6YUhlc25rOGRCQy16MUtld3cyTXF0NTNfN09FS0c4b3k1S1pNQ1JwNlhIYkRVV1FjS0trbTNEamlvVnI3Vk40LQ?oc=5",
-        "publisher_name": "FOX 2 Detroit",
-        "publisher_url": "",
-        "published_at": "2026-02-25T08:00:00+00:00",
-        "indicative_usd": 5124000
+        "candidate_id": "77875b690134d8c6",
+        "title": "Rare ‘Ocean Dream’ Diamond Sells for Record $17.3 Million at Christie’s - Artnet News",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZTVoMjhZQkNDRDViTl9qaUpVdUhlVFlzRy1hRjZ3bU1Gd1Y5cExoNS1QcmxReU9TMkhsakViVjFERFl4cXp3UW1fRFF2a0R4YnV4RVBiUTBVOXMzYnBXeWZHQ1VQX2xOX2NpeVdzc1J0Sk5PeGswNUg3ODJWcWZHRjdiNlVpQdIBjgFBVV95cUxNWTlyZzB5R0p1UHJKSnRlVmROUlpBWTg3WGJ2Z1RrbW5aWlFqSmtwbzB6RWhiWUJ4THJZVnQ2Wll2SF93MTNoQWdwem96Sy1aX1hpUlNnTWVIUzhidDZNMnE1UUxJbU83a3I4ZWUtakJ0X1ptQTBDWW9RQjExYXNXOUFWcllkNy1tcmtpclZn?oc=5",
+        "publisher_name": "Artnet News",
+        "publisher_url": "https://news.artnet.com",
+        "published_at": "2026-05-18T07:00:00+00:00",
+        "indicative_usd": 17300000
       },
       {
-        "candidate_id": "7549df0533517d4a",
-        "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 29 Philadelphia",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFE4SXVVTjl0VDNpcm9qSEZJeUF2b0ZGY1UxcTRUTEREMFJ0c0k4RG5nanBGYnQ5NUJXaW01dmFvbjV2dTNCNHBhaWN5cnMyeXItcDJ6YmhmUkw3bFNjMkNOOEJlQndZNWhBSGRaTzktUGdUcC0wRC02Zjl6VFFoUGJNbUpGRE1FUFJrbVh5Z0twQlZEWENlRzhyM2pfNDF4Vl92bTVvRlRPVzdaRjBla3pBSXM?oc=5",
-        "publisher_name": "FOX 29 Philadelphia",
-        "publisher_url": "https://www.fox29.com",
-        "published_at": "2026-02-25T08:00:00+00:00",
-        "indicative_usd": 5124000
+        "candidate_id": "6456407faa3526c1",
+        "title": "The Ocean Dream Diamond Just Sold for a Record $17.3 Million - Natural Diamond Council",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OTm5HMFd3Rk1TOGlGS0x0bnF2UEhHbHFZenNCcXVvVFJnUno1UWNmTm9EanZZTnhoeXF2WkhuUlZVTGJBaU14STBPaWV5dlRhRXVJendQVmg2dEtKRF9zVDI1RGZKUDBhN21PT0J0VkRvejhJVV9RbmRqaDhlQQ?oc=5",
+        "publisher_name": "Natural Diamond Council",
+        "publisher_url": "https://thediamondcollective.world",
+        "published_at": "2026-05-13T07:00:00+00:00",
+        "indicative_usd": 17300000
       },
       {
-        "candidate_id": "02743050af909f76",
-        "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - LiveNOW from FOX",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2FRR2x1djFwVUhPU19FSlYwTEpKQXQ4TzdHZFBRdlZKbG11NVc1SmtDRFVBS1NrYU9WMlQ1d1BNTWJpMHQtTnk2c3ZyR0Z3WG5kQkJlSUtycVhIeUN5cUE1RnB2eE9iMmU0STJpT3ZOOXlrdElLQ1RWM3B4XzE2RzlsTEdLeVdYSHFUWlZreGZwRWZNczljMXhpUndzUVd1YjhEVzRUZFBrZV9ldEYzaVRSelVNWXdYdE5R?oc=5",
-        "publisher_name": "LiveNOW from FOX",
-        "publisher_url": "https://www.livenowfox.com",
-        "published_at": "2026-02-25T08:00:00+00:00",
-        "indicative_usd": 5124000
-      }
-    ]
-  },
-  {
-    "group_id": "0a4249295c24e847",
-    "title": "Logan Paul’s ultra-rare Pikachu Illustrator Pokémon card just sold for a jaw-dropping $16.5 million at auction - 107.5 Kool FM",
-    "category_hint": "other",
-    "articles": 3,
-    "publishers": 3,
-    "indicative_usd_values": [
-      16490000,
-      16500000
-    ],
-    "amount_variation_pct": 0.1,
-    "last_publication_at": "2026-02-18T08:00:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "492993966cc406a8",
-      "6156864411b8eb8f",
-      "efb6daa08b18f905"
-    ],
-    "links": [
-      {
-        "candidate_id": "492993966cc406a8",
-        "title": "Logan Paul’s ultra-rare Pikachu Illustrator Pokémon card just sold for a jaw-dropping $16.5 million at auction - 107.5 Kool FM",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtVW1rZE1oUVB3TmRuN3FLanZ1ZXF3VktVUXNOOU1kc0R5X0Nad1pEQTFWaHo5N0ZDWTlEeFI0cUV6LTRFUUlMSlNoLWxmY2FwWnJacnN0d3lJc1A2YktwVWJBY0gyMjU3cXZZdUVwQ3dVQVBBRDVN?oc=5",
-        "publisher_name": "107.5 Kool FM",
-        "publisher_url": "https://1075koolfm.com",
-        "published_at": "2026-02-18T08:00:00+00:00",
-        "indicative_usd": 16500000
-      },
-      {
-        "candidate_id": "6156864411b8eb8f",
-        "title": "Logan Paul’s rare Pokemon card sells for record $16.49M at N.J. auction house - NJ.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcHF2VFpxc285QlJmdUhqckhtaGoyTEZEN0tjYzZSTjMyOVBURzI0UENkWFU5eFlDN0dHek56ZDFmTVJkNVh5d2docm4yT2tlVGU5TVBpZHVpd2pwcGFUTWpfQmkxbDJVU3JJd1NWbWVBeTdYb1FIVzBUTVBqbVpxV0U1YkRBdjltQ0NVX1dwWG94bzdCZEVqZURodUVYU05HNnZvbk1QRHg2VzE5ZTlqYQ?oc=5",
-        "publisher_name": "NJ.com",
-        "publisher_url": "",
-        "published_at": "2026-02-17T08:00:00+00:00",
-        "indicative_usd": 16490000
-      },
-      {
-        "candidate_id": "efb6daa08b18f905",
-        "title": "Logan Paul’s Pikachu Illustrator Pokémon card sells for record $16.5M at auction - AP News",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2l1SnhtVkVFTHdvekFrMXJzM0pBZkh2ZEhiSmdUVTU3d2hFSG12UE5MQ1liRFJGZGF3RGx4ZURZTktuWFROcjNhMmh5TkVpaFJpNTRNeWY1anhEX2k1SF9aSXBoNkhBM0dpY1JtVVdha3VMcklzaHBBelVvSzhCY2taUmxrSjhYemh1TUJsengwOVBpeUQ1Yw?oc=5",
-        "publisher_name": "AP News",
-        "publisher_url": "",
-        "published_at": "2026-02-16T08:00:00+00:00",
-        "indicative_usd": 16500000
+        "candidate_id": "177f729c41cf1db1",
+        "title": "'Ocean Dream' blue-green diamond sells for more than $17 million at Christie's auction in Geneva - The Independent",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2R6ZUh1dG9BLTNyYkdrWFFtNlhjM3BpR1k5VF9ZejJIX2RGcGRrQ2kxZ2xScVkwaWNvQ1NHRlQxTHNkdlpwUm9taHNvN1djTVJ3cTZTYk5xQ1NsaDczdUs3TGZuZzg1RHlzZjN5dTZna2xmMlpTS2FKU3F2YkxyMzBGUzRFT1pNYnVmdXdja3lNbUU1ZXRFa25IZWtSbW55REEyTA?oc=5",
+        "publisher_name": "The Independent",
+        "publisher_url": "https://www.independent.co.uk",
+        "published_at": "2026-05-13T07:00:00+00:00",
+        "indicative_usd": 17000000
       }
     ]
   },
@@ -2130,58 +2205,6 @@
         "publisher_url": "https://www.reuters.com",
         "published_at": "2025-11-11T08:00:00+00:00",
         "indicative_usd": 25000000
-      }
-    ]
-  },
-  {
-    "group_id": "d0a37759328a0525",
-    "title": "Rare T-206 Honus Wagner baseball card sold for record $7.25 million in private sale - ESPN",
-    "category_hint": "other",
-    "articles": 3,
-    "publishers": 2,
-    "indicative_usd_values": [
-      7250000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-08-04T07:00:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "432e3084fafa2067",
-      "37ee2e064148080b",
-      "0d99ab1416167f6d"
-    ],
-    "links": [
-      {
-        "candidate_id": "432e3084fafa2067",
-        "title": "Rare T-206 Honus Wagner baseball card sold for record $7.25 million in private sale - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOODl5OG1XbFRXMFdqR0ViRVNFc0IyckxaaHVLd25zeUN3aFZWcWdaQ0Y0OEwyMGJHdkk2cTI3ZlJIYmlURWl5Z0d4aGpkSmFyQTdTMGp6eUhmSUExcWcteUlfMllqMk5RcWw1S1RuY3NCZ3Q0dGJ6ZEhIUVhhWWVSa1B1M2xVUDRfNG1wZEpvN1p5NzdycmFJTUxkUzFfS0p3U3BKa1dweWhib2JNSWg3ZzRzUndDX1lMdHNV?oc=5",
-        "publisher_name": "ESPN",
-        "publisher_url": "",
-        "published_at": "2022-08-04T07:00:00+00:00",
-        "indicative_usd": 7250000
-      },
-      {
-        "candidate_id": "37ee2e064148080b",
-        "title": "Honus Wagner T206 card sells for record $7.25 million - MLB.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3VxRzlrWnB5ZjBJb0tRZWJUTWVZOEtyZS1TVEdSbFFvVVhXbXloTjFubW1XY3VDc285RVhZT1FUbUVvOUlpLWxzQkF2OEdNQl92SmtKbjBzUjhIQXNBVlFRM1FKa1BlT25hazVqQVFOV0N6Z1duNFN6UlRCVmh0WHg3SUZOODVKR053?oc=5",
-        "publisher_name": "MLB.com",
-        "publisher_url": "https://www.mlb.com",
-        "published_at": "2022-08-04T07:00:00+00:00",
-        "indicative_usd": 7250000
-      },
-      {
-        "candidate_id": "0d99ab1416167f6d",
-        "title": "Honus Wagner T206 card sells for record $7.25 million - MLB.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3VxRzlrWnB5ZjBJb0tRZWJUTWVZOEtyZS1TVEdSbFFvVVhXbXloTjFubW1XY3VDc285RVhZT1FUbUVvOUlpLWxzQkF2OEdNQl92SmtKbjBzUjhIQXNBVlFRM1FKa1BlT25hazVqQVFOV0N6Z1duNFN6UlRCVmh0WHg3SUZOODVKR0530gGXAUFVX3lxTE9lc0E0X3pwLWJyM093ZnBJLTRFQ3g5VXNvcEhFQk9YSmlzU2wxLVlkLVFNci1lTWc1VnBORlBuTHFSaC02YlRzVFhDclZ3eVlDNlhSRnRZdnpzZHJZRkZzWmV4bUlUbGhqWm8zcERQY25EWF85RTQ1cVFuN2ExMUhiSmhUQ0NmSVdHdlZuTWNkVzhxWDFPRG8?oc=5",
-        "publisher_name": "MLB.com",
-        "publisher_url": "",
-        "published_at": "2022-08-04T07:00:00+00:00",
-        "indicative_usd": 7250000
       }
     ]
   },
@@ -2608,16 +2631,16 @@
     ]
   },
   {
-    "group_id": "4979ebb0588c46e3",
-    "title": "Rare T. rex fossil sells for record $50.1 million at auction - WISN",
+    "group_id": "97631a02ec59e631",
+    "title": "Brunson’s NBA Finals Jersey Sells for $1 Million at Sotheby’s - Bloomberg.com",
     "category_hint": "other",
     "articles": 2,
     "publishers": 2,
     "indicative_usd_values": [
-      50100000
+      1000000
     ],
     "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-07-14T07:00:00+00:00",
+    "last_publication_at": "2026-07-09T07:00:00+00:00",
     "priority": 2,
     "checks_needed": [
       "Не найден проверенный результат конкретного лота из официального источника"
@@ -2625,27 +2648,27 @@
     "decision": "needs_official_primary_source",
     "is_verified_sale": false,
     "candidate_ids": [
-      "591239eadd350255",
-      "57929bfe174cb1b5"
+      "b46a928338364f53",
+      "76e7c8445cd18ec0"
     ],
     "links": [
       {
-        "candidate_id": "591239eadd350255",
-        "title": "Rare T. rex fossil sells for record $50.1 million at auction - WISN",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcEpXZng2RUVMSzZaTUlZTkx5d2FwcWZ6SHpMbHVZbUhSR2pheWN2OTV2YVpUMENjV1d6bm1CeGJDbmZpd0JPWUVBZXlPU0ExNENsZ2lHNmxaMFVkUWJuWnNOb3VHVnVWbWpic2h5akg0NUJaZG8yaURSbU02YndST2t0RDZDbEVma2VVZ1BIZEI?oc=5",
-        "publisher_name": "WISN",
-        "publisher_url": "https://www.wisn.com",
-        "published_at": "2026-07-14T07:00:00+00:00",
-        "indicative_usd": 50100000
+        "candidate_id": "b46a928338364f53",
+        "title": "Brunson’s NBA Finals Jersey Sells for $1 Million at Sotheby’s - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXRXMGRTTUpMWDk4MzhfcDV4Q3Ixc1A4TXZSX01PTi14OXdLNkV3Y2VRLXAzNjNQUlJzS3JtNEk4TWMwOEExNEdMY0VVVm9yanh5MnU2NE9UOVpjcGpFQUI1dVcwaTR1ckYxMTA4Yk1rWm9qaGZ6UWp4X2F5RUhGMFNyeE9UdTNCdVI2a1IyTFRRTHY0Z19adm83WW9DZEFoVlpBeTBOa29EYkg5cGVyeg?oc=5",
+        "publisher_name": "Bloomberg.com",
+        "publisher_url": "https://www.bloomberg.com",
+        "published_at": "2026-07-09T07:00:00+00:00",
+        "indicative_usd": 1000000
       },
       {
-        "candidate_id": "57929bfe174cb1b5",
-        "title": "Rare T. rex fossil sells for record $50.1 million at auction - Gulf Coast News and Weather",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3lrR0lRTWJVYl9tSWhabW0tWFhJdmg0TGg3QlhmcjJqV3FIZUhGUHA4QVIzZnJRbEZyRDRRMXVIcjNZNlNBeThnY2dKcklWeGhUWEdYU0xIa3pwTF9TNS03TzhwYllNRkxxRFdzNDNBRDU3OGhFWk9LMUNZVlJlTF96eU15QjJOT2tacnBWbFl1UFJRc01MOGlKakpPTDY4?oc=5",
-        "publisher_name": "Gulf Coast News and Weather",
-        "publisher_url": "",
-        "published_at": "2026-07-14T07:00:00+00:00",
-        "indicative_usd": 50100000
+        "candidate_id": "76e7c8445cd18ec0",
+        "title": "Jalen Brunson’s NBA Finals Game 1 jersey sells for more than $1M at auction - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLVJLZFp1V2taejRIYThXbC1Rc0Z0VFpyS0ZQSFhaamJ0OWlERkVhM1d2NGVMZXcxa0hNSEpvenRYS256M1hlbFptUWpFMjlRbzhEaHd1OHdJTkNLTWtYdkZyU3AyUGFSeVVjQVRaZ293NkpEaDQ3QVVnSWFQbXl4NUtKaEF6U0RTMXZZdkxiMk5GYlZmWUNF?oc=5",
+        "publisher_name": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "published_at": "2026-07-09T07:00:00+00:00",
+        "indicative_usd": 1000000
       }
     ]
   },
@@ -2734,48 +2757,6 @@
     ]
   },
   {
-    "group_id": "775c50dcdd31d192",
-    "title": "Ultra-rare signed Lionel Messi trading card sells for over $550K at auction - MARCA",
-    "category_hint": "other",
-    "articles": 2,
-    "publishers": 2,
-    "indicative_usd_values": [
-      550000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-05-19T07:00:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "d048e16a3a78acf0",
-      "18b252d29df0e078"
-    ],
-    "links": [
-      {
-        "candidate_id": "d048e16a3a78acf0",
-        "title": "Ultra-rare signed Lionel Messi trading card sells for over $550K at auction - MARCA",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOHNkZmF0RjBsVDZZYkFYYnduaEw0Nlh6S1QtY0RneGNIT3YxUzNBeXN6SVVKdHc0SnRMaUJvdlZQTk0xbHd1ZTkxcEs3ZWhRb0M3VFZIeW1tZUFzZDRPQ3ozY0diWG9zNDVLZ01KZkJLZ0llMVpNVF9VQW1HakFmRUItLXkzVFlsU20wcGp1R1o1QnZ4bkVYXzl0eEMxckdkSF9MY2NQdEVpSzNSRURsbE5HMFBVYlZsZU0wUXFNeDk4RE1QTEhz0gHHAUFVX3lxTFBLUHhyS0VzSlZZbHhVQmtCSFZlcHhYVG9KdlRIRFpCOWczNW52VUZGS3RJY3RPNkN5Y1hxQkhiUTBGREVvZWNVTTZHdzhSQlZpRndiSWRlMDNJMmhSNzBkLUlwR2g3RUpiWWFUcW42R1VHUXNnSVZtWXk1R3p1cmM0eVk2bHBBSDhFUE1qSDI4eEphZTR4R0RhbHVIVnlmelRGR0p6Q3FrRE5sR2l4RU5MVnFCZW82NnJlZnRsdmtSa3JOTDNTT0k?oc=5",
-        "publisher_name": "MARCA",
-        "publisher_url": "https://www.marca.com",
-        "published_at": "2026-05-19T07:00:00+00:00",
-        "indicative_usd": 550000
-      },
-      {
-        "candidate_id": "18b252d29df0e078",
-        "title": "Ultra-rare signed Lionel Messi trading card sells for over $550K - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV3g0NUZ1WVpOeS16dFotbVpDVW1CcU9sX3k2eDdXMU5zanBQbEhneVE2VEV2Wk5uWEhCLUdDN3NMWHc5R205Q0cyNVFTbDFmbkNWOExCdXYtWHlkbGRDTnIxdjhkYWZNUUJIRnhkVklrOC0tN21ydXQzUFlqZUVZMC1EUnNZRVlib2lYRUZvVi1GbGFkTEZXMWRB?oc=5",
-        "publisher_name": "New York Post",
-        "publisher_url": "https://nypost.com",
-        "published_at": "2026-05-19T07:00:00+00:00",
-        "indicative_usd": 550000
-      }
-    ]
-  },
-  {
     "group_id": "dcc6a2c7595de4c5",
     "title": "Rare Patek Philippe Watch Sells for Record $10.2 Million at Auction - Yahoo",
     "category_hint": "watch",
@@ -2814,49 +2795,6 @@
         "publisher_url": "https://www.complex.com",
         "published_at": "2026-05-11T07:00:00+00:00",
         "indicative_usd": 10200000
-      }
-    ]
-  },
-  {
-    "group_id": "c57b2d477af4cd0b",
-    "title": "The Ocean Dream Diamond Just Sold for a Record $17.3 Million - Natural Diamond Council",
-    "category_hint": "jewelry",
-    "articles": 2,
-    "publishers": 2,
-    "indicative_usd_values": [
-      17000000,
-      17300000
-    ],
-    "amount_variation_pct": 1.7,
-    "last_publication_at": "2026-05-13T07:00:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "6456407faa3526c1",
-      "177f729c41cf1db1"
-    ],
-    "links": [
-      {
-        "candidate_id": "6456407faa3526c1",
-        "title": "The Ocean Dream Diamond Just Sold for a Record $17.3 Million - Natural Diamond Council",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OTm5HMFd3Rk1TOGlGS0x0bnF2UEhHbHFZenNCcXVvVFJnUno1UWNmTm9EanZZTnhoeXF2WkhuUlZVTGJBaU14STBPaWV5dlRhRXVJendQVmg2dEtKRF9zVDI1RGZKUDBhN21PT0J0VkRvejhJVV9RbmRqaDhlQQ?oc=5",
-        "publisher_name": "Natural Diamond Council",
-        "publisher_url": "https://thediamondcollective.world",
-        "published_at": "2026-05-13T07:00:00+00:00",
-        "indicative_usd": 17300000
-      },
-      {
-        "candidate_id": "177f729c41cf1db1",
-        "title": "'Ocean Dream' blue-green diamond sells for more than $17 million at Christie's auction in Geneva - The Independent",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2R6ZUh1dG9BLTNyYkdrWFFtNlhjM3BpR1k5VF9ZejJIX2RGcGRrQ2kxZ2xScVkwaWNvQ1NHRlQxTHNkdlpwUm9taHNvN1djTVJ3cTZTYk5xQ1NsaDczdUs3TGZuZzg1RHlzZjN5dTZna2xmMlpTS2FKU3F2YkxyMzBGUzRFT1pNYnVmdXdja3lNbUU1ZXRFa25IZWtSbW55REEyTA?oc=5",
-        "publisher_name": "The Independent",
-        "publisher_url": "https://www.independent.co.uk",
-        "published_at": "2026-05-13T07:00:00+00:00",
-        "indicative_usd": 17000000
       }
     ]
   },
@@ -3031,6 +2969,91 @@
     ]
   },
   {
+    "group_id": "5b7f16f3f5d1836c",
+    "title": "This C-3PO Head From 'The Empire Strikes Back' Just Sold for More Than $1 Million at Auction - Smithsonian Magazine",
+    "category_hint": "other",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      1000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-03-31T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "955733742aec4dfd",
+      "f88d2dc8cd538e75"
+    ],
+    "links": [
+      {
+        "candidate_id": "955733742aec4dfd",
+        "title": "This C-3PO Head From 'The Empire Strikes Back' Just Sold for More Than $1 Million at Auction - Smithsonian Magazine",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZlZGUVcyc25LQnBQenNuVGxwZXdqVzE3Ym1MS3JBbFZDSDJjR0s0RzRNS2pGaHZCc2JqeVMtNHJpRHJ6T3l0OG5QTHJGMHA5bElmY1N5VVo5RlpDMFJHTUJOZDZpTXI3RlFpdzlHb2x2ajdDUDNyQ3NVUUVfV1VGSzRFaVFzYVp4YmY0ckIza2tfd1NwOVRCVGhTMXJIak5PMlJlTXFkTnZjOUNsenFCVXFHdnJWWUJ2cXJOUDVERHVKaHVQeGxQZjhkZGZKdGdJdWo5WUc1el9GZw?oc=5",
+        "publisher_name": "Smithsonian Magazine",
+        "publisher_url": "",
+        "published_at": "2026-03-31T07:00:00+00:00",
+        "indicative_usd": 1000000
+      },
+      {
+        "candidate_id": "f88d2dc8cd538e75",
+        "title": "C-3PO's Head from Star Wars: The Empire Strikes Back Sells for More Than $1 Million at Memorabilia Auction - People.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeW5DNWNTQW0zUm8yWUJCUngzRk1PTnhKdDdpd0NOMDNpX3VxRk1sblRfd2RJRXR0ZkM1bHlfTGg2V1lfTkZiUjFGRFZiMHl4S3hnYVhJRnQzV1ZidVg1bERWQ3NQQThmUEh5RGRUQTVSa1MtRlpocVRZdzdMbTNQT3NVbEZqYnh1NmwxWmJ2SzVsenU3aEgzUWRuNWVwNW9m?oc=5",
+        "publisher_name": "People.com",
+        "publisher_url": "https://people.com",
+        "published_at": "2026-03-26T07:00:00+00:00",
+        "indicative_usd": 1000000
+      }
+    ]
+  },
+  {
+    "group_id": "6412e967e7e3dc32",
+    "title": "Logan Paul sold a Pokémon card for more than $16 million. Here's why investors are watching - CNBC",
+    "category_hint": "watch",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      16000000,
+      16500000
+    ],
+    "amount_variation_pct": 3.0,
+    "last_publication_at": "2026-03-29T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "b4ceecfe4fd0931c",
+      "cd26d28523fbb6d4"
+    ],
+    "links": [
+      {
+        "candidate_id": "b4ceecfe4fd0931c",
+        "title": "Logan Paul sold a Pokémon card for more than $16 million. Here's why investors are watching - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUEk4V1Z3aTl3WHgwb0pjNzJ2dnlRN0cwSWg5bWZWSVVNNk1LTXBBQ0NTQXVaNm5qTTB2NGIwSjJhNFJDZy1qdUJ4cWhuZDhmMUthUkRubEVGSG1Tbk5iRVZ1bFB6d3Vmald0NC1qYnpKc2tYMzN3QTVWekZiV1JQNG1jOHBWUUh1aDNiVEFLMjB4Z9IBlwFBVV95cUxPWFRlYm1TVGhtaVZ0aUQ4RU9PYmp3OWVyLUhFN0E0MExLUkRzSEFPX1YyMm5aZEJObGxvR3RpLUNKYnZXaUMybHU1Q2p3QUZ2em05U0V5ZVBhWUMyWG55X3dSV0Q1QmVsX2oyMVpFNW1aTDBmdTZQY0JkZjFZc2dTWVMyMmpHZVo0V0tlX0pmajRVdEd0MG1Z?oc=5",
+        "publisher_name": "CNBC",
+        "publisher_url": "",
+        "published_at": "2026-03-29T07:00:00+00:00",
+        "indicative_usd": 16000000
+      },
+      {
+        "candidate_id": "cd26d28523fbb6d4",
+        "title": "Pokémon card owned by Logan Paul sells for $16.5 million at auction - Le Monde.fr",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTJtZ0t3aUQydUJDWVAzTS04WUZyR0F5NjFnUHlNWVJrazBTeXZ4MDR1VkNhTjFMZHkyczBTaUJuNkljS000SnZuQnJTZC1lSWpsRDY0SkUtbzV1T0tFWVgzOW9ibDRvUy1sbjFlSkdTRUQ5VlZiVUt0bVU3ZF9mVko5TkpNbjBoUm9nbFdveDdVclpRQ0xyZUdOTjhfREJ5NUhvZjNqMmdQSlgzdDI5eE5abWhZUjUxWUt1eURHMTBhcWFBLWMwRkJxY0ZQaUk?oc=5",
+        "publisher_name": "Le Monde.fr",
+        "publisher_url": "https://www.lemonde.fr",
+        "published_at": "2026-02-17T08:00:00+00:00",
+        "indicative_usd": 16500000
+      }
+    ]
+  },
+  {
     "group_id": "58f8a9108c82183b",
     "title": "PROPSTORE ACHIEVES $6.5 MILLION IN DAY ONE AUCTION RESULTS, LED BY C-3PO HEAD - The National Law Review",
     "category_hint": "other",
@@ -3118,6 +3141,91 @@
     ]
   },
   {
+    "group_id": "78d56d45fad95b69",
+    "title": "Rare California Gold Rush coin fetches $1.44 million at auction - Popular Science",
+    "category_hint": "coins",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      1400000,
+      1440000
+    ],
+    "amount_variation_pct": 2.8,
+    "last_publication_at": "2024-11-20T08:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "beabaafb8ad314ee",
+      "631a0a6f05f0c476"
+    ],
+    "links": [
+      {
+        "candidate_id": "beabaafb8ad314ee",
+        "title": "Rare California Gold Rush coin fetches $1.44 million at auction - Popular Science",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wTUxGTjU4YmNnbTc0OWxNUEpxX2UtTVA0OF9UTF9VbzNWNmlhNWJHYjBGQkVSUmo3YURCaVRweGh5TXRmZTVJeVdoWXJ4TEpDN1R6b3hXMmozOFp2RnNsZGJzaGU?oc=5",
+        "publisher_name": "Popular Science",
+        "publisher_url": "https://www.popsci.com",
+        "published_at": "2024-11-20T08:00:00+00:00",
+        "indicative_usd": 1440000
+      },
+      {
+        "candidate_id": "631a0a6f05f0c476",
+        "title": "Rare coin issued after the California Gold Rush sold at auction for $1.4 million - AP News",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQy1hcTFTTndmZzJrYXRXeC1nVk5xbGFoOV9IaVRrTkFhMTRhYlhHcEtPanBWaGdqZHN1R3lTUXAwX2c3MXZmUUtHTS1KOTVaV2ROSURHT1pfS2hDZzFFSVg4T1NtU29ZcFJzdmRlWDFqVm9fRVhjU1lBWktYUjNxeXBxeGE3LVF0NmhtREpidm4yNFdvSjUwZg?oc=5",
+        "publisher_name": "AP News",
+        "publisher_url": "https://apnews.com",
+        "published_at": "2024-11-20T08:00:00+00:00",
+        "indicative_usd": 1400000
+      }
+    ]
+  },
+  {
+    "group_id": "416f851df2426b3d",
+    "title": "Rare dime with misprint sold for $500K at auction after being hidden for decades - New York Post",
+    "category_hint": "other",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      500000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2024-10-29T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "b4780adb0a445d64",
+      "b37b2e007ac98f90"
+    ],
+    "links": [
+      {
+        "candidate_id": "b4780adb0a445d64",
+        "title": "Rare dime with misprint sold for $500K at auction after being hidden for decades - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHJUY0U1bWVCVVpmbloxcHllWEkzYlAtRnd5Yy0tamdjbGNxMXVjajNfVXoxNld1OXN2ZUlPMzRUckF3aldyZ1NlbGJqaEQwNzQwbnVOWmhFS0VVX3VBX0JYTFd4UXVmZzZnWjI1d0d6QWZhMm5TbS1jbWhPbEFiaEZKSEZhcVFsWmtDOVl5TFZOd2dJMExCeS14WjJNVDFVSE1wRmdEYjNqb3F4Uml1Q0ZQTTdNQQ?oc=5",
+        "publisher_name": "New York Post",
+        "publisher_url": "https://nypost.com",
+        "published_at": "2024-10-29T07:00:00+00:00",
+        "indicative_usd": 500000
+      },
+      {
+        "candidate_id": "b37b2e007ac98f90",
+        "title": "Rare dime that was hidden for decades fetches $500,000 at auction - KPTV",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDd5TXhzLWV6Q1RXWDNvWUZ4RUcxOTVjLTJqajdZZjNNTjlvbjFibXNrbmZkcGlqUGZ5ZVFFaTNoanBsS2ZTXzc2Wlo2RlUwVEh1MXNGUkEtLTlGajVhbFY5MjBnNDBSOVE0Z1hFaFJUTlAwN1ZTMl9nck9LdnBQbHFJMFFSYkpZRDRPVC1wNDZtUVk?oc=5",
+        "publisher_name": "KPTV",
+        "publisher_url": "https://www.kptv.com",
+        "published_at": "2024-10-28T07:00:00+00:00",
+        "indicative_usd": 500000
+      }
+    ]
+  },
+  {
     "group_id": "b6fdd679f7a7d72c",
     "title": "Broad Arrow Achieves $71.5M Total in Monterey Led by Porsche 911 GT1 Rennversion - Hagerty Newsroom",
     "category_hint": "cars",
@@ -3156,48 +3264,6 @@
         "publisher_url": "https://www.oldcarsweekly.com",
         "published_at": "2024-08-20T07:00:00+00:00",
         "indicative_usd": 71500000
-      }
-    ]
-  },
-  {
-    "group_id": "bf6bd32c8c7aa88f",
-    "title": "First issue of Captain America comic sold for $3.12 million at auction - Spectrum News",
-    "category_hint": "other",
-    "articles": 2,
-    "publishers": 2,
-    "indicative_usd_values": [
-      3120000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-04-08T07:00:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "49ad57b6e86205f5",
-      "d102717ed99d4a04"
-    ],
-    "links": [
-      {
-        "candidate_id": "49ad57b6e86205f5",
-        "title": "First issue of Captain America comic sold for $3.12 million at auction - Spectrum News",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUWVaelJlbl80alhsZmFIUEw1eWc4NGJzbXlDOGVFRHJoLTFuMnlMcUN5UTZHNDQweG9Nb2QwSEphRVFYRVVyUDF3dEZRRi1pclF4YkMzYkJ2MUlabkJSM0ZYNk9meS1US24xcTlKemNWbWF3S2kyWWFoVG10ZzBXelVldF9MQktfMUgyczQ4Vmprcmg5NzkyOTVkNkNXTGk2aFlzN2FpUVpTZjQ1RUlqb2hWa08tUm1nS1F5c3dFU0dxVTljYTgzUDMxMXJsT1F3YmhmcERJZmlGXzEw?oc=5",
-        "publisher_name": "Spectrum News",
-        "publisher_url": "https://spectrumlocalnews.com",
-        "published_at": "2022-04-08T07:00:00+00:00",
-        "indicative_usd": 3120000
-      },
-      {
-        "candidate_id": "d102717ed99d4a04",
-        "title": "Captain America's Debut Comic Book Sells for $3.12 Million at Heritage Auctions - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTGlaQW1HOUdNZlFUQnA3bjBXNy05UkNEZHo0M1dVa1pCUjk0TE9rRDdpc0U3Yll5WFdwQmxtU082NjlJZHozeWNLQkJHOU5qYmRYWkgzdi03NnZjdU1OcXdFb3V6SkpnMDJpWmZhSjMwajlLekdVMFVleHhhQXhuRFBGSW1ra1hsTzUyVFpuanc1ejJTZmxPbm9DZnc3YlB5bUlzRWMyVkY2c3dyQnNZVm9BVGNNX29RV2F6d1BZQW94V2ZqeTMzTXl4UTBhWWxkYUVzOUpLZEhpdFhhSmVBWEtyREF0ampmblZKUzFRR3Y?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://comics.ha.com",
-        "published_at": "2022-04-07T07:00:00+00:00",
-        "indicative_usd": 3120000
       }
     ]
   },
@@ -5763,6 +5829,38 @@
     ]
   },
   {
+    "group_id": "4d7d63e16c9bf1b4",
+    "title": "Michael Jordan’s 1998 NBA Finals jersey sells for $14 million, setting basketball memorabilia record - TheGrio",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      14000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-13T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "fd3263958446d101"
+    ],
+    "links": [
+      {
+        "candidate_id": "fd3263958446d101",
+        "title": "Michael Jordan’s 1998 NBA Finals jersey sells for $14 million, setting basketball memorabilia record - TheGrio",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQWR1T05abUstN3ltc3Y1WXRCNVBfNE5pRUxCYUlGNGxZWUpxQmNpQk5uV0J1LVZ6QmdiU05BSVdJbGo4eE9KcGJiR2FuWEN6c2pYeHFQaE5sckYtVDJybWtrYmt3eTFBWjlhN214WFJETWNHU01BVVdCdFg4LU9RdkE5UTFJRkF0?oc=5",
+        "publisher_name": "TheGrio",
+        "publisher_url": "https://thegrio.com",
+        "published_at": "2026-10-13T07:00:00+00:00",
+        "indicative_usd": 14000000
+      }
+    ]
+  },
+  {
     "group_id": "d53e64dcef261c1a",
     "title": "Historic 1792 Half Disme Brings Record $2.93 Million, Leads Heritage’s GACC Numismatic Auctions Above $19 Million - Heritage Auctions",
     "category_hint": "coins",
@@ -6015,6 +6113,38 @@
         "publisher_url": "https://artdependence.com",
         "published_at": "2026-10-03T07:00:00+00:00",
         "indicative_usd": 1350000
+      }
+    ]
+  },
+  {
+    "group_id": "bbfb4fb79ed8d5e2",
+    "title": "An 1852 California Gold $50 coin from the Gold Rush era sold for $367,875 on September 6; the rare piece - The Times of India",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      367875
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-02T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "9ce9f745c44a6302"
+    ],
+    "links": [
+      {
+        "candidate_id": "9ce9f745c44a6302",
+        "title": "An 1852 California Gold $50 coin from the Gold Rush era sold for $367,875 on September 6; the rare piece - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQODZGUzZVVEFEM3h1NXFtc1JiQVhhcUxua0JteVpLcjNMbTlGd0loN01TNGVIQXJLOW9LZkpSdzhaSmtWMnNQbTlsOWx5aUl3N3JwRllnRXFmUkxkaDNWRUlyaEVJTHVCSHBjc2MxR1lvY3Q2M29Pc2lzMEFQOTBGUUREN29uamxpOEpjQlFva1hqUXV6MUFLeVEwUHhCWkxIdkc1VWUzaVVpOUV6ZjVwdlkxMVVhc3ZuT21LcTI3SlBOTmtVQTVwd2F6ZUdCNE9Camd3R3h2NXdmRDhoNjNIR3hkWEttNFZSLXdyV0NWa0NEdGlLOFpueDdOX2d1UU1NMjh3cUJtaVJJUzZhODNzYVR4bGxKSGh5VTRQeVN1cnFTMWtVYlEtODRnMGQzU3NIR0pVUzYxbXVvSWEyN25KX2ZMNmVzOGlBMkJMSkowZ3dHN040MlZTTnBURm9taVlvampSZkg4a05XOG9YVWZ1TUpTTdIB-AJBVV95cUxOVWRWN0dGLVVtanNVaWpKTFBWN2YyM2drYjhIa25ZR1lZTlF5UDkwWVUzX2RaSVJtQjVSV05yeHU2QkhYaXFodHVhVEhmR2FuREp1cjFyZjlvVVhQdmZuMTkxdjBCZ1BOQVVRSGJIb2JScjJOelVCTnVQeVVvM1BtcHlrWlhQUHNtdzF1S0V6eUVYSmxKNWlWbmNHT2xfTldDajNGVmt5Z0FwNzhRMU5uSlA3Qmo0dEx4N2NORTRKOEFjSVVOa0Rfd0l2QldpdzBtc0RKbTJlZDd4X1NadlFEOVRhMVN3V21jRll6SGszRGtzNTRKTXpfVS1xdE1tMXM4eFNzbWhjYkJjTURjamJ5dnR3bEtVQmpmWE53TmJRekFzSEhQRmlIdkI3LXdGVDgyQ1ZXV0lfRjFTMmM4QjAxT2VrTGtHOFZZUXB6dGJzOWtMejF0TkNWM2ZxNjkwMnlrbFVhdWUxY0IzNGkxdzlIWC1KNzJjekJn?oc=5",
+        "publisher_name": "The Times of India",
+        "publisher_url": "https://timesofindia.indiatimes.com",
+        "published_at": "2026-10-02T07:00:00+00:00",
+        "indicative_usd": 367875
       }
     ]
   },
@@ -6403,6 +6533,38 @@
     ]
   },
   {
+    "group_id": "70b39c76c5a511a0",
+    "title": "Rare $500 bill sells for nearly $500,000 - AL.com",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      500000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-09-21T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "7d233dd044e550b8"
+    ],
+    "links": [
+      {
+        "candidate_id": "7d233dd044e550b8",
+        "title": "Rare $500 bill sells for nearly $500,000 - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxclNJVmlJVHNBMzFXM1VJUkhQc1loQV9EckVUelF1ZFpDcm9JSzh4bVUzT3NienlOSnpPeEFWT0VBSWZUTC1abmhybzlkWmFnTm5sSzFBZVZYYk95Q1h2VTVFZll5U1JCc05EX1NIYmpEczdwdDIyUGQ5bkZmdGfSAZMBQVVfeXFMTjFNczdRaDZRSUozcVRKNFJoUTExczAwc05rYVNnTUVJWjdXdThURDBPbGl4LXRhejdvcnBjeWRwZk9aX0xxQ1poNmhKeEFadVNyMk9VcGVWRlBDWk1UNEZoNVRzMHhUcE9aT3VZRG9rQVZ6dE1VcjJoUUlST0lJWFhYdUJvNTRvMVFXTERoaS1nTXVz?oc=5",
+        "publisher_name": "AL.com",
+        "publisher_url": "https://www.al.com",
+        "published_at": "2026-09-21T07:00:00+00:00",
+        "indicative_usd": 500000
+      }
+    ]
+  },
+  {
     "group_id": "8b2eaa6e622ccf83",
     "title": "Ultra-Rare Cartier Cheich Watch Sells for $3.4M - nationaljeweler.com",
     "category_hint": "watch",
@@ -6629,6 +6791,38 @@
     ]
   },
   {
+    "group_id": "421520c7f156f87e",
+    "title": "Check your change as rare silver dollar sells for $1.18 million thanks to unique mint mark detail - The Sun",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1180000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-09-07T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "668dfa144b58e9b9"
+    ],
+    "links": [
+      {
+        "candidate_id": "668dfa144b58e9b9",
+        "title": "Check your change as rare silver dollar sells for $1.18 million thanks to unique mint mark detail - The Sun",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVpMZkswWjU3VnZlNnRIeERJU1BuRXJHX0VxWGdtUGRuY0xhSTJ0cXFtZnRDQUhfR2l3cGNGZllWUEQ4QXJEbUtWVnlaXzFGU1NpSVZzNkc4YXV4ZldBaDRKb05XWS1HbUduaEpvc05JMXRRVEhPWVNqTDhoXzI4VDFwNTNJQk9qd3NRa1lDZ2hYTklmX3RnRW1R?oc=5",
+        "publisher_name": "The Sun",
+        "publisher_url": "https://www.the-sun.com",
+        "published_at": "2026-09-07T07:00:00+00:00",
+        "indicative_usd": 1180000
+      }
+    ]
+  },
+  {
     "group_id": "76fc7b3a6deca7c4",
     "title": "‘Legendary’ Rare Dime Just Sold for $1.2 Million at an Auction. Here’s Why It’s So Special - People.com",
     "category_hint": "other",
@@ -6693,6 +6887,38 @@
     ]
   },
   {
+    "group_id": "1f2c3ca725477db9",
+    "title": "Rare 1894-S Barber dime sells for $1.25 million at auction - Boston 25 News",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1250000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-09-03T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "a390df0681849b5a"
+    ],
+    "links": [
+      {
+        "candidate_id": "a390df0681849b5a",
+        "title": "Rare 1894-S Barber dime sells for $1.25 million at auction - Boston 25 News",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTEdpOWxESVlBYVBBbk9JeG5oV2NiSzhEVmViblNqSW5URTJSNDBaQlBpNGlhcVBmMjZvYnJvZTc3bXgzTFBJRjRFaFlTUlhucFNMTnFnQjVEdXZqamkxTFNiTVZiUHc2THBtLUl2VU90RUczLWVpQlhaT3VvdVB2YS1WbWFxcmduWHc4MDMwc1lLMmlHU2xRdWxYSEtRSUx3UHRmOGQxR3ZiSUFiT05seGQxc3RPSHY4RllFeNIB0AFBVV95cUxNSDJWZTlic3lJdmU5UV96MmhRRm9nRUtvZWltMWFQd1BhTkk0U3Vfd0c5VmNYUnpaTEpjSVBkSDEwZ09BOWQwWHA4bm9iTkVtb1I0Nm1ZZk9icEVCLW5mZGZWS25mQlNpVENrcnpRN29MQTRxMFRQc0VNYXVsakJiVUN2dHFfU0NRZld0Y2FkY0czX1NPM1lNakE4VTc2VmdnN1BNdU5oQzNiSDZ5XzI5a05RNU1OVXNLbEZHMDkyNFpZZk1oUWNYTmVtWnNMaGlJ?oc=5",
+        "publisher_name": "Boston 25 News",
+        "publisher_url": "https://www.boston25news.com",
+        "published_at": "2026-09-03T07:00:00+00:00",
+        "indicative_usd": 1250000
+      }
+    ]
+  },
+  {
     "group_id": "8394e8e8c6a331ac",
     "title": "Thieves steal Egyptian queen’s 673-diamond necklace, last sold for $4.3 million, in Vienna museum raid - Business Insider Africa",
     "category_hint": "jewelry",
@@ -6725,6 +6951,38 @@
     ]
   },
   {
+    "group_id": "4f620922d03d4a19",
+    "title": "This dime sold for $1.2 million. The story behind its extraordinary value - NBC Bay Area",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1200000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-09-02T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "825b9b8aaf9eec61"
+    ],
+    "links": [
+      {
+        "candidate_id": "825b9b8aaf9eec61",
+        "title": "This dime sold for $1.2 million. The story behind its extraordinary value - NBC Bay Area",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM19mQ0VyN3BBNy14QVdZZ2dMQV9RYk5QeFNFS0lfX1lON1ZHUVlWZlpDQjZwVFN4R1FsYmJBcnVIVVNzVGQyaXJBTTYzLVYyaGY1MkszUUJiLXJzU0JMU2trRzNMbzhpWkVhM1MyakZ0Qk1Oa1I0NEZycjJSMjFuN1BCTzRIcEZWVnA0Nm5vc0ltVC05aVBRLdIBoAFBVV95cUxNTC1ic01LV2ZvSXl2ZWdFVVN4Q1FLcHljd3lxbkNJbjlMOUJtUFY1RmJkZzlKaE8weHdtaUlUa1ljcGVfRDlGOUhkTlMzZUlpUjF3Y3M1S0NZM1h1WmFZXzlZM0lvYXRZTnRHRTY4aVJ5Z1g4SGY4SndiUWV6TjRVaE1PZkItbHMzMWNNdlhBTkVfTkhVLVpHMmdISEhfQUtR?oc=5",
+        "publisher_name": "NBC Bay Area",
+        "publisher_url": "https://www.nbcbayarea.com",
+        "published_at": "2026-09-02T07:00:00+00:00",
+        "indicative_usd": 1200000
+      }
+    ]
+  },
+  {
     "group_id": "f8bfa838e822a58a",
     "title": "$1.25 million: That’s what this rare coin was sold for - AL.com",
     "category_hint": "coins",
@@ -6753,6 +7011,38 @@
         "publisher_url": "https://www.al.com",
         "published_at": "2026-09-02T07:00:00+00:00",
         "indicative_usd": 1250000
+      }
+    ]
+  },
+  {
+    "group_id": "55d9dd978f0f4dd5",
+    "title": "Jurassic Park mosquito fossil sells for over $400K at auction featuring legendary Hollywood props - New York Post",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-09-01T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "b5f1347cbd74201c"
+    ],
+    "links": [
+      {
+        "candidate_id": "b5f1347cbd74201c",
+        "title": "Jurassic Park mosquito fossil sells for over $400K at auction featuring legendary Hollywood props - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ0VMbnlMMFdfMWJUbnR2TS1rdk5XYVN2UkJaYlU1TkhPM0hseVNZWXJuUWQ0ZHJYWmo3U0M0U3Fxa0owZ1lDaHhVaWRzZ0VwWkRYS0RFcTBDWTBMNzFtMGs5Z1VkUzFjS3Y4dXJjamEyOWVISy1LVEdGMkpmMy16bUZvMXQ1d3o4YjNDN04wTWJ4LWxXQi1CSldFaE5hTDZRWV9ZUUV6Z0NJLWM?oc=5",
+        "publisher_name": "New York Post",
+        "publisher_url": "https://nypost.com",
+        "published_at": "2026-09-01T07:00:00+00:00",
+        "indicative_usd": 400000
       }
     ]
   },
@@ -7369,6 +7659,70 @@
     ]
   },
   {
+    "group_id": "4adb3ba2d4c6e958",
+    "title": "Jalen Brunson's jersey from Game 1 of Finals sells for more than $1M at auction - NBC New York",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-07-09T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "a8ebbbb56efd5eef"
+    ],
+    "links": [
+      {
+        "candidate_id": "a8ebbbb56efd5eef",
+        "title": "Jalen Brunson's jersey from Game 1 of Finals sells for more than $1M at auction - NBC New York",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVhpVmNRZkt4aXkxZy1sV0IxWFhyaEJlNkg0TEt5aVFSVXg1MVZLLURCcVNkS3ZZQXZKSHV0cEp3Q1NNMlFyWlM4c2ludk5HbDBFT3dsTjhmS1JLTnM1MS16NndEai0tRUlKXzRfOXd1NEx0d2RkcVhMYzMtd04wek1KM3czOG12dkl6MUdQZm1qWHJ3WHhB0gGfAUFVX3lxTE5pa2ZRT2IyVTZId3pZaEVpaVJtMGt4djF1a0llcUZLWk1iaFB1OUdrMXdpcDVRWGNiUjZpT3p2ZGhqVUcxTXRSZy1EYTgzdGl4OE05dDVQX0FWLTRGNkhBUFFlbzNmd2hqYi1KdGRfV1lKRDVUWnhTX1RGMjJvTWhEb2tvdjd2UF81enBIbmNVdWdVN3F3U1hOS0g1TXRRVQ?oc=5",
+        "publisher_name": "NBC New York",
+        "publisher_url": "https://www.nbcnewyork.com",
+        "published_at": "2026-07-09T07:00:00+00:00",
+        "indicative_usd": 1000000
+      }
+    ]
+  },
+  {
+    "group_id": "70cc0a2ad677ec66",
+    "title": "Rare 1776 'mind your business' silver coin sells for $1.3 million - AL.com",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1300000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-06-30T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "3638f5440bdff413"
+    ],
+    "links": [
+      {
+        "candidate_id": "3638f5440bdff413",
+        "title": "Rare 1776 'mind your business' silver coin sells for $1.3 million - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOThNZFNBRnpoMHdtQ1NWZmlVQjBVTWRIN2hhNFhROV8yMGJRNmZiU1NJdjJkU0N4ZEkyQ25jM25fSURUb2VoWEUtaDBTWWw0a0NPV05ja19mdUh6eVNtVG5QLUFMcE5HMXlMZFBhSmdNRHUwWXF2X3dnWC1KTGRRVG9hUFBQNW10SThTb1QxajUtaGFFQ1JPdWZKaF9qNDDSAbMBQVVfeXFMTU83NS1EX1pRN2lma3BmRURrUmZocHBJam13Tk5PdjQtNEkzQ3RRZWgzZjhMOXF1MVM1UkhMNVZob0ZkTHRQWkJ3NkNvZjNZVnI4VnVFYjlwZ09iR3FHbU9hdUI1UnFJdW1zSUlvMmVEUHdtS0E3NlR6b2R2N0F5WjlUVFpDMVd6RWtsc0w3N05fX0tIcTFoOXl2ZUFjMUdSelBSaDVyak5mRnlxRGNUcEdXMU0?oc=5",
+        "publisher_name": "AL.com",
+        "publisher_url": "https://www.al.com",
+        "published_at": "2026-06-30T07:00:00+00:00",
+        "indicative_usd": 1300000
+      }
+    ]
+  },
+  {
     "group_id": "04bcacb30f98c944",
     "title": "Barrett-Jackson’s inaugural Columbus Auction hammered home $38.1 million with 2015 Porsche 918 Spyder changing hands for $2.695 million - Old Cars Weekly",
     "category_hint": "cars",
@@ -7401,6 +7755,38 @@
     ]
   },
   {
+    "group_id": "6e06bf986e05868c",
+    "title": "Extremely rare coin sells for $4.88m due to 'dragon' detailing dating to 1911 - The Sun",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      4880000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-06-25T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "4698e46444a9a4e0"
+    ],
+    "links": [
+      {
+        "candidate_id": "4698e46444a9a4e0",
+        "title": "Extremely rare coin sells for $4.88m due to 'dragon' detailing dating to 1911 - The Sun",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObFhwUF9HSVJsSjM4UElvTDY2TC1UN3k4TmZSNWYzMmdacWMyTUw2RHZicmtlYVhuQVRIODRaVlpFYUhTOXAtUExGRmVENnh1WHEwQkRWdkpkMUNWbC1lZ3BueHhMNk14czdUbmhUem5vUm5xYXV4UWxzWmM5MHFCcU05ekRtM3RxOFMxR09jSGNFR3RpYVVJWUVNUDI3ZFB0TFE0?oc=5",
+        "publisher_name": "The Sun",
+        "publisher_url": "https://www.the-sun.com",
+        "published_at": "2026-06-25T07:00:00+00:00",
+        "indicative_usd": 4880000
+      }
+    ]
+  },
+  {
     "group_id": "d127cac77c03853a",
     "title": "10.02-Carat Fancy Intense Blue Diamond Fetches $8.7 Million At Sotheby’s - Forbes",
     "category_hint": "jewelry",
@@ -7429,6 +7815,38 @@
         "publisher_url": "https://www.forbes.com",
         "published_at": "2026-06-22T07:00:00+00:00",
         "indicative_usd": 8700000
+      }
+    ]
+  },
+  {
+    "group_id": "c75fd7ffb21f7ffd",
+    "title": "Ultra-rare ‘Dragon’ coin from Imperial China era sells for $4.87M - New York Post",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      4870000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-06-22T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "a9582affd2c745ff"
+    ],
+    "links": [
+      {
+        "candidate_id": "a9582affd2c745ff",
+        "title": "Ultra-rare ‘Dragon’ coin from Imperial China era sells for $4.87M - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX1pxVUtfejdSNUJXTU56YWpEam0wSko3TWo2T1EyTFhxWGUzOGw1MWphU1VRMXZKajJxSWUtbkxtT3Z6bXp1aExxb2xNSENUcWJrNFNTanMtR3R5bUpyTG5hdmVYMTVSNHhHdng5WWVJR1VZem5kTkV0bzNPY3VWczRVd0RTUmFOQkVuSTBESzU0WHNmSEtkU3hvSVBrdFdDeGFxa1ZYbw?oc=5",
+        "publisher_name": "New York Post",
+        "publisher_url": "https://nypost.com",
+        "published_at": "2026-06-22T07:00:00+00:00",
+        "indicative_usd": 4870000
       }
     ]
   },
@@ -7621,6 +8039,38 @@
         "publisher_url": "https://www.thedrinksbusiness.com",
         "published_at": "2026-06-09T07:00:00+00:00",
         "indicative_usd": 3200000
+      }
+    ]
+  },
+  {
+    "group_id": "b37f44d7acbbba23",
+    "title": "11 Rare Coins That Have Sold for More Than $1 Million - AOL.com",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-06-01T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "64f1f58f6efc2a9b"
+    ],
+    "links": [
+      {
+        "candidate_id": "64f1f58f6efc2a9b",
+        "title": "11 Rare Coins That Have Sold for More Than $1 Million - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zTkxrbExuekhGWUlvSHpVWlRsZG8tVlNJeXdsRFdSV3djdFVUTlV2cEJDc0VpNm1XTFVVbHBjR1NNbWFUMU9sY0JTRzNGOG1qRnFQdzBvNTY4RzZCdGNJS0oxT0lUWWJNaExfLVhudTNrYjBPbXc?oc=5",
+        "publisher_name": "AOL.com",
+        "publisher_url": "https://www.aol.com",
+        "published_at": "2026-06-01T07:00:00+00:00",
+        "indicative_usd": 1000000
       }
     ]
   },
@@ -7847,6 +8297,38 @@
         "publisher_url": "https://nypost.com",
         "published_at": "2026-05-16T07:00:00+00:00",
         "indicative_usd": 1000000
+      }
+    ]
+  },
+  {
+    "group_id": "879fe188caebd1bc",
+    "title": "A Rare Blue-Green Diamond Ring Sold for Over $17 M. At Christie’s Geneva - ARTnews.com",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      17000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-05-15T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "c5289cf254c19080"
+    ],
+    "links": [
+      {
+        "candidate_id": "c5289cf254c19080",
+        "title": "A Rare Blue-Green Diamond Ring Sold for Over $17 M. At Christie’s Geneva - ARTnews.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0pULUpzbktCdE8tNlVscl9lOS1XVUdxSjNJcnFxRTdibWxlbkZ1cXJEcllWWWoyVXowLTZTSlhtUkFRV3Y5VWY3ZEh6MnVjZG1nOElvMl8tYldtMzc0OTJVQ1E1YlFadVhZVS1JOXFNY1VBT3g4Y1FJT29IemsxRTRqd3FvNXBIMjFJV0x3cy03SXVJWlJpX3hOS0JLNnQwLVpkUVFkemR1MVJ4WlBn?oc=5",
+        "publisher_name": "ARTnews.com",
+        "publisher_url": "https://www.artnews.com",
+        "published_at": "2026-05-15T07:00:00+00:00",
+        "indicative_usd": 17000000
       }
     ]
   },
@@ -8141,6 +8623,38 @@
     ]
   },
   {
+    "group_id": "87ae58815e6c0a7d",
+    "title": "Wayne Gretzky 1988 Stanley Cup jersey sells for $2.8M at Goldin - Sports Collectors Digest",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2800000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-04-28T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "4a254e0beee3338f"
+    ],
+    "links": [
+      {
+        "candidate_id": "4a254e0beee3338f",
+        "title": "Wayne Gretzky 1988 Stanley Cup jersey sells for $2.8M at Goldin - Sports Collectors Digest",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaWFfY0ZCdGhmSVcza1RZNU50Q3BvTU1MUDFyX0V3by1VYnFzLTJ5NDBVVnhyTGRXY3BORFcyb0E1LVllOUFySU5CNXYxZThXUHNwVnYyT1BvZnkwbEFmTXVqRWZfZzlfSlJHSUdjM0xLdjFpNkpfZzhlNF90Ti1wZjcwSHlnZzZqcklWamF1N1F0SzBYeDByWFY1b29nZw?oc=5",
+        "publisher_name": "Sports Collectors Digest",
+        "publisher_url": "https://sportscollectorsdigest.com",
+        "published_at": "2026-04-28T07:00:00+00:00",
+        "indicative_usd": 2800000
+      }
+    ]
+  },
+  {
     "group_id": "3500b3b96e4917a2",
     "title": "Cartier London Crash Sells For World Record $2 Million - WatchPro",
     "category_hint": "watch",
@@ -8333,6 +8847,38 @@
     ]
   },
   {
+    "group_id": "0d4fb314b62b346e",
+    "title": "Boris Becker’s 1989 U.S. Open trophy sells for $357,456 in rare Grand Slam trophy auction - The New York Times",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      357456
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-04-13T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "e4c020c72e55d37e"
+    ],
+    "links": [
+      {
+        "candidate_id": "e4c020c72e55d37e",
+        "title": "Boris Becker’s 1989 U.S. Open trophy sells for $357,456 in rare Grand Slam trophy auction - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM21LMTZZemhzMktEc3ZGWENxa3E0bHdndTBUTlRRdjl0NklZcktWZ3NXSXFpWkZSWi12UEJPMVVQVlVpMTFwdmdjMTB2NVpWZ2lybUI5U0dCWk1VT3JrVzhuTjhQR1J6X0VyUDFkRHhsMEthaHprUEtJd19heEhQYWRteDA1cngwXzJjdXVnNWJrNmF2WUEtdG03NXNqZXlVWVpzMktld1FCLU9pYmcyRjBiZXpBQzF5MDRTT28yU1lBZw?oc=5",
+        "publisher_name": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "published_at": "2026-04-13T07:00:00+00:00",
+        "indicative_usd": 357456
+      }
+    ]
+  },
+  {
     "group_id": "b18a844508254b79",
     "title": "All About Marilyn Monroe’s 36 Diamond Engagement Ring, Which Sold for Over $750K - InStyle",
     "category_hint": "jewelry",
@@ -8361,39 +8907,6 @@
         "publisher_url": "https://www.instyle.com",
         "published_at": "2026-04-13T07:00:00+00:00",
         "indicative_usd": 750000
-      }
-    ]
-  },
-  {
-    "group_id": "f1004b00c575c7a4",
-    "title": "This C-3PO Head From 'The Empire Strikes Back' Just Sold for More Than $1 Million at Auction - Smithsonian Magazine",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-03-31T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "955733742aec4dfd"
-    ],
-    "links": [
-      {
-        "candidate_id": "955733742aec4dfd",
-        "title": "This C-3PO Head From 'The Empire Strikes Back' Just Sold for More Than $1 Million at Auction - Smithsonian Magazine",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZlZGUVcyc25LQnBQenNuVGxwZXdqVzE3Ym1MS3JBbFZDSDJjR0s0RzRNS2pGaHZCc2JqeVMtNHJpRHJ6T3l0OG5QTHJGMHA5bElmY1N5VVo5RlpDMFJHTUJOZDZpTXI3RlFpdzlHb2x2ajdDUDNyQ3NVUUVfV1VGSzRFaVFzYVp4YmY0ckIza2tfd1NwOVRCVGhTMXJIak5PMlJlTXFkTnZjOUNsenFCVXFHdnJWWUJ2cXJOUDVERHVKaHVQeGxQZjhkZGZKdGdJdWo5WUc1el9GZw?oc=5",
-        "publisher_name": "Smithsonian Magazine",
-        "publisher_url": "",
-        "published_at": "2026-03-31T07:00:00+00:00",
-        "indicative_usd": 1000000
       }
     ]
   },
@@ -8458,39 +8971,6 @@
         "publisher_url": "https://robbreport.com",
         "published_at": "2026-03-30T07:00:00+00:00",
         "indicative_usd": 4900000
-      }
-    ]
-  },
-  {
-    "group_id": "30f852bbde94c511",
-    "title": "Logan Paul sold a Pokémon card for more than $16 million. Here's why investors are watching - CNBC",
-    "category_hint": "watch",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      16000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-03-29T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "b4ceecfe4fd0931c"
-    ],
-    "links": [
-      {
-        "candidate_id": "b4ceecfe4fd0931c",
-        "title": "Logan Paul sold a Pokémon card for more than $16 million. Here's why investors are watching - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUEk4V1Z3aTl3WHgwb0pjNzJ2dnlRN0cwSWg5bWZWSVVNNk1LTXBBQ0NTQXVaNm5qTTB2NGIwSjJhNFJDZy1qdUJ4cWhuZDhmMUthUkRubEVGSG1Tbk5iRVZ1bFB6d3Vmald0NC1qYnpKc2tYMzN3QTVWekZiV1JQNG1jOHBWUUh1aDNiVEFLMjB4Z9IBlwFBVV95cUxPWFRlYm1TVGhtaVZ0aUQ4RU9PYmp3OWVyLUhFN0E0MExLUkRzSEFPX1YyMm5aZEJObGxvR3RpLUNKYnZXaUMybHU1Q2p3QUZ2em05U0V5ZVBhWUMyWG55X3dSV0Q1QmVsX2oyMVpFNW1aTDBmdTZQY0JkZjFZc2dTWVMyMmpHZVo0V0tlX0pmajRVdEd0MG1Z?oc=5",
-        "publisher_name": "CNBC",
-        "publisher_url": "",
-        "published_at": "2026-03-29T07:00:00+00:00",
-        "indicative_usd": 16000000
       }
     ]
   },
@@ -8587,6 +9067,38 @@
         "publisher_url": "https://press.christies.com",
         "published_at": "2026-03-25T15:46:39+00:00",
         "indicative_usd": 195000000
+      }
+    ]
+  },
+  {
+    "group_id": "cd686b3b0787015c",
+    "title": "Jim Irsay Collection Sells for $94M, See List of Records from Largest Memorabilia Auction in History - Bleacher Report",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      94000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-03-18T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "1285362105e40307"
+    ],
+    "links": [
+      {
+        "candidate_id": "1285362105e40307",
+        "title": "Jim Irsay Collection Sells for $94M, See List of Records from Largest Memorabilia Auction in History - Bleacher Report",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ3dMeFFwVmpFd1ByQWZDZDlKTkdHTzVxMGVCSVNZejRFR3FWZElneXhTUi1ESUx0R2t0c3dCX3RYNUNoamt0dkV5OU9WbVIwOEVHd2VEVUxnX3hJdnFoMHZWYkhQei1FUDllTkJJaGJENWw3dU9lRnNsRU9qdVZETUxET0hCc2l1MGR3MTdQOTc5NHY5NngzSlBFell0ZmRBR2R4ZngycktqOXMySEZjQzFQWkxuS2hrRmdHMXFfS3VadXZodkVz?oc=5",
+        "publisher_name": "Bleacher Report",
+        "publisher_url": "https://bleacherreport.com",
+        "published_at": "2026-03-18T07:00:00+00:00",
+        "indicative_usd": 94000000
       }
     ]
   },
@@ -8815,6 +9327,38 @@
     ]
   },
   {
+    "group_id": "5c55d75bc8fc8903",
+    "title": "'Holy Grail' Honus Wagner card sells for over $5M as family auctions it from grandfather's collection - Fox Business",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      5000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-02-23T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "f97ef3c093d68f84"
+    ],
+    "links": [
+      {
+        "candidate_id": "f97ef3c093d68f84",
+        "title": "'Holy Grail' Honus Wagner card sells for over $5M as family auctions it from grandfather's collection - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkp5dFV6alpNVjFsRHhYMzJFUnhEWWZ4OFpyT3JaangyNVptajJ5ek1pZW9rX2hGM2xuNzV4dUJxZkdVR2ppVEU1LVdhOW1ob3k1YXdhM0Nma01qcnpCX2I3NHpTalgxbWdMdTBiN2k4MVlqdmtybEdtZVRRdFZuWmVxZlR6SFhkVDVFNF9BaGdwUXJ1cm9rU1JFdmJyVTVzaXZCUGpuRmxOY1gwN2p3bzBtNTREZzJhVmRyVVB3UdIBxAFBVV95cUxOZGI5cGdNNUNCS3dXRkFWNEpyNS1TYlRacXFHNFNwRXl0YTdXelZDQ3JuRXFlZXV0Q2Y1SmdxTk5UVkNnWHZLa0VIN1pWS0dLcTQ4RGU5dk9oTmRGRHYxQVlCai1rb2NxNXNxVkJlbHV1bWZmVnM4UjE5XzAxbHJJRm1YS2UyeXc0QXVSRmtFTjdRV19Bd01WYTdsYzNlYUgtWHYtMTlaTXhnZjBNaEZZU0NzN3RTb3Q2Ykg3Mnlna2U0Mzly?oc=5",
+        "publisher_name": "Fox Business",
+        "publisher_url": "https://www.foxbusiness.com",
+        "published_at": "2026-02-23T08:00:00+00:00",
+        "indicative_usd": 5000000
+      }
+    ]
+  },
+  {
     "group_id": "d244b12f24fb0978",
     "title": "Iconic T206 Honus Wagner card traced to original cigarette pack sells for $5.1M at Goldin - Sports Collectors Digest",
     "category_hint": "other",
@@ -8843,6 +9387,70 @@
         "publisher_url": "https://sportscollectorsdigest.com",
         "published_at": "2026-02-23T08:00:00+00:00",
         "indicative_usd": 5100000
+      }
+    ]
+  },
+  {
+    "group_id": "82b141f5178b88a9",
+    "title": "T206 Honus Wagner card sells for $5.1 million after 116 years with same family - The Athletic - The New York Times",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      5100000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-02-21T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "8311412e072cb5b7"
+    ],
+    "links": [
+      {
+        "candidate_id": "8311412e072cb5b7",
+        "title": "T206 Honus Wagner card sells for $5.1 million after 116 years with same family - The Athletic - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWhiV1ZKX3dBdF9BVk9BZ0FvNThuMDhNb09raV82SGltR1lpMGdCd1BXZGV2MlktNWdxaWQ3X2hndWJrdXBqRmlJWGZRdllnSVNSSTJKSlBOY3BPLWUtSmRQR2FfLUZxZS1PQzJranlHanVxbTI4R0prZjdzSFZSLU9nbnZaWGhYc3AwRjdIano?oc=5",
+        "publisher_name": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "published_at": "2026-02-21T08:00:00+00:00",
+        "indicative_usd": 5100000
+      }
+    ]
+  },
+  {
+    "group_id": "6a0b1155dedf6791",
+    "title": "Cooper Flagg's jersey from NBA debut sells for $1 million - ESPN",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-02-19T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "16a9f5d8b2e54fa0"
+    ],
+    "links": [
+      {
+        "candidate_id": "16a9f5d8b2e54fa0",
+        "title": "Cooper Flagg's jersey from NBA debut sells for $1 million - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMHlOdnpaNEJ6Y3duVldEb0tPSGpJR0pIZ3lPNkNwdC0xLXFKLWlYbnVZaGVVbjNfWEJtRGtYUnVnVE9rQkdDRnlNSGtjSEQ2cExMMV9OUDdMeUIzZDVTTFEwTGZhY0pQRU5Dend5OVV3c2Q1Y3h4d3RfbklXYUl2dVI0Si1kaG9pcEhkV0I2S1ZZTWdJ?oc=5",
+        "publisher_name": "ESPN",
+        "publisher_url": "https://www.espn.com",
+        "published_at": "2026-02-19T08:00:00+00:00",
+        "indicative_usd": 1000000
       }
     ]
   },
@@ -8876,6 +9484,38 @@
         "publisher_url": "",
         "published_at": "2026-02-17T08:00:00+00:00",
         "indicative_usd": 16400000
+      }
+    ]
+  },
+  {
+    "group_id": "2b26efd2ca140c1b",
+    "title": "Logan Paul Sells Pokémon Card at Auction for Record $16M and Throws in Diamond Necklace as Bonus - People.com",
+    "category_hint": "jewelry",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      16000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-02-16T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "0dc7042d99dd3094"
+    ],
+    "links": [
+      {
+        "candidate_id": "0dc7042d99dd3094",
+        "title": "Logan Paul Sells Pokémon Card at Auction for Record $16M and Throws in Diamond Necklace as Bonus - People.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2tqam5FbjdTeG5ITFRXTFRZZTd1QzR4TkFraTlJZGtFUWoxQ1YyTHg2RUIwWjJEcFkzQTlDREExamZQZFVtQk5hSUtueWR2RTNnYlRLbHZtLW12YkxVdDQ1Nmdzd3A4RVFoRW9KTmd4NUpXbFFKLWNIMFJHaXRscDZITHhmMWZJbDNnOVhBWDNIZkVTR3IzYmJHMmVrN3cyd09OZlVrUUdPX25KLXhISmktcENkMEJwVFo0U0d2QQ?oc=5",
+        "publisher_name": "People.com",
+        "publisher_url": "https://people.com",
+        "published_at": "2026-02-16T08:00:00+00:00",
+        "indicative_usd": 16000000
       }
     ]
   },
@@ -9103,6 +9743,38 @@
         "publisher_url": "https://sports.yahoo.com",
         "published_at": "2025-12-19T08:00:00+00:00",
         "indicative_usd": 3000000
+      }
+    ]
+  },
+  {
+    "group_id": "fd8151a166429506",
+    "title": "The Final Batch of Pennies Sold for $16.7 Million - Business Insider",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      16700000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-12-16T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "e4b926146197666a"
+    ],
+    "links": [
+      {
+        "candidate_id": "e4b926146197666a",
+        "title": "The Final Batch of Pennies Sold for $16.7 Million - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSUZhZUhmaWNrd0ZRN0NKTlh4OFhhVHdVMlVfTC1CTFJVQ3hHLTNGNHVYOGl4YVpJR0oxRVBXMXl0TnY5dlAxNVFueFBoWmt0UnpTMFFMUWlSY2ZYbWVBNVAyVFY5MGtjV3hyeE5FRFEzSGIzcGxsbm0zQS0wQ2xqbUNNY1QydjFFaGJWMHhxa05jQQ?oc=5",
+        "publisher_name": "Business Insider",
+        "publisher_url": "https://www.businessinsider.com",
+        "published_at": "2025-12-16T08:00:00+00:00",
+        "indicative_usd": 16700000
       }
     ]
   },
@@ -10589,6 +11261,38 @@
     ]
   },
   {
+    "group_id": "1b95085eb4f00afd",
+    "title": "Double Eagle coin sold for $7.2 million - experts reveal more still circulating - The Sun",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      7200000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-04-21T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "e28aef6ff2629b0e"
+    ],
+    "links": [
+      {
+        "candidate_id": "e28aef6ff2629b0e",
+        "title": "Double Eagle coin sold for $7.2 million - experts reveal more still circulating - The Sun",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd3ZPdElzWk9SckJfbm5sQVZseWdmRmJJdUxhZ2Z5OGhqcEpJTDNGT2hjaExLRzc2a0NacF9sTk5oTG9yZE91QkZZRFNLNk90VXo2UkZRS1VCdnFwUDUxMFN6MHA2d2N6aXFxMUozOFRsRmM5bjRoSkZaNE5pY19LSkFuWms0WldWVE9TSW1XVl9pcU5JQXdzd0tWRzZqdw?oc=5",
+        "publisher_name": "The Sun",
+        "publisher_url": "https://www.the-sun.com",
+        "published_at": "2025-04-21T07:00:00+00:00",
+        "indicative_usd": 7200000
+      }
+    ]
+  },
+  {
     "group_id": "776015ca906ed18b",
     "title": "Skenes MLB debut patch card sells for $1.11M at auction - MLB.com",
     "category_hint": "other",
@@ -10682,6 +11386,38 @@
         "publisher_url": "https://www.nbcnews.com",
         "published_at": "2025-03-21T07:00:00+00:00",
         "indicative_usd": 1110000
+      }
+    ]
+  },
+  {
+    "group_id": "bfaf035228780444",
+    "title": "5 Rare Coins That Sold for More Than $1 Million Last Year - Yahoo Finance",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-02-01T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "d0879ed4f9df3fbc"
+    ],
+    "links": [
+      {
+        "candidate_id": "d0879ed4f9df3fbc",
+        "title": "5 Rare Coins That Sold for More Than $1 Million Last Year - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0dmZta2RuUWo2dG0zVWhSXzR3cGFCRWE4YlhTTVN4M3k3amRmd3VZM3VNejE2dkhpa0NQeTY2TWY3YXZvLWQ5MExCcktNeE5WTXFfbW16NUdpcV83aC1JUHdwbHJtTjU5V09sX1hVYXh2UXVwcWZn?oc=5",
+        "publisher_name": "Yahoo Finance",
+        "publisher_url": "https://finance.yahoo.com",
+        "published_at": "2025-02-01T08:00:00+00:00",
+        "indicative_usd": 1000000
       }
     ]
   },
@@ -10815,6 +11551,38 @@
     ]
   },
   {
+    "group_id": "6005d0cd4434c74e",
+    "title": "A Rare Coin Depicting Brutus, Caesar’s Infamous Assassin, Sells for $2 Million - Smithsonian Magazine",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2024-12-12T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "547a926101e6d707"
+    ],
+    "links": [
+      {
+        "candidate_id": "547a926101e6d707",
+        "title": "A Rare Coin Depicting Brutus, Caesar’s Infamous Assassin, Sells for $2 Million - Smithsonian Magazine",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYWo3UFVyb21LblZvR1lSdjZyTFpBOUNBTGgtVTJhWTJYVkhjamp1NXZUcE5veENnMlZGTG1EVERRLXpXVmdsb2pabzgteFlyQXBiSVhfS2xEUjlMNkxZZEN4UUwwazl2b3BuSlFET3RZYUpEQlp6ZU1fMUpBNkVBcno2alRQVzMzZkNrc3I4RE01aV92SXhsUjlfWXZGWlhrTFh4X2FEa0tPNVF5WmF5Yk1oLW9sRDFxUzZHRmgtUENucl9PNGc?oc=5",
+        "publisher_name": "Smithsonian Magazine",
+        "publisher_url": "https://www.smithsonianmag.com",
+        "published_at": "2024-12-12T08:00:00+00:00",
+        "indicative_usd": 2000000
+      }
+    ]
+  },
+  {
     "group_id": "5e68442f9912e855",
     "title": "Tom Brady Just Sold $4.6 Million Worth of Watches. Here Are Our Favorites. - GQ",
     "category_hint": "watch",
@@ -10911,6 +11679,38 @@
     ]
   },
   {
+    "group_id": "429438f8052d5afa",
+    "title": "Rare New England Coin From 1652 Found in an Old Cabinet Sells for $2.52 Million at Auction - My Modern Met",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2520000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2024-12-08T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "ba38ff24c3307a29"
+    ],
+    "links": [
+      {
+        "candidate_id": "ba38ff24c3307a29",
+        "title": "Rare New England Coin From 1652 Found in an Old Cabinet Sells for $2.52 Million at Auction - My Modern Met",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyUjZ0UXF2eFBGN2RxYzg0MFM3UEdpNVA0emF4Zm5sWm5VbUgxeFZrdmFQUmtvOFFfMGNUM2hYcldvVnVxN1hYQjNUNXpkRFhmRURVUFVqbE5FT3VyOEthSFdud1NMTlE?oc=5",
+        "publisher_name": "My Modern Met",
+        "publisher_url": "https://mymodernmet.com",
+        "published_at": "2024-12-08T08:00:00+00:00",
+        "indicative_usd": 2520000
+      }
+    ]
+  },
+  {
     "group_id": "a6e704fbee6e100d",
     "title": "30-Carat Pink Diamond Fetches $2.6M at Bonhams - nationaljeweler.com",
     "category_hint": "jewelry",
@@ -10943,8 +11743,8 @@
     ]
   },
   {
-    "group_id": "1b9125d6d9234a77",
-    "title": "Rare coin issued after the California Gold Rush sold at auction for $1.4 million - AP News",
+    "group_id": "ea539a9f6a6ef80d",
+    "title": "Rare ‘Double Eagle’ Coin Sells for $1.4 Million at Auction - Newsweek",
     "category_hint": "coins",
     "articles": 1,
     "publishers": 1,
@@ -10960,17 +11760,113 @@
     "decision": "needs_official_primary_source",
     "is_verified_sale": false,
     "candidate_ids": [
-      "631a0a6f05f0c476"
+      "fe8a93dafbbfd06d"
     ],
     "links": [
       {
-        "candidate_id": "631a0a6f05f0c476",
-        "title": "Rare coin issued after the California Gold Rush sold at auction for $1.4 million - AP News",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQy1hcTFTTndmZzJrYXRXeC1nVk5xbGFoOV9IaVRrTkFhMTRhYlhHcEtPanBWaGdqZHN1R3lTUXAwX2c3MXZmUUtHTS1KOTVaV2ROSURHT1pfS2hDZzFFSVg4T1NtU29ZcFJzdmRlWDFqVm9fRVhjU1lBWktYUjNxeXBxeGE3LVF0NmhtREpidm4yNFdvSjUwZg?oc=5",
-        "publisher_name": "AP News",
-        "publisher_url": "https://apnews.com",
+        "candidate_id": "fe8a93dafbbfd06d",
+        "title": "Rare ‘Double Eagle’ Coin Sells for $1.4 Million at Auction - Newsweek",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWEUxOV9tanpwUjl5eUY2dUlwRmhBZDNwZFpBV3Zrcnd0LW8zaUtaOUhJM3prQnVOUU9FbGZCQXc1eGJ1OWlfVFJRQjZfSjVFbS1Bb01EaUIyTmJTM1NSenZUWTBuWS1LVmYwTnE3V29vZURwanJKdDJkRkk0Q0g2dlhPd2FhZEZB?oc=5",
+        "publisher_name": "Newsweek",
+        "publisher_url": "https://www.newsweek.com",
         "published_at": "2024-11-20T08:00:00+00:00",
         "indicative_usd": 1400000
+      }
+    ]
+  },
+  {
+    "group_id": "61aa709a3fd53919",
+    "title": "Rare 1870 $20 gold coin fetches $1.44 million at Los Angeles auction - The Times of India",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1440000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2024-11-20T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "75aae71ee3b99a4b"
+    ],
+    "links": [
+      {
+        "candidate_id": "75aae71ee3b99a4b",
+        "title": "Rare 1870 $20 gold coin fetches $1.44 million at Los Angeles auction - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeEMxQmVNOW5iWjhKS19rV0F2T3ZCZzdNQWg3R2Q1QXV4VzVXY3hPLUlmZUhFSkRVdmg3Q1pzLUFPcHNuLW5Cd0pqX00yV2dSclZNN09tM2t3LVJOb1JqblVmd2xnUjJiTU1VTGtjNjc0b3NoRWxGWExreDRGVW5CemRNV3JJSVJsNTgtUFZnX01nRmRNSmxNcmc5cmxUbjZuX2xXcGFuLUhSbmJPVUJtcUtOSzdBTHl3Z1BvZDBGS0VRNXhic3BYbV83QlNjMkJvZXJB0gHYAUFVX3lxTE9zRFo4UWx2ZFNOM1FRYjFfNDFyNEZGV2Z0YnhIMUNQTHpZTE90Vk1mRzRSUGl0OEVXRkNYaHc4OHpObkU1YVBPbXJJRWE4d01KOVdJNXZBN2h4Z1NER242U21IbjdjMGlvdWE4U0VSWjJGV2RjUS0zckg5S3ZfUVdnQVk4UlhEWXYwdzQ1eF9jTXNwV1huZzhqWURWX25Bd1Rra0MyXzBJV3RHTXVWQmppZlg1Z3RWSjZrNUNaOWRzWWdncnRFMUQxOU9EWnJtd0Zjb0tCUHFGWQ?oc=5",
+        "publisher_name": "The Times of India",
+        "publisher_url": "https://timesofindia.indiatimes.com",
+        "published_at": "2024-11-20T08:00:00+00:00",
+        "indicative_usd": 1440000
+      }
+    ]
+  },
+  {
+    "group_id": "e30b5ff28e495d47",
+    "title": "Rare coin found in piece of furniture sells for $2.52M at auction - The Hill",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2520000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2024-11-19T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "729504d4d09708fd"
+    ],
+    "links": [
+      {
+        "candidate_id": "729504d4d09708fd",
+        "title": "Rare coin found in piece of furniture sells for $2.52M at auction - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeW9HZ0pCNGdFUU5rdUVodTd5ZGJWNGNwRW9zWEJXWUFHVTFsRC1HZ1hqMDdVbEVtaGRSR2tUektLTnk5YXlVaE1hNlBrN200c2Z5TDJFLWFwdmdKUWZpN1pZNmh2WThZaUhYQlJwdkt0SE5ETkRFNVE3a3RMY0hsN1VRRFBwMzd3Yk83eHZMMS1hUVk3d0ZsX2RwaWxldUNDaEhwQllSZEV0Q2ZGZzFadjlKcnJsZjVtdjJGM1pn0gHDAUFVX3lxTE5YWEhZWlRsbVZYY2xhUVE1V3JVTWlzN0dMNjN4ZHJLQlV0MU45ZC1YQklqVEZCR0VWQmxjczRsdzJwVzRpZTFKZDA2M292czdPTmdHNTI5NkZPX0wwbTByeld0eFJ4NktPVGE2bzBrRVFXdTRISjBiTmpsQkZDd20xOUJ1bUQ4M2M2YTMwWGJ0bFdpZWVhUHVHMi1uZEhGWEFvM1RjM1dzUHdaLVdnYllodDMyQnd0T2U5SWJuakFQWmVHMA?oc=5",
+        "publisher_name": "The Hill",
+        "publisher_url": "https://thehill.com",
+        "published_at": "2024-11-19T08:00:00+00:00",
+        "indicative_usd": 2520000
+      }
+    ]
+  },
+  {
+    "group_id": "33b24ec8c04cc82d",
+    "title": "Rare 1975 Roosevelt dime fetches more than $500,000 at auction - Sky News",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      500000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2024-10-28T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "d6fbebce0625dcfe"
+    ],
+    "links": [
+      {
+        "candidate_id": "d6fbebce0625dcfe",
+        "title": "Rare 1975 Roosevelt dime fetches more than $500,000 at auction - Sky News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHdmbURMYjg1S2FBM2RvZE84MzExaUNsOU1FVGthX2JGVncwZm1oMFhVTm1hdnByb0lPc3NLM20zVGRtbjZwb3ZockIteGp2ZlhNX0dxSE5uZURibFlFXy1ZS1M5eHE0Vlo3TzhKTEdEdVhXd0ZWZlUybHhuejBjaXNKVmktUjVBRFNTVTZlRlRkV2lCRzI0Z0hBM3FkUQ?oc=5",
+        "publisher_name": "Sky News",
+        "publisher_url": "https://news.sky.com",
+        "published_at": "2024-10-28T07:00:00+00:00",
+        "indicative_usd": 500000
       }
     ]
   },
@@ -11265,6 +12161,38 @@
     ]
   },
   {
+    "group_id": "e49f224240a87faf",
+    "title": "One of Britain's rarest coins EVER sells for $1m at auction - here's why - This is Money",
+    "category_hint": "coins",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2024-05-28T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "05c3ae10f1672125"
+    ],
+    "links": [
+      {
+        "candidate_id": "05c3ae10f1672125",
+        "title": "One of Britain's rarest coins EVER sells for $1m at auction - here's why - This is Money",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakxMYWlzVnNtNWhHaE9vdmMwUmN0WWt5eUlVNHRGcTlhMzZuYUk1WWJBeUVneGFuQ3d6bk5JODVHcUh1bE5sWjh1bnhfQlcxZG5LTGNaMDBmcEc4bFY2aHl5S2Q4YnpGYk82ZGVDRHFhVkpIMWhUR1dfTEtHdU1NeHpwWExoUkFNZm9XaDdHVXJnZ2RuelFoTFlhQkZLNE10alZGXzBrSGlhek5jdHprR3NaWllvNXM50gG-AUFVX3lxTE9vLTY4bUY4dGhMclBzQ3kwN05tM1lOZHZuc2dhQU1YcUQ2ME0zai00V3Q4b1JPRGtndE5SUFdIdzZ6TmF5X2lodHBKVjUzUzZ0QzczbDFxa3E3bWtFYUw3OTZRSk80YjdIMU5UMzh5anpoT2FaTFcwN2xldlFWbXZ3bkNPcEpJdU5fcXVsbG1tZHpGNDM2U3Z4ZXE0NnIxdFBta0xFcXdJM205QjFYamt5cU5pNm5ZMHRFaVVTT1E?oc=5",
+        "publisher_name": "This is Money",
+        "publisher_url": "https://www.thisismoney.co.uk",
+        "published_at": "2024-05-28T07:00:00+00:00",
+        "indicative_usd": 1000000
+      }
+    ]
+  },
+  {
     "group_id": "4e3dc10022e4547a",
     "title": "Top Collector Ron Perelman Sold 71 Works Worth $963 M. by Picasso, Warhol, Basquiat and Others to Repay Banks - ARTnews.com",
     "category_hint": "art",
@@ -11426,972 +12354,6 @@
     ]
   },
   {
-    "group_id": "3eb9e06c8fb4e09c",
-    "title": "Breaking News Unique Patek Philippe Steel Sonnerie Minute Repeater Sells For $17.3 Million In Return Of Only Watch - Hodinkee",
-    "category_hint": "watch",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      17300000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-05-10T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "f9a8b351e8ee91fd"
-    ],
-    "links": [
-      {
-        "candidate_id": "f9a8b351e8ee91fd",
-        "title": "Breaking News Unique Patek Philippe Steel Sonnerie Minute Repeater Sells For $17.3 Million In Return Of Only Watch - Hodinkee",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWUQyaEh0UTdkbUNHX3pmRmo3eEY3eVV1SEZrWGNyQnczT19aclFHNldqTEdocEJkS29LOFV5NnMtT1A4S2ZnWTZXTjJTS0hZR244clZIczB2ZXpjajlDaXRxT21Dalk5RGxFZXp3U2RlenR0TXoxaG14TlhOVTFWb2FqaS1uQkxOOWNUUU9iN0p5eUhydUFWaTd1N2lBeERZcTVrMlF5dnVBSTY3S05HazJOWWo0eURVdDNzbm51dDdKUG5QUHowRVdxdVI2UjQ?oc=5",
-        "publisher_name": "Hodinkee",
-        "publisher_url": "https://www.hodinkee.com",
-        "published_at": "2024-05-10T07:00:00+00:00",
-        "indicative_usd": 17300000
-      }
-    ]
-  },
-  {
-    "group_id": "2b3115a0e7d6ae6c",
-    "title": "'MAGIC: THE GATHERING' BLACK LOTUS CARD SELLS FOR $3 MILLION - ICv2",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      3000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-05-06T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "449bb27c127014a2"
-    ],
-    "links": [
-      {
-        "candidate_id": "449bb27c127014a2",
-        "title": "'MAGIC: THE GATHERING' BLACK LOTUS CARD SELLS FOR $3 MILLION - ICv2",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjB3cElSSlc3S3hCYzlJQXZTeVd2VS04eTBFUmxIWFU3Y3laTUFJVDhQYkFkblk2V2lpQkhiNndVTFZqdXN3UjJWR0VzLWRiejdyQUhHTnREb0pIczRLY2toUTVyUkxRZlRtRkE2ai1nSktQYzFJZVFudjVYdVMzNUdlNXdXWDAtQXBFMXBqZkhkbHFEWDI1aml3?oc=5",
-        "publisher_name": "ICv2",
-        "publisher_url": "https://icv2.com",
-        "published_at": "2024-05-06T07:00:00+00:00",
-        "indicative_usd": 3000000
-      }
-    ]
-  },
-  {
-    "group_id": "d990d4dda6852f54",
-    "title": "Broadside Offering Reward For Lincoln’s Assassin Brings $200,000 In Heritage’s $1.9 Million... - Heritage Auctions",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1900000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-04-29T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "a103e592457adcf2"
-    ],
-    "links": [
-      {
-        "candidate_id": "a103e592457adcf2",
-        "title": "Broadside Offering Reward For Lincoln’s Assassin Brings $200,000 In Heritage’s $1.9 Million... - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOTUpPZFltZVZnZkR6ekw5bkxJUnF2dDR6dUFuMFZ6LS1PcmV0eE1PTENUTkxTMGZtcW1EX3VtRjMxU01rQy1PcndWMGZXOHZUZGpMWjdnOGRoZHhDMTlaSXJYWmNIaU5MZFNfWXVFd09CVlZYNGpjc1g5cVBvZVVHc09VejF3VF9yYVVIUDhzcXlUMG9MdUNQakhoVVJjQ2U5TE12WHV0ZkRXZ0s1ZXJiYmI4MVA3aXNEOEYyaXJtd091SE5sMnBsMS1US05yVmF6UUFkU3ZTMXFaeS11RE84QXF6c1dOdlhPNjVjbTUyck1PdTVVNFpjNkQ1UVoxUVRsRkVXejdrLXhwQ1N4VTVSVTluMXk1dUFVaTNmd0RSc3BIMXFDdzk4NENPaVltdlk?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://historical.ha.com",
-        "published_at": "2024-04-29T07:00:00+00:00",
-        "indicative_usd": 1900000
-      }
-    ]
-  },
-  {
-    "group_id": "c70af69cfdba1744",
-    "title": "Rare copy of comic featuring Superman’s first appearance sells for $6 million at auction - AP News",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      6000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-04-09T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "04a2a5be78c3fd15"
-    ],
-    "links": [
-      {
-        "candidate_id": "04a2a5be78c3fd15",
-        "title": "Rare copy of comic featuring Superman’s first appearance sells for $6 million at auction - AP News",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZUk4UWpVWXRuWmQzTUpRNXJqRE5mMm5mY1ZHa3FoUWJldTdrNlpyekFidG1hcE1WeUNUZWJKOGE5SE5PNHZqQUZfc3h2UXg3b2FiMjVOdXNELVFiOHNVNHpsUFJRU2dZbWxHd0lpMFRySFdKSEpIS0VGajZpOW43MUxqLTVMMEcweEFFODhfWWpBSDNXdTRj?oc=5",
-        "publisher_name": "AP News",
-        "publisher_url": "https://apnews.com",
-        "published_at": "2024-04-09T07:00:00+00:00",
-        "indicative_usd": 6000000
-      }
-    ]
-  },
-  {
-    "group_id": "1dd1ee738e340a06",
-    "title": "16-Carat Yellow Diamond Fetches $1M+ at Phillips HK - nationaljeweler.com",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-04-01T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "b8ea5cb636496b81"
-    ],
-    "links": [
-      {
-        "candidate_id": "b8ea5cb636496b81",
-        "title": "16-Carat Yellow Diamond Fetches $1M+ at Phillips HK - nationaljeweler.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3dacm05bTctLUxTTldPcEtvSHNiYVk4NkdWNUJrT1hRdTZaeGNoRllvZUV3clhDb2EzQldQZy1jRmg1TU1wcDd2X09nYmtlVS1kLWtTaDdtdTVYdGhHWVdDeThWWUdqdzFITUxCNkFsUkxoSTRkcVhXMktKVHJDMURLME9CQmpqYTZac040cW42bTl6bDRJ?oc=5",
-        "publisher_name": "nationaljeweler.com",
-        "publisher_url": "https://nationaljeweler.com",
-        "published_at": "2024-04-01T07:00:00+00:00",
-        "indicative_usd": 1000000
-      }
-    ]
-  },
-  {
-    "group_id": "ac2fd17999ca74e2",
-    "title": "A controversial ‘Titanic’ prop sells for more than $700,000 at movie memorabilia auction - CNN",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      700000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-03-27T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "9ee6422dfb8dbbe2"
-    ],
-    "links": [
-      {
-        "candidate_id": "9ee6422dfb8dbbe2",
-        "title": "A controversial ‘Titanic’ prop sells for more than $700,000 at movie memorabilia auction - CNN",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOekFxMEZfTHlnU3ktbUxlaUl6azRZQ1g2TDRhVkIxbThMc3Q1TGlnQzRJZ1pPMk1BRV80YlAwNzBTZDNoTVdtcFFrRjhoMnlNcW1LWkNicDc4MktLZktZODhPeGpobDBYeVFjY2hFcGNVbVVGLVNHdHY0UlREWEtwaFNjNENJUQ?oc=5",
-        "publisher_name": "CNN",
-        "publisher_url": "",
-        "published_at": "2024-03-27T07:00:00+00:00",
-        "indicative_usd": 700000
-      }
-    ]
-  },
-  {
-    "group_id": "54833d93393eac03",
-    "title": "1969 Chappellet Brings $64,575 at Heritage, Leads Wine Auction Past $2.4 Million - Heritage Auctions",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      2400000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-03-26T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "47936532c4f7d244"
-    ],
-    "links": [
-      {
-        "candidate_id": "47936532c4f7d244",
-        "title": "1969 Chappellet Brings $64,575 at Heritage, Leads Wine Auction Past $2.4 Million - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYzRNb1dsbE5PMUJoWV9QVlFkTG5GQXdFZlpTdHcxQk1xdDgzUThXdE81bDBSSGlGNGhHbDhfRVlmZjV5WTZ1bEhMc21ISkhIemxBNUxFM01IcFI1bnJNZEF6dDcxdWY2MnJnTjB6OEdGc3FNMVJCaTdwcWM0aHoyVlNwLWEzSVl2OU81Z2drQVVxX1c4bVJXR0V4d0szVVZwVkQxSno0R1ZTcTJxcmxuRVRlMkZOM2FlRDhVXy0wa1ZMMVlsUEZXSk1rZzQ4MkNKeVBLMUowWUJlaTdtQUVkM2Q1SlRMTVdoR0NNYw?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://wine.ha.com",
-        "published_at": "2024-03-26T07:00:00+00:00",
-        "indicative_usd": 2400000
-      }
-    ]
-  },
-  {
-    "group_id": "17b8e4dcc511fd68",
-    "title": "Christie's just sold a Rothko painting for $100 million in a secret sale. Here are the details - CNBC",
-    "category_hint": "art",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      100000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-02-29T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "ecf0ff3474e950f6"
-    ],
-    "links": [
-      {
-        "candidate_id": "ecf0ff3474e950f6",
-        "title": "Christie's just sold a Rothko painting for $100 million in a secret sale. Here are the details - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmZHUklselFKdjNiRG45cERPWVk0a3hWYjlEYUlCdV92RVFSLU5LdDBFUmV5NFU0YWhBXzV1NjdJZ3RHZVBwS1I4TXRROWtIVGxWNmRpNHFUcUI1NXNQY2VmYkJGaDhzLVJuTWNPUDM3MUNYaDhLMm1SNWR2Ym5wRFl2WUFRQXNUQlV4ek95VU1qcDRYUWViRDN5VWtscVlHaTdR0gGoAUFVX3lxTE50QkYyeW00eXN4RTJPaS03S01LakF2Z2ZHX3NKcFhMU2MxbjJJLTVJcnk5SWpvamN3VE01d1lodTFJQWdUcE5GcEFSMGIwZmFLZUFSZnNqbnRmdXk1MzlMQ0E0MGU1VWhVbXN4YjFfOEpfS1FacGJycmVaazMySjFMa1NPQm03Mk1xbVJ2YlVud0VJZmVyUzR0R1d5bVF3WTg5d1l6Z2ZHRQ?oc=5",
-        "publisher_name": "CNBC",
-        "publisher_url": "",
-        "published_at": "2024-02-29T08:00:00+00:00",
-        "indicative_usd": 100000000
-      }
-    ]
-  },
-  {
-    "group_id": "5b541e335567458a",
-    "title": "Charles II ‘Petition’ Crown Brings Record $960,000 To Lead Heritage’s NYINC World & Ancient Coins... - Heritage Auctions",
-    "category_hint": "coins",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      960000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-01-19T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "917336fba25906ba"
-    ],
-    "links": [
-      {
-        "candidate_id": "917336fba25906ba",
-        "title": "Charles II ‘Petition’ Crown Brings Record $960,000 To Lead Heritage’s NYINC World & Ancient Coins... - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQWVFlZTM5RWNoRTJjNWZXVm1kR2hFYlBpUGtQMTdUajlIbm4wc0tId1VxTEZxdURaUUhUNWZuc184TTl6WW4wdVFaU25PaHZBQ3pYczdnZWxRRy1GTW1DSG5Ma090cHZBOU5aTDhzb0k5STM0eGFianVETWJ4dngwTUp1NmFUblpNbERQR0tYWk8tNjdNRG9UT3F4czk1OVpzSlNjWnJNYS1kTDJmdDFQNUNUWWhuOUVJYl9pam5zRW84dFNkcXNtMjBYY2RRRllXaTlpZnplME50NGlQS2pQNXBmSWFRQ2liU0dUR0tqblcxUmtfSWUycW80d3AwSlkwbnVhWjhxc25ybFJMX2lfZmF3T2lPSmU0Skp1S0xpeU1oWTA2NkJuWVFNM2xKTnM?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://coins.ha.com",
-        "published_at": "2024-01-19T08:00:00+00:00",
-        "indicative_usd": 960000
-      }
-    ]
-  },
-  {
-    "group_id": "d122b8fdc8a63802",
-    "title": "Auction of the Week: Rare Fancy Vivid Yellow Diamond Achieves $5.5 Million - Galerie Magazine",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      5500000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2023-12-08T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "1dad74c02bcc32ea"
-    ],
-    "links": [
-      {
-        "candidate_id": "1dad74c02bcc32ea",
-        "title": "Auction of the Week: Rare Fancy Vivid Yellow Diamond Achieves $5.5 Million - Galerie Magazine",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tTW1kQmxKMFNzLWNHM2xDbTdpOXNnaldCNVNPNFRUdERpVHZpWWgxLVF2Z0hQUlktV002Q29xV0tMODEzUUNqMGo1SVFZU3JSRVdJdmtPbXZ6Z0N6QjMzdmtTU1RGYzVqbjBsQw?oc=5",
-        "publisher_name": "Galerie Magazine",
-        "publisher_url": "https://galeriemagazine.com",
-        "published_at": "2023-12-08T08:00:00+00:00",
-        "indicative_usd": 5500000
-      }
-    ]
-  },
-  {
-    "group_id": "697778b15b4a9488",
-    "title": "Why a single 'Inverted Jenny' stamp sold for $2 million at auction - NPR",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      2000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2023-11-20T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "b2c3251fa851524f"
-    ],
-    "links": [
-      {
-        "candidate_id": "b2c3251fa851524f",
-        "title": "Why a single 'Inverted Jenny' stamp sold for $2 million at auction - NPR",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzBFaUh0dElfdHpZMVFjMEdpMVk1RmFGZTJVTjdEc2ZYbUhkQl9MdWhuWDNSQjIzdkNwX0VnT3gzSzBLMDhEWll5SXRJR3BmWjhjT29Pc2FsWkhqcV8teGptRDNuQ21hNGJlXzdvT3VIVUFvX2VjaFY4enlqZFVmTkRfUFVHU05p?oc=5",
-        "publisher_name": "NPR",
-        "publisher_url": "https://www.npr.org",
-        "published_at": "2023-11-20T08:00:00+00:00",
-        "indicative_usd": 2000000
-      }
-    ]
-  },
-  {
-    "group_id": "26255fc29350e2ed",
-    "title": "Marlon Brando’s Customized Rolex Just Sold for $5 Million - GQ",
-    "category_hint": "watch",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      5000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2023-11-08T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "e8fbe46edbb2d4f6"
-    ],
-    "links": [
-      {
-        "candidate_id": "e8fbe46edbb2d4f6",
-        "title": "Marlon Brando’s Customized Rolex Just Sold for $5 Million - GQ",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90YlhjcGlIN29zazJqR0M5cm9CQm8tajJiQXBDZ1BfNkhHTEZqenJBSXpUaDlEcFBja1RfV1lpN3Q0X3V1WDBycjVIS2JIM0c1RHEyQ2d6WHJqNG4ySXBRZXVIZlI2U0VrSzd5NTNn?oc=5",
-        "publisher_name": "GQ",
-        "publisher_url": "https://www.gq.com",
-        "published_at": "2023-11-08T08:00:00+00:00",
-        "indicative_usd": 5000000
-      }
-    ]
-  },
-  {
-    "group_id": "58f646206635cbaa",
-    "title": "One of Jay-Z’s Coolest Watches Just Sold for $1.5 Million at Auction - GQ",
-    "category_hint": "watch",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1500000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2023-10-07T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "2642dd5ea7ef658d"
-    ],
-    "links": [
-      {
-        "candidate_id": "2642dd5ea7ef658d",
-        "title": "One of Jay-Z’s Coolest Watches Just Sold for $1.5 Million at Auction - GQ",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EQjUwYUIwbEZlamtIa29QcmRnYnNuV3pFdjhuRTlfR1E2SExYM0JaX2o0XzhiR1V5ZHVZaVIzXzg2UXRxZFhUOWpmRnBRSGZlck1DT3NOQXh3YkJnWVU0NEN3?oc=5",
-        "publisher_name": "GQ",
-        "publisher_url": "https://www.gq.com",
-        "published_at": "2023-10-07T07:00:00+00:00",
-        "indicative_usd": 1500000
-      }
-    ]
-  },
-  {
-    "group_id": "bee2bb8c1a373bb5",
-    "title": "Ferrari 412P achieves $30.25 million at Bonhams|Cars Quail auction - Old Cars Weekly",
-    "category_hint": "cars",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      30250000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2023-08-21T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "9ada30d739eae356"
-    ],
-    "links": [
-      {
-        "candidate_id": "9ada30d739eae356",
-        "title": "Ferrari 412P achieves $30.25 million at Bonhams|Cars Quail auction - Old Cars Weekly",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTczT1BNczBQYjJPR25WNmFHOGo2aXh6dGNFakZPVS1oMDlSeF80dzJGNjd0VmJMcFZOWkZGMVQ3NlQ3YmdNX1pwelZZT0h4SjNwMTdpVDh4aU01SFhjV3JCVHdHcjdPOEI0c2NFMEYxTmF6eXBickJudnBPMHZ5LWM5amF0dGhUMld0ZjlPMTRQOU5aNl9jM3JMTDc3S1dRdFE?oc=5",
-        "publisher_name": "Old Cars Weekly",
-        "publisher_url": "https://www.oldcarsweekly.com",
-        "published_at": "2023-08-21T07:00:00+00:00",
-        "indicative_usd": 30250000
-      }
-    ]
-  },
-  {
-    "group_id": "eba98c8901e8f683",
-    "title": "‘Light of Peace’ Diamond Sells for $13.6M at Christie’s - nationaljeweler.com",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      13600000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2023-06-08T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "e01d38014bf93799"
-    ],
-    "links": [
-      {
-        "candidate_id": "e01d38014bf93799",
-        "title": "‘Light of Peace’ Diamond Sells for $13.6M at Christie’s - nationaljeweler.com",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVJUMF9SajVadElvU29SVS1USEVTSGs0N1I1LVZxb0t0TFdRM0s0a0JzdGI5RnF2bWE1Q2pFQjRhaDVCX1h5OTdxbGNSS2MwZ3BMNEdSWTV5RTQ4dkRjSWZLWnFVemRYd19CZFo5eDlEX0UtbVlpTjVtTEMtQ3BITGFnU1ZiOFRRcWxYSFltZ1FRMHplNVNTQ1JZNA?oc=5",
-        "publisher_name": "nationaljeweler.com",
-        "publisher_url": "https://nationaljeweler.com",
-        "published_at": "2023-06-08T07:00:00+00:00",
-        "indicative_usd": 13600000
-      }
-    ]
-  },
-  {
-    "group_id": "11c9916e561aed08",
-    "title": "Raise a Toast to the Bar From ‘Cheers,’ Which Sold for $675,000 at Heritage Auctions - Heritage Auctions",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      675000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2023-06-05T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "d69b2989e54af2f9"
-    ],
-    "links": [
-      {
-        "candidate_id": "d69b2989e54af2f9",
-        "title": "Raise a Toast to the Bar From ‘Cheers,’ Which Sold for $675,000 at Heritage Auctions - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRUE0RjR1OFBhVUJZc3N6TzR4VHlKWmNwa1QzbWt6RFBqU1NsZEJQN0hKc2JPcVFaVjNFX0w3Y3ZtYll6YmxvWVVKSzZZeEkzNlBXX3doZmdHMHNWQUs4VnVIN3FTS0lfcWxBZjVSVlpLeUZSYTladzdUSlNEVEp3bS1pS3ZrM25MYjhYejM2WTVBT2hfTEMyLWNaY25kcnlESXN3M3B1ckV0SkM3OGlBcXhaeE1jRjBxVTNYUHNMcGJLOWF2TmtsOFBCR1lwbk8td09ZdC11ZDBWeDBUOGJKMTZSWWpGLUxzZ1lvWTJ1eEp3SmhLRXI5eWpadWI?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://entertainment.ha.com",
-        "published_at": "2023-06-05T07:00:00+00:00",
-        "indicative_usd": 675000
-      }
-    ]
-  },
-  {
-    "group_id": "b72eb52fb4eae1bb",
-    "title": "‘Cheers’ bar sells for $675K at huge TV memorabilia auction - New York Daily News",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      675000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2023-06-05T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "4ded66b547a693ad"
-    ],
-    "links": [
-      {
-        "candidate_id": "4ded66b547a693ad",
-        "title": "‘Cheers’ bar sells for $675K at huge TV memorabilia auction - New York Daily News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb0N5bDI1cDl6X2ZvdTE3LUgwV2l6TUEyOEVpYXB3V3BHd056ZXBhdGlXV3liSk5RaG8wLXYtLVR1VnQxelJyVFhCNkRoNlZMTzZtS08tVF9TSnlVU1JDWW5qZzhKNTVrb09tNzJhZFlBUUVteFd3QVAwNnAxbDFMUWVVaHpJSjlfRGc4ZEVpWUVxRGx4cUNkamI4Vmg?oc=5",
-        "publisher_name": "New York Daily News",
-        "publisher_url": "",
-        "published_at": "2023-06-05T07:00:00+00:00",
-        "indicative_usd": 675000
-      }
-    ]
-  },
-  {
-    "group_id": "1f4d5e41144ef185",
-    "title": "Pear pulped: Digital therapeutics maker's assets sold for $6M at auction after bankruptcy filing - Fierce Biotech",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      6000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2023-05-19T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "66d3644ee35931dc"
-    ],
-    "links": [
-      {
-        "candidate_id": "66d3644ee35931dc",
-        "title": "Pear pulped: Digital therapeutics maker's assets sold for $6M at auction after bankruptcy filing - Fierce Biotech",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV1hBY043M28wTTNlU1ZGWVpWamhneWJPSGk0MHBhUVZXREZ1X2dwc2hUbkRRYUpRaDR0VDd0T09VZURVdFlYQXJtWWs2NW5GREdvelRBeDdqaGhfbkRaek43eWhNNUpSeE40bXFzdllkNXJsdFQ4OHVqV19EcDdZTDMxN0dIMFdXTEUwVHRwVUdfTjBkRW9aMzdZQzBSbVpMN2xlQWZ3cVFqZnNPOGVGMFZiTDFIYVNSMDk4bUw4OHRoQQ?oc=5",
-        "publisher_name": "Fierce Biotech",
-        "publisher_url": "https://www.fiercebiotech.com",
-        "published_at": "2023-05-19T07:00:00+00:00",
-        "indicative_usd": 6000000
-      }
-    ]
-  },
-  {
-    "group_id": "78ebc5ef5819d171",
-    "title": "Heritage Auctions Achieves $1.45 Billion in Record Year for Collectibles | Penta - Barron's",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1450000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-12-29T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "d68bfd1ed96048a9"
-    ],
-    "links": [
-      {
-        "candidate_id": "d68bfd1ed96048a9",
-        "title": "Heritage Auctions Achieves $1.45 Billion in Record Year for Collectibles | Penta - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjcxZjhsVjVkYmt6TlNDSEpmYVZUOGk2WFltMVNPckdNdlB2Nk9jNkZlb2NuU0dCZzV2bGVhWmFmX18weDg1NU9YUlVwRlhfSGxXU29yb3lJOTJWaVMtWEZma3lvdm1DNnlNX0xQMkZYazdmb05lTUlFZFZ1dVhPMWFsM1lEcG5wQ0d6SEVPU2Z6UXJIRERBOEsxbTFwNjAzQTRpZ3hyRUpGQkJWRDR0YS1naUs5WVU?oc=5",
-        "publisher_name": "Barron's",
-        "publisher_url": "",
-        "published_at": "2022-12-29T08:00:00+00:00",
-        "indicative_usd": 1450000000
-      }
-    ]
-  },
-  {
-    "group_id": "4c9be34a91b02537",
-    "title": "An original model of E.T. is sold at auction for $2.56 million - NPR",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      2560000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-12-20T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "25f6c2a996c87faa"
-    ],
-    "links": [
-      {
-        "candidate_id": "25f6c2a996c87faa",
-        "title": "An original model of E.T. is sold at auction for $2.56 million - NPR",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX3ZKcjFpbTAyYWhkYUpFY1RFVmYxcW14aTVaakc1aTV1akZUYlRXRFVBTmpWMC15ZmN0TXJZdFJyeXlscDFab0hMYzItUF8zc0xhVUFDVUY1ZUxvUVdJOUNNWEFTZDBCUjZHT2ViRl9wWXJkV2FtV1NQTGZnV1JoSA?oc=5",
-        "publisher_name": "NPR",
-        "publisher_url": "",
-        "published_at": "2022-12-20T08:00:00+00:00",
-        "indicative_usd": 2560000
-      }
-    ]
-  },
-  {
-    "group_id": "9fac305ce6dd6fee",
-    "title": "Rare Silver 'Pavilion' Dollar Brings Record $576,000 to Lead Heritage World & Ancient Coins... - Heritage Auctions",
-    "category_hint": "coins",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      576000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-12-12T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "b5df2b16b43e67c3"
-    ],
-    "links": [
-      {
-        "candidate_id": "b5df2b16b43e67c3",
-        "title": "Rare Silver 'Pavilion' Dollar Brings Record $576,000 to Lead Heritage World & Ancient Coins... - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNXpSTEo4Q0dyV2RJeTRBUmFfUHBuUW1Hc2xjWDB5a1RIRXJVeHNFTm1sYUFuaDNmOHNlNks3MnhoTjhId2hnWXdiaGx1YTYyQ0toZWFFTjhNeFRwM1NXNlBFazZEWlpFTFBjRndWcFVxRk9XSXFPVUZZUktWWnZtREwtY281bkY4RklUc3NpTXNrNUxDSm9iV3JGRkNaZjBtTFdxVXRJR3ZiV1JCc1RiQU1HT2FkLVExQnhleXBGeWljdTdua2p2bFZkNDQzeU81eUNiejFaU0M5NXZUWXg5czFrLWVYMEJHaUl2OFd3aGNXMDR2c1N3RVFrR2ZweXVpajN3bFp6RkQxTzVZUmh4OGtvekZUMTJMeUdSTV9lS1E3MVZV?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://coins.ha.com",
-        "published_at": "2022-12-12T08:00:00+00:00",
-        "indicative_usd": 576000
-      }
-    ]
-  },
-  {
-    "group_id": "c8fa8586c4f2be3d",
-    "title": "How a Mondrian Painting Sold for $51 Million at Sotheby’s (Published 2022) - The New York Times",
-    "category_hint": "art",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      51000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-11-15T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "fa04f19b35b38df0"
-    ],
-    "links": [
-      {
-        "candidate_id": "fa04f19b35b38df0",
-        "title": "How a Mondrian Painting Sold for $51 Million at Sotheby’s (Published 2022) - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb0s4WmwxUktPM2s0UzFzeWV6a1pHRzBfdmRPWnNrV1Z1NWlRVVFwTnRWcmVEWWc4QXdkWVV3TmJYM0RzaXlJa2k2QUlNM1hwaDhWQzRFR3VydVk4U0VBUV9JOVQ2NkJpSzZTTUo1UDctZXN4ejRQNkkzWlE3QXF4XzMwaw?oc=5",
-        "publisher_name": "The New York Times",
-        "publisher_url": "",
-        "published_at": "2022-11-15T08:00:00+00:00",
-        "indicative_usd": 51000000
-      }
-    ]
-  },
-  {
-    "group_id": "200c480e4cbcd5fa",
-    "title": "‘Williamson Pink Star’ Diamond Sets Auction Record at $57.7M - nationaljeweler.com",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      57700000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-10-07T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "e1f6f19e4473db2a"
-    ],
-    "links": [
-      {
-        "candidate_id": "e1f6f19e4473db2a",
-        "title": "‘Williamson Pink Star’ Diamond Sets Auction Record at $57.7M - nationaljeweler.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkpiOEJWZ2JxakNBWDBOLVRreUpsWnZJY1c1Q0tlZ2J1a2wzU05ONnl4YXpMVVRVaFN4aXJRaUVUWHVBUnpqVWt1bHFicjhCY0MwdEt0YWo0MGR4dm1HSS1GYlh6WWZaT3NjYkhRXzVsSnJnOGEyWVVORDdHVUJXOW9tVjF0ZkVodFR4bEtsQVlkMkp5YW1hTTY1OHQwdUlVa0E?oc=5",
-        "publisher_name": "nationaljeweler.com",
-        "publisher_url": "https://nationaljeweler.com",
-        "published_at": "2022-10-07T07:00:00+00:00",
-        "indicative_usd": 57700000
-      }
-    ]
-  },
-  {
-    "group_id": "b55b869febb121db",
-    "title": "Baseball Card Sold for $12.6 Million, Breaking Record (Published 2022) - The New York Times",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      12600000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-08-28T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "3dd32d4b2349e50d"
-    ],
-    "links": [
-      {
-        "candidate_id": "3dd32d4b2349e50d",
-        "title": "Baseball Card Sold for $12.6 Million, Breaking Record (Published 2022) - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWm9iZGNVT0E1cFpET0s5RWZHcUN3ZHNUODBlV1llNXBDcHhsT21PQjNDOTQzM3dMQV9IOWkwRmVIWlltYl9wWXlJNHJab1FEV3JCR1I4N19WTnJENzRhZEpqVmNFaEhRY3N5alQ4NFFDRVRWNFE3VFNURlNJRlpzOVpJT1g?oc=5",
-        "publisher_name": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "published_at": "2022-08-28T07:00:00+00:00",
-        "indicative_usd": 12600000
-      }
-    ]
-  },
-  {
-    "group_id": "0f0ea68be2f0b40c",
-    "title": "1952 Topps Mickey Mantle card sells for $12.6 million, shattering record - ESPN",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      12600000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-08-28T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "1d87cf6c361c48d6"
-    ],
-    "links": [
-      {
-        "candidate_id": "1d87cf6c361c48d6",
-        "title": "1952 Topps Mickey Mantle card sells for $12.6 million, shattering record - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTlIRS15dkRfYUxJaENZd242a2FxOHM3dEJJOG9jNE80OF9Sc2dFa2hLcFAydm9BdVRFWElvaWtjS0w0eHhHY1Uxdm9TU05aYUZuSVg3c0E2b0dfR3d1ZDlFUlJQWVBuN3psVV9tRzRmZkVZcGpXWEJaYWNSWjBhOGJNNjFZY1h5TDF1VkdWTVBYOUlwY04tY2lkejJMa2NVSWVXR0pDR2J5NFdmUzBJ?oc=5",
-        "publisher_name": "ESPN",
-        "publisher_url": "https://www.espn.com",
-        "published_at": "2022-08-28T07:00:00+00:00",
-        "indicative_usd": 12600000
-      }
-    ]
-  },
-  {
-    "group_id": "ccf476e6133b0964",
-    "title": "Buzz Aldrin’s Space Memorabilia Sells for More Than $8 Million (Published 2022) - The New York Times",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      8000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-07-26T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "32f55d0fc7271674"
-    ],
-    "links": [
-      {
-        "candidate_id": "32f55d0fc7271674",
-        "title": "Buzz Aldrin’s Space Memorabilia Sells for More Than $8 Million (Published 2022) - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkF3LUdlRGV3cGVSNlpZcWtlU3VHUk5EUUE3Ull6aXVwX3FWUGlsanNoejhfYjdOOUxocGRXZk1YSF9YUXNIXzZPVG5VTUxsRjY0NWNwRTlOVmJxZTFlNGdFb0JFZW9kaXNmZTFLSzBlSFU4ZzdMUWJ4RU5QdTBtUHhRUXBqOVJyU1ltZEpn?oc=5",
-        "publisher_name": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "published_at": "2022-07-26T07:00:00+00:00",
-        "indicative_usd": 8000000
-      }
-    ]
-  },
-  {
-    "group_id": "ec915e985a3f01fc",
-    "title": "Wonder Woman comic debut sold for $1.6M at auction - Fox Business",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1600000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-06-23T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "4229a5a8c85ae464"
-    ],
-    "links": [
-      {
-        "candidate_id": "4229a5a8c85ae464",
-        "title": "Wonder Woman comic debut sold for $1.6M at auction - Fox Business",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDJqQUpaakZTeHJ0STZRVzEwbmMwQmtCMFBuaXh2OW9Qek5mVVJtbi1oYXdodXRTZDRJaUw0V1R0MmN1QV9veVZLMjB5b0l6X3RnN0hFNHpvdUlwUm5nNlBKT1Z4Vm1SY1hzQ3Y2OU5DdGNHamVfWk4wYW1nek9wYUs3RG5Ha0nSAYwBQVVfeXFMUGpSbnVoaW1hOWd0aC1KYVgyREM3ZngtWnZQcENGYUdvOU80RFhYRUE2N3g0U2htTjR0eE9LQU1RRi0ydktKUXVlcVIwbnJMRWd2T0VmZFc1WW1lVnYtZmlsd1FHRWhQQnVtakZOSzZKQ0NQRDJVN2RjbnktWnNUcm1DUDlTWnQ2ZlFlMEs?oc=5",
-        "publisher_name": "Fox Business",
-        "publisher_url": "https://www.foxbusiness.com",
-        "published_at": "2022-06-23T07:00:00+00:00",
-        "indicative_usd": 1600000
-      }
-    ]
-  },
-  {
-    "group_id": "a1c2f138af9fb141",
-    "title": "‘The Rock,’ the Biggest White Diamond Ever Put Up for Auction, Sells for $22M - nationaljeweler.com",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      22000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-05-12T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "43026a1b8010be4e"
-    ],
-    "links": [
-      {
-        "candidate_id": "43026a1b8010be4e",
-        "title": "‘The Rock,’ the Biggest White Diamond Ever Put Up for Auction, Sells for $22M - nationaljeweler.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWWlnN3BnWGJnbm1VZDlxSFQ3aWs0RjZiQ2wzVjBVYlZFUzlSaW1zR3FzVjFqa1prLXpkczR0YWd0dy0tX0N3YTRVcldLSXhwMlJ0dTJzWTJCZ2UwNDlrcjhiQVZBaVd0Y2prd1N2ZXVQQTl4NmgwZlBZVEozTnF6T1RPRXJuNmExdWk4ckVvQ215MWNtSElWYXFINVZsTnQwSVI3REJhbGwtS0tzejcza2dCcTBlZw?oc=5",
-        "publisher_name": "nationaljeweler.com",
-        "publisher_url": "https://nationaljeweler.com",
-        "published_at": "2022-05-12T07:00:00+00:00",
-        "indicative_usd": 22000000
-      }
-    ]
-  },
-  {
-    "group_id": "07c2d22051339f01",
-    "title": "Warhol’s ‘Marilyn,’ at $195 Million, Shatters Auction Record for an American Artist (Published 2022) - The New York Times",
-    "category_hint": "art",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      195000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-05-09T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "5be63cec345379d6"
-    ],
-    "links": [
-      {
-        "candidate_id": "5be63cec345379d6",
-        "title": "Warhol’s ‘Marilyn,’ at $195 Million, Shatters Auction Record for an American Artist (Published 2022) - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUZPVGJ5V1BndkRyQVQ3MjNFR3k3RWJnRXRzMTIzNUYzbVNrODB2VTVxQ3dINGRjdlJPdVFDd3U5ODRSSHJYZ0lZMFRWMm9sQ18zY0RkVThPTlpQTHBLUEU1VldQamVzN3hoQ0dMQ3VFZUpVWlBxNnlLQkgxZlBoVVFoVVFKaHBK?oc=5",
-        "publisher_name": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "published_at": "2022-05-09T07:00:00+00:00",
-        "indicative_usd": 195000000
-      }
-    ]
-  },
-  {
-    "group_id": "a914d0a24ef2afad",
-    "title": "THE DE BEERS BLUE | Largest Fancy Vivid Blue Diamond Ever offered at Auction | Sells at Sotheby’s Hong Kong for HK$451m / US$57.5m | Among the Highest Prices Ever Achieved for Any Diamond Sold at Auction - Sotheby's",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      57500000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-04-27T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "c2648dd27fafe9a7"
-    ],
-    "links": [
-      {
-        "candidate_id": "c2648dd27fafe9a7",
-        "title": "THE DE BEERS BLUE | Largest Fancy Vivid Blue Diamond Ever offered at Auction | Sells at Sotheby’s Hong Kong for HK$451m / US$57.5m | Among the Highest Prices Ever Achieved for Any Diamond Sold at Auction - Sotheby's",
-        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQZ3puUXRBRF8tc1BwT2J4cHNRcEtHM2wyU01XQkdTQ1BXSFhRMFRJbGttSE5RWkgxME84em85S2poZHYtM2xDTm80NHBqMnl1Vmk3dXJSdGc4TDJYMnBwSFZDdFBmdHhIWGNIODM2eTFUQkh3TWpJcUhJVVBmdzNxLU80XzNxeVQ3TzFpUHA5YVgzSnFuSDVrTkdIUWJUWFlhODA4N202bHgzOHY5UlQ1cDRFR3BaaHJuRVgyZUdrR0pCTkdFVlpqXzNXeDFQaTBxa19vRDZ4RG9iUGQ2WWlFUzI1OEhqSWptVW1zU01ZNFc3LWhSUnZMU1JSQjZoSVNwYTNfYXczZ0tPU1VmbUNVaXpSckhVa29nc0cyWVhLc1JHNVpYcEdpZnhrenZtUXA0VzN2dU5SOG5mb2NjcmNsS2VjMldxU2JVQzFpMmx0cFFsT3dyRmFBQlZaYldWM3hoYVhOUjRpZ3pFb2ZFYmZzWFp1dzE0RGFz?oc=5",
-        "publisher_name": "Sotheby's",
-        "publisher_url": "https://www.sothebys.com",
-        "published_at": "2022-04-27T07:00:00+00:00",
-        "indicative_usd": 57500000
-      }
-    ]
-  },
-  {
     "group_id": "9c68a376fae8c7f6",
     "title": "Christie’s Achieves Its Highest-Ever Watch Auction Total of $58.7M - Rapaport",
     "category_hint": "watch",
@@ -12520,40 +12482,6 @@
         "publisher_url": "https://entertainment.ha.com",
         "published_at": "2025-09-29T07:00:00+00:00",
         "indicative_usd": 1650000
-      }
-    ]
-  },
-  {
-    "group_id": "fb03094c785387e0",
-    "title": "Hindman’s Glen De Vries Watch Auction Achieves $3 Million - Forbes",
-    "category_hint": "watch",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      3000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2023-10-22T07:00:00+00:00",
-    "priority": 0,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Возможный общий итог аукциона, не цена одного предмета",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "91f389c008d3dcad"
-    ],
-    "links": [
-      {
-        "candidate_id": "91f389c008d3dcad",
-        "title": "Hindman’s Glen De Vries Watch Auction Achieves $3 Million - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSzB2ZUpJLVUzcDQ2ZFN2UHBzdjF6TnVmZXIzZDV4cWMta0ttMl9pYm5OSkVMa3pONElSLVB3bHlzNlFtT09YNmVvLW13b0lMT0pKa0JwWjJZT0JLbFZ3WWg3WHkwQmdfVkd4RzF6N2dVOTdENmFuYUw3NXhfY21aY1FtOVBBTjNqSEN3RE8zUkdqcTV0U3Y0eFYteGYyc0Fpa05weUhWSGhjU0lZT3Q3TFlXS3NEY3l5bUE?oc=5",
-        "publisher_name": "Forbes",
-        "publisher_url": "",
-        "published_at": "2023-10-22T07:00:00+00:00",
-        "indicative_usd": 3000000
       }
     ]
   }
