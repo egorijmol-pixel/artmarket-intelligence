@@ -5166,6 +5166,20 @@
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
   {
+    "id": "b0de1d1169f18a7c",
+    "title": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
+    "summary": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 Christie's Press",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcERoQjcyaWJKNW10MEkzQ1JKemlRTFdCeUhYaFpuVy1sd1RXV0pMbl9lOWhwVVVRaEFGaTRDcUw5Q2VEQXA0dEU0VUJzSGRFVlFXcGxXV2Z4SHpjOFZYZ0ZaNVRGRDJCcGFfcEdCYUJIdlJOaVN4QWJUX24xVUc1dFpSM0JOMHF4ZlV1SDkySm40WDAxOW54T29KR3l6UllEMW9HbUp5SExqRWlYSE5HTHZiYWdGS3hRbUx0R2RsNE92cHlnYWZTMWpDekZ0b3VpTU50ZmpQSlc?oc=5",
+    "published_at": "2025-12-17T08:00:00+00:00",
+    "indicative_usd": 234000000,
+    "category_hint": "other",
+    "source_name": "Google News (official publisher): Christie's",
+    "publisher_name": "Christie's Press",
+    "publisher_url": "https://press.christies.com",
+    "status": "candidate",
+    "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
+  },
+  {
     "id": "66ed95070fab5996",
     "title": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
     "summary": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025    Christie's Press",
@@ -6834,20 +6848,6 @@
     "indicative_usd": 28500000,
     "category_hint": "art",
     "source_name": "Google News: auction \"sold for\" \"million\"",
-    "status": "candidate",
-    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
-  },
-  {
-    "id": "98dd83d9356c17f0",
-    "title": "This One-of-One Patek Philippe Watch Just Sold for $17.3 Million - GQ",
-    "summary": "This One-of-One Patek Philippe Watch Just Sold for $17.3 Million    GQ",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14WmJySDk4ZHE5THJVY3oyRnFPVWxBV1huaDVsWGx6cUFZOHF4OTRIbmN4Tm13S05lbm5OUjM4NGo4Qm5ZZERJMEJoanJPWk5aTkRYZFVCdFQ4dnJrNmZMRlVwM3V0VmF1Vl9BNHhaOWpoQVQzT3JWaA?oc=5",
-    "published_at": "2024-05-14T07:00:00+00:00",
-    "indicative_usd": 17300000,
-    "category_hint": "watch",
-    "source_name": "Google News: watch auction \"sold for\" million",
-    "publisher_name": "GQ",
-    "publisher_url": "https://www.gq.com",
     "status": "candidate",
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   }

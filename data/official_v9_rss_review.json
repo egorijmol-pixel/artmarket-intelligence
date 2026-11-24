@@ -59,33 +59,14 @@
         "indicative_usd": 3000000
       },
       {
+        "publisher": "Tech My Money",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSjV4SlZtSE9sM2xWQWJlMVNlOFp2Q0RKd1p1TjhSWHlYd0g5ZXdRQ0JORE9mQ3cwVC1sTTRma1U4eW1DR1FnYmRacjRNanVhVDZ4SEtKeWpkc2RHZXRwaXJjajZnUnNVczlNTzdUTXQ4MG50UC15TWFpMmdlbFRjN2VzOGFac3dRTC0xTk5STWFLUdIBkgFBVV95cUxNSjV4SlZtSE9sM2xWQWJlMVNlOFp2Q0RKd1p1TjhSWHlYd0g5ZXdRQ0JORE9mQ3cwVC1sTTRma1U4eW1DR1FnYmRacjRNanVhVDZ4SEtKeWpkc2RHZXRwaXJjajZnUnNVczlNTzdUTXQ4MG50UC15TWFpMmdlbFRjN2VzOGFac3dRTC0xTk5STWFLUQ?oc=5",
+        "indicative_usd": 3000000
+      },
+      {
         "publisher": "Kotaku",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjNQT1J4SlZLSk5TWVpTYW5YRG4zR3pwRWhzX05lUC1FRDM2cG1jQi1fb2FkM1dVZE9yRUJkZ0QzLTdBZTk5RE1iNDVWRXdMX1ZfQ2ZJVmdEVk9QajRmWmJaSTR4ejBBUGVKb0E1S1NIc083TzhzVUEwTFR2NGdWVUJ1TThSNG51V2R5b0xR?oc=5",
         "indicative_usd": 3000000
-      }
-    ],
-    "review_status": "needs_primary_source_full_text",
-    "is_verified_sale": false,
-    "checks_needed": [
-      "Открыть оригинальную публикацию и проверить цену отдельного лота",
-      "Установить дату самой продажи, не публикации",
-      "Проверить, не является ли сумма итогом аукциона или оценкой"
-    ]
-  },
-  {
-    "id": "651fe87e577df5ce",
-    "house": "Christie's",
-    "title": "Warhol’s Marilyn Sells for $195 Million - Christie's Press",
-    "indicative_usd": 195000000,
-    "publication_at": "2026-03-25T15:46:39+00:00",
-    "google_news_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnX2hlT1Q0cHpmRXlIMlV5anRLU0E0WlVLQ1pqZG00LTE4MTZFUXF1TlZKelFvRzR2Tml4RF9sRjJoZDJIcmlob0lGMVB4eVY2QnVUSzhMdHpTczhnbFpQM1RsV09OQlI0QTA2QzlKYWpOQ3FxSm1zRGRB?oc=5",
-    "publisher_name": "Christie's Press",
-    "publisher_website": "https://press.christies.com",
-    "corroborating_news": [
-      {
-        "publisher": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUZPVGJ5V1BndkRyQVQ3MjNFR3k3RWJnRXRzMTIzNUYzbVNrODB2VTVxQ3dINGRjdlJPdVFDd3U5ODRSSHJYZ0lZMFRWMm9sQ18zY0RkVThPTlpQTHBLUEU1VldQamVzN3hoQ0dMQ3VFZUpVWlBxNnlLQkgxZlBoVVFoVVFKaHBK?oc=5",
-        "indicative_usd": 195000000
       }
     ],
     "review_status": "needs_primary_source_full_text",
@@ -353,6 +334,24 @@
     ]
   },
   {
+    "id": "651fe87e577df5ce",
+    "house": "Christie's",
+    "title": "Warhol’s Marilyn Sells for $195 Million - Christie's Press",
+    "indicative_usd": 195000000,
+    "publication_at": "2026-03-25T15:46:39+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnX2hlT1Q0cHpmRXlIMlV5anRLU0E0WlVLQ1pqZG00LTE4MTZFUXF1TlZKelFvRzR2Tml4RF9sRjJoZDJIcmlob0lGMVB4eVY2QnVUSzhMdHpTczhnbFpQM1RsV09OQlI0QTA2QzlKYWpOQ3FxSm1zRGRB?oc=5",
+    "publisher_name": "Christie's Press",
+    "publisher_website": "https://press.christies.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
     "id": "0802aa08e89953c5",
     "house": "Christie's",
     "title": "Gooding Christie’s Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
@@ -377,6 +376,24 @@
     "indicative_usd": 234000000,
     "publication_at": "2025-12-17T08:00:00+00:00",
     "google_news_article": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTTRTVldrVkdiOEttdDVxVGdWUWVvUmxjelNDb2dEZnNRV3M1VFJtUXpSZnFSUFBIS0dTclVtS3AzNTdFZzZ0NnFGb3lxWlF0aDRURXpPdEpjVEI2MDRTblR3d0R2aEV6ZWpOcjdvT3BIWVVLV1JhRk5mQWp3aHVqNnlSLVNic0Fac3JwQ3I0M0I4MEh3M0VJRy14OURybnBWWWM1a3JQSk5RN2lkdlFFTTA4Zm5jRzVCb2lwaTNHWEJlSTRIOXowQnRNVmdiSk1Ga0Y4aVJkaVd2dw?oc=5",
+    "publisher_name": "Christie's Press",
+    "publisher_website": "https://press.christies.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
+    "id": "b0de1d1169f18a7c",
+    "house": "Christie's",
+    "title": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
+    "indicative_usd": 234000000,
+    "publication_at": "2025-12-17T08:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcERoQjcyaWJKNW10MEkzQ1JKemlRTFdCeUhYaFpuVy1sd1RXV0pMbl9lOWhwVVVRaEFGaTRDcUw5Q2VEQXA0dEU0VUJzSGRFVlFXcGxXV2Z4SHpjOFZYZ0ZaNVRGRDJCcGFfcEdCYUJIdlJOaVN4QWJUX24xVUc1dFpSM0JOMHF4ZlV1SDkySm40WDAxOW54T29KR3l6UllEMW9HbUp5SExqRWlYSE5HTHZiYWdGS3hRbUx0R2RsNE92cHlnYWZTMWpDekZ0b3VpTU50ZmpQSlc?oc=5",
     "publisher_name": "Christie's Press",
     "publisher_website": "https://press.christies.com",
     "corroborating_news": [],
