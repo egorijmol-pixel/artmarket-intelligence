@@ -1,10 +1,10 @@
 [
   {
-    "group_id": "e7b82e069d8760d8",
+    "group_id": "e848b6d2fb864739",
     "title": "Superman Comic Sells for Record $9.12 Million - NewsForKids.net",
     "category_hint": "other",
-    "articles": 21,
-    "publishers": 21,
+    "articles": 22,
+    "publishers": 22,
     "indicative_usd_values": [
       9000000,
       9100000,
@@ -31,6 +31,7 @@
       "c79972e95b71aed9",
       "9d68c2a6cac0f66b",
       "8e153021f14c2710",
+      "88d6ecda622e2d00",
       "78e85c20a671c6ec",
       "73b0f2961ea0d6ad",
       "4d019a2b3485faa6",
@@ -151,6 +152,15 @@
         "indicative_usd": 9000000
       },
       {
+        "candidate_id": "88d6ecda622e2d00",
+        "title": "Up, up and away: Copy of Superman No. 1 comic sells for record $9.12 million - 104.5 WOKV",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVjU1UHlPaS1xT1pkWVBPSV9Vc3FxTEszd2otOFktcGhuTXQ1T1hPMlg0QWZuZzd4RWswTWhRX1RzeEFrbnA2aENNZnRxMEV3RWY1NFlKWmNOcWZMTmFlZ21oUzJoODdKcWFhQ0p0emRFSUJObU1SYVZfaWpaOVJvOXY4WjI5RWQwM0ZMaEFFX2VULWVvZm91eTc0NTQwWi1YOVB0Qzh4WmpPSXpmeHgwMGMyS19NM0tkS1YtN1E4dDTSAdQBQVVfeXFMTnJ3NFZTM3dXb3lTeVd5UlhZNnRwS3NKaWN1bkJEZzc5d1pqMDZkS1VYaWwwT05QeEdOSURuY2ZOcEFOcnhtcHEzZUR1TnNwZnQ2S3l1S1pWck55Vjk1N3hPOTNwalVmQy1DelIyZ0EwU2h2UDE0cy1pNGlNUFhMaTMyZk53VmhMTlRfWUJxT1RBbnpMcnZVM2JyeXFqYnFGZ2NuWk82Rlp1UzVSZ0N6djQxVUtWUHNmdVo4eVAxOGx3ZHlmdXBHY2lobzE3ZlgyN0ZmY1c?oc=5",
+        "publisher_name": "104.5 WOKV",
+        "publisher_url": "https://www.wokv.com",
+        "published_at": "2025-11-21T08:00:00+00:00",
+        "indicative_usd": 9120000
+      },
+      {
         "candidate_id": "78e85c20a671c6ec",
         "title": "'Superman' No. 1 Sold for $9.12m to Become The Most Expensive Comic Ever Sold - Fine Books Magazine",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVk1fZ1dOUVNKQ2pOTlpTN3hHbFppM2Nhc3doVWM1YlhVelozc3o0LXUwRTRWZnE0RWVfUTJjNi1tT000bWdWOGp0anFxSWhXUVE0TExzOTUyR3NNTk0xZzRGX2c2SHlXZFUwdUczZy1YZUdYbFpiVEN4YV9CRnQtTE1RQWNQdVMtVUY0MExlbTZUNkdGbnp2SW5aSFRYWmhwT2c?oc=5",
@@ -212,23 +222,14 @@
         "publisher_url": "https://www.nytimes.com",
         "published_at": "2025-11-20T08:00:00+00:00",
         "indicative_usd": 9120000
-      },
-      {
-        "candidate_id": "1091cd388a4f3c4f",
-        "title": "Most Valuable Comic: Superman #1 CGC 9.0 Sells for Record $9,120,000 - Bleeding Cool News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaV9KUVN0SzBWNGFoQ01DX1hfVGV5VmZjZ2lpMndWd2RxZklnbzVtOWxnM29McnlaM3RzVllkUzZuVW5SNGh1am5oVjVzcE5iczViZEFnV01hMGN4LUYyNHIzN3NCQ0FoN3pnMTVCakplbXVfSnF2b29XV1d6WFRZUTdaS2ROZjBLczc4cWExTVRBb3NkazFVXzE0dnE?oc=5",
-        "publisher_name": "Bleeding Cool News",
-        "publisher_url": "https://bleedingcool.com",
-        "published_at": "2025-11-20T08:00:00+00:00",
-        "indicative_usd": 9120000
       }
     ]
   },
   {
-    "group_id": "49fbbbb813bb2be5",
+    "group_id": "955b21dec64274bb",
     "title": "Van Gogh Painting with a Complex Jewish History Sells for Record $190.4 Million at Auction - Philadelphia Jewish Exponent",
     "category_hint": "art",
-    "articles": 13,
+    "articles": 14,
     "publishers": 13,
     "indicative_usd_values": [
       190000000,
@@ -245,6 +246,7 @@
     "candidate_ids": [
       "c39aeba75fbf1910",
       "7d547a277ae49696",
+      "aef8811beb41af2e",
       "20e40c8f8c5efd27",
       "118495c843fae61e",
       "ce38070421984c41",
@@ -274,6 +276,15 @@
         "publisher_name": "WECT",
         "publisher_url": "https://www.wect.com",
         "published_at": "2026-11-20T12:35:00+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "aef8811beb41af2e",
+        "title": "A van Gogh with a complex past sells for a record $190 million at auction - WECT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWVBlcUctZ2xBU2NmVkpRQXJobmdhLWZKWXdCcUtqZUY4cWVwZDdJeXB4YXU4TGhob1dXRGpLZUd1U1M2am9aRmRxWGktLXdOMnoyX2dYNE9uYWlaYTlFVEgxd09pcEJad0RKYXFBS3puVVl4OUUzWHp1SHkyUDdkOFhLXzNQTDdDQ3dOeE8tNGNxdGxTVDdZ0gGrAUFVX3lxTE5XUHE2WV83ZXV6aXBSOGw1bDlxWWhDRjJ3TjlJRXpMYVBodDlldmNhTkhYbnNUQjVNTFdIQ0dTamJSSk1RME42LU8yM2llUS11azNCd0l2RjU1b3Y2VDBlMXNCbmdhUDdDWTFjQjRNbnhiWmJxWVBtbGdiZWZaelN2UTJ5VmlxNWJvU2w5MWhZVFBZUHdNTzV3TE95cXdUU2YzTUpUZFJOS2lZSQ?oc=5",
+        "publisher_name": "WECT",
+        "publisher_url": "https://www.wect.com",
+        "published_at": "2026-11-20T10:42:00+00:00",
         "indicative_usd": 190000000
       },
       {
@@ -954,6 +965,88 @@
     ]
   },
   {
+    "group_id": "05ed9ff32eee3e72",
+    "title": "Cage's Stolen Superman Comic Fetches $15M Record - 조선일보",
+    "category_hint": "other",
+    "articles": 6,
+    "publishers": 6,
+    "indicative_usd_values": [
+      15000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-01-12T08:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "021cabced8965c27",
+      "508493c80834d348",
+      "f7d563ee708b920b",
+      "ac51cb0bad7ad9d5",
+      "44b670e09eac4df7",
+      "f83a274cc88cf8ee"
+    ],
+    "links": [
+      {
+        "candidate_id": "021cabced8965c27",
+        "title": "Cage's Stolen Superman Comic Fetches $15M Record - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTnBuMDhMNjdoWDFhYk9IWVNsS1NQU0NfRlUxbUR2WXpqejU5a1pfaE5WVGpxeHV6TG5PVmUyT0NyWnpXZnNEc280ZE9YMFV1cDI0b1hQZmFzV0w0eWlnMC1OSDZHWTNBd0hBYjV6ZmhkenpSMEJQQzV5MUtEOTBPYmlpWEg?oc=5",
+        "publisher_name": "조선일보",
+        "publisher_url": "https://www.chosun.com",
+        "published_at": "2026-01-12T08:00:00+00:00",
+        "indicative_usd": 15000000
+      },
+      {
+        "candidate_id": "508493c80834d348",
+        "title": "Nicolas Cage’s Historic Superman Comic Sells for $15 Million - InsideHook",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQblB5S3BIY0h1YlppUzltR1NiZ3p3cU1FOUVIQkFyZk4xZUFjR3ZtRy1jWWI0a3lFcG9oa2QybGkxUzZKTThnU3JmM0xwb3RWZWpVNndPVjItSnFFQ2wwbTR6cnBBRWFzam9UeEZXUHFQdWg0c0xVUFdDd1UybEpvVmtmZHNXYWc?oc=5",
+        "publisher_name": "InsideHook",
+        "publisher_url": "https://www.insidehook.com",
+        "published_at": "2026-01-11T08:00:00+00:00",
+        "indicative_usd": 15000000
+      },
+      {
+        "candidate_id": "f7d563ee708b920b",
+        "title": "Superman comic once stolen from Nicolas Cage sells for record $15M - LiveNOW from FOX",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ29odEctLWVFZnlBOGxtQnZ5UVEzcTZvYm9VS0tMRE5NSWdDcTktRFpyNEc0T0NNdTZSal9QejJ0UlJXMTlNNUs1R04ybUMwcDFZZU45UnF4WGZ2cXFIRURONGNrOV80Wnp0UFYzTUp3by1yQ2FHOU5GcElzcGhwb21nVzFVUGpuNERB?oc=5",
+        "publisher_name": "LiveNOW from FOX",
+        "publisher_url": "https://www.livenowfox.com",
+        "published_at": "2026-01-10T08:00:00+00:00",
+        "indicative_usd": 15000000
+      },
+      {
+        "candidate_id": "ac51cb0bad7ad9d5",
+        "title": "Superman comic once stolen from Nicolas Cage sells for record $15M - FOX 13 Tampa Bay",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN01BTmdVcjhtdzVLZWVKMGRiNGI4eHl3bEpNMERYNjJxZEtCYklvVmhFOVFQMWhxVEZBcUs2aER6LWVNMTlmODBfWlpUUk80QzU3QUVoVlRleGFUWVRqUlYxLTNNSEM5TjFRczhzaGJrNU0yQjMzNi1ERFZMWEJjNE5hNnFGcU5abWc?oc=5",
+        "publisher_name": "FOX 13 Tampa Bay",
+        "publisher_url": "https://www.fox13news.com",
+        "published_at": "2026-01-10T08:00:00+00:00",
+        "indicative_usd": 15000000
+      },
+      {
+        "candidate_id": "44b670e09eac4df7",
+        "title": "Rare first Superman comic once stolen from Nicolas Cage sells for $15m - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54WTdNTXJjdURiTzU5TzZPZEJCdjM2YW1sT2tIajFjb016ZUtIY3ItdkdacGtUQm00R0F6djBPd0pVWEVMc05CZ0t6ckZZclZ2YUIwN2VmelRpQQ?oc=5",
+        "publisher_name": "BBC",
+        "publisher_url": "https://www.bbc.com",
+        "published_at": "2026-01-10T08:00:00+00:00",
+        "indicative_usd": 15000000
+      },
+      {
+        "candidate_id": "f83a274cc88cf8ee",
+        "title": "This rare Superman comic was once stolen from Nicolas Cage. It just sold for $15 million - CBC",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWF9pNjNwSU01S00tQkN5SU9jRWxXbkFRb082THpiOXRSN3hxLTlSSXEzNkpHNWVVdy1feVdfbjBzRng5QmFzWTBOS1VwMWJVTDNDZUp1Y0JaMFdENXlHQ3h1NmpLdzVPckxkRjZoeHRYQVh2MzBRZ0diRjlVM2ZqLQ?oc=5",
+        "publisher_name": "CBC",
+        "publisher_url": "https://www.cbc.ca",
+        "published_at": "2026-01-09T08:00:00+00:00",
+        "indicative_usd": 15000000
+      }
+    ]
+  },
+  {
     "group_id": "7f73eaf0ebc0c999",
     "title": "First comic book to feature Superman sells for record $6M at auction - Scripps News",
     "category_hint": "books",
@@ -1032,78 +1125,6 @@
         "publisher_url": "https://www.finebooksmagazine.com",
         "published_at": "2024-04-05T07:00:00+00:00",
         "indicative_usd": 6000000
-      }
-    ]
-  },
-  {
-    "group_id": "df376c9888cc9b16",
-    "title": "Cage's Stolen Superman Comic Fetches $15M Record - 조선일보",
-    "category_hint": "other",
-    "articles": 5,
-    "publishers": 5,
-    "indicative_usd_values": [
-      15000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-01-12T08:00:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "021cabced8965c27",
-      "508493c80834d348",
-      "f7d563ee708b920b",
-      "44b670e09eac4df7",
-      "f83a274cc88cf8ee"
-    ],
-    "links": [
-      {
-        "candidate_id": "021cabced8965c27",
-        "title": "Cage's Stolen Superman Comic Fetches $15M Record - 조선일보",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTnBuMDhMNjdoWDFhYk9IWVNsS1NQU0NfRlUxbUR2WXpqejU5a1pfaE5WVGpxeHV6TG5PVmUyT0NyWnpXZnNEc280ZE9YMFV1cDI0b1hQZmFzV0w0eWlnMC1OSDZHWTNBd0hBYjV6ZmhkenpSMEJQQzV5MUtEOTBPYmlpWEg?oc=5",
-        "publisher_name": "조선일보",
-        "publisher_url": "https://www.chosun.com",
-        "published_at": "2026-01-12T08:00:00+00:00",
-        "indicative_usd": 15000000
-      },
-      {
-        "candidate_id": "508493c80834d348",
-        "title": "Nicolas Cage’s Historic Superman Comic Sells for $15 Million - InsideHook",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQblB5S3BIY0h1YlppUzltR1NiZ3p3cU1FOUVIQkFyZk4xZUFjR3ZtRy1jWWI0a3lFcG9oa2QybGkxUzZKTThnU3JmM0xwb3RWZWpVNndPVjItSnFFQ2wwbTR6cnBBRWFzam9UeEZXUHFQdWg0c0xVUFdDd1UybEpvVmtmZHNXYWc?oc=5",
-        "publisher_name": "InsideHook",
-        "publisher_url": "https://www.insidehook.com",
-        "published_at": "2026-01-11T08:00:00+00:00",
-        "indicative_usd": 15000000
-      },
-      {
-        "candidate_id": "f7d563ee708b920b",
-        "title": "Superman comic once stolen from Nicolas Cage sells for record $15M - LiveNOW from FOX",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ29odEctLWVFZnlBOGxtQnZ5UVEzcTZvYm9VS0tMRE5NSWdDcTktRFpyNEc0T0NNdTZSal9QejJ0UlJXMTlNNUs1R04ybUMwcDFZZU45UnF4WGZ2cXFIRURONGNrOV80Wnp0UFYzTUp3by1yQ2FHOU5GcElzcGhwb21nVzFVUGpuNERB?oc=5",
-        "publisher_name": "LiveNOW from FOX",
-        "publisher_url": "https://www.livenowfox.com",
-        "published_at": "2026-01-10T08:00:00+00:00",
-        "indicative_usd": 15000000
-      },
-      {
-        "candidate_id": "44b670e09eac4df7",
-        "title": "Rare first Superman comic once stolen from Nicolas Cage sells for $15m - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54WTdNTXJjdURiTzU5TzZPZEJCdjM2YW1sT2tIajFjb016ZUtIY3ItdkdacGtUQm00R0F6djBPd0pVWEVMc05CZ0t6ckZZclZ2YUIwN2VmelRpQQ?oc=5",
-        "publisher_name": "BBC",
-        "publisher_url": "https://www.bbc.com",
-        "published_at": "2026-01-10T08:00:00+00:00",
-        "indicative_usd": 15000000
-      },
-      {
-        "candidate_id": "f83a274cc88cf8ee",
-        "title": "This rare Superman comic was once stolen from Nicolas Cage. It just sold for $15 million - CBC",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWF9pNjNwSU01S00tQkN5SU9jRWxXbkFRb082THpiOXRSN3hxLTlSSXEzNkpHNWVVdy1feVdfbjBzRng5QmFzWTBOS1VwMWJVTDNDZUp1Y0JaMFdENXlHQ3h1NmpLdzVPckxkRjZoeHRYQVh2MzBRZ0diRjlVM2ZqLQ?oc=5",
-        "publisher_name": "CBC",
-        "publisher_url": "https://www.cbc.ca",
-        "published_at": "2026-01-09T08:00:00+00:00",
-        "indicative_usd": 15000000
       }
     ]
   },
@@ -1902,6 +1923,58 @@
     ]
   },
   {
+    "group_id": "5d440eb954de1c38",
+    "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 2 Detroit",
+    "category_hint": "other",
+    "articles": 3,
+    "publishers": 3,
+    "indicative_usd_values": [
+      5124000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-02-25T08:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "d4a81f8e278be03b",
+      "7549df0533517d4a",
+      "02743050af909f76"
+    ],
+    "links": [
+      {
+        "candidate_id": "d4a81f8e278be03b",
+        "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 2 Detroit",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOEVIVkVFNXlKV01JSkw3OWRrRWhrczRSVTV6STZOQ0JtZ3FkcDR3amRjTXBoZnlpbW1hZWFzS0t3d2U2bjlHdU4zT3d4UEdkX2E2dlM0Zlg3aHVHRXdwYWR6Z1BfY1MzYjhyaE5xMnBvZmV0OERET1RZOWJ6YUhlc25rOGRCQy16MUtld3cyTXF0NTNfN09FS0c4b3k1S1pNQ1JwNlhIYkRVV1FjS0trbTNEamlvVnI3Vk40LQ?oc=5",
+        "publisher_name": "FOX 2 Detroit",
+        "publisher_url": "",
+        "published_at": "2026-02-25T08:00:00+00:00",
+        "indicative_usd": 5124000
+      },
+      {
+        "candidate_id": "7549df0533517d4a",
+        "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 29 Philadelphia",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFE4SXVVTjl0VDNpcm9qSEZJeUF2b0ZGY1UxcTRUTEREMFJ0c0k4RG5nanBGYnQ5NUJXaW01dmFvbjV2dTNCNHBhaWN5cnMyeXItcDJ6YmhmUkw3bFNjMkNOOEJlQndZNWhBSGRaTzktUGdUcC0wRC02Zjl6VFFoUGJNbUpGRE1FUFJrbVh5Z0twQlZEWENlRzhyM2pfNDF4Vl92bTVvRlRPVzdaRjBla3pBSXM?oc=5",
+        "publisher_name": "FOX 29 Philadelphia",
+        "publisher_url": "https://www.fox29.com",
+        "published_at": "2026-02-25T08:00:00+00:00",
+        "indicative_usd": 5124000
+      },
+      {
+        "candidate_id": "02743050af909f76",
+        "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - LiveNOW from FOX",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2FRR2x1djFwVUhPU19FSlYwTEpKQXQ4TzdHZFBRdlZKbG11NVc1SmtDRFVBS1NrYU9WMlQ1d1BNTWJpMHQtTnk2c3ZyR0Z3WG5kQkJlSUtycVhIeUN5cUE1RnB2eE9iMmU0STJpT3ZOOXlrdElLQ1RWM3B4XzE2RzlsTEdLeVdYSHFUWlZreGZwRWZNczljMXhpUndzUVd1YjhEVzRUZFBrZV9ldEYzaVRSelVNWXdYdE5R?oc=5",
+        "publisher_name": "LiveNOW from FOX",
+        "publisher_url": "https://www.livenowfox.com",
+        "published_at": "2026-02-25T08:00:00+00:00",
+        "indicative_usd": 5124000
+      }
+    ]
+  },
+  {
     "group_id": "0a4249295c24e847",
     "title": "Logan Paul’s ultra-rare Pikachu Illustrator Pokémon card just sold for a jaw-dropping $16.5 million at auction - 107.5 Kool FM",
     "category_hint": "other",
@@ -2007,6 +2080,60 @@
     ]
   },
   {
+    "group_id": "8b11f5adbefd502f",
+    "title": "9.51-Carat ‘Mellon Blue’ Diamond Fetches $25.5 Million At Auction - Forbes",
+    "category_hint": "jewelry",
+    "articles": 3,
+    "publishers": 3,
+    "indicative_usd_values": [
+      25000000,
+      25500000,
+      25600000
+    ],
+    "amount_variation_pct": 2.3,
+    "last_publication_at": "2025-11-12T08:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "62bf9823cd7c19f2",
+      "4c3e8f41ffbbea3f",
+      "f8cbb0d777a06678"
+    ],
+    "links": [
+      {
+        "candidate_id": "62bf9823cd7c19f2",
+        "title": "9.51-Carat ‘Mellon Blue’ Diamond Fetches $25.5 Million At Auction - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ0VmUVV3R3dVX19lcXQtQ2xJZktQdnhXcGhMMUk0X2wxNVdMWVdQZVNqVnhJWXRkZE5mZHpjeEtxOEhqblZnVExVTV9CNDBBWkM2c2EwS2dIOElhOWNaVF9EOTRiVE9lSzZWT1JVZjNNTW9LYlpmTHVhamdWSVhfc1lGWDNlVFcxWVl1V3hHRHdGbXJLSTh5WG5fT3FPbzR1aUlMYk5vTHRqazNlb0VoQlRtWDVza05vb0l5ag?oc=5",
+        "publisher_name": "Forbes",
+        "publisher_url": "https://www.forbes.com",
+        "published_at": "2025-11-12T08:00:00+00:00",
+        "indicative_usd": 25500000
+      },
+      {
+        "candidate_id": "4c3e8f41ffbbea3f",
+        "title": "Mellon Blue Diamond Sells for $25.6M at Christie’s - Rapaport",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaHlIbnZwYk0tdWVnbUJBbWtmNWJhYmNHU3c1d0pfRlZEMzNtS0o1UmRDREw2RFIzdjBTZkJtTEJKMnZsNjJSSFpQVkhiaGNmbXVoblVacHlHV1pSUWRLZ0NQVWdCRWg1VVRvQmx4dVB0MkpXckxjV1NTWWdVbG5scw?oc=5",
+        "publisher_name": "Rapaport",
+        "publisher_url": "https://rapaport.com",
+        "published_at": "2025-11-12T08:00:00+00:00",
+        "indicative_usd": 25600000
+      },
+      {
+        "candidate_id": "f8cbb0d777a06678",
+        "title": "'Mellon Blue' diamond ring sells for $25 million in Geneva auction - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYVZ4UnFxZThjNDJoZ2xEeU1PLTNuZU9RMDdTLUNQamFIQTRoanlWS2M2aHlKRnJzNmlhQlN1S1VpZzhLQUhEdFlDYmxJalU1MEF4bV9pOExVeDN3RnkxaDRnb3g3cU9ETmttUncweFJIZlNtM181RVF3VnJncHBLNWkzNGNpR21CaV8tM1FidVYyM1g5V1RQS2Y3d196TUtyZFhscw?oc=5",
+        "publisher_name": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "published_at": "2025-11-11T08:00:00+00:00",
+        "indicative_usd": 25000000
+      }
+    ]
+  },
+  {
     "group_id": "d0a37759328a0525",
     "title": "Rare T-206 Honus Wagner baseball card sold for record $7.25 million in private sale - ESPN",
     "category_hint": "other",
@@ -2055,6 +2182,48 @@
         "publisher_url": "",
         "published_at": "2022-08-04T07:00:00+00:00",
         "indicative_usd": 7250000
+      }
+    ]
+  },
+  {
+    "group_id": "c364caee7dabd6a2",
+    "title": "This Yoshitomo Nara Painting Just Sold for $15.9 Million at Auction - Yahoo News Singapore",
+    "category_hint": "art",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      15900000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-23T17:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "56a17b2a68c5e863",
+      "a367c7efbc1ba84a"
+    ],
+    "links": [
+      {
+        "candidate_id": "56a17b2a68c5e863",
+        "title": "This Yoshitomo Nara Painting Just Sold for $15.9 Million at Auction - Yahoo News Singapore",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQci1jY2J5X2VqbDVVQVg2Ui1FNnZ1QndfSkxTWWpjb2t5Q0dNWUhzY1JRTmRwX1VNV0FuRUNRNVdkdFlMSDFDdzNvcFVoRGFIRTBwdEZlRnB0OHVJZV9oTjlDQmFYSVJtbW9IMTV0cWp3ZEtkanh1TUI4U3FOXzg?oc=5",
+        "publisher_name": "Yahoo News Singapore",
+        "publisher_url": "https://sg.news.yahoo.com",
+        "published_at": "2026-11-23T17:00:00+00:00",
+        "indicative_usd": 15900000
+      },
+      {
+        "candidate_id": "a367c7efbc1ba84a",
+        "title": "Yoshitomo Nara Painting Fetches $15.9 M., Outselling Koons and Richter in New York - ARTnews.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXRMbVJLeVlnNEFQUWJ5cFl1N3R2ckR3WjN3ZTRKaVRWbUNTRklpMnJ0SXd0bnNaVF9RMVVEZFNzZXZ2WEJzR3RFLXpQelF3ektvN1BJRWdsSWwxZ0U2dXppMl9HVXBkSS1oUVoxT0pQRk1LT2NIbzZQZUlyVFZRX1R3dXlMU1JSZWNSOWxKUm0xaHE2Zmx6NXNMZWU?oc=5",
+        "publisher_name": "ARTnews.com",
+        "publisher_url": "https://www.artnews.com",
+        "published_at": "2026-11-20T18:54:00+00:00",
+        "indicative_usd": 15900000
       }
     ]
   },
@@ -2904,91 +3073,6 @@
     ]
   },
   {
-    "group_id": "a94b9567babf1ecb",
-    "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 2 Detroit",
-    "category_hint": "other",
-    "articles": 2,
-    "publishers": 2,
-    "indicative_usd_values": [
-      5124000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-02-25T08:00:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "d4a81f8e278be03b",
-      "7549df0533517d4a"
-    ],
-    "links": [
-      {
-        "candidate_id": "d4a81f8e278be03b",
-        "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 2 Detroit",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOEVIVkVFNXlKV01JSkw3OWRrRWhrczRSVTV6STZOQ0JtZ3FkcDR3amRjTXBoZnlpbW1hZWFzS0t3d2U2bjlHdU4zT3d4UEdkX2E2dlM0Zlg3aHVHRXdwYWR6Z1BfY1MzYjhyaE5xMnBvZmV0OERET1RZOWJ6YUhlc25rOGRCQy16MUtld3cyTXF0NTNfN09FS0c4b3k1S1pNQ1JwNlhIYkRVV1FjS0trbTNEamlvVnI3Vk40LQ?oc=5",
-        "publisher_name": "FOX 2 Detroit",
-        "publisher_url": "",
-        "published_at": "2026-02-25T08:00:00+00:00",
-        "indicative_usd": 5124000
-      },
-      {
-        "candidate_id": "7549df0533517d4a",
-        "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 29 Philadelphia",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFE4SXVVTjl0VDNpcm9qSEZJeUF2b0ZGY1UxcTRUTEREMFJ0c0k4RG5nanBGYnQ5NUJXaW01dmFvbjV2dTNCNHBhaWN5cnMyeXItcDJ6YmhmUkw3bFNjMkNOOEJlQndZNWhBSGRaTzktUGdUcC0wRC02Zjl6VFFoUGJNbUpGRE1FUFJrbVh5Z0twQlZEWENlRzhyM2pfNDF4Vl92bTVvRlRPVzdaRjBla3pBSXM?oc=5",
-        "publisher_name": "FOX 29 Philadelphia",
-        "publisher_url": "https://www.fox29.com",
-        "published_at": "2026-02-25T08:00:00+00:00",
-        "indicative_usd": 5124000
-      }
-    ]
-  },
-  {
-    "group_id": "b2d38d31e21c4c80",
-    "title": "9.51-Carat ‘Mellon Blue’ Diamond Fetches $25.5 Million At Auction - Forbes",
-    "category_hint": "jewelry",
-    "articles": 2,
-    "publishers": 2,
-    "indicative_usd_values": [
-      25000000,
-      25500000
-    ],
-    "amount_variation_pct": 2.0,
-    "last_publication_at": "2025-11-12T08:00:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "62bf9823cd7c19f2",
-      "f8cbb0d777a06678"
-    ],
-    "links": [
-      {
-        "candidate_id": "62bf9823cd7c19f2",
-        "title": "9.51-Carat ‘Mellon Blue’ Diamond Fetches $25.5 Million At Auction - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ0VmUVV3R3dVX19lcXQtQ2xJZktQdnhXcGhMMUk0X2wxNVdMWVdQZVNqVnhJWXRkZE5mZHpjeEtxOEhqblZnVExVTV9CNDBBWkM2c2EwS2dIOElhOWNaVF9EOTRiVE9lSzZWT1JVZjNNTW9LYlpmTHVhamdWSVhfc1lGWDNlVFcxWVl1V3hHRHdGbXJLSTh5WG5fT3FPbzR1aUlMYk5vTHRqazNlb0VoQlRtWDVza05vb0l5ag?oc=5",
-        "publisher_name": "Forbes",
-        "publisher_url": "https://www.forbes.com",
-        "published_at": "2025-11-12T08:00:00+00:00",
-        "indicative_usd": 25500000
-      },
-      {
-        "candidate_id": "f8cbb0d777a06678",
-        "title": "'Mellon Blue' diamond ring sells for $25 million in Geneva auction - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYVZ4UnFxZThjNDJoZ2xEeU1PLTNuZU9RMDdTLUNQamFIQTRoanlWS2M2aHlKRnJzNmlhQlN1S1VpZzhLQUhEdFlDYmxJalU1MEF4bV9pOExVeDN3RnkxaDRnb3g3cU9ETmttUncweFJIZlNtM181RVF3VnJncHBLNWkzNGNpR21CaV8tM1FidVYyM1g5V1RQS2Y3d196TUtyZFhscw?oc=5",
-        "publisher_name": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "published_at": "2025-11-11T08:00:00+00:00",
-        "indicative_usd": 25000000
-      }
-    ]
-  },
-  {
     "group_id": "708ce802ce64c617",
     "title": "A duct-taped banana sells for $6.2 million at an art auction - NPR",
     "category_hint": "other",
@@ -3118,6 +3202,48 @@
     ]
   },
   {
+    "group_id": "58efaea90311a5f5",
+    "title": "One of Van Gogh’s Final Paintings Just Sold for a Record-Breaking $190 Million - My Modern Met",
+    "category_hint": "art",
+    "articles": 2,
+    "publishers": 1,
+    "indicative_usd_values": [
+      190000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-23T18:58:55+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "47f30b65f1e4b5ce",
+      "89611226575709fe"
+    ],
+    "links": [
+      {
+        "candidate_id": "47f30b65f1e4b5ce",
+        "title": "One of Van Gogh’s Final Paintings Just Sold for a Record-Breaking $190 Million - My Modern Met",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzRydHBVMGFOY2xCeDdibFRFbmJSdHlPOXFROGtCZTdvNXVINzloT0xFM3M0ZlhhckZ3LWduX1hQYlpGNlFianNqaHZuZUZCZlhoZG9hY2lkWEpxeDRXanBiNVg0c2N2RTJSZUZyYXVhbXNILXhVZXhZNzlxZ3JwOXhMTE50NTNSZnBJNEZiLVJsV25RRXUzc3JlZFJoOGVmMFRjYS14bmpLb2V1VDVpS3dSTWZ2Zw?oc=5",
+        "publisher_name": "My Modern Met",
+        "publisher_url": "https://mymodernmet.com",
+        "published_at": "2026-11-23T18:58:55+00:00",
+        "indicative_usd": 190000000
+      },
+      {
+        "candidate_id": "89611226575709fe",
+        "title": "One of Van Gogh’s Final Paintings Just Sold for a Record-Breaking $190 Million - My Modern Met",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFNDMxaEJzZDI2SERrdWlmdmdZM2xGaldoVmtEbjI3X2tnYUM0YTRZTkhRNmRZVHQxUHVSY29MUTZDQzQ4N3lwTUlQX3FMbm83QVZxeWRXWWwyandhMzVpUHBCY1RuWEtLbVZNSlMycFNWTlpLTUNXT3A4NE0zUQ?oc=5",
+        "publisher_name": "My Modern Met",
+        "publisher_url": "https://mymodernmet.com",
+        "published_at": "2026-11-23T18:57:08+00:00",
+        "indicative_usd": 190000000
+      }
+    ]
+  },
+  {
     "group_id": "82e03558aec1a8e8",
     "title": "$1.31 Billion Achieved In Our Biggest Fine Art Sales Week Ever - Sotheby's",
     "category_hint": "other",
@@ -3156,6 +3282,90 @@
         "publisher_url": "https://www.sothebys.com",
         "published_at": "2026-11-20T23:31:28+00:00",
         "indicative_usd": 1310000000
+      }
+    ]
+  },
+  {
+    "group_id": "d548cc3c53516982",
+    "title": "Ferrari's bespoke Luce EV one-off fetches $40 million at charity auction - ET Auto",
+    "category_hint": "cars",
+    "articles": 2,
+    "publishers": 1,
+    "indicative_usd_values": [
+      40000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-08-18T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "66aaba7b7f0a359e",
+      "5d8d883a09073bf8"
+    ],
+    "links": [
+      {
+        "candidate_id": "66aaba7b7f0a359e",
+        "title": "Ferrari's bespoke Luce EV one-off fetches $40 million at charity auction - ET Auto",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlBvOUdiSVdQUHRTd2R5MEQyMndvQ2xVanM1NTM2alJ5ZHpocEZQeXNrbG5YblZsRXN0V042TWQ3RHlMMkxnT0lxd0w5QzVrU05YWWtFY1ZyQTVRYXl1dlZsNDRwbmZ2b0M4YWV3amVPcU5LM3ExTGt2S19vWGF4bk9mSVpXdUZlb3lNbDZmZExKU1VGRENZUGdpWEpFVlJ3Rk9DbGhyZ3lSc0dKYm9oRWNJWTNWU1U2c05EdHY4THE1Y3llNUE5MkJuMnRjMm1pRUtSbU0wS2xSN2Nkd0HSAeIBQVVfeXFMTUNDY1VNT2k5MnJRSF91XzF2Q1VJWUU4UUF2WGpvUEVWWVpJNG5vUXd2R2tEenBVd19oS1haTEdObmw5b3BNZ0FzSGFXUmJqUUZ0YzNsazhuWXl0V3JVWndkNTZXd3NMa0RqcG40a0hJdWhybWJXY2NYQXBxcmp6bDgxWDA0VzhBdFpLdjJXeE9iVnl4WWJBdHRzQVdZT05MS0VUTUR0UENpYmJwcUEzc1BWbU9pei1GdG9HaWxXb0FtaUJKRl9EVFpZTFU2ajNFcmpqaUVpLUQ0b0tlQTdtY3N0UQ?oc=5",
+        "publisher_name": "ET Auto",
+        "publisher_url": "https://auto.economictimes.indiatimes.com",
+        "published_at": "2026-08-18T07:00:00+00:00",
+        "indicative_usd": 40000000
+      },
+      {
+        "candidate_id": "5d8d883a09073bf8",
+        "title": "Ferrari's bespoke Luce EV one-off fetches $40 million at charity auction - ET Auto",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlBvOUdiSVdQUHRTd2R5MEQyMndvQ2xVanM1NTM2alJ5ZHpocEZQeXNrbG5YblZsRXN0V042TWQ3RHlMMkxnT0lxd0w5QzVrU05YWWtFY1ZyQTVRYXl1dlZsNDRwbmZ2b0M4YWV3amVPcU5LM3ExTGt2S19vWGF4bk9mSVpXdUZlb3lNbDZmZExKU1VGRENZUGdpWEpFVlJ3Rk9DbGhyZ3lSc0dKYm9oRWNJWTNWU1U2c05EdHY4THE1Y3llNUE5MkJuMnRjMm1pRUtSbU0wS2xSN2Nkd0HSAeMBQVVfeXFMUE1WWS0xQ2F0ckJvaFV1ZEtiRkhvUjdNOTA5bGQwN3ZwbV9uYzQ0R01rWURHMXBJQUhFejVZNXI1TzNhaERXckxYLTRZcnE4eUNLQjJoUm1Cd2l3NXFLLWNZNDRJUk9HLVVubXNDeWt3RnlnXzgxamxkSExHUnVld0tVY01hSDZNVmgxTE81ems5RWtQZ3ZBZDZ3bGZkT3pSMm56Zkc1anJCMUlMbUY5bWw1TWJxd0M3b294ZEJhV2NlMGVQMjhLWGJycE9kUFhDdGt2bDBxN0E4YXJRXzJVU0tYUG8?oc=5",
+        "publisher_name": "ET Auto",
+        "publisher_url": "https://auto.economictimes.indiatimes.com",
+        "published_at": "2026-08-17T07:00:00+00:00",
+        "indicative_usd": 40000000
+      }
+    ]
+  },
+  {
+    "group_id": "d69504d6be5a0c57",
+    "title": "Old Masters achieves highest total for a sale in New York in more than a decade, Totaling $54,130,050 - Christie's Press",
+    "category_hint": "other",
+    "articles": 2,
+    "publishers": 1,
+    "indicative_usd_values": [
+      54130050
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-02-04T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "d0c622f7848becf9",
+      "5aceac698f80ce25"
+    ],
+    "links": [
+      {
+        "candidate_id": "d0c622f7848becf9",
+        "title": "Old Masters achieves highest total for a sale in New York in more than a decade, Totaling $54,130,050 - Christie's Press",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYmYtOUJwamV3ekwyUEZQLVcxOFJoeVlTYlpRalhoeEJYZzRwQUNveWVPdEo1MEVSNW12TEYxam85WHMxODZCUzlkb3QtNXphdlpkT0dBb3hPTmVQU1dlcEt2VWh0cHpkOU1UbGVmdGdIYU5MUTRGai1EQzBSQnlvbnBXdTVWVVUtRXZMNklMeUpYY21la0tfLVZKdWRqcGFVZEpiUjRFeWt6ajZ3am5GcjlkRFdqSXNMMVNMZTNFRFhPdk90?oc=5",
+        "publisher_name": "Christie's Press",
+        "publisher_url": "https://press.christies.com",
+        "published_at": "2026-02-04T08:00:00+00:00",
+        "indicative_usd": 54130050
+      },
+      {
+        "candidate_id": "5aceac698f80ce25",
+        "title": "Old Masters achieves highest total for a sale in New York in more than a decade, Totaling $54,130,050 - Christie's Press",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdUFNVEVaNjlGUEpfZlpNcUpINjZhXzJNYmNJcGN6ckxWNW9CR2o3T01nb1BqcHdnRHZqMjVSV0Z1Y2NZR1BlYzNRZktuN3FpTHlyc0lkQnlpQlI2NDlNaTYtOHFqYkZXejh6X21GYXVzVzh4NlpPS3BwaDh3R0pLMlYxMU82Q2pYd3ZpenFWRWZUR3A3ZE91WTdUQ1FFUndtUl9OM3RaQm4tQkZlejZzTnFwcmJEVmw3UjB2UVlhenF2dW8?oc=5",
+        "publisher_name": "Christie's Press",
+        "publisher_url": "https://press.christies.com",
+        "published_at": "2026-02-04T08:00:00+00:00",
+        "indicative_usd": 54130050
       }
     ]
   },
@@ -3244,16 +3454,16 @@
     ]
   },
   {
-    "group_id": "f359d4a5a5e343cd",
-    "title": "One of Van Gogh’s Final Paintings Just Sold for a Record-Breaking $190 Million - My Modern Met",
+    "group_id": "61f2eeb3438d2f6f",
+    "title": "Bennett College sells Harlem Renaissance painting for over $14 million at auction - WXII",
     "category_hint": "art",
     "articles": 1,
     "publishers": 1,
     "indicative_usd_values": [
-      190000000
+      14000000
     ],
     "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-11-23T18:58:55+00:00",
+    "last_publication_at": "2026-11-23T23:48:00+00:00",
     "priority": 1,
     "checks_needed": [
       "Не найден проверенный результат конкретного лота из официального источника"
@@ -3261,17 +3471,17 @@
     "decision": "needs_official_primary_source",
     "is_verified_sale": false,
     "candidate_ids": [
-      "47f30b65f1e4b5ce"
+      "cd9d68615f39bb4e"
     ],
     "links": [
       {
-        "candidate_id": "47f30b65f1e4b5ce",
-        "title": "One of Van Gogh’s Final Paintings Just Sold for a Record-Breaking $190 Million - My Modern Met",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzRydHBVMGFOY2xCeDdibFRFbmJSdHlPOXFROGtCZTdvNXVINzloT0xFM3M0ZlhhckZ3LWduX1hQYlpGNlFianNqaHZuZUZCZlhoZG9hY2lkWEpxeDRXanBiNVg0c2N2RTJSZUZyYXVhbXNILXhVZXhZNzlxZ3JwOXhMTE50NTNSZnBJNEZiLVJsV25RRXUzc3JlZFJoOGVmMFRjYS14bmpLb2V1VDVpS3dSTWZ2Zw?oc=5",
-        "publisher_name": "My Modern Met",
-        "publisher_url": "https://mymodernmet.com",
-        "published_at": "2026-11-23T18:58:55+00:00",
-        "indicative_usd": 190000000
+        "candidate_id": "cd9d68615f39bb4e",
+        "title": "Bennett College sells Harlem Renaissance painting for over $14 million at auction - WXII",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMzJuYlNjaEx2dXFkQjh2SWtLNmhlNHZkYzJMaVo3c0VlLVY4TEROZFF4NElWbnJ5RGRkT05rYTRTelJTLWVfc0NvNjR4aEpWZTNPX3lxcXljNGp0UlpNdjZMZlZneUo3Wkd2TllaWnVpY1dwazF0T1Jaek9RVG5HY0JzcXJCUDVrWTA2UTlLQWtLdDdWVDJtWXZsV3BrZTIyUG9CUEdKdXBfbnczQWE4SUhFektFYk5V?oc=5",
+        "publisher_name": "WXII",
+        "publisher_url": "https://www.wxii12.com",
+        "published_at": "2026-11-23T23:48:00+00:00",
+        "indicative_usd": 14000000
       }
     ]
   },
@@ -3528,38 +3738,6 @@
         "publisher_url": "https://www.smithsonianmag.com",
         "published_at": "2026-11-20T21:23:48+00:00",
         "indicative_usd": 12700000
-      }
-    ]
-  },
-  {
-    "group_id": "13e938a0f2697134",
-    "title": "Yoshitomo Nara Painting Fetches $15.9 M., Outselling Koons and Richter in New York - ARTnews.com",
-    "category_hint": "art",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      15900000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-11-20T18:54:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "a367c7efbc1ba84a"
-    ],
-    "links": [
-      {
-        "candidate_id": "a367c7efbc1ba84a",
-        "title": "Yoshitomo Nara Painting Fetches $15.9 M., Outselling Koons and Richter in New York - ARTnews.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXRMbVJLeVlnNEFQUWJ5cFl1N3R2ckR3WjN3ZTRKaVRWbUNTRklpMnJ0SXd0bnNaVF9RMVVEZFNzZXZ2WEJzR3RFLXpQelF3ektvN1BJRWdsSWwxZ0U2dXppMl9HVXBkSS1oUVoxT0pQRk1LT2NIbzZQZUlyVFZRX1R3dXlMU1JSZWNSOWxKUm0xaHE2Zmx6NXNMZWU?oc=5",
-        "publisher_name": "ARTnews.com",
-        "publisher_url": "https://www.artnews.com",
-        "published_at": "2026-11-20T18:54:00+00:00",
-        "indicative_usd": 15900000
       }
     ]
   },
@@ -6065,6 +6243,38 @@
     ]
   },
   {
+    "group_id": "45467988b5a7fdaa",
+    "title": "Michael Jordan ‘Last Dance’ NBA Finals jersey sells for record $12.26 million - The New York Times",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      12260000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-09-29T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "663d48b16a9d66aa"
+    ],
+    "links": [
+      {
+        "candidate_id": "663d48b16a9d66aa",
+        "title": "Michael Jordan ‘Last Dance’ NBA Finals jersey sells for record $12.26 million - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZG4wOGQ5bVVYc2RZd19jQnQwaXlQOUxCak1PczdJMHZkbWpUNjFpOEE3VFhHVEk4OEF4ZUZsNDdqQk9TN2lqVDhiU1NRR0JGbjlpVkpYS0RMbXNuZ0IwSE1hd0dNcmJQUVcyNERPVWE0ZkJEeU9Ya001VWcwT0p3b1hDSkdKbWx4aGhwajc0dEJ5YkZldkxKWEF0bXdBb0hrSzBhd2NrLXRJTW9fV3B6S3pVNTdwSTY4OTlNRkM4MV9vYVJjaFE?oc=5",
+        "publisher_name": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "published_at": "2026-09-29T07:00:00+00:00",
+        "indicative_usd": 12260000
+      }
+    ]
+  },
+  {
     "group_id": "7622cf5623a2cf0f",
     "title": "The Wildest Rolexes of the Year Just Sold for Almost $50 Million - GQ",
     "category_hint": "watch",
@@ -6770,38 +6980,6 @@
         "publisher_url": "",
         "published_at": "2026-08-17T07:00:00+00:00",
         "indicative_usd": 42900000
-      }
-    ]
-  },
-  {
-    "group_id": "8ef15b7b7c4a12c8",
-    "title": "Ferrari's bespoke Luce EV one-off fetches $40 million at charity auction - ET Auto",
-    "category_hint": "cars",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      40000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-08-17T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "5d8d883a09073bf8"
-    ],
-    "links": [
-      {
-        "candidate_id": "5d8d883a09073bf8",
-        "title": "Ferrari's bespoke Luce EV one-off fetches $40 million at charity auction - ET Auto",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlBvOUdiSVdQUHRTd2R5MEQyMndvQ2xVanM1NTM2alJ5ZHpocEZQeXNrbG5YblZsRXN0V042TWQ3RHlMMkxnT0lxd0w5QzVrU05YWWtFY1ZyQTVRYXl1dlZsNDRwbmZ2b0M4YWV3amVPcU5LM3ExTGt2S19vWGF4bk9mSVpXdUZlb3lNbDZmZExKU1VGRENZUGdpWEpFVlJ3Rk9DbGhyZ3lSc0dKYm9oRWNJWTNWU1U2c05EdHY4THE1Y3llNUE5MkJuMnRjMm1pRUtSbU0wS2xSN2Nkd0HSAeMBQVVfeXFMUE1WWS0xQ2F0ckJvaFV1ZEtiRkhvUjdNOTA5bGQwN3ZwbV9uYzQ0R01rWURHMXBJQUhFejVZNXI1TzNhaERXckxYLTRZcnE4eUNLQjJoUm1Cd2l3NXFLLWNZNDRJUk9HLVVubXNDeWt3RnlnXzgxamxkSExHUnVld0tVY01hSDZNVmgxTE81ems5RWtQZ3ZBZDZ3bGZkT3pSMm56Zkc1anJCMUlMbUY5bWw1TWJxd0M3b294ZEJhV2NlMGVQMjhLWGJycE9kUFhDdGt2bDBxN0E4YXJRXzJVU0tYUG8?oc=5",
-        "publisher_name": "ET Auto",
-        "publisher_url": "https://auto.economictimes.indiatimes.com",
-        "published_at": "2026-08-17T07:00:00+00:00",
-        "indicative_usd": 40000000
       }
     ]
   },
@@ -8800,38 +8978,6 @@
     ]
   },
   {
-    "group_id": "9370ec36075797ec",
-    "title": "Old Masters achieves highest total for a sale in New York in more than a decade, Totaling $54,130,050 - Christie's Press",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      54130050
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-02-04T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "d0c622f7848becf9"
-    ],
-    "links": [
-      {
-        "candidate_id": "d0c622f7848becf9",
-        "title": "Old Masters achieves highest total for a sale in New York in more than a decade, Totaling $54,130,050 - Christie's Press",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYmYtOUJwamV3ekwyUEZQLVcxOFJoeVlTYlpRalhoeEJYZzRwQUNveWVPdEo1MEVSNW12TEYxam85WHMxODZCUzlkb3QtNXphdlpkT0dBb3hPTmVQU1dlcEt2VWh0cHpkOU1UbGVmdGdIYU5MUTRGai1EQzBSQnlvbnBXdTVWVVUtRXZMNklMeUpYY21la0tfLVZKdWRqcGFVZEpiUjRFeWt6ajZ3am5GcjlkRFdqSXNMMVNMZTNFRFhPdk90?oc=5",
-        "publisher_name": "Christie's Press",
-        "publisher_url": "https://press.christies.com",
-        "published_at": "2026-02-04T08:00:00+00:00",
-        "indicative_usd": 54130050
-      }
-    ]
-  },
-  {
     "group_id": "87956cc54c5305d3",
     "title": "Elizabeth Taylor’s Taj Mahal Diamond Last Sold For $8.8 Million—Recently Worn By Margot Robbie - Forbes",
     "category_hint": "jewelry",
@@ -9792,6 +9938,38 @@
         "publisher_url": "https://www.gq.com",
         "published_at": "2025-10-20T07:00:00+00:00",
         "indicative_usd": 6200000
+      }
+    ]
+  },
+  {
+    "group_id": "fea3436d8fae5cbd",
+    "title": "Anonymous Artist XCOPY’s Digital Work ‘Last Selfie’ Sells for Record-Breaking $3.27 M. to Private Collector - ARTnews.com",
+    "category_hint": "art",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      3270000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-10-09T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "b11fd08d9c1bb0d1"
+    ],
+    "links": [
+      {
+        "candidate_id": "b11fd08d9c1bb0d1",
+        "title": "Anonymous Artist XCOPY’s Digital Work ‘Last Selfie’ Sells for Record-Breaking $3.27 M. to Private Collector - ARTnews.com",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcV9uc1FaWGppdGx6UVZlZEdTYUlnS2o0TlFhNmE5aVlicGJmLVRWWHVxX0xyMjhISmhLYjBFNW9lQzVpTWRBYWVQdjZQSFc0Z1BnUEU5MTJKX3dIWUtqdVFYTzlVWXpzV1ItWTIyMjhhNEVIcF9rVkN6b1hrajE0dGkzYk5hNDVlV0N1d2lZLTNrMmdsbnBKeG52aVpSMFd5M3BBNFh0VTdpRHBnbnlqZ1E0STdydnVWTTA5bTU4dHNxY0NMUmlQcTB5Z0hLS2hZX04xejJRTEtHdjhndlJ1aFlWbzdmYnM?oc=5",
+        "publisher_name": "ARTnews.com",
+        "publisher_url": "https://www.artnews.com",
+        "published_at": "2025-10-09T07:00:00+00:00",
+        "indicative_usd": 3270000
       }
     ]
   },
@@ -12210,392 +12388,6 @@
         "publisher_url": "https://www.sothebys.com",
         "published_at": "2022-04-27T07:00:00+00:00",
         "indicative_usd": 57500000
-      }
-    ]
-  },
-  {
-    "group_id": "a361ef1e655b077f",
-    "title": "Rare Copy of First Marvel Comic Sells for $2.4 Million (Published 2022) - The New York Times",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      2400000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-03-21T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "cc5ab0214cb66ec5"
-    ],
-    "links": [
-      {
-        "candidate_id": "cc5ab0214cb66ec5",
-        "title": "Rare Copy of First Marvel Comic Sells for $2.4 Million (Published 2022) - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEcllqYnFuNFlSWlVwTFV6eTRBajRzMFk4OURna2hGcTBMSjVnUXFXVVQzRzZqRVk3UDh5UlZJODJ5YWIwV1hHVTdFMlNYWXkzNVJBVVVEbm9YYy1kWjBldjF3VERUSVBrVWx2Rzlta3V1SFlh?oc=5",
-        "publisher_name": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "published_at": "2022-03-21T07:00:00+00:00",
-        "indicative_usd": 2400000
-      }
-    ]
-  },
-  {
-    "group_id": "596c4e0877f1c211",
-    "title": "A Kobe Bryant Card Sold for a Record $2 Million in a Private Sale - Robb Report",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      2000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-02-24T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "857c316b84a59da1"
-    ],
-    "links": [
-      {
-        "candidate_id": "857c316b84a59da1",
-        "title": "A Kobe Bryant Card Sold for a Record $2 Million in a Private Sale - Robb Report",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlRvTTRTbU5sdDhkVHFFV055WkVYdlBPV1J5ZERSaHRZLThGV1RUN0lveWZnRXRNSGE4SGR1ZC03YmU4anpFSDlkNW1JT0FXRlBEdnp1ODMwdnc4SHVDdUpBRjNNNS1FR01Eai1tZ0V0Y1lJWkYyOE5veC1TLWtBU09NOXdwMnhvRjhkQW9QWjJrNmtWT3B0Sld3TVhpeGNV?oc=5",
-        "publisher_name": "Robb Report",
-        "publisher_url": "https://robbreport.com",
-        "published_at": "2022-02-24T08:00:00+00:00",
-        "indicative_usd": 2000000
-      }
-    ]
-  },
-  {
-    "group_id": "f737ef4bac7eb38d",
-    "title": "A page of Spider-Man comic book history just sold for $3 million - CNN",
-    "category_hint": "books",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      3000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-01-14T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "a9b67186eb3fe80a"
-    ],
-    "links": [
-      {
-        "candidate_id": "a9b67186eb3fe80a",
-        "title": "A page of Spider-Man comic book history just sold for $3 million - CNN",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWEtuUS0xTUFtOTVwcXY2S0c0cjVxNEFLOFpaU0JKdTFTS0paRkxKSC16VkNnYjVTQUMyWWR5U3pnRGZQZkRYTm1TNG92cHdRUWFEZzFaSTg1Z2Ffb0FEYWNlbllXVHVVNVhIakJPdy10NTJEWjBkUVQ3QVVrbi0wckgtLTRXb2pISGFCcFNxdw?oc=5",
-        "publisher_name": "CNN",
-        "publisher_url": "https://www.cnn.com",
-        "published_at": "2022-01-14T08:00:00+00:00",
-        "indicative_usd": 3000000
-      }
-    ]
-  },
-  {
-    "group_id": "432d2f925a71ec42",
-    "title": "A Spider-Man Panel From the 1980s Just Fetched a Record $3.4 Million at Auction as Comic Prices Continue to Skyrocket - Artnet News",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      3400000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-01-14T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "3e6d6653ddbbabd5"
-    ],
-    "links": [
-      {
-        "candidate_id": "3e6d6653ddbbabd5",
-        "title": "A Spider-Man Panel From the 1980s Just Fetched a Record $3.4 Million at Auction as Comic Prices Continue to Skyrocket - Artnet News",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vQVRqbGoyaDZzVDJfblR3WUNjeDRwN2pVX3BWZkJmZkZnUjRXMmhmUVdrMkpTYmFkZ0MxN1ZkalZiVDBoY0I0d3hacHEyWW5pNFNaMGU4OWZKdnJXYVlTdC1QRWZGUm0wYjM5WkRBMEJDMlRmYklyZkc1bXXSAYQBQVVfeXFMUFZqRmxlbTlVWk95NTBHVTlQaHpZdlBFeGJUaDZfMHdPLWZyODNhc091LWtveVptNW1PS3ljcnRBaHcyVy1GOTBsSDFvem1hQVJfTlpTMDhJZmFiU1FRbEpJZFJtdXp1bmc0Z0l2ME1PVTBRU1hYdGpGcWRhWEFaQmJTMFhu?oc=5",
-        "publisher_name": "Artnet News",
-        "publisher_url": "https://news.artnet.com",
-        "published_at": "2022-01-14T08:00:00+00:00",
-        "indicative_usd": 3400000
-      }
-    ]
-  },
-  {
-    "group_id": "630d3f6685208295",
-    "title": "Spider-Man's Black Costume Origin Sells for $3.36 Million at Heritage Auctions to Shatter Comic... - Heritage Auctions",
-    "category_hint": "books",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      3360000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2022-01-13T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "cd25640588720ba7"
-    ],
-    "links": [
-      {
-        "candidate_id": "cd25640588720ba7",
-        "title": "Spider-Man's Black Costume Origin Sells for $3.36 Million at Heritage Auctions to Shatter Comic... - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNelQzSTl1Zm1zeXdEcndESHFCbmtwWDA4Mll4RS1BbzN3ZVQ5TGlaMFB6c1pLYW1kZGlUc0c3NU9hMkFuQ3JlUjc3elRVVmVRcEtWajFzSkFSY01UcnZ2QUJBUFpmUGl6SUJDMHQzbWZLQmU0YlZfd3A0Y3g5VjdPZHhRNmhvYmxPM01vR2hyNzdQMEpHOWR2RXcyM1ZHcHlMTWFQRnhpd3FPUVg5XzNCRzZWV3FvOHZWMUdBdkxtZnFINnVwQUhvLWNnNnBRT1ozbm9EeEd0N204SDdxUVpnZGtWUFNMUGhNZ0ZYVXBzS21uY3R5b0N4MVgxQkJQaThDRUUwV1FqWnJNYWpvWEVEakFNNm0?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://comics.ha.com",
-        "published_at": "2022-01-13T08:00:00+00:00",
-        "indicative_usd": 3360000
-      }
-    ]
-  },
-  {
-    "group_id": "17bed33e02523385",
-    "title": "Rare Superman #1 comic that cost 10 cents in 1939 has sold for $2.6 million - Business Insider",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      2600000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-12-18T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "565a3b48144c156c"
-    ],
-    "links": [
-      {
-        "candidate_id": "565a3b48144c156c",
-        "title": "Rare Superman #1 comic that cost 10 cents in 1939 has sold for $2.6 million - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSTc5RjFmajBjR05YeG1QQnVBMUNtN2FqZThyMXI5cXZka0lnVW1WaHBGbEk5ZXQxQXFCeU4wSjVqdUVwT1ZpeDVzTzRQT3RWQ3BLM1lJeXNrVVI3QmxaQml3VGxrdGxmRGgwaWVxVWxiU0E4Nmh0QkZPeFJac19MQnFrZzdEMk1JWVFCOVE1eU54Vm5LOG1NMXp2V2pNNWY2?oc=5",
-        "publisher_name": "Business Insider",
-        "publisher_url": "https://www.businessinsider.com",
-        "published_at": "2021-12-18T08:00:00+00:00",
-        "indicative_usd": 2600000
-      }
-    ]
-  },
-  {
-    "group_id": "fa9126e8b6b26e7d",
-    "title": "‘Superman’ Comic Originally Sold for a Dime Nets $2.6 Million at Auction - Newsweek",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      2600000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-12-17T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "b8454b7d9fdf1ff5"
-    ],
-    "links": [
-      {
-        "candidate_id": "b8454b7d9fdf1ff5",
-        "title": "‘Superman’ Comic Originally Sold for a Dime Nets $2.6 Million at Auction - Newsweek",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZzlWUWZrdnFzV0ZON00zbVp5OTRnYkZYWUs0eXl6ZXhSNURBcTdlQ3NCWlFqNXJ4SjlvWkE0T3Q2X1FqZmY0Qi1JSFNlSmVDWVhtMWgxMUpRMldiUmVaX3dxNG84NDhvRWVhdU42UEJXTTNlbDhnaWpWUHMyWXlFQUNOMkNyNzY5Qml0dnhSTExOX0FieHl3?oc=5",
-        "publisher_name": "Newsweek",
-        "publisher_url": "https://www.newsweek.com",
-        "published_at": "2021-12-17T08:00:00+00:00",
-        "indicative_usd": 2600000
-      }
-    ]
-  },
-  {
-    "group_id": "b5143be6c1c8165e",
-    "title": "Darwin Family Microscope Achieves $791,816 at Auction - Fine Books Magazine",
-    "category_hint": "books",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      791816
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-12-16T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "75f0056da680f352"
-    ],
-    "links": [
-      {
-        "candidate_id": "75f0056da680f352",
-        "title": "Darwin Family Microscope Achieves $791,816 at Auction - Fine Books Magazine",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdE9VRFR6dGMyR2VXdHNFb0tUSEs2bHBNdW02UWxFdWJTMGh0ZkU5MGZSaktsRHVMNFZ0TXc3ckM0eDlWU3pvcG1IQzBGb2NnaXA1V2Z3Sm1QQnBEOTdZWGs0YmhiUmhYYjBiS1dmS3NnZVl3QkxPUnZKV1VLblZvOG42WElOaHVGMDR5UktKMjlRT2ZJT0tWZWY0ajNiNVk?oc=5",
-        "publisher_name": "Fine Books Magazine",
-        "publisher_url": "https://www.finebooksmagazine.com",
-        "published_at": "2021-12-16T08:00:00+00:00",
-        "indicative_usd": 791816
-      }
-    ]
-  },
-  {
-    "group_id": "34edd6e1f1efbfd4",
-    "title": "'Harry Potter and the Philosopher's Stone' First Edition Sells for $471,000 to Set Modern-Literature World Record - Heritage Auctions",
-    "category_hint": "books",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      471000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-12-09T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "1d44c7601aa0f50e"
-    ],
-    "links": [
-      {
-        "candidate_id": "1d44c7601aa0f50e",
-        "title": "'Harry Potter and the Philosopher's Stone' First Edition Sells for $471,000 to Set Modern-Literature World Record - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQdTJpT0t3SWtyazNBbnJBOTdXMWo2azJhSmU0by1mOGxPZEw5T01DUjJ0OElZSHBsMWpuYy16Z1YwdjBMUnltV3hSbkNKSDhJdk0xX0R5RlpqSTU1VFU5UTZiYlhmU0hiT3d4RGJweTFtSk93WF9NcUY4b05PUERtVDRyWVdrSEt5Z2toYVpKVlpzQWtqVkZINWxBZXRRMWtZTDNvR0lCeTJNcXdBcG9zVGpPMHpiLUtZbkxHOGhXbmNiU2UtbHlvUmQ5cnFEOXNqSnd5bWF4SG1PX1FEWnAyOGc4aXZfTEhLeHpFVndFenROM2FhZ29nbnJCd3R5Z3JSNEc2TUxJa3luNVNUNGllM1pxR21kd01mUkl2YVBsdmNIQQ?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://historical.ha.com",
-        "published_at": "2021-12-09T08:00:00+00:00",
-        "indicative_usd": 471000
-      }
-    ]
-  },
-  {
-    "group_id": "9243b3634d8940bb",
-    "title": "Historic Macklowe Auction at Sotheby’s Achieves $676.1 Million - Galerie Magazine",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      676100000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-11-16T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "c51e5b7446877a47"
-    ],
-    "links": [
-      {
-        "candidate_id": "c51e5b7446877a47",
-        "title": "Historic Macklowe Auction at Sotheby’s Achieves $676.1 Million - Galerie Magazine",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVYUQ5WFI0VUtrZS01cG5kOXJmMUNNVlVrVENrTVFkVG9HYThpejkxbmRfU3plUDdsaUFjVXlabVlzbjZBUzJSdzg1dFZvdS1hTWNLNFk5YVg1bm0wYnFTMk5fV0FXSEJtNHNtbUZMMlRwdw?oc=5",
-        "publisher_name": "Galerie Magazine",
-        "publisher_url": "",
-        "published_at": "2021-11-16T08:00:00+00:00",
-        "indicative_usd": 676100000
-      }
-    ]
-  },
-  {
-    "group_id": "5b682d994eb032d3",
-    "title": "Famous Hawaii Five-O 1913 Liberty Head Nickel Sold for Over $4 Million by Stack's Bowers Galleries - Stack's Bowers",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      4000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-11-08T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "8df48b151a117ece"
-    ],
-    "links": [
-      {
-        "candidate_id": "8df48b151a117ece",
-        "title": "Famous Hawaii Five-O 1913 Liberty Head Nickel Sold for Over $4 Million by Stack's Bowers Galleries - Stack's Bowers",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXhFM2s0anI2S1lkazM1bGtSRlU4eUNyMHE2UWhiMFVhcWFXZGY1d28tQ1hHUXN4d19xem10QWd3Ujh6UTJISUFOQ2FFSzlsRnNLTnZXWlZLaVZibFY4Y0J2TV9TaEc3a1RXU0tHLVhYUXliZ21Wd2NmWUc5ZGR3QUtEYkY3ZkZyYUtsY19YSnRWclBBR3Voc2NOV1ppbHVjOG1RVjhPeFV3MXBBX01r?oc=5",
-        "publisher_name": "Stack's Bowers",
-        "publisher_url": "https://stacksbowers.com",
-        "published_at": "2021-11-08T08:00:00+00:00",
-        "indicative_usd": 4000000
-      }
-    ]
-  },
-  {
-    "group_id": "d0a581708ab6dbc7",
-    "title": "Al Capone memorabilia sells for $3m at auction - BBC",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      3000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2021-10-12T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "19ac8a2648a5945f"
-    ],
-    "links": [
-      {
-        "candidate_id": "19ac8a2648a5945f",
-        "title": "Al Capone memorabilia sells for $3m at auction - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiRmYyak9DRHVwblVUeEtOY1VvNHlpZnhWYWpiODJPUkhCVWRHN04za1E4cTQza2hZZGVjQmRuc3hCaWI2eEU0NGhTUTJMRFc4Um51N0RZQ3lQZUlLMVE?oc=5",
-        "publisher_name": "BBC",
-        "publisher_url": "",
-        "published_at": "2021-10-12T07:00:00+00:00",
-        "indicative_usd": 3000000
       }
     ]
   },
