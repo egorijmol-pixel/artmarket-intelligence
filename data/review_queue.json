@@ -1,10 +1,10 @@
 [
   {
-    "group_id": "e848b6d2fb864739",
+    "group_id": "c8566bec390e536f",
     "title": "Superman Comic Sells for Record $9.12 Million - NewsForKids.net",
     "category_hint": "other",
-    "articles": 22,
-    "publishers": 22,
+    "articles": 23,
+    "publishers": 23,
     "indicative_usd_values": [
       9000000,
       9100000,
@@ -33,6 +33,7 @@
       "8e153021f14c2710",
       "88d6ecda622e2d00",
       "78e85c20a671c6ec",
+      "78121a36e1575145",
       "73b0f2961ea0d6ad",
       "4d019a2b3485faa6",
       "19ebc32707c24945",
@@ -170,6 +171,15 @@
         "indicative_usd": 9120000
       },
       {
+        "candidate_id": "78121a36e1575145",
+        "title": "Up, up and away: Copy of Superman No. 1 comic sells for record $9.12 million - WPXI",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSjM5LV8xLUE2LURVVzRwQ2dpLVFEclh0RWY0M3VTT3RjU0ZlLWhmYXFqSTNDVEpvOHZ5MjlsOTNseHNQZVVkQVdnZ0ZlYzI4cTVJZ3I2U0hRT1FhWUh6WFRHUmZEV1lkcjVVMnhpLWQ2Qzh3T1F4SUdiSHNUeHBhdHNBb3lBZVVHOThDM29ObUFBeFJyMXFsOTFhRjFWRlVMcFI0SUMxY3k1REh4a2JfTnVMcjk1bGR1VXZhYWY4bGjSAdQBQVVfeXFMUGNTSzJmZW5uNkNZR0JVQVJ1QlQ4T3NLWG9YNWFIZU8xV0RIQnJrUGVUM0VzN2Jya2VhTnNZMENRNjR6Tk5HQ1JDa0F6eG5QNkFZdHluTWNTUjNTTU41OURMNjJJTGd2Q09vbi02VWJpWFlNN2lHMUZoc0JHS0RacmRDMFRvZjEtRzRpeVVkcDNFcnpkTlhNdDVUN01meGt0R09vZ3dvYmg0XzJ4Z2IxVXhnOWsybWhOWEhsRUZuMWdYdlpyWmVpY0ZSRFpnXzRxLXlGbFM?oc=5",
+        "publisher_name": "WPXI",
+        "publisher_url": "https://www.wpxi.com",
+        "published_at": "2025-11-21T08:00:00+00:00",
+        "indicative_usd": 9120000
+      },
+      {
         "candidate_id": "73b0f2961ea0d6ad",
         "title": "'Superman No. 1' - The most valuable comic ever sells for record $9 million - KFOX",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGloTzRyMmN3SmsyUDc3bFRLRTNzWEZHZTlTdlQtWkx6UlJKeFQzZlhBVm1xYnlhQl9TZ3N0V0RZNXB3ZHZGVHpVMWlVTTBFbjUtN2MxSGd4dks0TXkyYnBXOHhyUTUwT2tMdURoOXBuRGRsRU54aWNWQ2kwX0ZjM2ZIck9rNGF1d083RkF5SUlHUTJ4T1VObVpKejFuSG5Xbm5OYzIxOVJuRmM?oc=5",
@@ -211,15 +221,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV05LSS0xQWM2T1AtT2tLRkNTQi1WS2l2bENxd082QUdmYWM5TzZSV3JTWWlYMjY4OWhCdGZUT3gyWEpvUG5UdkdhV092VTJuc2o0aGlyc3BfVXAxZzItWlcySUlZUEM5WEhQREZoTGpNaUNCeFBCdXJCTzZaSkRLenI1NGU5QXUzVG5SaW9JRjlKSTllN3pBcUYtSm1OM0ZtVkJacGdERDJSbXJFOXFLaXJuT3p1RUhEdi03Vi1pb0U?oc=5",
         "publisher_name": "Intelligent Collector",
         "publisher_url": "https://intelligentcollector.com",
-        "published_at": "2025-11-20T08:00:00+00:00",
-        "indicative_usd": 9120000
-      },
-      {
-        "candidate_id": "22f471e60d6593e3",
-        "title": "Superman Comic Sets Auction Record, Selling for $9.12 Million - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0YnRrRC1RZUxPaVNFZlNqS3RlYkptVUd2Slg1Si1PQlIzRUlUSEFRZ25vMlFkcXVfdDdiVmp0ZFVfU3RidTI1MHdUck00YU9IVmFNVm5jdzNFN0xCa1JPODZNVlNUb0RkSEtpVU5SY2QyN2xLbUE?oc=5",
-        "publisher_name": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
         "published_at": "2025-11-20T08:00:00+00:00",
         "indicative_usd": 9120000
       }
@@ -1996,6 +1997,58 @@
     ]
   },
   {
+    "group_id": "07182f745edb6022",
+    "title": "Ferrari's bespoke Luce EV one-off fetches $40 million at charity auction - ET Auto",
+    "category_hint": "cars",
+    "articles": 3,
+    "publishers": 2,
+    "indicative_usd_values": [
+      40000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-08-18T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "66aaba7b7f0a359e",
+      "5d8d883a09073bf8",
+      "1ea65b489e1d348c"
+    ],
+    "links": [
+      {
+        "candidate_id": "66aaba7b7f0a359e",
+        "title": "Ferrari's bespoke Luce EV one-off fetches $40 million at charity auction - ET Auto",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlBvOUdiSVdQUHRTd2R5MEQyMndvQ2xVanM1NTM2alJ5ZHpocEZQeXNrbG5YblZsRXN0V042TWQ3RHlMMkxnT0lxd0w5QzVrU05YWWtFY1ZyQTVRYXl1dlZsNDRwbmZ2b0M4YWV3amVPcU5LM3ExTGt2S19vWGF4bk9mSVpXdUZlb3lNbDZmZExKU1VGRENZUGdpWEpFVlJ3Rk9DbGhyZ3lSc0dKYm9oRWNJWTNWU1U2c05EdHY4THE1Y3llNUE5MkJuMnRjMm1pRUtSbU0wS2xSN2Nkd0HSAeIBQVVfeXFMTUNDY1VNT2k5MnJRSF91XzF2Q1VJWUU4UUF2WGpvUEVWWVpJNG5vUXd2R2tEenBVd19oS1haTEdObmw5b3BNZ0FzSGFXUmJqUUZ0YzNsazhuWXl0V3JVWndkNTZXd3NMa0RqcG40a0hJdWhybWJXY2NYQXBxcmp6bDgxWDA0VzhBdFpLdjJXeE9iVnl4WWJBdHRzQVdZT05MS0VUTUR0UENpYmJwcUEzc1BWbU9pei1GdG9HaWxXb0FtaUJKRl9EVFpZTFU2ajNFcmpqaUVpLUQ0b0tlQTdtY3N0UQ?oc=5",
+        "publisher_name": "ET Auto",
+        "publisher_url": "https://auto.economictimes.indiatimes.com",
+        "published_at": "2026-08-18T07:00:00+00:00",
+        "indicative_usd": 40000000
+      },
+      {
+        "candidate_id": "5d8d883a09073bf8",
+        "title": "Ferrari's bespoke Luce EV one-off fetches $40 million at charity auction - ET Auto",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlBvOUdiSVdQUHRTd2R5MEQyMndvQ2xVanM1NTM2alJ5ZHpocEZQeXNrbG5YblZsRXN0V042TWQ3RHlMMkxnT0lxd0w5QzVrU05YWWtFY1ZyQTVRYXl1dlZsNDRwbmZ2b0M4YWV3amVPcU5LM3ExTGt2S19vWGF4bk9mSVpXdUZlb3lNbDZmZExKU1VGRENZUGdpWEpFVlJ3Rk9DbGhyZ3lSc0dKYm9oRWNJWTNWU1U2c05EdHY4THE1Y3llNUE5MkJuMnRjMm1pRUtSbU0wS2xSN2Nkd0HSAeMBQVVfeXFMUE1WWS0xQ2F0ckJvaFV1ZEtiRkhvUjdNOTA5bGQwN3ZwbV9uYzQ0R01rWURHMXBJQUhFejVZNXI1TzNhaERXckxYLTRZcnE4eUNLQjJoUm1Cd2l3NXFLLWNZNDRJUk9HLVVubXNDeWt3RnlnXzgxamxkSExHUnVld0tVY01hSDZNVmgxTE81ems5RWtQZ3ZBZDZ3bGZkT3pSMm56Zkc1anJCMUlMbUY5bWw1TWJxd0M3b294ZEJhV2NlMGVQMjhLWGJycE9kUFhDdGt2bDBxN0E4YXJRXzJVU0tYUG8?oc=5",
+        "publisher_name": "ET Auto",
+        "publisher_url": "https://auto.economictimes.indiatimes.com",
+        "published_at": "2026-08-17T07:00:00+00:00",
+        "indicative_usd": 40000000
+      },
+      {
+        "candidate_id": "1ea65b489e1d348c",
+        "title": "Ferrari EV sells for more than $40 million at charity auction - WBRC 6 News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNckVfMlJua0ZPanN6RzJFd0loSmZCN3VvSlI4SzFaSm0zTXQ3SzVqbXpZanpyajZKM1AwQ1JBTWs1WE50TGxwNW9uLU54b0dhMEJndGJqN1Z5dER1X3M1ZUlyNWRWSThPanQwNzBQaGZEam54Q0k3VmVoUGR5T1hwZTc4Y003eF9DT3JxWjJOb9IBowFBVV95cUxPZ1hJcDlEc2VCMGx2b1ZBdjFWRnVfOE5DeTBnQnYwQXF2MnF1Mm4xQ2k2OUJGZlhfWjRnLUtmbEtBTVRhaWI5NGZnZEdSMXZRa2RWb09FLWlQTXMyNG9UMzBhRkt2S1dDeVUyNTYxZFBEaXpoSk1KTklCc0FxeFZ0WnRRSndCODdTMUZOVXUxS0wxXy13U0R6M2I1OGhZalhxbjVn?oc=5",
+        "publisher_name": "WBRC 6 News",
+        "publisher_url": "https://www.wbrc.com",
+        "published_at": "2026-08-17T07:00:00+00:00",
+        "indicative_usd": 40000000
+      }
+    ]
+  },
+  {
     "group_id": "da08b20d222fb0b6",
     "title": "Ultra-rare signed Lionel Messi trading card sells for over $550K at auction - MARCA",
     "category_hint": "other",
@@ -2546,6 +2599,48 @@
     ]
   },
   {
+    "group_id": "ed0c85ad2436e8ea",
+    "title": "The Rolex Daytona “Four Seasons” Set Just Sold for US$49.5 Million - Prestige Online - Singapore",
+    "category_hint": "watch",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      49500000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-01T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "c455496726a66749",
+      "c5307f813df3f89a"
+    ],
+    "links": [
+      {
+        "candidate_id": "c455496726a66749",
+        "title": "The Rolex Daytona “Four Seasons” Set Just Sold for US$49.5 Million - Prestige Online - Singapore",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZXEzLTJZN2pxVl9JcDFmY1RZN010eWgzdzhBTWdISHk4U0w5M1hEWU5zTjRtZ2g2Z3VpWjZZQTZGTVVVb0kyTDF6N2tlYkRXN3hVODZNaFk4SXVLUmQ2RkN5Q2I3ODNiczJZOXc2d1RmTTUtSC1SWkVLS0M0Q2VRTUlMQXVLS3hGdUxoQU50akF3VnBmWkhzbU5VT0ZpTXQ3c1EtOV9QQk5OUdIBrwFBVV95cUxNWkhxODBzVHp0cm00Z3dqOWpkLTVJTHQtMW82WDdhU2xGMXJoLTE1dFpIcFloUl9uTkhURFo2WXR6TU82dnFGMjJtS2pObnVUVnJPZUtwYjcxVHViNTN6VnlDSlJiSlFaelFGRjE2SGJQdzB2bFRTUlc5T2tUdTB5VUZNUDhjSTVobzUza1B0Q2hZOEJjWG5tNmVfRXo0dTUzUmdOaHBkSmNNb0RxWlQ0?oc=5",
+        "publisher_name": "Prestige Online - Singapore",
+        "publisher_url": "https://www.prestigeonline.com",
+        "published_at": "2026-10-01T07:00:00+00:00",
+        "indicative_usd": 49500000
+      },
+      {
+        "candidate_id": "c5307f813df3f89a",
+        "title": "The Rolex Daytona “Four Seasons” Set Just Sold for US$49.5 Million - Lifestyle Asia Hong Kong",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTJnZkVGVk5QaHUtYy15SGt4ejlteE5rR1ZKR0pQSXVtQ3o3MjFEMVA0ekJKYlFPa3RqY0JObnNZZ2JhNS1xdVFUSFI5cDUxM2ZTbDRKb2JRZS1TQXNial9KaDRhWG5lUm5saTZSR3FnNGw4SS0ycHZGYmoybV9DaFdxMjZET19aREZPY0RnVk9MMDlDTVJjSXB4WWNjZWhTLWZfcm13?oc=5",
+        "publisher_name": "Lifestyle Asia Hong Kong",
+        "publisher_url": "https://www.lifestyleasia.com",
+        "published_at": "2026-09-29T07:00:00+00:00",
+        "indicative_usd": 49500000
+      }
+    ]
+  },
+  {
     "group_id": "7ccb398521adbef4",
     "title": "Rolex Four Seasons Auction: 4 One-of-a-Kind Daytonas Sold for $49.4 Million—See the Price of Each - Esquire India",
     "category_hint": "watch",
@@ -2627,6 +2722,48 @@
         "publisher_url": "https://www.nytimes.com",
         "published_at": "2026-09-15T07:00:00+00:00",
         "indicative_usd": 3000000
+      }
+    ]
+  },
+  {
+    "group_id": "ac21ad64b4e020c4",
+    "title": "Luce, the first fully electric car produced by Ferrari, sold for a record $40 million in a charity sale on Saturday, setting a record for the most expensive new vehicle sold at an auction. - Facebook",
+    "category_hint": "cars",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      40000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-08-18T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "645a41c8612c91ea",
+      "64dab67d3061b300"
+    ],
+    "links": [
+      {
+        "candidate_id": "645a41c8612c91ea",
+        "title": "Luce, the first fully electric car produced by Ferrari, sold for a record $40 million in a charity sale on Saturday, setting a record for the most expensive new vehicle sold at an auction. - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUm0zNXJBN1NMalFnSGplYkhHVno3WEU2UUQxczlZODNqbWhtX1lTN1d0WlkwdURsRVh2aXp4YzdlRUFVOEZUWnZzNWVEMElibGpmU2Qxc3JiMm9sVWdPdWFmd3pUSDVQX2JHREU4eGs0dDh1SU9LTmdoS09zVmFHdzBiTmo3S3ZaOHZjMjJfNC10dFFXYXlZVE9FS3BEQ0NSU3RQZUFvc2swM0FaZG9CUzZ2MjdabUF1aXZWdy1WWVBSOG1adkg4Y2hVZUNLeF9Fdkt3WUFJanFOUQ?oc=5",
+        "publisher_name": "Facebook",
+        "publisher_url": "https://www.facebook.com",
+        "published_at": "2026-08-18T07:00:00+00:00",
+        "indicative_usd": 40000000
+      },
+      {
+        "candidate_id": "64dab67d3061b300",
+        "title": "Ferrari's first ever electric car sold for record $40m at auction - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPcWk5RWNDTzZic25ROWplSHJYSV9EOG1KZHZ0WXQxT3d0SUNjT2h4ZjhJRkh0a2JJTk5FTkFrLVhkNENzbHdJMHRIUEVLaV90aF9VV2dDRno3UQ?oc=5",
+        "publisher_name": "BBC",
+        "publisher_url": "https://www.bbc.com",
+        "published_at": "2026-08-17T07:00:00+00:00",
+        "indicative_usd": 40000000
       }
     ]
   },
@@ -3268,6 +3405,58 @@
     ]
   },
   {
+    "group_id": "770027235054cf87",
+    "title": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
+    "category_hint": "other",
+    "articles": 3,
+    "publishers": 1,
+    "indicative_usd_values": [
+      234000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-12-17T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "b0de1d1169f18a7c",
+      "66ed95070fab5996",
+      "0802aa08e89953c5"
+    ],
+    "links": [
+      {
+        "candidate_id": "b0de1d1169f18a7c",
+        "title": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcERoQjcyaWJKNW10MEkzQ1JKemlRTFdCeUhYaFpuVy1sd1RXV0pMbl9lOWhwVVVRaEFGaTRDcUw5Q2VEQXA0dEU0VUJzSGRFVlFXcGxXV2Z4SHpjOFZYZ0ZaNVRGRDJCcGFfcEdCYUJIdlJOaVN4QWJUX24xVUc1dFpSM0JOMHF4ZlV1SDkySm40WDAxOW54T29KR3l6UllEMW9HbUp5SExqRWlYSE5HTHZiYWdGS3hRbUx0R2RsNE92cHlnYWZTMWpDekZ0b3VpTU50ZmpQSlc?oc=5",
+        "publisher_name": "Christie's Press",
+        "publisher_url": "https://press.christies.com",
+        "published_at": "2025-12-17T08:00:00+00:00",
+        "indicative_usd": 234000000
+      },
+      {
+        "candidate_id": "66ed95070fab5996",
+        "title": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTTRTVldrVkdiOEttdDVxVGdWUWVvUmxjelNDb2dEZnNRV3M1VFJtUXpSZnFSUFBIS0dTclVtS3AzNTdFZzZ0NnFGb3lxWlF0aDRURXpPdEpjVEI2MDRTblR3d0R2aEV6ZWpOcjdvT3BIWVVLV1JhRk5mQWp3aHVqNnlSLVNic0Fac3JwQ3I0M0I4MEh3M0VJRy14OURybnBWWWM1a3JQSk5RN2lkdlFFTTA4Zm5jRzVCb2lwaTNHWEJlSTRIOXowQnRNVmdiSk1Ga0Y4aVJkaVd2dw?oc=5",
+        "publisher_name": "Christie's Press",
+        "publisher_url": "https://press.christies.com",
+        "published_at": "2025-12-17T08:00:00+00:00",
+        "indicative_usd": 234000000
+      },
+      {
+        "candidate_id": "0802aa08e89953c5",
+        "title": "Gooding Christie’s Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNejc4TXdLSFNvUFN2WkpIcnBqdGo3MFNCaDh1ZHdrNE5NTElFSjFremU5MHdaMUZ2ZDVLako3SHp2cmpWNHNFRTdpWjFQMVp0N0tMUmFNZXB2RndEdkx3cFViVXhvdU9zc3A0YkhqTDAzR0xGTTREMXdKSlFhTk1YRFUyUEYtRWJ1azNVaExISXZwdU85dXc?oc=5",
+        "publisher_name": "Christie's Press",
+        "publisher_url": "https://press.christies.com",
+        "published_at": "2025-12-17T08:00:00+00:00",
+        "indicative_usd": 234000000
+      }
+    ]
+  },
+  {
     "group_id": "58efaea90311a5f5",
     "title": "One of Van Gogh’s Final Paintings Just Sold for a Record-Breaking $190 Million - My Modern Met",
     "category_hint": "art",
@@ -3352,48 +3541,6 @@
     ]
   },
   {
-    "group_id": "d548cc3c53516982",
-    "title": "Ferrari's bespoke Luce EV one-off fetches $40 million at charity auction - ET Auto",
-    "category_hint": "cars",
-    "articles": 2,
-    "publishers": 1,
-    "indicative_usd_values": [
-      40000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-08-18T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "66aaba7b7f0a359e",
-      "5d8d883a09073bf8"
-    ],
-    "links": [
-      {
-        "candidate_id": "66aaba7b7f0a359e",
-        "title": "Ferrari's bespoke Luce EV one-off fetches $40 million at charity auction - ET Auto",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlBvOUdiSVdQUHRTd2R5MEQyMndvQ2xVanM1NTM2alJ5ZHpocEZQeXNrbG5YblZsRXN0V042TWQ3RHlMMkxnT0lxd0w5QzVrU05YWWtFY1ZyQTVRYXl1dlZsNDRwbmZ2b0M4YWV3amVPcU5LM3ExTGt2S19vWGF4bk9mSVpXdUZlb3lNbDZmZExKU1VGRENZUGdpWEpFVlJ3Rk9DbGhyZ3lSc0dKYm9oRWNJWTNWU1U2c05EdHY4THE1Y3llNUE5MkJuMnRjMm1pRUtSbU0wS2xSN2Nkd0HSAeIBQVVfeXFMTUNDY1VNT2k5MnJRSF91XzF2Q1VJWUU4UUF2WGpvUEVWWVpJNG5vUXd2R2tEenBVd19oS1haTEdObmw5b3BNZ0FzSGFXUmJqUUZ0YzNsazhuWXl0V3JVWndkNTZXd3NMa0RqcG40a0hJdWhybWJXY2NYQXBxcmp6bDgxWDA0VzhBdFpLdjJXeE9iVnl4WWJBdHRzQVdZT05MS0VUTUR0UENpYmJwcUEzc1BWbU9pei1GdG9HaWxXb0FtaUJKRl9EVFpZTFU2ajNFcmpqaUVpLUQ0b0tlQTdtY3N0UQ?oc=5",
-        "publisher_name": "ET Auto",
-        "publisher_url": "https://auto.economictimes.indiatimes.com",
-        "published_at": "2026-08-18T07:00:00+00:00",
-        "indicative_usd": 40000000
-      },
-      {
-        "candidate_id": "5d8d883a09073bf8",
-        "title": "Ferrari's bespoke Luce EV one-off fetches $40 million at charity auction - ET Auto",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlBvOUdiSVdQUHRTd2R5MEQyMndvQ2xVanM1NTM2alJ5ZHpocEZQeXNrbG5YblZsRXN0V042TWQ3RHlMMkxnT0lxd0w5QzVrU05YWWtFY1ZyQTVRYXl1dlZsNDRwbmZ2b0M4YWV3amVPcU5LM3ExTGt2S19vWGF4bk9mSVpXdUZlb3lNbDZmZExKU1VGRENZUGdpWEpFVlJ3Rk9DbGhyZ3lSc0dKYm9oRWNJWTNWU1U2c05EdHY4THE1Y3llNUE5MkJuMnRjMm1pRUtSbU0wS2xSN2Nkd0HSAeMBQVVfeXFMUE1WWS0xQ2F0ckJvaFV1ZEtiRkhvUjdNOTA5bGQwN3ZwbV9uYzQ0R01rWURHMXBJQUhFejVZNXI1TzNhaERXckxYLTRZcnE4eUNLQjJoUm1Cd2l3NXFLLWNZNDRJUk9HLVVubXNDeWt3RnlnXzgxamxkSExHUnVld0tVY01hSDZNVmgxTE81ems5RWtQZ3ZBZDZ3bGZkT3pSMm56Zkc1anJCMUlMbUY5bWw1TWJxd0M3b294ZEJhV2NlMGVQMjhLWGJycE9kUFhDdGt2bDBxN0E4YXJRXzJVU0tYUG8?oc=5",
-        "publisher_name": "ET Auto",
-        "publisher_url": "https://auto.economictimes.indiatimes.com",
-        "published_at": "2026-08-17T07:00:00+00:00",
-        "indicative_usd": 40000000
-      }
-    ]
-  },
-  {
     "group_id": "d69504d6be5a0c57",
     "title": "Old Masters achieves highest total for a sale in New York in more than a decade, Totaling $54,130,050 - Christie's Press",
     "category_hint": "other",
@@ -3432,48 +3579,6 @@
         "publisher_url": "https://press.christies.com",
         "published_at": "2026-02-04T08:00:00+00:00",
         "indicative_usd": 54130050
-      }
-    ]
-  },
-  {
-    "group_id": "77e7f265ee2ac921",
-    "title": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
-    "category_hint": "other",
-    "articles": 2,
-    "publishers": 1,
-    "indicative_usd_values": [
-      234000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-12-17T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "66ed95070fab5996",
-      "0802aa08e89953c5"
-    ],
-    "links": [
-      {
-        "candidate_id": "66ed95070fab5996",
-        "title": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTTRTVldrVkdiOEttdDVxVGdWUWVvUmxjelNDb2dEZnNRV3M1VFJtUXpSZnFSUFBIS0dTclVtS3AzNTdFZzZ0NnFGb3lxWlF0aDRURXpPdEpjVEI2MDRTblR3d0R2aEV6ZWpOcjdvT3BIWVVLV1JhRk5mQWp3aHVqNnlSLVNic0Fac3JwQ3I0M0I4MEh3M0VJRy14OURybnBWWWM1a3JQSk5RN2lkdlFFTTA4Zm5jRzVCb2lwaTNHWEJlSTRIOXowQnRNVmdiSk1Ga0Y4aVJkaVd2dw?oc=5",
-        "publisher_name": "Christie's Press",
-        "publisher_url": "https://press.christies.com",
-        "published_at": "2025-12-17T08:00:00+00:00",
-        "indicative_usd": 234000000
-      },
-      {
-        "candidate_id": "0802aa08e89953c5",
-        "title": "Gooding Christie’s Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNejc4TXdLSFNvUFN2WkpIcnBqdGo3MFNCaDh1ZHdrNE5NTElFSjFremU5MHdaMUZ2ZDVLako3SHp2cmpWNHNFRTdpWjFQMVp0N0tMUmFNZXB2RndEdkx3cFViVXhvdU9zc3A0YkhqTDAzR0xGTTREMXdKSlFhTk1YRFUyUEYtRWJ1azNVaExISXZwdU85dXc?oc=5",
-        "publisher_name": "Christie's Press",
-        "publisher_url": "https://press.christies.com",
-        "published_at": "2025-12-17T08:00:00+00:00",
-        "indicative_usd": 234000000
       }
     ]
   },
@@ -5668,6 +5773,38 @@
     ]
   },
   {
+    "group_id": "eefcf7571c8d67ee",
+    "title": "Pokémon card collection found in attic sells for $2 million - WJAR",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-23T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "d0baa19fac766101"
+    ],
+    "links": [
+      {
+        "candidate_id": "d0baa19fac766101",
+        "title": "Pokémon card collection found in attic sells for $2 million - WJAR",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU3dqRFZoenNFUTZuZGFVSGIzaGNNdjk4X1M3cm1tODV3SW16ZDVNLVZNYjA4MjNrTm5pNXhRaXR2TmJHSXpxbFdWUlFEWm1XS2VEVDdrdWhVSHZKcnNZbGxablBJV0xfQWFJNmNQSVVtVEF5d3NCOTNQclJtbTkzN2RHcmtsenZhYk1HUlVBNXJ4YUptQlRMN0ttZHhDYy04SGsxYlY5bVdDTExNZ1AwdFA1eXRWcFFsWThr?oc=5",
+        "publisher_name": "WJAR",
+        "publisher_url": "https://turnto10.com",
+        "published_at": "2026-10-23T07:00:00+00:00",
+        "indicative_usd": 2000000
+      }
+    ]
+  },
+  {
     "group_id": "984d46dce2f272ae",
     "title": "$56.2 million Claude Monet “Iris” painting sets a French auction record at Sotheby’s. - Artsy",
     "category_hint": "art",
@@ -6241,38 +6378,6 @@
         "publisher_url": "https://www.cbsnews.com",
         "published_at": "2026-10-01T07:00:00+00:00",
         "indicative_usd": 1350000
-      }
-    ]
-  },
-  {
-    "group_id": "a619483934fa824c",
-    "title": "The Rolex Daytona “Four Seasons” Set Just Sold for US$49.5 Million - Prestige Online - Singapore",
-    "category_hint": "watch",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      49500000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-10-01T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "c455496726a66749"
-    ],
-    "links": [
-      {
-        "candidate_id": "c455496726a66749",
-        "title": "The Rolex Daytona “Four Seasons” Set Just Sold for US$49.5 Million - Prestige Online - Singapore",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZXEzLTJZN2pxVl9JcDFmY1RZN010eWgzdzhBTWdISHk4U0w5M1hEWU5zTjRtZ2g2Z3VpWjZZQTZGTVVVb0kyTDF6N2tlYkRXN3hVODZNaFk4SXVLUmQ2RkN5Q2I3ODNiczJZOXc2d1RmTTUtSC1SWkVLS0M0Q2VRTUlMQXVLS3hGdUxoQU50akF3VnBmWkhzbU5VT0ZpTXQ3c1EtOV9QQk5OUdIBrwFBVV95cUxNWkhxODBzVHp0cm00Z3dqOWpkLTVJTHQtMW82WDdhU2xGMXJoLTE1dFpIcFloUl9uTkhURFo2WXR6TU82dnFGMjJtS2pObnVUVnJPZUtwYjcxVHViNTN6VnlDSlJiSlFaelFGRjE2SGJQdzB2bFRTUlc5T2tUdTB5VUZNUDhjSTVobzUza1B0Q2hZOEJjWG5tNmVfRXo0dTUzUmdOaHBkSmNNb0RxWlQ0?oc=5",
-        "publisher_name": "Prestige Online - Singapore",
-        "publisher_url": "https://www.prestigeonline.com",
-        "published_at": "2026-10-01T07:00:00+00:00",
-        "indicative_usd": 49500000
       }
     ]
   },
@@ -7209,38 +7314,6 @@
     ]
   },
   {
-    "group_id": "fee05381bef88aea",
-    "title": "Ferrari's first ever electric car sold for record $40m at auction - BBC",
-    "category_hint": "cars",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      40000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-08-17T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "64dab67d3061b300"
-    ],
-    "links": [
-      {
-        "candidate_id": "64dab67d3061b300",
-        "title": "Ferrari's first ever electric car sold for record $40m at auction - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPcWk5RWNDTzZic25ROWplSHJYSV9EOG1KZHZ0WXQxT3d0SUNjT2h4ZjhJRkh0a2JJTk5FTkFrLVhkNENzbHdJMHRIUEVLaV90aF9VV2dDRno3UQ?oc=5",
-        "publisher_name": "BBC",
-        "publisher_url": "https://www.bbc.com",
-        "published_at": "2026-08-17T07:00:00+00:00",
-        "indicative_usd": 40000000
-      }
-    ]
-  },
-  {
     "group_id": "b5a243f3a3b3a001",
     "title": "At $42.9 Million, This Shelby Daytona Coupe Is the Most Expensive American Car Ever Sold at Auction - Road & Track",
     "category_hint": "cars",
@@ -7495,6 +7568,38 @@
         "publisher_url": "",
         "published_at": "2026-07-17T07:00:00+00:00",
         "indicative_usd": 3750000
+      }
+    ]
+  },
+  {
+    "group_id": "348dd38529077bfe",
+    "title": "Pelé's 1958 World Cup final jersey sells for $4.9M at auction - ESPN",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      4900000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-07-16T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "854868d99cd14f60"
+    ],
+    "links": [
+      {
+        "candidate_id": "854868d99cd14f60",
+        "title": "Pelé's 1958 World Cup final jersey sells for $4.9M at auction - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFBicHhLYThIZTc1MWFHdFd2X2w0V3F6d1hTSmlsSzJuX0VQZjNUYWRQbEE1QkhRTHRrNkdERUNIQTVxYXE4bDA4UFE0Wm5sRU1zLVhPb3VJTmtubUtxSGhrYnQ4RWFtdlFjU29kWVJPR3B0Xy1FZzlEOV9leE5QXzVuX3dLcnJvMVBtSDlETU1IMlNnZktqTUtDcVNUZWVmWFYw?oc=5",
+        "publisher_name": "ESPN",
+        "publisher_url": "https://www.espn.com",
+        "published_at": "2026-07-16T07:00:00+00:00",
+        "indicative_usd": 4900000
       }
     ]
   },
@@ -9516,6 +9621,38 @@
         "publisher_url": "https://people.com",
         "published_at": "2026-02-16T08:00:00+00:00",
         "indicative_usd": 16000000
+      }
+    ]
+  },
+  {
+    "group_id": "17d1f685a68eec77",
+    "title": "Rare 15th-Century Jewish Prayer Book With a Storied Past Sells for $6.4 Million - Artnet News",
+    "category_hint": "books",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      6400000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-02-10T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "80ee4f5ad7e46227"
+    ],
+    "links": [
+      {
+        "candidate_id": "80ee4f5ad7e46227",
+        "title": "Rare 15th-Century Jewish Prayer Book With a Storied Past Sells for $6.4 Million - Artnet News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzRlUWctamVaaDJfbVpLNkpRdHFWRTZtYzNCbnN6XzZSVFItX1BEU2hNWnNKMXBhOG1Fb2hacVg2NjRiRjNRT3FYOExXX0JsUnlwLVk2OURFZnJ3eElPQjNHdElLTG9RS3QweE5ZWHcyX0QxX2dNaHozamFfUzlKb0dtRm5mZ2VtTHBBV0YtWdIBlwFBVV95cUxPdGVqZ0xCODNRSXd6em1lR0o3dzJvVWZ0Zml5WGwtenFMeDQ2djRVRC1vZlljMXNZUVBGSEw2cVVLd2JkUnVlYmJCb0tMM2dRTXlBYjdrLUhnS3A2dVo3RHNER3NtWlM0Uml2czNfLVJ5eEJyYzI5NmhpVGRrcTRVNzdzajJRZzl6Ql9SZXBvOVBpMllsNEJv?oc=5",
+        "publisher_name": "Artnet News",
+        "publisher_url": "https://news.artnet.com",
+        "published_at": "2026-02-10T08:00:00+00:00",
+        "indicative_usd": 6400000
       }
     ]
   },
@@ -12092,264 +12229,6 @@
         "publisher_url": "https://nationaljeweler.com",
         "published_at": "2024-06-10T07:00:00+00:00",
         "indicative_usd": 3600000
-      }
-    ]
-  },
-  {
-    "group_id": "717b0707c20a6545",
-    "title": "At Heritage Auctions, Rocket-Firing Boba Fett Action Figure Sells For $525,000 to Become World’s... - Heritage Auctions",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      525000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-06-03T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "a70bc751d4b66b12"
-    ],
-    "links": [
-      {
-        "candidate_id": "a70bc751d4b66b12",
-        "title": "At Heritage Auctions, Rocket-Firing Boba Fett Action Figure Sells For $525,000 to Become World’s... - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQLXp4RlM4cWt4M05VX1FoV1gtY2ZkM01nMWUxN3VDZHJiS0ZPX3ZsYzhXbjAyV2tjVEw2OWZDczljMnltWENtNm9wYk1xLU9KSlVSRWhRWDEtdEZvOGoyWFhCdXNqdnQ1TE1mUGdsLUZrcmt3eENIT1YxeWVXcEota00wN1pHWHBtSHBCbkJna2V3cmpkS05UQnBtQ1AyTFFpVDZubERvU09HNGdrYy1kTGstcG5GY1JSRHJYWGhGVHFyS1VkWUpQMGk1TkFmM1F6bWJsYkI5UkNtNWxraDFVanQ1cHU2aFlXYWZEem1CMi1tRkkxcEdPNlF3bm16Q1VsMGdGOFJUYnhKSGNOYnAzc2JEb01XcWxPTDNnRW02cUZ5ZzEtd3BueVB1ampKWnRyZVE?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://entertainment.ha.com",
-        "published_at": "2024-06-03T07:00:00+00:00",
-        "indicative_usd": 525000
-      }
-    ]
-  },
-  {
-    "group_id": "0ca9f9b024eaefe5",
-    "title": "John Lennon’s Guitar From ‘Help!’ Is Sold for $2.9 Million at Auction (Published 2024) - The New York Times",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      2900000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-05-30T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "2980f1466659bb73"
-    ],
-    "links": [
-      {
-        "candidate_id": "2980f1466659bb73",
-        "title": "John Lennon’s Guitar From ‘Help!’ Is Sold for $2.9 Million at Auction (Published 2024) - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcnJheThObjg1T0ZkS2ZJMnJXUVBaLXFPUGltQy1oeEtxSkhUOEpZZ2wzRHBvSHllLXY0RGRfOUN1bDI2OG5RY3FoaFVsbHF6LXFTeGxjcUJZTHRWRXBTN21GaFpnblRmREFYbjd5cV80ZndObWh3VnZhZVRMU1gzeS1JQ2V6OEtrTjZaTHZVMEwwTVNQ?oc=5",
-        "publisher_name": "The New York Times",
-        "publisher_url": "",
-        "published_at": "2024-05-30T07:00:00+00:00",
-        "indicative_usd": 2900000
-      }
-    ]
-  },
-  {
-    "group_id": "e49f224240a87faf",
-    "title": "One of Britain's rarest coins EVER sells for $1m at auction - here's why - This is Money",
-    "category_hint": "coins",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-05-28T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "05c3ae10f1672125"
-    ],
-    "links": [
-      {
-        "candidate_id": "05c3ae10f1672125",
-        "title": "One of Britain's rarest coins EVER sells for $1m at auction - here's why - This is Money",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakxMYWlzVnNtNWhHaE9vdmMwUmN0WWt5eUlVNHRGcTlhMzZuYUk1WWJBeUVneGFuQ3d6bk5JODVHcUh1bE5sWjh1bnhfQlcxZG5LTGNaMDBmcEc4bFY2aHl5S2Q4YnpGYk82ZGVDRHFhVkpIMWhUR1dfTEtHdU1NeHpwWExoUkFNZm9XaDdHVXJnZ2RuelFoTFlhQkZLNE10alZGXzBrSGlhek5jdHprR3NaWllvNXM50gG-AUFVX3lxTE9vLTY4bUY4dGhMclBzQ3kwN05tM1lOZHZuc2dhQU1YcUQ2ME0zai00V3Q4b1JPRGtndE5SUFdIdzZ6TmF5X2lodHBKVjUzUzZ0QzczbDFxa3E3bWtFYUw3OTZRSk80YjdIMU5UMzh5anpoT2FaTFcwN2xldlFWbXZ3bkNPcEpJdU5fcXVsbG1tZHpGNDM2U3Z4ZXE0NnIxdFBta0xFcXdJM205QjFYamt5cU5pNm5ZMHRFaVVTT1E?oc=5",
-        "publisher_name": "This is Money",
-        "publisher_url": "https://www.thisismoney.co.uk",
-        "published_at": "2024-05-28T07:00:00+00:00",
-        "indicative_usd": 1000000
-      }
-    ]
-  },
-  {
-    "group_id": "4e3dc10022e4547a",
-    "title": "Top Collector Ron Perelman Sold 71 Works Worth $963 M. by Picasso, Warhol, Basquiat and Others to Repay Banks - ARTnews.com",
-    "category_hint": "art",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      963000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-05-22T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "10e699ef7f234534"
-    ],
-    "links": [
-      {
-        "candidate_id": "10e699ef7f234534",
-        "title": "Top Collector Ron Perelman Sold 71 Works Worth $963 M. by Picasso, Warhol, Basquiat and Others to Repay Banks - ARTnews.com",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWjZuMXZmZ3pXVmx2Sms0Z1VZNnYzaERaQWtLREpGdjNrZUI1V1UyQWQ2Wm1iRDlwaTdodTUyYmtyZWxPcnJRSV9xanE1VFZ2blRKUVpiNjFpbnJGYVhXQ1JPLW5ZTDVNaWdKak9STDJ0MzFQejVlRXZmMU9zVXRaTFdFbFpHc1NhalpOdnRyVFVxUjlFMXFYbnFtN2liU0p2N2kwVEpONExvMkpDbTJ6Y25kTFV0cDhJZ1VNVjA1aU9IeldIdUxMbzdVeWV0UQ?oc=5",
-        "publisher_name": "ARTnews.com",
-        "publisher_url": "https://www.artnews.com",
-        "published_at": "2024-05-22T07:00:00+00:00",
-        "indicative_usd": 963000000
-      }
-    ]
-  },
-  {
-    "group_id": "3c6f039b20276b0a",
-    "title": "Uncut Sheet of ‘Pokémon’ and ‘Magic: The Gathering’ Cards Brings Record $375,000 at Heritage’s... - Heritage Auctions",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      375000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-05-20T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "7151ed1b14032e22"
-    ],
-    "links": [
-      {
-        "candidate_id": "7151ed1b14032e22",
-        "title": "Uncut Sheet of ‘Pokémon’ and ‘Magic: The Gathering’ Cards Brings Record $375,000 at Heritage’s... - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNbi1JRm55MzRjMDBsUVRIYzdtc00tU1NzZzVFN0kzUUtEZ1lxSldmVVFUS2oyc09LcExkM0h3N2hJa0FqbXp2VGZNLTNKNU5iOUt3OEdOWHdISjBrQzRfTldQc3V0blNiWnBScks2RDRpYlNXdTRHU2hKZ01BZGpzbXBHXzlzeS1WTkpJeDNOb3hicjdncE5qeHJQNG9qU3FLOTVrbkR3TGY4a2d4c2ptdlFCUEsyVWE4dU1FZDdPRWdoYmRYaGFVNjJOTEJzWENZMlFKNmYyOWNYekk4MU1Rd0FsNm5EQnZUY18tVXVucDg2SHlsOXhCekNiNGwxX0s3QnJDMmRDVUlWaTJsd3NSY1hTS0N0Y1RsZDgwdEEyMHZQdFNzZzBKNS1IWQ?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://entertainment.ha.com",
-        "published_at": "2024-05-20T07:00:00+00:00",
-        "indicative_usd": 375000
-      }
-    ]
-  },
-  {
-    "group_id": "e35e823c3408344f",
-    "title": "Queen of the Auction: 1891 Netherlands 25 Cents Brings Record $1.13 Million at Heritage... - Heritage Auctions",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1130000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-05-16T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "903c96ec09c32243"
-    ],
-    "links": [
-      {
-        "candidate_id": "903c96ec09c32243",
-        "title": "Queen of the Auction: 1891 Netherlands 25 Cents Brings Record $1.13 Million at Heritage... - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOeUtteVFsWVMtdFRLaURsdXkxZlFVRkFtM3dXbEp0UENOU3dMdVltWVk5TTFVUDhqcWYyX3pCT3cwVzUwMG0ybmF5TmhiaVJjMmhzU25weWRabVNLX3dESVlMQXVuakV1aHJhYmRuZ1hKT19QbkNpaS1RaWxxNklJZTNibUh0TmlUZnpXWHVkYTB3Si1RSjBkMGdUM0hJR2pOS0VxUWpZZXBkM0JRQ0k0cTkwMmZxM2ZBZmNEdkw2TnBQbTFvTTZTLTRqUi15ZXFxMkRiZERXdmVwbDRjOVd5Qm9fa3N3azBWekF1ZE1FT0hNbjUwVW1raWdGSnFjV3B4dHNtbURmbWhQcmpUTWc?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://coins.ha.com",
-        "published_at": "2024-05-16T07:00:00+00:00",
-        "indicative_usd": 1130000
-      }
-    ]
-  },
-  {
-    "group_id": "8829ac26d51aa00f",
-    "title": "Leonora Carrington painting smashes artist’s auction record, fetching $28.5 million at Sotheby’s. - Artsy",
-    "category_hint": "art",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      28500000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-05-16T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "6689608e53a252ee"
-    ],
-    "links": [
-      {
-        "candidate_id": "6689608e53a252ee",
-        "title": "Leonora Carrington painting smashes artist’s auction record, fetching $28.5 million at Sotheby’s. - Artsy",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYllkYkZIYVlXWVNNQnNyN0Ewcy1OcThOb08wU2dYcWR5ZlROWHlfa0QyclAyT21qbkc3NU9SSU9EbVB2cW9NRDdLQ1Z0SmxJdnozOGUxV2ZiX2NDRkZhRDdnVHhoelhqTlRya0VDYVZ0TV93a3FVLTdNZUt6Xy1FaGlqbWEtdTJjRHBvaEQwM29NWGFXZDgtY3lDS0NJblZUazlfM0trTy1VOTBrTzNzTHZSLXNNVk53MkUxWDNGejFhRmc?oc=5",
-        "publisher_name": "Artsy",
-        "publisher_url": "",
-        "published_at": "2024-05-16T07:00:00+00:00",
-        "indicative_usd": 28500000
-      }
-    ]
-  },
-  {
-    "group_id": "09e0a871914ba44c",
-    "title": "This One-of-One Patek Philippe Watch Just Sold for $17.3 Million - GQ",
-    "category_hint": "watch",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      17300000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-05-14T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "98dd83d9356c17f0"
-    ],
-    "links": [
-      {
-        "candidate_id": "98dd83d9356c17f0",
-        "title": "This One-of-One Patek Philippe Watch Just Sold for $17.3 Million - GQ",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14WmJySDk4ZHE5THJVY3oyRnFPVWxBV1huaDVsWGx6cUFZOHF4OTRIbmN4Tm13S05lbm5OUjM4NGo4Qm5ZZERJMEJoanJPWk5aTkRYZFVCdFQ4dnJrNmZMRlVwM3V0VmF1Vl9BNHhaOWpoQVQzT3JWaA?oc=5",
-        "publisher_name": "GQ",
-        "publisher_url": "https://www.gq.com",
-        "published_at": "2024-05-14T07:00:00+00:00",
-        "indicative_usd": 17300000
       }
     ]
   },
