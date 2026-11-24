@@ -851,5 +851,29 @@
       "Без официального результата запись не является подтверждённой",
       "Требуется конвертация валюты на дату продажи; порог $300 000 ещё не проверен"
     ]
+  },
+  {
+    "id": "152c2db9e76510826c5a",
+    "house": "Gooding Christie's",
+    "country": "US",
+    "domain": "goodingco.com",
+    "source_type": "house",
+    "category": "cars",
+    "title": "ACHIEVING $34.98 MILLION FROM 121 COLLECTOR CARS SOLD DURING SCOTTSDALE AUCTION WEEK, GOODING & COMPANY IGNITES THE NEW YEAR WITH THRILLING RECORD-BREAKING AUCTION RESULTS - Gooding Christie’s",
+    "publication_at": "2011-01-24T08:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjNxaFNMcU1vcm1OQXdKWjZfR2pVNThZenM5bE5Qa3d6QmhuNHlQS2JCZ2xrUS1mbXRFM0E1QkZtNTFFclg1U3hvZ1d3TXNBR3ZhZUluRXNzeTJORHE2ZVNQSE5MWk5waWJmMGdfUlZISV9NYXlKd2dGLWpScjZhOWoydVNuaHdjOTlySlNGeC01UUpnYWVZMFVyMXZ1YmozQ0RCdFZKZFJXOWhrbXhxS3Vlbw?oc=5",
+    "publisher_website": "https://www.goodingco.com",
+    "native_amount": 34980000,
+    "native_currency": "USD",
+    "raw_price": "$34.98 MILLION",
+    "indicative_usd": 34980000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
   }
 ]
