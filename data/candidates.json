@@ -1400,6 +1400,20 @@
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
   {
+    "id": "e8b2cde0466c2961",
+    "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KCRA",
+    "summary": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million    KCRA",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbl92em1KSFBBZEtkNWw3dWljMlFqeFgyTmFHcUNIWjVQLXpkRWJ6RWRabGY0Qk1wNGdnY1NmQ3JrdTVOQ2FtVVdkQmNCTTQ5OFVSS1pla05NQXluVHkwRWxTRmREZ3BIX0NCTDVvcU81THNHZkNpelpMSTZzSVYxZmlwX25fT3ozNXFTU2RSSEY5UDBj?oc=5",
+    "published_at": "2026-11-18T01:49:00+00:00",
+    "indicative_usd": 4800000,
+    "category_hint": "art",
+    "source_name": "Google News: auction \"sold for\" \"million\"",
+    "publisher_name": "KCRA",
+    "publisher_url": "https://www.kcra.com",
+    "status": "candidate",
+    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
+  },
+  {
     "id": "d04a5d25d3c2ec42",
     "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KCCI",
     "summary": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million    KCCI",
@@ -2146,6 +2160,20 @@
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
   {
+    "id": "16e5af7b5ce74759",
+    "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - Yahoo",
+    "summary": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction    Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMDluTlo4bWotRVQ4cm0zdWhFLUlkaGVsU2lNOFNiRDZPNmI0dkxZQm5lOGdDQjVjdHpJMjdJZ2lQQ3dnUFhrSEFCZXZFamhjQUQ3SXJxUC1XaVhtOWRESG1idmstSTlKaGhFNDdPaE0tb3BzR0RQaDQ2OFhJUF9TZFlJVm5sa0pXSTFyckZxRlVqamZS?oc=5",
+    "published_at": "2026-11-12T08:00:00+00:00",
+    "indicative_usd": 4900000,
+    "category_hint": "jewelry",
+    "source_name": "Google News: auction \"sold for\" \"million\"",
+    "publisher_name": "Yahoo",
+    "publisher_url": "https://www.yahoo.com",
+    "status": "candidate",
+    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
+  },
+  {
     "id": "622fd953b52e6f3a",
     "title": "The ‘Mona Lisa of pink diamonds’ is one of the rarest on Earth — and just sold for $14.6M - New York Post",
     "summary": "The ‘Mona Lisa of pink diamonds’ is one of the rarest on Earth — and just sold for $14.6M    New York Post",
@@ -2780,6 +2808,20 @@
     "source_name": "Google News: vintage car auction \"sold for\"",
     "publisher_name": "24/7 Wall St.",
     "publisher_url": "https://247wallst.com",
+    "status": "candidate",
+    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
+  },
+  {
+    "id": "54893e816fa83e84",
+    "title": "A Bottle of The Macallan Scotch Just Sold for $2.8 Million at Auction - Yahoo",
+    "summary": "A Bottle of The Macallan Scotch Just Sold for $2.8 Million at Auction    Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZExGMXhmWU4wOFpEd3FxZHQwQjJtZVZFNVNrbVl6eEFqZHl6WGtxYUM3M3pNR0h6YXZFRmpfT2VfdV9xUVdlWHVoTzlvbm5WekFWT19rMkxQdWlLcE5rWENPLWhfQ1hzRVVTekE0SGVBSF9OOExFRWdYbzV6RGpBSU5QWEYxdUFzR09WYUpQVEYyZw?oc=5",
+    "published_at": "2026-10-09T07:00:00+00:00",
+    "indicative_usd": 2800000,
+    "category_hint": "other",
+    "source_name": "Google News: auction \"sold for\" \"million\"",
+    "publisher_name": "Yahoo",
+    "publisher_url": "https://www.yahoo.com",
     "status": "candidate",
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
@@ -6816,48 +6858,6 @@
     "source_name": "Google News: watch auction \"sold for\" million",
     "publisher_name": "Luxury Bazaar",
     "publisher_url": "https://www.luxurybazaar.com",
-    "status": "candidate",
-    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
-  },
-  {
-    "id": "059558eaf0e7e525",
-    "title": "Sotheby’s Important Watches Sale Fetches $16.6M - nationaljeweler.com",
-    "summary": "Sotheby’s Important Watches Sale Fetches $16.6M    nationaljeweler.com",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkNGb196UTJsbmRtcTV4akpMQzZjRU5zSGo4YUtKZkxsMXlvODNic3BjSEx3X1VRRXVkRl81ZW5tdE9zNDBYMzFOODd3NlphQlJwVFVwTFhMUjhBZktVWFl5VkxKeTUtTHZ2eWhJYzV2Y09sVUNoelFBanZ0N0s2a2dzcmFxOEpWT3lrVUVadmhSU0U?oc=5",
-    "published_at": "2024-12-11T08:00:00+00:00",
-    "indicative_usd": 16600000,
-    "category_hint": "watch",
-    "source_name": "Google News: watch auction \"sold for\" million",
-    "publisher_name": "nationaljeweler.com",
-    "publisher_url": "https://nationaljeweler.com",
-    "status": "candidate",
-    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
-  },
-  {
-    "id": "ba38ff24c3307a29",
-    "title": "Rare New England Coin From 1652 Found in an Old Cabinet Sells for $2.52 Million at Auction - My Modern Met",
-    "summary": "Rare New England Coin From 1652 Found in an Old Cabinet Sells for $2.52 Million at Auction    My Modern Met",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyUjZ0UXF2eFBGN2RxYzg0MFM3UEdpNVA0emF4Zm5sWm5VbUgxeFZrdmFQUmtvOFFfMGNUM2hYcldvVnVxN1hYQjNUNXpkRFhmRURVUFVqbE5FT3VyOEthSFdud1NMTlE?oc=5",
-    "published_at": "2024-12-08T08:00:00+00:00",
-    "indicative_usd": 2520000,
-    "category_hint": "coins",
-    "source_name": "Google News: rare coin auction \"sold\"",
-    "publisher_name": "My Modern Met",
-    "publisher_url": "https://mymodernmet.com",
-    "status": "candidate",
-    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
-  },
-  {
-    "id": "408d0cf2d3ee9492",
-    "title": "30-Carat Pink Diamond Fetches $2.6M at Bonhams - nationaljeweler.com",
-    "summary": "30-Carat Pink Diamond Fetches $2.6M at Bonhams    nationaljeweler.com",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXM2RnB0ZHlQbUFJN0pwcW1NaWR2NnhYcUYzUW1kbnVqdEdaQ0VBXzdtYjkzS1FVWmx2TzZnYjVrWFN1a2RUYjJIbmpJRHdCVDUzRHN4Q2dZM2oycG9CXzB2ZExaYk5kNjZfWWVKckEtek5MNnJtakFodkw1ZndrTzdnMkRNb0pUeENUcjdOTEZjZw?oc=5",
-    "published_at": "2024-12-04T08:00:00+00:00",
-    "indicative_usd": 2600000,
-    "category_hint": "jewelry",
-    "source_name": "Google News: jewelry diamond auction \"sold for\"",
-    "publisher_name": "nationaljeweler.com",
-    "publisher_url": "https://nationaljeweler.com",
     "status": "candidate",
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   }

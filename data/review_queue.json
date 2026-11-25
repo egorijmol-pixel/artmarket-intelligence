@@ -998,6 +998,150 @@
     ]
   },
   {
+    "group_id": "89db819d5da90870",
+    "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KCRA",
+    "category_hint": "art",
+    "articles": 5,
+    "publishers": 5,
+    "indicative_usd_values": [
+      4800000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-18T01:49:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "e8b2cde0466c2961",
+      "d04a5d25d3c2ec42",
+      "7d5b98aeb48d73e0",
+      "7266f317373b3a5f",
+      "381867aec25a1643"
+    ],
+    "links": [
+      {
+        "candidate_id": "e8b2cde0466c2961",
+        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KCRA",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbl92em1KSFBBZEtkNWw3dWljMlFqeFgyTmFHcUNIWjVQLXpkRWJ6RWRabGY0Qk1wNGdnY1NmQ3JrdTVOQ2FtVVdkQmNCTTQ5OFVSS1pla05NQXluVHkwRWxTRmREZ3BIX0NCTDVvcU81THNHZkNpelpMSTZzSVYxZmlwX25fT3ozNXFTU2RSSEY5UDBj?oc=5",
+        "publisher_name": "KCRA",
+        "publisher_url": "https://www.kcra.com",
+        "published_at": "2026-11-18T01:49:00+00:00",
+        "indicative_usd": 4800000
+      },
+      {
+        "candidate_id": "d04a5d25d3c2ec42",
+        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KCCI",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeENnYjlrN1ZTb3Q0RmVxenlvTERFTlNXcHVLYjlUMXptczRxVnZteHZXbWx5THZyejZTbzJTaGI4YjJUZ3RKZXR2VFMzeFpsbDZzUy1oSTRiazFaN3FkLS1weElzNUpteFlzWDdHT1M4TFZXdDBWemM4RTJpZzRuczNoNVdBdXppb3dfM2lmbnF5TEJt?oc=5",
+        "publisher_name": "KCCI",
+        "publisher_url": "https://www.kcci.com",
+        "published_at": "2026-11-18T01:49:00+00:00",
+        "indicative_usd": 4800000
+      },
+      {
+        "candidate_id": "7d5b98aeb48d73e0",
+        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KOCO",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNjZTaTZ6bnZTOHNXWk9zb2JBNEc5Tk8yMWQydUpJRWhjLUIzb01rVWZTQXdtNXRGVDl2eXJ6ZzZWX2xOY3BrMlR4VDJxQ24wcHpQaS1vVUlxclJ6cUhlWV9TekNBY2t4QkNPUk50RVRWdmExSVZha2tLRldwNmVPb1BpaGx3ckJZZmNsX0dqRzFCWFRO?oc=5",
+        "publisher_name": "KOCO",
+        "publisher_url": "https://www.koco.com",
+        "published_at": "2026-11-18T01:49:00+00:00",
+        "indicative_usd": 4800000
+      },
+      {
+        "candidate_id": "7266f317373b3a5f",
+        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - WTAE",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNlNEYktJeDhZZHZybnkzRXlpY2FtWGVwWDBlSWExdUFnQWNISFBUZTRINmlhaTZWU3dmem5YUnF3WjJuUmYxejJqQ19SYWVwT1U1SXEtb0d3ai1lZk9KTzBPM0R2dnZCYW94eTI1SU1KZEg5RXJPR0hNbWR4OW44NXliVDE5cm9PWWhkeE9Ob2dLSzRK?oc=5",
+        "publisher_name": "WTAE",
+        "publisher_url": "https://www.wtae.com",
+        "published_at": "2026-11-18T01:49:00+00:00",
+        "indicative_usd": 4800000
+      },
+      {
+        "candidate_id": "381867aec25a1643",
+        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - WBAL-TV",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWRwMXdIWFpZcm9iVnI5VnJGQ3A2QVVKVzZlaG9WUmpOV054eTJVTGI2UzVQSms2RGxsWWJsTDN5bW5HbDlIM25vSjJLUkZQcHkxWWszWkNmakVDV0VDUkM0ckxfaE5wbF9MalVmQ3pUTWtldHd1TzNXekszczBRMXVvakVXb20xSUVmMzdVNUNnSk1XNENj?oc=5",
+        "publisher_name": "WBAL-TV",
+        "publisher_url": "https://www.wbaltv.com",
+        "published_at": "2026-11-18T01:49:00+00:00",
+        "indicative_usd": 4800000
+      }
+    ]
+  },
+  {
+    "group_id": "ac95d3e4caee6e07",
+    "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - WRAL",
+    "category_hint": "jewelry",
+    "articles": 5,
+    "publishers": 5,
+    "indicative_usd_values": [
+      4900000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-13T18:53:41+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "0f4e3f27d9e15854",
+      "2e4a6427c60d7df8",
+      "00146205996eb812",
+      "bbdd141ca74392e2",
+      "16e5af7b5ce74759"
+    ],
+    "links": [
+      {
+        "candidate_id": "0f4e3f27d9e15854",
+        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - WRAL",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1VrSXVrcmZ3Q2lodmRSRlBxTzJpVk5VSzB2LVQ5NF9ia2tjT0Z2b0gxUGdwdmFUMnMxWVNkUkM2UzlFb0F1N25icmJEVUJfXzFtaFRGeEwtRW84Tk9qWWxtUHRia1I5OG5vRWhaaEc1aVgwODhCWXJaM3docFBxaHZPemdTbGp3MDZvRm1zOWw0ZmdzX2xXZkxpZVRGbnRVS2trRHhicno?oc=5",
+        "publisher_name": "WRAL",
+        "publisher_url": "https://www.wral.com",
+        "published_at": "2026-11-13T18:53:41+00:00",
+        "indicative_usd": 4900000
+      },
+      {
+        "candidate_id": "2e4a6427c60d7df8",
+        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGhGVmU4WWxRbVdhTU1uSEVsdDgxMzVKS2duVzN6bXd5Ql9WU2J2ZURDZ0hFb3puSzJNakVGc0NCRWV4OWI4aDRmR3hQcF9PenFQckl0bFhEM0dvRU9fdTE3X0VLLVdmTEdXbThrS2tUdFVtbl9RN1U2UUlwTmtfSjBvLU5xeFVnNUVGUWZxVzVRVnZRdGRLcEFLY1VwN0pURFVHaXA2dzQxQdIBrwFBVV95cUxOLS1hVlJKVHlhcHZpbVFob3ZTNXpCQXlUWUR4YkJObFNfUGo4VkxFODNnSFpkRFlTd1ZEUUxfbFNZX0o4ZmZKeUV0eElYQ1JCNlJkYXExWjUyQUdPZTluVWxNTWZHeXFYNHBLYXIyOWc0Wmp2cmNEcWtpRHZJN2dRQXdUVi1OdDYwcUQ4UkgyeW9EOWhJVzdXR3VhaF8zM1VzeUgyMVlQVTVBRFRvSVEw?oc=5",
+        "publisher_name": "Breaking News, Latest News and Videos",
+        "publisher_url": "",
+        "published_at": "2026-11-12T08:34:42+00:00",
+        "indicative_usd": 4900000
+      },
+      {
+        "candidate_id": "00146205996eb812",
+        "title": "A Romanov Sapphire Bracelet Sells for $4.9 Million at a Geneva Auction - U.S. News & World Report",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSHVORThJb1AyWWN2RGl6VHpUZFEtZjR6T3RuN1l5S1YzZVhSZ2w1bS0xakVTRk93dHQ0TllsWHJsdEFjQUJlX1lkNkMzeVo5eGFSelhkaUdOMFFNYkx6X1B3dl9lREJ1ZFExblI1bkY5a0M3TVl4OWF6aU9iWVJuMG1ibjR6NmVEVVJHeVFEaVVBWTFiYnd2cHhtN21vbzlWVWhnMXFCYnJtYVcxTjJqblBnYWNvU0hnVkFQS3dPa3hxa1E2?oc=5",
+        "publisher_name": "U.S. News & World Report",
+        "publisher_url": "https://www.usnews.com",
+        "published_at": "2026-11-12T08:14:00+00:00",
+        "indicative_usd": 4900000
+      },
+      {
+        "candidate_id": "bbdd141ca74392e2",
+        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - Boston Herald",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83QzduLWRvcXExUWctUUVBdEk3bHBPV0VEaXZCbmc5M09HRFlxVHk3NzZqQmhXUC1fVXVzanFIV0FYNXc1STRXTGFoQ0pIZlJyeVV3cFQwV29oVUwwUjFKOTlqTjI2M0lhVUhOdFZWR1hrUmJBTjFkbEUxUHIwaDg?oc=5",
+        "publisher_name": "Boston Herald",
+        "publisher_url": "https://www.bostonherald.com",
+        "published_at": "2026-11-12T08:00:00+00:00",
+        "indicative_usd": 4900000
+      },
+      {
+        "candidate_id": "16e5af7b5ce74759",
+        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMDluTlo4bWotRVQ4cm0zdWhFLUlkaGVsU2lNOFNiRDZPNmI0dkxZQm5lOGdDQjVjdHpJMjdJZ2lQQ3dnUFhrSEFCZXZFamhjQUQ3SXJxUC1XaVhtOWRESG1idmstSTlKaGhFNDdPaE0tb3BzR0RQaDQ2OFhJUF9TZFlJVm5sa0pXSTFyckZxRlVqamZS?oc=5",
+        "publisher_name": "Yahoo",
+        "publisher_url": "https://www.yahoo.com",
+        "published_at": "2026-11-12T08:00:00+00:00",
+        "indicative_usd": 4900000
+      }
+    ]
+  },
+  {
     "group_id": "83e0e2dc4ca6eb6c",
     "title": "A Rare Nanotyrannus Skeleton Sells for $47.3 Million, Becoming the Second Most Valuable Dinosaur Ever Auctioned - Smithsonian Magazine",
     "category_hint": "other",
@@ -1279,68 +1423,6 @@
     ]
   },
   {
-    "group_id": "5f582f3ad395588f",
-    "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KCCI",
-    "category_hint": "art",
-    "articles": 4,
-    "publishers": 4,
-    "indicative_usd_values": [
-      4800000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-11-18T01:49:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "d04a5d25d3c2ec42",
-      "7d5b98aeb48d73e0",
-      "7266f317373b3a5f",
-      "381867aec25a1643"
-    ],
-    "links": [
-      {
-        "candidate_id": "d04a5d25d3c2ec42",
-        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KCCI",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeENnYjlrN1ZTb3Q0RmVxenlvTERFTlNXcHVLYjlUMXptczRxVnZteHZXbWx5THZyejZTbzJTaGI4YjJUZ3RKZXR2VFMzeFpsbDZzUy1oSTRiazFaN3FkLS1weElzNUpteFlzWDdHT1M4TFZXdDBWemM4RTJpZzRuczNoNVdBdXppb3dfM2lmbnF5TEJt?oc=5",
-        "publisher_name": "KCCI",
-        "publisher_url": "https://www.kcci.com",
-        "published_at": "2026-11-18T01:49:00+00:00",
-        "indicative_usd": 4800000
-      },
-      {
-        "candidate_id": "7d5b98aeb48d73e0",
-        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - KOCO",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNjZTaTZ6bnZTOHNXWk9zb2JBNEc5Tk8yMWQydUpJRWhjLUIzb01rVWZTQXdtNXRGVDl2eXJ6ZzZWX2xOY3BrMlR4VDJxQ24wcHpQaS1vVUlxclJ6cUhlWV9TekNBY2t4QkNPUk50RVRWdmExSVZha2tLRldwNmVPb1BpaGx3ckJZZmNsX0dqRzFCWFRO?oc=5",
-        "publisher_name": "KOCO",
-        "publisher_url": "https://www.koco.com",
-        "published_at": "2026-11-18T01:49:00+00:00",
-        "indicative_usd": 4800000
-      },
-      {
-        "candidate_id": "7266f317373b3a5f",
-        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - WTAE",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNlNEYktJeDhZZHZybnkzRXlpY2FtWGVwWDBlSWExdUFnQWNISFBUZTRINmlhaTZWU3dmem5YUnF3WjJuUmYxejJqQ19SYWVwT1U1SXEtb0d3ai1lZk9KTzBPM0R2dnZCYW94eTI1SU1KZEg5RXJPR0hNbWR4OW44NXliVDE5cm9PWWhkeE9Ob2dLSzRK?oc=5",
-        "publisher_name": "WTAE",
-        "publisher_url": "https://www.wtae.com",
-        "published_at": "2026-11-18T01:49:00+00:00",
-        "indicative_usd": 4800000
-      },
-      {
-        "candidate_id": "381867aec25a1643",
-        "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - WBAL-TV",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWRwMXdIWFpZcm9iVnI5VnJGQ3A2QVVKVzZlaG9WUmpOV054eTJVTGI2UzVQSms2RGxsWWJsTDN5bW5HbDlIM25vSjJLUkZQcHkxWWszWkNmakVDV0VDUkM0ckxfaE5wbF9MalVmQ3pUTWtldHd1TzNXekszczBRMXVvakVXb20xSUVmMzdVNUNnSk1XNENj?oc=5",
-        "publisher_name": "WBAL-TV",
-        "publisher_url": "https://www.wbaltv.com",
-        "published_at": "2026-11-18T01:49:00+00:00",
-        "indicative_usd": 4800000
-      }
-    ]
-  },
-  {
     "group_id": "08e13fa09b204a45",
     "title": "Yayoi Kusama Sets New Auction Record as 1960 Infinity Net Painting Sells for $14.7 Million - Style Rave",
     "category_hint": "art",
@@ -1400,68 +1482,6 @@
         "publisher_url": "https://www.artnews.com",
         "published_at": "2026-11-17T02:08:00+00:00",
         "indicative_usd": 15100000
-      }
-    ]
-  },
-  {
-    "group_id": "100a02ad10fa026a",
-    "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - WRAL",
-    "category_hint": "jewelry",
-    "articles": 4,
-    "publishers": 4,
-    "indicative_usd_values": [
-      4900000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-11-13T18:53:41+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "0f4e3f27d9e15854",
-      "2e4a6427c60d7df8",
-      "00146205996eb812",
-      "bbdd141ca74392e2"
-    ],
-    "links": [
-      {
-        "candidate_id": "0f4e3f27d9e15854",
-        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - WRAL",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1VrSXVrcmZ3Q2lodmRSRlBxTzJpVk5VSzB2LVQ5NF9ia2tjT0Z2b0gxUGdwdmFUMnMxWVNkUkM2UzlFb0F1N25icmJEVUJfXzFtaFRGeEwtRW84Tk9qWWxtUHRia1I5OG5vRWhaaEc1aVgwODhCWXJaM3docFBxaHZPemdTbGp3MDZvRm1zOWw0ZmdzX2xXZkxpZVRGbnRVS2trRHhicno?oc=5",
-        "publisher_name": "WRAL",
-        "publisher_url": "https://www.wral.com",
-        "published_at": "2026-11-13T18:53:41+00:00",
-        "indicative_usd": 4900000
-      },
-      {
-        "candidate_id": "2e4a6427c60d7df8",
-        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGhGVmU4WWxRbVdhTU1uSEVsdDgxMzVKS2duVzN6bXd5Ql9WU2J2ZURDZ0hFb3puSzJNakVGc0NCRWV4OWI4aDRmR3hQcF9PenFQckl0bFhEM0dvRU9fdTE3X0VLLVdmTEdXbThrS2tUdFVtbl9RN1U2UUlwTmtfSjBvLU5xeFVnNUVGUWZxVzVRVnZRdGRLcEFLY1VwN0pURFVHaXA2dzQxQdIBrwFBVV95cUxOLS1hVlJKVHlhcHZpbVFob3ZTNXpCQXlUWUR4YkJObFNfUGo4VkxFODNnSFpkRFlTd1ZEUUxfbFNZX0o4ZmZKeUV0eElYQ1JCNlJkYXExWjUyQUdPZTluVWxNTWZHeXFYNHBLYXIyOWc0Wmp2cmNEcWtpRHZJN2dRQXdUVi1OdDYwcUQ4UkgyeW9EOWhJVzdXR3VhaF8zM1VzeUgyMVlQVTVBRFRvSVEw?oc=5",
-        "publisher_name": "Breaking News, Latest News and Videos",
-        "publisher_url": "",
-        "published_at": "2026-11-12T08:34:42+00:00",
-        "indicative_usd": 4900000
-      },
-      {
-        "candidate_id": "00146205996eb812",
-        "title": "A Romanov Sapphire Bracelet Sells for $4.9 Million at a Geneva Auction - U.S. News & World Report",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSHVORThJb1AyWWN2RGl6VHpUZFEtZjR6T3RuN1l5S1YzZVhSZ2w1bS0xakVTRk93dHQ0TllsWHJsdEFjQUJlX1lkNkMzeVo5eGFSelhkaUdOMFFNYkx6X1B3dl9lREJ1ZFExblI1bkY5a0M3TVl4OWF6aU9iWVJuMG1ibjR6NmVEVVJHeVFEaVVBWTFiYnd2cHhtN21vbzlWVWhnMXFCYnJtYVcxTjJqblBnYWNvU0hnVkFQS3dPa3hxa1E2?oc=5",
-        "publisher_name": "U.S. News & World Report",
-        "publisher_url": "https://www.usnews.com",
-        "published_at": "2026-11-12T08:14:00+00:00",
-        "indicative_usd": 4900000
-      },
-      {
-        "candidate_id": "bbdd141ca74392e2",
-        "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - Boston Herald",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83QzduLWRvcXExUWctUUVBdEk3bHBPV0VEaXZCbmc5M09HRFlxVHk3NzZqQmhXUC1fVXVzanFIV0FYNXc1STRXTGFoQ0pIZlJyeVV3cFQwV29oVUwwUjFKOTlqTjI2M0lhVUhOdFZWR1hrUmJBTjFkbEUxUHIwaDg?oc=5",
-        "publisher_name": "Boston Herald",
-        "publisher_url": "https://www.bostonherald.com",
-        "published_at": "2026-11-12T08:00:00+00:00",
-        "indicative_usd": 4900000
       }
     ]
   },
@@ -6168,6 +6188,38 @@
         "publisher_url": "https://247wallst.com",
         "published_at": "2026-10-10T07:00:00+00:00",
         "indicative_usd": 968000
+      }
+    ]
+  },
+  {
+    "group_id": "7e3fe9c63a128e4d",
+    "title": "A Bottle of The Macallan Scotch Just Sold for $2.8 Million at Auction - Yahoo",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2800000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-09T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "54893e816fa83e84"
+    ],
+    "links": [
+      {
+        "candidate_id": "54893e816fa83e84",
+        "title": "A Bottle of The Macallan Scotch Just Sold for $2.8 Million at Auction - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZExGMXhmWU4wOFpEd3FxZHQwQjJtZVZFNVNrbVl6eEFqZHl6WGtxYUM3M3pNR0h6YXZFRmpfT2VfdV9xUVdlWHVoTzlvbm5WekFWT19rMkxQdWlLcE5rWENPLWhfQ1hzRVVTekE0SGVBSF9OOExFRWdYbzV6RGpBSU5QWEYxdUFzR09WYUpQVEYyZw?oc=5",
+        "publisher_name": "Yahoo",
+        "publisher_url": "https://www.yahoo.com",
+        "published_at": "2026-10-09T07:00:00+00:00",
+        "indicative_usd": 2800000
       }
     ]
   },
@@ -11921,102 +11973,6 @@
         "publisher_url": "https://www.luxurybazaar.com",
         "published_at": "2024-12-11T08:00:00+00:00",
         "indicative_usd": 9000000
-      }
-    ]
-  },
-  {
-    "group_id": "c638ed7a34d21b07",
-    "title": "Sotheby’s Important Watches Sale Fetches $16.6M - nationaljeweler.com",
-    "category_hint": "watch",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      16600000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-12-11T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "059558eaf0e7e525"
-    ],
-    "links": [
-      {
-        "candidate_id": "059558eaf0e7e525",
-        "title": "Sotheby’s Important Watches Sale Fetches $16.6M - nationaljeweler.com",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkNGb196UTJsbmRtcTV4akpMQzZjRU5zSGo4YUtKZkxsMXlvODNic3BjSEx3X1VRRXVkRl81ZW5tdE9zNDBYMzFOODd3NlphQlJwVFVwTFhMUjhBZktVWFl5VkxKeTUtTHZ2eWhJYzV2Y09sVUNoelFBanZ0N0s2a2dzcmFxOEpWT3lrVUVadmhSU0U?oc=5",
-        "publisher_name": "nationaljeweler.com",
-        "publisher_url": "https://nationaljeweler.com",
-        "published_at": "2024-12-11T08:00:00+00:00",
-        "indicative_usd": 16600000
-      }
-    ]
-  },
-  {
-    "group_id": "429438f8052d5afa",
-    "title": "Rare New England Coin From 1652 Found in an Old Cabinet Sells for $2.52 Million at Auction - My Modern Met",
-    "category_hint": "coins",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      2520000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-12-08T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "ba38ff24c3307a29"
-    ],
-    "links": [
-      {
-        "candidate_id": "ba38ff24c3307a29",
-        "title": "Rare New England Coin From 1652 Found in an Old Cabinet Sells for $2.52 Million at Auction - My Modern Met",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyUjZ0UXF2eFBGN2RxYzg0MFM3UEdpNVA0emF4Zm5sWm5VbUgxeFZrdmFQUmtvOFFfMGNUM2hYcldvVnVxN1hYQjNUNXpkRFhmRURVUFVqbE5FT3VyOEthSFdud1NMTlE?oc=5",
-        "publisher_name": "My Modern Met",
-        "publisher_url": "https://mymodernmet.com",
-        "published_at": "2024-12-08T08:00:00+00:00",
-        "indicative_usd": 2520000
-      }
-    ]
-  },
-  {
-    "group_id": "a6e704fbee6e100d",
-    "title": "30-Carat Pink Diamond Fetches $2.6M at Bonhams - nationaljeweler.com",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      2600000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2024-12-04T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "408d0cf2d3ee9492"
-    ],
-    "links": [
-      {
-        "candidate_id": "408d0cf2d3ee9492",
-        "title": "30-Carat Pink Diamond Fetches $2.6M at Bonhams - nationaljeweler.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXM2RnB0ZHlQbUFJN0pwcW1NaWR2NnhYcUYzUW1kbnVqdEdaQ0VBXzdtYjkzS1FVWmx2TzZnYjVrWFN1a2RUYjJIbmpJRHdCVDUzRHN4Q2dZM2oycG9CXzB2ZExaYk5kNjZfWWVKckEtek5MNnJtakFodkw1ZndrTzdnMkRNb0pUeENUcjdOTEZjZw?oc=5",
-        "publisher_name": "nationaljeweler.com",
-        "publisher_url": "https://nationaljeweler.com",
-        "published_at": "2024-12-04T08:00:00+00:00",
-        "indicative_usd": 2600000
       }
     ]
   },
