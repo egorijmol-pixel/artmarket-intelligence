@@ -197,6 +197,30 @@
     ]
   },
   {
+    "id": "af5fa18737ca24188081",
+    "house": "Artinvestment",
+    "country": "RU",
+    "domain": "artinvestment.ru",
+    "source_type": "platform",
+    "category": "jewelry",
+    "title": "На аукционе Christie's в Женеве за $17 млн продан уникальный сине-зеленый бриллиант Ocean Dream - ARTinvestment.RU",
+    "publication_at": "2026-05-19T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82SUZLM0JqMkZ6VzY0U05NTTBSeUJOenVxVE8xTWRKb2NOeS1NTDNUS0c4cDlTNlFOTkxweEJpREpFcGp1QkhJVU5KRXhuVVU1NE5mVmlZczZqRGNNN0h2aXAtX01vSVpzc2RtM3JVOFQ5dw?oc=5",
+    "publisher_website": "https://artinvestment.ru",
+    "native_amount": 17000000,
+    "native_currency": "USD",
+    "raw_price": "$17 млн",
+    "indicative_usd": 17000000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "1c948f214577098fa726",
     "house": "Stack's Bowers",
     "country": "US",
@@ -680,6 +704,30 @@
       "Дата публикации не считается датой продажи",
       "Без официального результата запись не является подтверждённой",
       "Требуется конвертация валюты на дату продажи; порог $300 000 ещё не проверен"
+    ]
+  },
+  {
+    "id": "14d40d470a61f8c658fb",
+    "house": "Литфонд",
+    "country": "RU",
+    "domain": "litfund.ru",
+    "source_type": "house",
+    "category": "books",
+    "title": "Картину Пикассо продали на аукционе почти за $103,5 млн - Аукционный дом «Литфонд»",
+    "publication_at": "2021-05-17T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xX3BxNEtNREc0cExsMkZUZGo4aGZ3a0lsbVRuMFpYNjVQVjZ2ZWJkMV81ZzJZMU01UWM5OUpWNnM3a3hZV1ZhRWlHNE8xQXJCN0tuQzJR?oc=5",
+    "publisher_website": "https://www.litfund.ru",
+    "native_amount": 103500000,
+    "native_currency": "USD",
+    "raw_price": "$103,5 млн",
+    "indicative_usd": 103500000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
     ]
   },
   {

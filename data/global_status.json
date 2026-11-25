@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-25T13:53:29.196751+00:00",
+  "checked_utc": "2026-11-25T15:38:13.604660+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -40,12 +40,12 @@
   "batch_size": 13,
   "rss_ok": 13,
   "rss_errors": 0,
-  "new_candidates": 0,
-  "candidate_queue_size": 39,
+  "new_candidates": 2,
+  "candidate_queue_size": 41,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 143,
-  "scan_cycles_completed": 7,
+  "next_cursor": 0,
+  "scan_cycles_completed": 8,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
     "No direct requests to blocked auction sites",
@@ -55,105 +55,105 @@
   ],
   "checks": [
     {
-      "house": "Saffronart",
-      "country": "IN",
-      "domain": "saffronart.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "AstaGuru",
-      "country": "IN",
-      "domain": "astaguru.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Pundole's",
-      "country": "IN",
-      "domain": "pundoles.com",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Strauss & Co",
-      "country": "ZA",
-      "domain": "straussart.co.za",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Aspire Art",
-      "country": "ZA",
-      "domain": "aspireart.net",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Stephan Welz",
-      "country": "ZA",
-      "domain": "swelco.co.za",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Leonard Joel",
-      "country": "AU",
-      "domain": "leonardjoel.com.au",
-      "status": "ok",
-      "rss_items": 7,
-      "new_leads": 0
-    },
-    {
-      "house": "Deutscher and Hackett",
-      "country": "AU",
-      "domain": "deutscherandhackett.com",
-      "status": "ok",
-      "rss_items": 9,
-      "new_leads": 0
-    },
-    {
-      "house": "Menzies Art Brands",
-      "country": "AU",
-      "domain": "menziesartbrands.com",
-      "status": "ok",
-      "rss_items": 8,
-      "new_leads": 0
-    },
-    {
-      "house": "Smith & Singer",
-      "country": "AU",
-      "domain": "smithandsinger.com.au",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Shapiro Auctions",
-      "country": "AU",
-      "domain": "shapiro.com.au",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Noble Numismatics",
-      "country": "AU",
-      "domain": "noble.com.au",
-      "status": "ok",
-      "rss_items": 8,
-      "new_leads": 0
-    },
-    {
-      "house": "Webb's",
+      "house": "Art+Object",
       "country": "NZ",
-      "domain": "webbs.co.nz",
+      "domain": "artandobject.co.nz",
+      "status": "ok",
+      "rss_items": 10,
+      "new_leads": 0
+    },
+    {
+      "house": "Dunbar Sloane",
+      "country": "NZ",
+      "domain": "dunbarsloane.co.nz",
+      "status": "ok",
+      "rss_items": 10,
+      "new_leads": 0
+    },
+    {
+      "house": "Morton Subastas",
+      "country": "MX",
+      "domain": "mortonsubastas.com",
+      "status": "ok",
+      "rss_items": 60,
+      "new_leads": 0
+    },
+    {
+      "house": "Bolsa de Arte",
+      "country": "BR",
+      "domain": "bolsadearte.com",
+      "status": "ok",
+      "rss_items": 56,
+      "new_leads": 0
+    },
+    {
+      "house": "Tiroche",
+      "country": "IL",
+      "domain": "tiroche.co.il",
+      "status": "ok",
+      "rss_items": 15,
+      "new_leads": 0
+    },
+    {
+      "house": "Kedem",
+      "country": "IL",
+      "domain": "kedem-auctions.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Matsart",
+      "country": "IL",
+      "domain": "matsartauctioneers.com",
+      "status": "ok",
+      "rss_items": 0,
+      "new_leads": 0
+    },
+    {
+      "house": "Литфонд",
+      "country": "RU",
+      "domain": "litfund.ru",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 1
+    },
+    {
+      "house": "Artinvestment",
+      "country": "RU",
+      "domain": "artinvestment.ru",
+      "status": "ok",
+      "rss_items": 60,
+      "new_leads": 1
+    },
+    {
+      "house": "Совком",
+      "country": "RU",
+      "domain": "sovcom.ru",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Монеты и медали",
+      "country": "RU",
+      "domain": "numismat.ru",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Auction.ru",
+      "country": "RU",
+      "domain": "auction.ru",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Bidspirit",
+      "country": "Global",
+      "domain": "bidspirit.com",
       "status": "ok",
       "rss_items": 80,
       "new_leads": 0
