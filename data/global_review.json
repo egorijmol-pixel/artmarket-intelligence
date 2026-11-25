@@ -197,6 +197,30 @@
     ]
   },
   {
+    "id": "1c948f214577098fa726",
+    "house": "Stack's Bowers",
+    "country": "US",
+    "domain": "stacksbowers.com",
+    "source_type": "house",
+    "category": "coins",
+    "title": "Over $2.6 Million in World Paper Money Sold in Stack's Bowers Galleries' Spring 2026 Maastricht Auction - Stack's Bowers",
+    "publication_at": "2026-05-13T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeHBqa0cwSDdJRlV4OWo0MUhwck4tNXZRSEdZdnVsbXpsYUJQdTJXRTRMMXVsNDFBbFhoUlg2Zk8wU1NKVy03Y2I1TEJhVjc2MG43YkYtRWpMYzhHZ3pya1RXOUZWTHVsUlh2VXpPbUVCY0hvQnJzTG5kTE9TZHRXSTc4SFJOeXM4bmhjRGF1TlV4Z3dmeVd3VVhVQU5lOEZ2Q21uQXlnd3RqZDZDUkZSb2JQMHVCOU1WMHZDYlBxd20zY2wxWDR4bTVLWHNfWFAwdEU1dVdUeUV0dw?oc=5",
+    "publisher_website": "https://stacksbowers.com",
+    "native_amount": 2600000,
+    "native_currency": "USD",
+    "raw_price": "$2.6 Million",
+    "indicative_usd": 2600000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "d12104d423fb88d5d61c",
     "house": "RR Auction",
     "country": "US",
