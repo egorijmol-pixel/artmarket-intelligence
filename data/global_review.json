@@ -197,6 +197,30 @@
     ]
   },
   {
+    "id": "d12104d423fb88d5d61c",
+    "house": "RR Auction",
+    "country": "US",
+    "domain": "rrauction.com",
+    "source_type": "house",
+    "category": "memorabilia",
+    "title": "Steve Jobs–Signed Apple Check No. 1 Sells for $2.4 Million at Auction - RR Auction",
+    "publication_at": "2026-02-21T08:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMzVlbThySS1KVjFGZ01UNWY0d1otUnZEN2N4ZGV5WGFCYzNJdG9iQjdRNk4wWHBUcXRoeU40R0h2cm5Qb3JBakdBRWxKYWxpaXctd3M0UEFPd003QlVBUHo4SGo1emJNSjZvZnhtdm1zRi1yME9QbllleG9IR1lIYkhjUC1TWEUxVDZFTU92ODBiWmg5Rk1DYk9pT3ZaV28?oc=5",
+    "publisher_website": "https://content.rrauction.com",
+    "native_amount": 2400000,
+    "native_currency": "USD",
+    "raw_price": "$2.4 Million",
+    "indicative_usd": 2400000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "feef87a2729a6bac2058",
     "house": "Christie's",
     "country": "Global",
@@ -697,6 +721,30 @@
     "native_currency": "USD",
     "raw_price": "$9,978,000",
     "indicative_usd": 9978000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
+    "id": "790fd10d55e5016b42b0",
+    "house": "Swann Galleries",
+    "country": "US",
+    "domain": "swanngalleries.com",
+    "source_type": "house",
+    "category": "books",
+    "title": "August 2020 LGBTQ+ Art, Material Culture & History Sale Brings $1M - Swann Auction Galleries",
+    "publication_at": "2020-08-23T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYUZqbThiUW1jU3hNTmQ4R3BKUmtFTzVpUG5aa1VpUVpuVENwT1ZCX1dmR2RHUWhXOGozRUZtcXYxZDNPcll4RUFTTWdGbmlPVUpHa0IzcFJEdHR6c1lQZWppN3pQTV9ZOVBzOXZCRFEyQUFraVoxdHJtSkhSYl9vQ0dHRmVKNnpCdDNRMHJEVHVRVm9kY2xGZjRGaGFUMzN0N1g4dVJYeGtzMDZDMGlPMGRfckpUYlBmbDMtZDN5RHNIcGE0dVdlX0lrT0dnT3ZnQkdfVmxYYm9iUQ?oc=5",
+    "publisher_website": "https://www.swanngalleries.com",
+    "native_amount": 1000000,
+    "native_currency": "USD",
+    "raw_price": "$1M",
+    "indicative_usd": 1000000,
     "possible_aggregate": false,
     "status": "needs_primary_source",
     "verified_sale": false,
