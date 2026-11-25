@@ -657,6 +657,30 @@
     ]
   },
   {
+    "id": "9e7ca4ed7da2de2ac623",
+    "house": "Heritage Auctions",
+    "country": "US",
+    "domain": "ha.com",
+    "source_type": "house",
+    "category": "books",
+    "title": "Spider-Man's Black Costume Origin Sells for $3.36 Million at Heritage Auctions to Shatter Comic... - Heritage Auctions",
+    "publication_at": "2022-01-13T08:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNelQzSTl1Zm1zeXdEcndESHFCbmtwWDA4Mll4RS1BbzN3ZVQ5TGlaMFB6c1pLYW1kZGlUc0c3NU9hMkFuQ3JlUjc3elRVVmVRcEtWajFzSkFSY01UcnZ2QUJBUFpmUGl6SUJDMHQzbWZLQmU0YlZfd3A0Y3g5VjdPZHhRNmhvYmxPM01vR2hyNzdQMEpHOWR2RXcyM1ZHcHlMTWFQRnhpd3FPUVg5XzNCRzZWV3FvOHZWMUdBdkxtZnFINnVwQUhvLWNnNnBRT1ozbm9EeEd0N204SDdxUVpnZGtWUFNMUGhNZ0ZYVXBzS21uY3R5b0N4MVgxQkJQaThDRUUwV1FqWnJNYWpvWEVEakFNNm0?oc=5",
+    "publisher_website": "https://comics.ha.com",
+    "native_amount": 3360000,
+    "native_currency": "USD",
+    "raw_price": "$3.36 Million",
+    "indicative_usd": 3360000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "b2b6fd08234767220652",
     "house": "Woolley & Wallis",
     "country": "GB",
