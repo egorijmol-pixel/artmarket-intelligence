@@ -1,9 +1,9 @@
 {
-  "checked_utc": "2026-11-26T01:45:27.583804+00:00",
+  "checked_utc": "2026-11-26T07:48:44.156590+00:00",
   "mode": "Official-publisher RSS headline evidence, no direct auction-house requests",
   "sources_checked": 8,
   "sources_ok": 8,
-  "new_rss_candidates": 41,
+  "new_rss_candidates": 45,
   "total_rss_review_leads": 87,
   "confirmed_sales_added": 0,
   "minimum_sale_price_usd": 300000,
@@ -19,7 +19,7 @@
       "source": "Heritage Auctions",
       "status": "ok",
       "rss_articles_seen": 100,
-      "new_candidates": 14,
+      "new_candidates": 12,
       "previously_known": 4
     },
     {
@@ -32,8 +32,8 @@
     {
       "source": "Stack's Bowers",
       "status": "ok",
-      "rss_articles_seen": 60,
-      "new_candidates": 7,
+      "rss_articles_seen": 100,
+      "new_candidates": 8,
       "previously_known": 0
     },
     {
@@ -41,14 +41,14 @@
       "status": "ok",
       "rss_articles_seen": 100,
       "new_candidates": 0,
-      "previously_known": 2
+      "previously_known": 3
     },
     {
       "source": "Christie's",
       "status": "ok",
-      "rss_articles_seen": 77,
-      "new_candidates": 1,
-      "previously_known": 2
+      "rss_articles_seen": 100,
+      "new_candidates": 6,
+      "previously_known": 6
     },
     {
       "source": "Sotheby's",
@@ -60,7 +60,7 @@
     {
       "source": "Bonhams",
       "status": "ok",
-      "rss_articles_seen": 100,
+      "rss_articles_seen": 61,
       "new_candidates": 0,
       "previously_known": 0
     },
