@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-26T03:34:28.660986+00:00",
+  "checked_utc": "2026-11-26T05:35:31.148906+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -44,7 +44,7 @@
   "candidate_queue_size": 42,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 78,
+  "next_cursor": 91,
   "scan_cycles_completed": 8,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
@@ -55,107 +55,107 @@
   ],
   "checks": [
     {
-      "house": "Swann Galleries",
+      "house": "Stack's Bowers",
       "country": "US",
-      "domain": "swanngalleries.com",
+      "domain": "stacksbowers.com",
       "status": "ok",
       "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "Freeman's",
+      "house": "GreatCollections",
       "country": "US",
-      "domain": "freemansauction.com",
+      "domain": "greatcollections.com",
       "status": "ok",
-      "rss_items": 58,
+      "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "Hindman",
+      "house": "Legend Rare Coin Auctions",
       "country": "US",
-      "domain": "hindmanauctions.com",
+      "domain": "legendauctions.com",
       "status": "ok",
       "rss_items": 0,
       "new_leads": 0
     },
     {
-      "house": "Leland Little",
+      "house": "Classical Numismatic Group",
       "country": "US",
-      "domain": "lelandlittle.com",
+      "domain": "cngcoins.com",
       "status": "ok",
       "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "Brunk Auctions",
+      "house": "Goldberg Coins",
       "country": "US",
-      "domain": "brunkauctions.com",
+      "domain": "goldbergcoins.com",
+      "status": "ok",
+      "rss_items": 54,
+      "new_leads": 0
+    },
+    {
+      "house": "Stephen Album Rare Coins",
+      "country": "US",
+      "domain": "stevealbum.com",
       "status": "ok",
       "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "Clars",
+      "house": "Acker Wines",
       "country": "US",
-      "domain": "clars.com",
+      "domain": "ackerwines.com",
       "status": "ok",
-      "rss_items": 58,
+      "rss_items": 59,
       "new_leads": 0
     },
     {
-      "house": "Julien's Auctions",
+      "house": "Hart Davis Hart",
       "country": "US",
-      "domain": "juliensauctions.com",
+      "domain": "hdhwine.com",
       "status": "ok",
-      "rss_items": 58,
+      "rss_items": 12,
       "new_leads": 0
     },
     {
-      "house": "Propstore",
+      "house": "Zachys",
       "country": "US",
-      "domain": "propstoreauction.com",
+      "domain": "zachys.com",
       "status": "ok",
       "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "RR Auction",
+      "house": "WineBid",
       "country": "US",
-      "domain": "rrauction.com",
-      "status": "ok",
-      "rss_items": 61,
-      "new_leads": 0
-    },
-    {
-      "house": "Goldin",
-      "country": "US",
-      "domain": "goldin.co",
+      "domain": "winebid.com",
       "status": "ok",
       "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "Robert Edward Auctions",
-      "country": "US",
-      "domain": "robertedwardauctions.com",
+      "house": "Heffel",
+      "country": "CA",
+      "domain": "heffel.com",
       "status": "ok",
-      "rss_items": 1,
+      "rss_items": 10,
       "new_leads": 0
     },
     {
-      "house": "Lelands",
-      "country": "US",
-      "domain": "lelands.com",
+      "house": "Waddington's",
+      "country": "CA",
+      "domain": "waddingtons.ca",
       "status": "ok",
-      "rss_items": 67,
+      "rss_items": 10,
       "new_leads": 0
     },
     {
-      "house": "Pristine Auction",
-      "country": "US",
-      "domain": "pristineauction.com",
+      "house": "Cowley Abbott",
+      "country": "CA",
+      "domain": "cowleyabbott.ca",
       "status": "ok",
-      "rss_items": 80,
+      "rss_items": 10,
       "new_leads": 0
     }
   ]
