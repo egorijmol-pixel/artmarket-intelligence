@@ -1,5 +1,5 @@
 {
-  "last_attempt_utc": "2026-11-26T01:44:57.099013+00:00",
+  "last_attempt_utc": "2026-11-26T07:48:15.441586+00:00",
   "sources_checked": 10,
   "sources_ok": 10,
   "candidates_count": 500,
@@ -8,32 +8,32 @@
     {
       "name": "Google News: auction \"sold for\" \"million\"",
       "status": "ok",
-      "articles_seen": 78,
-      "new_candidates": 19
+      "articles_seen": 73,
+      "new_candidates": 14
     },
     {
       "name": "Google News: collectible auction \"sells for\"",
       "status": "ok",
       "articles_seen": 100,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "name": "Google News: auction \"achieves\" \"$\"",
       "status": "ok",
-      "articles_seen": 53,
-      "new_candidates": 6
+      "articles_seen": 52,
+      "new_candidates": 5
     },
     {
       "name": "Google News: private sale art collectible \"million\"",
       "status": "ok",
-      "articles_seen": 76,
-      "new_candidates": 15
+      "articles_seen": 35,
+      "new_candidates": 6
     },
     {
       "name": "Google News: vintage car auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 38,
-      "new_candidates": 2
+      "articles_seen": 100,
+      "new_candidates": 0
     },
     {
       "name": "Google News: rare coin auction \"sold\"",
@@ -50,20 +50,20 @@
     {
       "name": "Google News: sports card collectible auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 32,
-      "new_candidates": 6
+      "articles_seen": 100,
+      "new_candidates": 0
     },
     {
       "name": "Google News: comic book auction \"sold for\"",
       "status": "ok",
-      "articles_seen": 53,
-      "new_candidates": 15
+      "articles_seen": 100,
+      "new_candidates": 5
     },
     {
       "name": "Google News: watch auction \"sold for\" million",
       "status": "ok",
-      "articles_seen": 100,
-      "new_candidates": 1
+      "articles_seen": 57,
+      "new_candidates": 10
     }
   ],
   "notice": "RSS-публикации являются кандидатами, не подтверждёнными продажами."

@@ -10194,6 +10194,38 @@
     ]
   },
   {
+    "group_id": "52889f8517c266d6",
+    "title": "Kobe-MJ dual Logoman card fetches $3.17 million at auction - ESPN",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      3170000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-12-20T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "e09aa662dd853271"
+    ],
+    "links": [
+      {
+        "candidate_id": "e09aa662dd853271",
+        "title": "Kobe-MJ dual Logoman card fetches $3.17 million at auction - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanAtREYxRUFVNkdVZmZjaXdQNXF3ZmJIaXhqQXoxTlhVZGNLWGZES290WG0xTVpkdExGRDAtODlCSjdXdERySlc4b3l2b3k2VmFnSTB4R0pvcFZQbnpob3hkTElZU3lfcmVJMFRNeVE1Z2ZJOGtfMExnWmRtRVRhUm10ZmU3Q2ZUNF9JMDNWNWxOSWhyeG1FMFY0MDBvVjg?oc=5",
+        "publisher_name": "ESPN",
+        "publisher_url": "https://www.espn.com",
+        "published_at": "2025-12-20T08:00:00+00:00",
+        "indicative_usd": 3170000
+      }
+    ]
+  },
+  {
     "group_id": "94e6f4864241162d",
     "title": "Shohei Ohtani Gold Logoman 1/1 sells for record $3 million - Yahoo Sports",
     "category_hint": "other",
@@ -10254,6 +10286,38 @@
         "publisher_url": "https://www.businessinsider.com",
         "published_at": "2025-12-16T08:00:00+00:00",
         "indicative_usd": 16700000
+      }
+    ]
+  },
+  {
+    "group_id": "d6b794d518a2252e",
+    "title": "Last US cents sold at auction for $16.76 million were worth a pretty penny - AP News",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      16760000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2025-12-16T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "5a480e21c09d1339"
+    ],
+    "links": [
+      {
+        "candidate_id": "5a480e21c09d1339",
+        "title": "Last US cents sold at auction for $16.76 million were worth a pretty penny - AP News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3FzeHZqdUZ3anFvTjdGcDdqa1RoY25YX3FGWkkteGtPLTdqNEVPbTRqdDB1QzFQMjdZTGZiaVJ2VGR1Z01EOU5jTnJpbXFzLUl4c3RTQzgxX1BhS3F2b3ZTcmh3Z1EzRWJqYTZYdVN6SDlQbjdTdFB4ZklvTWxrX005bjdJTk80bDJVUGFPX0h6NUttZ0N1enM1WFJLWVpVd3NmZER3?oc=5",
+        "publisher_name": "AP News",
+        "publisher_url": "https://apnews.com",
+        "published_at": "2025-12-16T08:00:00+00:00",
+        "indicative_usd": 16760000
       }
     ]
   },
@@ -11864,70 +11928,6 @@
         "publisher_url": "https://www.nbcnews.com",
         "published_at": "2025-03-21T07:00:00+00:00",
         "indicative_usd": 1110000
-      }
-    ]
-  },
-  {
-    "group_id": "bfaf035228780444",
-    "title": "5 Rare Coins That Sold for More Than $1 Million Last Year - Yahoo Finance",
-    "category_hint": "coins",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-02-01T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "d0879ed4f9df3fbc"
-    ],
-    "links": [
-      {
-        "candidate_id": "d0879ed4f9df3fbc",
-        "title": "5 Rare Coins That Sold for More Than $1 Million Last Year - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0dmZta2RuUWo2dG0zVWhSXzR3cGFCRWE4YlhTTVN4M3k3amRmd3VZM3VNejE2dkhpa0NQeTY2TWY3YXZvLWQ5MExCcktNeE5WTXFfbW16NUdpcV83aC1JUHdwbHJtTjU5V09sX1hVYXh2UXVwcWZn?oc=5",
-        "publisher_name": "Yahoo Finance",
-        "publisher_url": "https://finance.yahoo.com",
-        "published_at": "2025-02-01T08:00:00+00:00",
-        "indicative_usd": 1000000
-      }
-    ]
-  },
-  {
-    "group_id": "c7aa6eee36e9b387",
-    "title": "“Testament to the legacy of a genius”: Jeff Beck's guitar collection has sold for an astounding $10.7 million at auction – complete with a record-breaking Les Paul sale - Guitar World",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      10700000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-01-23T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "593c808ae1fe14ce"
-    ],
-    "links": [
-      {
-        "candidate_id": "593c808ae1fe14ce",
-        "title": "“Testament to the legacy of a genius”: Jeff Beck's guitar collection has sold for an astounding $10.7 million at auction – complete with a record-breaking Les Paul sale - Guitar World",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3I5aFJYNmhOc0JCdzlMUERFVlFSdDlEVUVfcXpOa0Y4aXY0U2ZkSEZKSkRXQ3dPRHh5bmJLcHFIVl9KT29VSWIxdlhJdDNaLXRsNVhncXVhd0t4dmFTOFNYVVdrQ0YzZkpPaHlsSWVpTUZmcDlTOE4wNldDTXYweGVLUUhmQQ?oc=5",
-        "publisher_name": "Guitar World",
-        "publisher_url": "https://www.guitarworld.com",
-        "published_at": "2025-01-23T08:00:00+00:00",
-        "indicative_usd": 10700000
       }
     ]
   },
