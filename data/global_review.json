@@ -245,6 +245,30 @@
     ]
   },
   {
+    "id": "11c21a76d12e818a0f86",
+    "house": "Christie's",
+    "country": "Global",
+    "domain": "christies.com",
+    "source_type": "house",
+    "category": "art",
+    "title": "Warhol’s Marilyn Sells for $195 Million - Christie's Press",
+    "publication_at": "2026-03-25T15:46:39+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnX2hlT1Q0cHpmRXlIMlV5anRLU0E0WlVLQ1pqZG00LTE4MTZFUXF1TlZKelFvRzR2Tml4RF9sRjJoZDJIcmlob0lGMVB4eVY2QnVUSzhMdHpTczhnbFpQM1RsV09OQlI0QTA2QzlKYWpOQ3FxSm1zRGRB?oc=5",
+    "publisher_website": "https://press.christies.com",
+    "native_amount": 195000000,
+    "native_currency": "USD",
+    "raw_price": "$195 Million",
+    "indicative_usd": 195000000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "d12104d423fb88d5d61c",
     "house": "RR Auction",
     "country": "US",
@@ -307,6 +331,30 @@
     "native_currency": "USD",
     "raw_price": "$27.2M",
     "indicative_usd": 27200000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
+    "id": "624b0123b7c47f3a750e",
+    "house": "Christie's",
+    "country": "Global",
+    "domain": "christies.com",
+    "source_type": "house",
+    "category": "art",
+    "title": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
+    "publication_at": "2025-12-17T08:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcERoQjcyaWJKNW10MEkzQ1JKemlRTFdCeUhYaFpuVy1sd1RXV0pMbl9lOWhwVVVRaEFGaTRDcUw5Q2VEQXA0dEU0VUJzSGRFVlFXcGxXV2Z4SHpjOFZYZ0ZaNVRGRDJCcGFfcEdCYUJIdlJOaVN4QWJUX24xVUc1dFpSM0JOMHF4ZlV1SDkySm40WDAxOW54T29KR3l6UllEMW9HbUp5SExqRWlYSE5HTHZiYWdGS3hRbUx0R2RsNE92cHlnYWZTMWpDekZ0b3VpTU50ZmpQSlc?oc=5",
+    "publisher_website": "https://press.christies.com",
+    "native_amount": 234000000,
+    "native_currency": "USD",
+    "raw_price": "$234 Million",
+    "indicative_usd": 234000000,
     "possible_aggregate": false,
     "status": "needs_primary_source",
     "verified_sale": false,

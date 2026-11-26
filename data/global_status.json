@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-26T15:35:42.934302+00:00",
+  "checked_utc": "2026-11-26T17:30:43.073533+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -38,13 +38,13 @@
   ],
   "registry_coverage": "curated, not exhaustive",
   "batch_size": 13,
-  "rss_ok": 13,
-  "rss_errors": 0,
-  "new_candidates": 0,
-  "candidate_queue_size": 42,
+  "rss_ok": 9,
+  "rss_errors": 4,
+  "new_candidates": 2,
+  "candidate_queue_size": 44,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 0,
+  "next_cursor": 13,
   "scan_cycles_completed": 9,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
@@ -55,108 +55,108 @@
   ],
   "checks": [
     {
-      "house": "Art+Object",
-      "country": "NZ",
-      "domain": "artandobject.co.nz",
-      "status": "ok",
-      "rss_items": 70,
-      "new_leads": 0
-    },
-    {
-      "house": "Dunbar Sloane",
-      "country": "NZ",
-      "domain": "dunbarsloane.co.nz",
-      "status": "ok",
-      "rss_items": 10,
-      "new_leads": 0
-    },
-    {
-      "house": "Morton Subastas",
-      "country": "MX",
-      "domain": "mortonsubastas.com",
-      "status": "ok",
-      "rss_items": 59,
-      "new_leads": 0
-    },
-    {
-      "house": "Bolsa de Arte",
-      "country": "BR",
-      "domain": "bolsadearte.com",
-      "status": "ok",
-      "rss_items": 55,
-      "new_leads": 0
-    },
-    {
-      "house": "Tiroche",
-      "country": "IL",
-      "domain": "tiroche.co.il",
-      "status": "ok",
-      "rss_items": 15,
-      "new_leads": 0
-    },
-    {
-      "house": "Kedem",
-      "country": "IL",
-      "domain": "kedem-auctions.com",
-      "status": "ok",
-      "rss_items": 60,
-      "new_leads": 0
-    },
-    {
-      "house": "Matsart",
-      "country": "IL",
-      "domain": "matsartauctioneers.com",
-      "status": "ok",
-      "rss_items": 0,
-      "new_leads": 0
-    },
-    {
-      "house": "Литфонд",
-      "country": "RU",
-      "domain": "litfund.ru",
-      "status": "ok",
-      "rss_items": 58,
-      "new_leads": 0
-    },
-    {
-      "house": "Artinvestment",
-      "country": "RU",
-      "domain": "artinvestment.ru",
-      "status": "ok",
-      "rss_items": 60,
-      "new_leads": 0
-    },
-    {
-      "house": "Совком",
-      "country": "RU",
-      "domain": "sovcom.ru",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Монеты и медали",
-      "country": "RU",
-      "domain": "numismat.ru",
-      "status": "ok",
-      "rss_items": 59,
-      "new_leads": 0
-    },
-    {
-      "house": "Auction.ru",
-      "country": "RU",
-      "domain": "auction.ru",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Bidspirit",
+      "house": "Sotheby's",
       "country": "Global",
-      "domain": "bidspirit.com",
+      "domain": "sothebys.com",
       "status": "ok",
       "rss_items": 80,
       "new_leads": 0
+    },
+    {
+      "house": "Christie's",
+      "country": "Global",
+      "domain": "christies.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 2
+    },
+    {
+      "house": "Bonhams",
+      "country": "Global",
+      "domain": "bonhams.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Heritage Auctions",
+      "country": "US",
+      "domain": "ha.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "RM Sotheby's",
+      "country": "Global",
+      "domain": "rmsothebys.com",
+      "status": "error",
+      "http_code": 429,
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "house": "Gooding Christie's",
+      "country": "US",
+      "domain": "goodingco.com",
+      "status": "ok",
+      "rss_items": 56,
+      "new_leads": 0
+    },
+    {
+      "house": "Broad Arrow Auctions",
+      "country": "US",
+      "domain": "broadarrowauctions.com",
+      "status": "ok",
+      "rss_items": 32,
+      "new_leads": 0
+    },
+    {
+      "house": "Mecum Auctions",
+      "country": "US",
+      "domain": "mecum.com",
+      "status": "error",
+      "http_code": 429,
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "house": "Barrett-Jackson",
+      "country": "US",
+      "domain": "barrett-jackson.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Bring a Trailer",
+      "country": "US",
+      "domain": "bringatrailer.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Cars & Bids",
+      "country": "US",
+      "domain": "carsandbids.com",
+      "status": "ok",
+      "rss_items": 80,
+      "new_leads": 0
+    },
+    {
+      "house": "Artcurial",
+      "country": "FR",
+      "domain": "artcurial.com",
+      "status": "error",
+      "http_code": 429,
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "house": "Tajan",
+      "country": "FR",
+      "domain": "tajan.com",
+      "status": "error",
+      "http_code": 429,
+      "reason": "HTTP Error 429: Too Many Requests"
     }
   ]
 }
