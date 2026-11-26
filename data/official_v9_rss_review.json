@@ -64,6 +64,11 @@
         "indicative_usd": 3000000
       },
       {
+        "publisher": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYTkxc2xDd1BwdGhrcU1oU2tLQXRiWEhQMzU0SEJzcDFVUUFaYjZBakdPQThVeDlyc001MWZsdm9mdXZ0bzR2Z0cxT0wxX2lkS2J0SGI0Q0pMRjlzNzFfWFBSeVdOQkozaUNGT3BobVB0eVJSSTRqWE9WVnVNSlhZQnQ2allnRWc?oc=5",
+        "indicative_usd": 3000000
+      },
+      {
         "publisher": "Kotaku",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjNQT1J4SlZLSk5TWVpTYW5YRG4zR3pwRWhzX05lUC1FRDM2cG1jQi1fb2FkM1dVZE9yRUJkZ0QzLTdBZTk5RE1iNDVWRXdMX1ZfQ2ZJVmdEVk9QajRmWmJaSTR4ejBBUGVKb0E1S1NIc083TzhzVUEwTFR2NGdWVUJ1TThSNG51V2R5b0xR?oc=5",
         "indicative_usd": 3000000
@@ -173,6 +178,30 @@
         "publisher": "Antique Trader",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFBCNkRqNFB1Z3lCOUZBOEpZWUk1WV9TZURlVjk3RllfbDBnWWN2MlV2alg3UVhvclMtdkZiY21iZ1VwMHVRUVBTTlB3bXQ5M09JSmRnMzBVdmx4WXZFTkEzbEIzclJpUC0wTUxrMDJEWnFzSDhTMHJkLUxvN0toaWNBVUZFN2ZmZmYzbA?oc=5",
         "indicative_usd": 14750000
+      }
+    ],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
+    "id": "c2648dd27fafe9a7",
+    "house": "Sotheby's",
+    "title": "THE DE BEERS BLUE | Largest Fancy Vivid Blue Diamond Ever offered at Auction | Sells at Sotheby’s Hong Kong for HK$451m / US$57.5m | Among the Highest Prices Ever Achieved for Any Diamond Sold at Auction - Sotheby's",
+    "indicative_usd": 57500000,
+    "publication_at": "2022-04-27T07:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQZ3puUXRBRF8tc1BwT2J4cHNRcEtHM2wyU01XQkdTQ1BXSFhRMFRJbGttSE5RWkgxME84em85S2poZHYtM2xDTm80NHBqMnl1Vmk3dXJSdGc4TDJYMnBwSFZDdFBmdHhIWGNIODM2eTFUQkh3TWpJcUhJVVBmdzNxLU80XzNxeVQ3TzFpUHA5YVgzSnFuSDVrTkdIUWJUWFlhODA4N202bHgzOHY5UlQ1cDRFR3BaaHJuRVgyZUdrR0pCTkdFVlpqXzNXeDFQaTBxa19vRDZ4RG9iUGQ2WWlFUzI1OEhqSWptVW1zU01ZNFc3LWhSUnZMU1JSQjZoSVNwYTNfYXczZ0tPU1VmbUNVaXpSckhVa29nc0cyWVhLc1JHNVpYcEdpZnhrenZtUXA0VzN2dU5SOG5mb2NjcmNsS2VjMldxU2JVQzFpMmx0cFFsT3dyRmFBQlZaYldWM3hoYVhOUjRpZ3pFb2ZFYmZzWFp1dzE0RGFz?oc=5",
+    "publisher_name": "Sotheby's",
+    "publisher_website": "https://www.sothebys.com",
+    "corroborating_news": [
+      {
+        "publisher": "Natural Diamond Council",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMExEQ19PVkZYc3o5UWRJMDBfYWx4bGZiQlBORHFNQXltcUJSUHNteFhqRTA5NklVa3UyREhfMkNFOHFHX082UFdGbTk2QzVCSzRUZkVEVFU2OWpMRTY3MC1JeHNybTZJM1R3SDZiT2M2aGZhOUtCMVJXSkZGekJoNQ?oc=5",
+        "indicative_usd": 58000000
       }
     ],
     "review_status": "needs_primary_source_full_text",
@@ -714,24 +743,6 @@
     "google_news_article": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNXpSTEo4Q0dyV2RJeTRBUmFfUHBuUW1Hc2xjWDB5a1RIRXJVeHNFTm1sYUFuaDNmOHNlNks3MnhoTjhId2hnWXdiaGx1YTYyQ0toZWFFTjhNeFRwM1NXNlBFazZEWlpFTFBjRndWcFVxRk9XSXFPVUZZUktWWnZtREwtY281bkY4RklUc3NpTXNrNUxDSm9iV3JGRkNaZjBtTFdxVXRJR3ZiV1JCc1RiQU1HT2FkLVExQnhleXBGeWljdTdua2p2bFZkNDQzeU81eUNiejFaU0M5NXZUWXg5czFrLWVYMEJHaUl2OFd3aGNXMDR2c1N3RVFrR2ZweXVpajN3bFp6RkQxTzVZUmh4OGtvekZUMTJMeUdSTV9lS1E3MVZV?oc=5",
     "publisher_name": "Heritage Auctions",
     "publisher_website": "https://coins.ha.com",
-    "corroborating_news": [],
-    "review_status": "needs_primary_source_full_text",
-    "is_verified_sale": false,
-    "checks_needed": [
-      "Открыть оригинальную публикацию и проверить цену отдельного лота",
-      "Установить дату самой продажи, не публикации",
-      "Проверить, не является ли сумма итогом аукциона или оценкой"
-    ]
-  },
-  {
-    "id": "c2648dd27fafe9a7",
-    "house": "Sotheby's",
-    "title": "THE DE BEERS BLUE | Largest Fancy Vivid Blue Diamond Ever offered at Auction | Sells at Sotheby’s Hong Kong for HK$451m / US$57.5m | Among the Highest Prices Ever Achieved for Any Diamond Sold at Auction - Sotheby's",
-    "indicative_usd": 57500000,
-    "publication_at": "2022-04-27T07:00:00+00:00",
-    "google_news_article": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQZ3puUXRBRF8tc1BwT2J4cHNRcEtHM2wyU01XQkdTQ1BXSFhRMFRJbGttSE5RWkgxME84em85S2poZHYtM2xDTm80NHBqMnl1Vmk3dXJSdGc4TDJYMnBwSFZDdFBmdHhIWGNIODM2eTFUQkh3TWpJcUhJVVBmdzNxLU80XzNxeVQ3TzFpUHA5YVgzSnFuSDVrTkdIUWJUWFlhODA4N202bHgzOHY5UlQ1cDRFR3BaaHJuRVgyZUdrR0pCTkdFVlpqXzNXeDFQaTBxa19vRDZ4RG9iUGQ2WWlFUzI1OEhqSWptVW1zU01ZNFc3LWhSUnZMU1JSQjZoSVNwYTNfYXczZ0tPU1VmbUNVaXpSckhVa29nc0cyWVhLc1JHNVpYcEdpZnhrenZtUXA0VzN2dU5SOG5mb2NjcmNsS2VjMldxU2JVQzFpMmx0cFFsT3dyRmFBQlZaYldWM3hoYVhOUjRpZ3pFb2ZFYmZzWFp1dzE0RGFz?oc=5",
-    "publisher_name": "Sotheby's",
-    "publisher_website": "https://www.sothebys.com",
     "corroborating_news": [],
     "review_status": "needs_primary_source_full_text",
     "is_verified_sale": false,
