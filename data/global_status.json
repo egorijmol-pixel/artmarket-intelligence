@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-27T05:36:41.474736+00:00",
+  "checked_utc": "2026-11-27T07:57:46.728272+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -44,7 +44,7 @@
   "candidate_queue_size": 44,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 91,
+  "next_cursor": 104,
   "scan_cycles_completed": 9,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
@@ -55,107 +55,107 @@
   ],
   "checks": [
     {
-      "house": "Stack's Bowers",
-      "country": "US",
-      "domain": "stacksbowers.com",
+      "house": "Finarte",
+      "country": "IT",
+      "domain": "finarte.it",
+      "status": "ok",
+      "rss_items": 63,
+      "new_leads": 0
+    },
+    {
+      "house": "Pandolfini",
+      "country": "IT",
+      "domain": "pandolfini.it",
       "status": "ok",
       "rss_items": 60,
       "new_leads": 0
     },
     {
-      "house": "GreatCollections",
-      "country": "US",
-      "domain": "greatcollections.com",
+      "house": "Cambi",
+      "country": "IT",
+      "domain": "cambiaste.com",
       "status": "ok",
-      "rss_items": 61,
+      "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "Legend Rare Coin Auctions",
-      "country": "US",
-      "domain": "legendauctions.com",
+      "house": "Il Ponte",
+      "country": "IT",
+      "domain": "ilponteonline.com",
       "status": "ok",
       "rss_items": 0,
       "new_leads": 0
     },
     {
-      "house": "Classical Numismatic Group",
-      "country": "US",
-      "domain": "cngcoins.com",
-      "status": "ok",
-      "rss_items": 58,
-      "new_leads": 0
-    },
-    {
-      "house": "Goldberg Coins",
-      "country": "US",
-      "domain": "goldbergcoins.com",
-      "status": "ok",
-      "rss_items": 44,
-      "new_leads": 0
-    },
-    {
-      "house": "Stephen Album Rare Coins",
-      "country": "US",
-      "domain": "stevealbum.com",
+      "house": "Wannenes",
+      "country": "IT",
+      "domain": "wannenesgroup.com",
       "status": "ok",
       "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "Acker Wines",
-      "country": "US",
-      "domain": "ackerwines.com",
+      "house": "Bertolami Fine Arts",
+      "country": "IT",
+      "domain": "bertolamifinearts.com",
+      "status": "ok",
+      "rss_items": 0,
+      "new_leads": 0
+    },
+    {
+      "house": "Bolaffi",
+      "country": "IT",
+      "domain": "bolaffi.it",
       "status": "ok",
       "rss_items": 80,
       "new_leads": 0
     },
     {
-      "house": "Hart Davis Hart",
-      "country": "US",
-      "domain": "hdhwine.com",
+      "house": "Aste Boetto",
+      "country": "IT",
+      "domain": "asteboetto.it",
       "status": "ok",
-      "rss_items": 14,
+      "rss_items": 11,
       "new_leads": 0
     },
     {
-      "house": "Zachys",
-      "country": "US",
-      "domain": "zachys.com",
+      "house": "Subastas Segre",
+      "country": "ES",
+      "domain": "subastassegre.es",
       "status": "ok",
-      "rss_items": 54,
+      "rss_items": 46,
       "new_leads": 0
     },
     {
-      "house": "WineBid",
-      "country": "US",
-      "domain": "winebid.com",
+      "house": "Fernando Durán",
+      "country": "ES",
+      "domain": "fernandoduran.com",
       "status": "ok",
-      "rss_items": 54,
+      "rss_items": 53,
       "new_leads": 0
     },
     {
-      "house": "Heffel",
-      "country": "CA",
-      "domain": "heffel.com",
+      "house": "Setdart",
+      "country": "ES",
+      "domain": "setdart.com",
       "status": "ok",
-      "rss_items": 9,
+      "rss_items": 55,
       "new_leads": 0
     },
     {
-      "house": "Waddington's",
-      "country": "CA",
-      "domain": "waddingtons.ca",
+      "house": "Balclis",
+      "country": "ES",
+      "domain": "balclis.com",
       "status": "ok",
-      "rss_items": 10,
+      "rss_items": 50,
       "new_leads": 0
     },
     {
-      "house": "Cowley Abbott",
-      "country": "CA",
-      "domain": "cowleyabbott.ca",
+      "house": "Ansorena",
+      "country": "ES",
+      "domain": "ansorena.com",
       "status": "ok",
-      "rss_items": 10,
+      "rss_items": 80,
       "new_leads": 0
     }
   ]
