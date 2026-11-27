@@ -1630,6 +1630,69 @@
     ]
   },
   {
+    "group_id": "bc646190ff78eb5a",
+    "title": "Cooper Flagg NBA Debut Patch card sells for record $8.04 million, Flagg says it’s worth more - The Athletic - The New York Times",
+    "category_hint": "other",
+    "articles": 4,
+    "publishers": 4,
+    "indicative_usd_values": [
+      8000000,
+      8040000
+    ],
+    "amount_variation_pct": 0.5,
+    "last_publication_at": "2026-09-26T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "f7482faaa480bbb7",
+      "d2eaaea74c2f101c",
+      "d2bf8dd6e48c7b0b",
+      "42e719877a7bddb0"
+    ],
+    "links": [
+      {
+        "candidate_id": "f7482faaa480bbb7",
+        "title": "Cooper Flagg NBA Debut Patch card sells for record $8.04 million, Flagg says it’s worth more - The Athletic - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObE9yYzhjQi1IQTQ5YzhjMWxzcmQ2cTJrcjY3ZTZZWnBhVW1xY21BLXlDVXdiR3NBdWRPRzNvaE50dDBzWkNFX0pZNk1GVmR2dWRnZ3lWaE4zNFFWWU9IVTRpRl9VVFVpY0lKb2h2RlQyekNndEJxSXNkbVF4ZnpOT0ZZVEU1YVZPOHJJREJEX18?oc=5",
+        "publisher_name": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "published_at": "2026-09-26T07:00:00+00:00",
+        "indicative_usd": 8040000
+      },
+      {
+        "candidate_id": "d2eaaea74c2f101c",
+        "title": "Cooper Flagg NBA Rookie Debut card sells for record $8 million - Sports Collectors Digest",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ01Zb045VFZqU3NsLThveTd3c0hxTUJwcUhMd0V3WlR1SkJkQVpsWFBZV24zMzdSRWFITTBpN21sRy1EbjBRTGwzbFZSSW9NVnFYN25hanhyaXQtelVlYVBRbm5KcXRKOG5GSlNDSlJldndqaWg4SmVPZ0djV3cxVFdZNmJqOWtsYUFLN1d4VWsyd3U4ZjduMHE2TWo4QTB5V1RoS0FaLXpCTUl6X3RB?oc=5",
+        "publisher_name": "Sports Collectors Digest",
+        "publisher_url": "https://sportscollectorsdigest.com",
+        "published_at": "2026-09-25T07:00:00+00:00",
+        "indicative_usd": 8000000
+      },
+      {
+        "candidate_id": "d2bf8dd6e48c7b0b",
+        "title": "Cooper Flagg's NBA Rookie Debut Patch Autograph sells for $8.04M at auction, becomes third-most expensive NBA card ever - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORERGZzJmY3AwMkpHWnI4aGVvUXFidHVhNGlXa3p6VlJueE1nSnNqRXQwdldOYWlhbV9nakFZWUMtaVBlT1l5TU9oalp4MEJmeGxKamJGWDlSUWpnMU05YVZqaV9rUUNlSHZiRWZPRU80M1ZweDhmVnIxTUhGeGZGek9TWEROdzNRZFZCaDBaSTVXLW1TRUhVVUJibXZjdlA4QmI5VExzZjRTN2RyTHZmSWpNaUJmM2k2T0RJLVBxQVJDTEh6d2NzQ2c0N3YxTlNydHlnMXVJNU11dVVlTnQzenFUdll4TmVoY3VUanR3d2V5aWZ0N0ZjbVNFQjlnc3M3NlRhQ0JWbw?oc=5",
+        "publisher_name": "Yahoo Sports",
+        "publisher_url": "https://sports.yahoo.com",
+        "published_at": "2026-09-25T07:00:00+00:00",
+        "indicative_usd": 8040000
+      },
+      {
+        "candidate_id": "42e719877a7bddb0",
+        "title": "Cooper Flagg's rookie debut patch card sells for record $8.04 million - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeFZmV19KdnRhNWt0VVdoQnNnblI2aTZlMFBKSnd0eGlDQ2hoQ0p6TlV6R2NUTlVIWTU2NWFqSmxjOW9fQUdrS1Z2bDluTmhjWF9TS3pGZVJDbU9McU1tNi1RcjY0dUh5MTVBRWZ5enZiVU9UclphSTZra3ZQeHRxMVVQNi1DSGpKYkNpQmstbTZzSW5XNDZndGxUN0dZc2htbm9TNkVBbFRwekJmdWJIeGRMQnFwTk5KUWVUbXRlOFhfXzUtT3JTYnN3?oc=5",
+        "publisher_name": "ESPN",
+        "publisher_url": "https://www.espn.com",
+        "published_at": "2026-09-25T07:00:00+00:00",
+        "indicative_usd": 8040000
+      }
+    ]
+  },
+  {
     "group_id": "311ddc5d8d197cc1",
     "title": "Rare Honus Wagner card sells for whopping $5.124 million during auction - FOX 13 Tampa Bay",
     "category_hint": "other",
@@ -2065,58 +2128,6 @@
         "publisher_url": "",
         "published_at": "2026-11-13T02:11:52+00:00",
         "indicative_usd": 5000000
-      }
-    ]
-  },
-  {
-    "group_id": "69b00b7c8f634b7f",
-    "title": "Cooper Flagg NBA Debut Patch card sells for record $8.04 million, Flagg says it’s worth more - The Athletic - The New York Times",
-    "category_hint": "other",
-    "articles": 3,
-    "publishers": 3,
-    "indicative_usd_values": [
-      8040000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-09-26T07:00:00+00:00",
-    "priority": 2,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "f7482faaa480bbb7",
-      "d2bf8dd6e48c7b0b",
-      "42e719877a7bddb0"
-    ],
-    "links": [
-      {
-        "candidate_id": "f7482faaa480bbb7",
-        "title": "Cooper Flagg NBA Debut Patch card sells for record $8.04 million, Flagg says it’s worth more - The Athletic - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObE9yYzhjQi1IQTQ5YzhjMWxzcmQ2cTJrcjY3ZTZZWnBhVW1xY21BLXlDVXdiR3NBdWRPRzNvaE50dDBzWkNFX0pZNk1GVmR2dWRnZ3lWaE4zNFFWWU9IVTRpRl9VVFVpY0lKb2h2RlQyekNndEJxSXNkbVF4ZnpOT0ZZVEU1YVZPOHJJREJEX18?oc=5",
-        "publisher_name": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "published_at": "2026-09-26T07:00:00+00:00",
-        "indicative_usd": 8040000
-      },
-      {
-        "candidate_id": "d2bf8dd6e48c7b0b",
-        "title": "Cooper Flagg's NBA Rookie Debut Patch Autograph sells for $8.04M at auction, becomes third-most expensive NBA card ever - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORERGZzJmY3AwMkpHWnI4aGVvUXFidHVhNGlXa3p6VlJueE1nSnNqRXQwdldOYWlhbV9nakFZWUMtaVBlT1l5TU9oalp4MEJmeGxKamJGWDlSUWpnMU05YVZqaV9rUUNlSHZiRWZPRU80M1ZweDhmVnIxTUhGeGZGek9TWEROdzNRZFZCaDBaSTVXLW1TRUhVVUJibXZjdlA4QmI5VExzZjRTN2RyTHZmSWpNaUJmM2k2T0RJLVBxQVJDTEh6d2NzQ2c0N3YxTlNydHlnMXVJNU11dVVlTnQzenFUdll4TmVoY3VUanR3d2V5aWZ0N0ZjbVNFQjlnc3M3NlRhQ0JWbw?oc=5",
-        "publisher_name": "Yahoo Sports",
-        "publisher_url": "https://sports.yahoo.com",
-        "published_at": "2026-09-25T07:00:00+00:00",
-        "indicative_usd": 8040000
-      },
-      {
-        "candidate_id": "42e719877a7bddb0",
-        "title": "Cooper Flagg's rookie debut patch card sells for record $8.04 million - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeFZmV19KdnRhNWt0VVdoQnNnblI2aTZlMFBKSnd0eGlDQ2hoQ0p6TlV6R2NUTlVIWTU2NWFqSmxjOW9fQUdrS1Z2bDluTmhjWF9TS3pGZVJDbU9McU1tNi1RcjY0dUh5MTVBRWZ5enZiVU9UclphSTZra3ZQeHRxMVVQNi1DSGpKYkNpQmstbTZzSW5XNDZndGxUN0dZc2htbm9TNkVBbFRwekJmdWJIeGRMQnFwTk5KUWVUbXRlOFhfXzUtT3JTYnN3?oc=5",
-        "publisher_name": "ESPN",
-        "publisher_url": "https://www.espn.com",
-        "published_at": "2026-09-25T07:00:00+00:00",
-        "indicative_usd": 8040000
       }
     ]
   },
@@ -2592,6 +2603,49 @@
         "publisher_url": "https://www.wsj.com",
         "published_at": "2026-11-18T23:57:00+00:00",
         "indicative_usd": 190400000
+      }
+    ]
+  },
+  {
+    "group_id": "3a332077787d306b",
+    "title": "Claude Monet’s ‘Iris’ Sells for Record-Breaking $56.2M at Sotheby’s Paris Auction - My Modern Met",
+    "category_hint": "art",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      56000000,
+      56200000
+    ],
+    "amount_variation_pct": 0.4,
+    "last_publication_at": "2026-11-17T16:41:15+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "b7e3a94c8ba7b6c5",
+      "bf9c9218a5b3aa32"
+    ],
+    "links": [
+      {
+        "candidate_id": "b7e3a94c8ba7b6c5",
+        "title": "Claude Monet’s ‘Iris’ Sells for Record-Breaking $56.2M at Sotheby’s Paris Auction - My Modern Met",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUcHJfMmZNVDZ3VFp1bjF6eW5lTlVzTVltU2FsVVcwZXRBZ2FIOV9OdDdCWDZZX3dNaEk1b2N6eWQ3TUV1dDlCLXhyamx0N3Z2WXpXVERSU1FzMkE5NzM3YW1wclMyb3dDbFJKam5LR183di1i?oc=5",
+        "publisher_name": "My Modern Met",
+        "publisher_url": "https://mymodernmet.com",
+        "published_at": "2026-11-17T16:41:15+00:00",
+        "indicative_usd": 56200000
+      },
+      {
+        "candidate_id": "bf9c9218a5b3aa32",
+        "title": "Monet Painting Sells for $56 Million at Sotheby’s in Paris - Artforum",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcU11OV8xSXdoaFJwcHBpb1hQN2hTRlFSc2tCd3hDUU5QTnY5ZERFa3NPWjlXc2hGa01TLXQyWFVtZnYzVWNmRm1lUWRtazVIbE1LS1hfc2xpUzZ3eXFVVE9oc012RjRhakhHM2JsS1pqeG84aU8xcTBRS3J0eklzU3huMENucXV6aVQ1V3d1YVhSV1E?oc=5",
+        "publisher_name": "Artforum",
+        "publisher_url": "https://www.artforum.com",
+        "published_at": "2026-10-23T07:00:00+00:00",
+        "indicative_usd": 56000000
       }
     ]
   },
@@ -5214,38 +5268,6 @@
     ]
   },
   {
-    "group_id": "3d080e2beb9a177c",
-    "title": "Claude Monet’s ‘Iris’ Sells for Record-Breaking $56.2M at Sotheby’s Paris Auction - My Modern Met",
-    "category_hint": "art",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      56200000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-11-17T16:41:15+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "b7e3a94c8ba7b6c5"
-    ],
-    "links": [
-      {
-        "candidate_id": "b7e3a94c8ba7b6c5",
-        "title": "Claude Monet’s ‘Iris’ Sells for Record-Breaking $56.2M at Sotheby’s Paris Auction - My Modern Met",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUcHJfMmZNVDZ3VFp1bjF6eW5lTlVzTVltU2FsVVcwZXRBZ2FIOV9OdDdCWDZZX3dNaEk1b2N6eWQ3TUV1dDlCLXhyamx0N3Z2WXpXVERSU1FzMkE5NzM3YW1wclMyb3dDbFJKam5LR183di1i?oc=5",
-        "publisher_name": "My Modern Met",
-        "publisher_url": "https://mymodernmet.com",
-        "published_at": "2026-11-17T16:41:15+00:00",
-        "indicative_usd": 56200000
-      }
-    ]
-  },
-  {
     "group_id": "c8f113931f74e30e",
     "title": "In 2014, a three-bedroom beachfront apartment in Australia's Noosa Heads sold for A$5.3 million; 12 years - The Times of India",
     "category_hint": "other",
@@ -5793,6 +5815,38 @@
     ]
   },
   {
+    "group_id": "69ca5a0c98144686",
+    "title": "Dad Sells Rare Pokémon Cards for $2M After Leaving Them in Attic for 15 Years - People.com",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-01T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "2ca40b12f5d2d792"
+    ],
+    "links": [
+      {
+        "candidate_id": "2ca40b12f5d2d792",
+        "title": "Dad Sells Rare Pokémon Cards for $2M After Leaving Them in Attic for 15 Years - People.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcnZhbHgybGxIWlZBVGYyRE5kbmpLZTNaMmVXOHQzbWF5T2RLcTExNlRfMXh5NUhjU1NOV3NqaVBHWmJpQTV3dFEzRFpIQUVwbVZ4MTN4Umg3ZVVNWnVoTVd2czdKMml1c2pPZmotLWhTVWdWUERYNEFHNVh3bFU0WEJZNnp1NzlHUllIOVNnNW96NThNNVJWeGhEM1NPTk4yVEt5Wl9SUDhRa1VTaUtIZGtDd0V5QQ?oc=5",
+        "publisher_name": "People.com",
+        "publisher_url": "https://people.com",
+        "published_at": "2026-11-01T07:00:00+00:00",
+        "indicative_usd": 2000000
+      }
+    ]
+  },
+  {
     "group_id": "3bdc2dc2a64e7519",
     "title": "Kobe Bryant High School Jersey Sells for Record-Breaking $2.2 Million at Auction - Complex",
     "category_hint": "other",
@@ -6014,6 +6068,38 @@
         "publisher_url": "",
         "published_at": "2026-10-28T07:00:00+00:00",
         "indicative_usd": 72000000
+      }
+    ]
+  },
+  {
+    "group_id": "3d43206c87a8ce1c",
+    "title": "Worldgate Centre in Herndon sells for $28.2 million at competitive foreclosure auction - The Business Journals",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      28200000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-10-26T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "cccffa760401bf38"
+    ],
+    "links": [
+      {
+        "candidate_id": "cccffa760401bf38",
+        "title": "Worldgate Centre in Herndon sells for $28.2 million at competitive foreclosure auction - The Business Journals",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1B4eXhScnJ1cXRtajdsdEFDaXJMTkc4TjlDWnUtTEhWNllPUndGLUhJckhXbEtyRE9hZlhsMEhyUUtZZWo3bWlmQUpVVnBUanhqTl9NZENHeENkVjVFUVBneHZ2NFR0bnZSR0UwQnhubE9XUjZXMzNHUTNacHBpUGlFU0FvR1lpNENITC0yMnd5ZEFZM0Eyem1hTzJHLV9OOWN3?oc=5",
+        "publisher_name": "The Business Journals",
+        "publisher_url": "https://www.bizjournals.com",
+        "published_at": "2026-10-26T07:00:00+00:00",
+        "indicative_usd": 28200000
       }
     ]
   },
@@ -11731,134 +11817,6 @@
         "publisher_url": "https://bleedingcool.com",
         "published_at": "2025-06-26T07:00:00+00:00",
         "indicative_usd": 400000
-      }
-    ]
-  },
-  {
-    "group_id": "9271bab01ed71cb5",
-    "title": "A Purple-Pink Diamond Just Sold for a Record $13.98 Million at Auction - Robb Report",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      13980000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-06-18T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "ecdb741601bd8bbb"
-    ],
-    "links": [
-      {
-        "candidate_id": "ecdb741601bd8bbb",
-        "title": "A Purple-Pink Diamond Just Sold for a Record $13.98 Million at Auction - Robb Report",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUUVQNE11QmFUWWNJNFlhNzdFY0lJRlhnTHllREg5alFmV3J1cUR4YmRIdVNvQjNyQUl3NXl5ZWRETlFUMFZKSlRCaG9BTndmQ05hakhNcTRSQzk2dkZoWEh5cV80Q012S2JPbHNSbkNSQUlzdWR4TGV5RFo2X05nVXhUNm9nUmF5TXc1WGhEb2NyVEhNNm12LQ?oc=5",
-        "publisher_name": "Robb Report",
-        "publisher_url": "https://robbreport.com",
-        "published_at": "2025-06-18T07:00:00+00:00",
-        "indicative_usd": 13980000
-      }
-    ]
-  },
-  {
-    "group_id": "213562af75a618cf",
-    "title": "Historic ‘Marie-Thérèse Pink’ Diamond Fetches $14M at Christie’s - nationaljeweler.com",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      14000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-06-18T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "d89e97ff22d82276"
-    ],
-    "links": [
-      {
-        "candidate_id": "d89e97ff22d82276",
-        "title": "Historic ‘Marie-Thérèse Pink’ Diamond Fetches $14M at Christie’s - nationaljeweler.com",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSzJfN3JnQnk1MWdZQ2xVYWxSbzJ1bm1qeVBmVkoxSzZ0MHE5eWRXN2t3SHF0Z0JZSXVXaXE2Y1I2V3RDQVp0Mnp5cU9BMHR4RE5fSWhWR3JyZ1dMNEwzcGV0RXYxRDQ2Xzd0ZWtyS3NGOGtobVJ0MkhIdUVDQWZMdEVOVjVUWWZ5TWhLM2FNNHA4ZGhZWGhNMzdmLTNnY0pvbXNERmp6MA?oc=5",
-        "publisher_name": "nationaljeweler.com",
-        "publisher_url": "https://nationaljeweler.com",
-        "published_at": "2025-06-18T07:00:00+00:00",
-        "indicative_usd": 14000000
-      }
-    ]
-  },
-  {
-    "group_id": "bfade28370b5b8d5",
-    "title": "Christie’s Magnificent Jewels Achieves $87.7 Million - 100% Sold, Highest Total Ever for a Various-Owner Jewelry Auction at Christie’s in the Americas - Christie's Press",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      87700000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-06-17T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "253b9a69bd72a8bf"
-    ],
-    "links": [
-      {
-        "candidate_id": "253b9a69bd72a8bf",
-        "title": "Christie’s Magnificent Jewels Achieves $87.7 Million - 100% Sold, Highest Total Ever for a Various-Owner Jewelry Auction at Christie’s in the Americas - Christie's Press",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNamlfRDlNQTJiUWRSYnQ4QWdydkhCaFB3OThpaWN4TDYtQXV4VXZZQUlDN2FSM2lFX3p5dWxMTHJsR1hlOUxMdmhfb01rYWYtdERfZzJ4cFlMRVhjUjRubGNFMVpzQndqcVFNeFc5LTA1dVRqWWNLcnJnT2Zxdzl5aWlTeDRWclhPTllFTlhtS0I4d1dabVdNanhLMThESl9wR01oTzZBdFVqb1d5VzBTZG5xZHVNUVFya0JIQmNxSUhZRHNhZm41SGRLaDk4LUN1MERWTmY0Szc3LVRoT2RyT09tWUh2dDN4c1k4Rk1qaGthWUJlMHAxR3UtYnJseWc?oc=5",
-        "publisher_name": "Christie's Press",
-        "publisher_url": "https://press.christies.com",
-        "published_at": "2025-06-17T07:00:00+00:00",
-        "indicative_usd": 87700000
-      }
-    ]
-  },
-  {
-    "group_id": "9dba761f23f81465",
-    "title": "'The Mediterranean Blue' Diamond Sells for $21M at Sotheby’s - nationaljeweler.com",
-    "category_hint": "jewelry",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      21000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-05-15T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "2b6426cdc7144c4a"
-    ],
-    "links": [
-      {
-        "candidate_id": "2b6426cdc7144c4a",
-        "title": "'The Mediterranean Blue' Diamond Sells for $21M at Sotheby’s - nationaljeweler.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY2dMUWlkMURONXlSR2J1NlhHcnl4Y1h0MlBxQXg2c3JLS1gyWnUxaVM5dlJjMXFOYXpNc01xNF9jZFkyaUtNUUsybUlKaVlOZnl5N2JEYnNSQWxqSjNNTmxvOVJDUm9uYU1TeTFtc29NaG1yalQ4UlVTam5HcVBiNEFUcFZwM1c4TlVFYkVEUDBpYnlfeEhlTk43MEY0Z1c5ZUE?oc=5",
-        "publisher_name": "nationaljeweler.com",
-        "publisher_url": "https://nationaljeweler.com",
-        "published_at": "2025-05-15T07:00:00+00:00",
-        "indicative_usd": 21000000
       }
     ]
   },
