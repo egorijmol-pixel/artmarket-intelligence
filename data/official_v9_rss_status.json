@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-26T19:26:56.308453+00:00",
+  "checked_utc": "2026-11-27T01:46:09.745972+00:00",
   "mode": "Official-publisher RSS headline evidence, no direct auction-house requests",
   "sources_checked": 8,
   "sources_ok": 8,
@@ -18,37 +18,37 @@
     {
       "source": "Heritage Auctions",
       "status": "ok",
-      "rss_articles_seen": 58,
-      "new_candidates": 3,
-      "previously_known": 3
+      "rss_articles_seen": 100,
+      "new_candidates": 14,
+      "previously_known": 4
     },
     {
       "source": "Heritage Auctions",
       "status": "ok",
-      "rss_articles_seen": 100,
-      "new_candidates": 24,
-      "previously_known": 12
+      "rss_articles_seen": 55,
+      "new_candidates": 13,
+      "previously_known": 11
     },
     {
       "source": "Stack's Bowers",
       "status": "ok",
-      "rss_articles_seen": 60,
-      "new_candidates": 7,
+      "rss_articles_seen": 100,
+      "new_candidates": 8,
       "previously_known": 0
     },
     {
       "source": "Stack's Bowers",
       "status": "ok",
       "rss_articles_seen": 59,
-      "new_candidates": 1,
-      "previously_known": 2
+      "new_candidates": 0,
+      "previously_known": 3
     },
     {
       "source": "Christie's",
       "status": "ok",
       "rss_articles_seen": 100,
       "new_candidates": 6,
-      "previously_known": 6
+      "previously_known": 7
     },
     {
       "source": "Sotheby's",
@@ -67,7 +67,7 @@
     {
       "source": "Goldin",
       "status": "ok",
-      "rss_articles_seen": 47,
+      "rss_articles_seen": 46,
       "new_candidates": 0,
       "previously_known": 0
     }
