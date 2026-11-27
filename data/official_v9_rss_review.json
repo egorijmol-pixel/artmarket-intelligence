@@ -753,6 +753,24 @@
     ]
   },
   {
+    "id": "8850acfa346e171a",
+    "house": "Heritage Auctions",
+    "title": "Ancient Roman Medallion Brings $312,000 to Lead Heritage Auctions World & Ancient Coins Event... - Heritage Auctions",
+    "indicative_usd": 312000,
+    "publication_at": "2022-11-08T08:00:00+00:00",
+    "google_news_article": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOS3EyV1I5cGVFRXZtdGxjQ2x0M013bUt6NFlsZXZLQ1JUVm1lVWlTcE5yLXBJczhSUHRIR1FudS1DczNkYkZqM19uMlVxT05Rc01kLXUxUHJGdHNfOTNHdlJTY0lGcG1ZOTZqcmxZMXlkRDBCelVXb011SmNhR1ZYQ2FxV2xPVEI0Y1V6ZUt4R281UkVRV3ZHSlBtNXlwNG00THBaMjZpT0xyWXJ0ZHllRjNYU2NESG44X2Q5V2p2eGg2TmsyWmJUczFoSEF2RVBoSG5TWlFOQ1JSTENWbjNZTDZEbER6cmpBMWVRbXpFdEZDb1I0TXZoT1hRbUxyTXpRNkIzaktXdGtOdWc3RFBjQTRnUnZIZ2cwMi03Xw?oc=5",
+    "publisher_name": "Heritage Auctions",
+    "publisher_website": "https://coins.ha.com",
+    "corroborating_news": [],
+    "review_status": "needs_primary_source_full_text",
+    "is_verified_sale": false,
+    "checks_needed": [
+      "Открыть оригинальную публикацию и проверить цену отдельного лота",
+      "Установить дату самой продажи, не публикации",
+      "Проверить, не является ли сумма итогом аукциона или оценкой"
+    ]
+  },
+  {
     "id": "d102717ed99d4a04",
     "house": "Heritage Auctions",
     "title": "Captain America's Debut Comic Book Sells for $3.12 Million at Heritage Auctions - Heritage Auctions",
@@ -1277,11 +1295,11 @@
   {
     "id": "6b9a838be6e73eba",
     "house": "Sotheby's",
-    "title": "Monet's \"Meules\" Sells for Astonishing $110.7 Million, a New Artist Record - Sothebys.com",
+    "title": "Monet's \"Meules\" Sells for Astonishing $110.7 Million, a New Artist Record - Sotheby's",
     "indicative_usd": 110700000,
     "publication_at": "2019-05-14T07:00:00+00:00",
     "google_news_article": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWm5abjhnVXpUYmN2S0JlM3VSemlEYXVnSzdycEFYZFpwbzhPTlN3R0h1LUt1ajYtdGpZX1pTSmxqdC1veW05bnZDR3BwZ2hTX2ZDUVVUWjZ4UE40ODQwcU4yTVhjamhxWXY1VHAzMnoxSk9NX1BZUUFPVjFBblNRWUxrS2ozelVhNURIS25ObG1JS2NjQ25DbjJDXy05RDRvLWthQlF2MEpDQQ?oc=5",
-    "publisher_name": "Sothebys.com",
+    "publisher_name": "Sotheby's",
     "publisher_website": "https://www.sothebys.com",
     "corroborating_news": [],
     "review_status": "needs_primary_source_full_text",
@@ -1331,11 +1349,11 @@
   {
     "id": "140cb9b4c732472d",
     "house": "Sotheby's",
-    "title": "Contemporary Art Brings $362 Million, As New Records Are Set for Three African-American Artists - Sothebys.com",
+    "title": "Contemporary Art Brings $362 Million, As New Records Are Set for Three African-American Artists - Sotheby's",
     "indicative_usd": 362000000,
     "publication_at": "2018-11-14T08:00:00+00:00",
     "google_news_article": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQm52ZkRZRExFS3NSQzVBaTByM0NzUlZXSU90UkNzbHlKYnN1aVVKTElsYlBIYnRsYkc0OUNJZ2hHeGd1UElUaGNWR2VMeDJWXzkySTVqM29oYnAxU3RLSmRRX3FrX1J2YUstV3YzY1RTWkV6azlwN1drM0JWLUJDWUZpaGNNc0lWdG9RNm1ZaHZ3aFdERXNZa2FfRlNTb04xRXlYVzNXVmtMRG9zUVd2NEo1dGx0UWVkVkhycEJXa2UzZUYyVFJtc0JYTmM3UXVG?oc=5",
-    "publisher_name": "Sothebys.com",
+    "publisher_name": "Sotheby's",
     "publisher_website": "https://www.sothebys.com",
     "corroborating_news": [],
     "review_status": "needs_primary_source_full_text",
