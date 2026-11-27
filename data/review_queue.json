@@ -1,10 +1,10 @@
 [
   {
-    "group_id": "d950eefa856db2a6",
+    "group_id": "5241cf00abc1c6b4",
     "title": "A Vincent Van Gogh Painting Sold for a Record $190.4 Million. First Came a Fight Over Its Nazi-Era Past. - FindLaw",
     "category_hint": "art",
-    "articles": 23,
-    "publishers": 21,
+    "articles": 24,
+    "publishers": 22,
     "indicative_usd_values": [
       190000000,
       190400000
@@ -35,6 +35,7 @@
       "e9bc7dfe67249b11",
       "c59ce53a4b30037a",
       "f2be0ef380c29ee3",
+      "4dd8d2ad17e172c1",
       "0a6dc300151f6206",
       "f85bfbf279bc3baa",
       "73a53281bd2c47cd",
@@ -197,6 +198,15 @@
         "indicative_usd": 190400000
       },
       {
+        "candidate_id": "4dd8d2ad17e172c1",
+        "title": "Painting by van Gogh sells for record $190.4 million at Sotheby’s auction - WHIO TV",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1RYMHBiQmI3ZDJUVnFFUXlKdm1KWEJwem9nZURDNkU4ZGEzNVpjWEJiYlpmT3kzUXI0dUZDYUJhVUNwQ0tyRHhTSkJtSk85bDdReExZREphdktFVG9KVlBsN1A5amNRTkViblFyTlh2eHd3NC1udGR3eUxiMkhYdmIydVpmUHFZTG5oMVk4em9IV1F3TWdKMXNTbVZZanBCSkIzT1B2N3RTUW1GSy0ydHJtazNUMkVjOXdzZ2cwY2hsY3BB0gHYAUFVX3lxTE9tUUE5bDI3ejdUWlhabk9Zc2tuZVJ0R0Jrak9Zd0s2VUdTSUh4ZTh2ZmI1QmRXQWNPUHVRS2xLZk9uUWJqV0JEMUxGaTVKNTFuUGgyeHQ3c3VwSVlDcnRlUWdTMmpLWF9NVWhDZFZuZ0QxTUZnckUwSnNxQS11Y210NVZfN1A5c19rdl9TUUMxckl1eU12TXlBVmRFc3ZIeDhTUzRNbGxkZ2R4c2NtNDM1clFPZ0NsZnVDTG12aFBGdjVJVjdTb0MyaHpXNkRCZnN3bUgwcUY2aA?oc=5",
+        "publisher_name": "WHIO TV",
+        "publisher_url": "https://www.whio.com",
+        "published_at": "2026-11-19T08:00:00+00:00",
+        "indicative_usd": 190400000
+      },
+      {
         "candidate_id": "0a6dc300151f6206",
         "title": "Jewish-heritage Van Gogh painting sells for about $190 million - Israel National News",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nZmh3SWhCN2dCSVlPTFVYaERDTEFrV1ZTcXpCeFljRVZ5aGF3SEhINUdvZ3VSQTJ5X25mbmx1Y2tiaDBSekRwRmFRbHdZclFGR3dIY05QZDAzdw?oc=5",
@@ -212,15 +222,6 @@
         "publisher_name": "JournalArta",
         "publisher_url": "https://journalarta.com",
         "published_at": "2026-11-19T02:07:48+00:00",
-        "indicative_usd": 190400000
-      },
-      {
-        "candidate_id": "73a53281bd2c47cd",
-        "title": "A Van Gogh painting sold for a record $190.4 million - BGNES",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUFYaTlHbmZhWHlNejRrUTBlQVVjcm5memlEb3FaWVMxdjhKVlZiR3k1X0JmUDRibTc0MDB4bGxtcllLRmljTU1MR2MtMlFXQ0Z3ejdNeVgyTFlING82QTRCME8xUVFoak1mbjQ2c2duNVFfM2lhZVBQMElSdDNFc3VKVkdLZGM?oc=5",
-        "publisher_name": "BGNES",
-        "publisher_url": "",
-        "published_at": "2026-11-19T01:14:41+00:00",
         "indicative_usd": 190400000
       }
     ]
@@ -8350,6 +8351,38 @@
     ]
   },
   {
+    "group_id": "a2384131bfa32d70",
+    "title": "Palm Beach developer’s watch collection sells for $1.65M at Christie’s - The Palm Beach Post",
+    "category_hint": "watch",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      1650000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-06-26T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "0ee2e622f016f278"
+    ],
+    "links": [
+      {
+        "candidate_id": "0ee2e622f016f278",
+        "title": "Palm Beach developer’s watch collection sells for $1.65M at Christie’s - The Palm Beach Post",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYU9HYk9VV29BZ21vVWdxejVQbnp3SU9rbURXNnBzUWlJREUtNjJiZF9faFdQV2lBbDNJZWZEM3oyU2hKYVg4a2JQV2RRekNkc3R0Zzg3SjloT3doVXdIMUxNdEE1MmpWQzhfckkyNVphVldPZlVOcTlET1hpbXhFR0NxR0p2b2RkeVUyUlhHNzl6Rkg3dnZTVEJHbUlUejdVV1lid0ZaVHFDU0R4OTg5R1RUeW9uN19yM2F1NllibFR1LXBScnNNcHNxWFlkN05hc0ZpbHpsOVVYSmxzU3c5Mko3dm1mN0JkNlFQc2NCUTZ3SWkzTzdGTA?oc=5",
+        "publisher_name": "The Palm Beach Post",
+        "publisher_url": "https://www.palmbeachpost.com",
+        "published_at": "2026-06-26T07:00:00+00:00",
+        "indicative_usd": 1650000
+      }
+    ]
+  },
+  {
     "group_id": "6e06bf986e05868c",
     "title": "Extremely rare coin sells for $4.88m due to 'dragon' detailing dating to 1911 - The Sun",
     "category_hint": "coins",
@@ -11753,70 +11786,6 @@
         "publisher_url": "https://entertainment.ha.com",
         "published_at": "2025-07-16T07:00:00+00:00",
         "indicative_usd": 14750000
-      }
-    ]
-  },
-  {
-    "group_id": "4911748adc003963",
-    "title": "Jane Birkin’s original Hermès bag sells for $10 million - CNN",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      10000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-07-10T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "56a2589eb43e5552"
-    ],
-    "links": [
-      {
-        "candidate_id": "56a2589eb43e5552",
-        "title": "Jane Birkin’s original Hermès bag sells for $10 million - CNN",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xVEFzakFHcy1jdGF3RURMYmhXdmZQWXJpZGFlZThVMVdDdjlpcnZzWXQ0Zk1lMFNMSzljc1V2UTBpZDF3VVpPZl9jS0Q4M242ZWd6VzVJX044QkIxQzgyR2VsZU9FUmxGSlI2RjhZYmoyMmM?oc=5",
-        "publisher_name": "CNN",
-        "publisher_url": "https://www.cnn.com",
-        "published_at": "2025-07-10T07:00:00+00:00",
-        "indicative_usd": 10000000
-      }
-    ]
-  },
-  {
-    "group_id": "f3ef8134a630d75e",
-    "title": "Just The Cover Of Action Comics #1 Sold For Over $400,000 At Auction - Bleeding Cool News",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      400000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-06-26T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "efc888135582a5db"
-    ],
-    "links": [
-      {
-        "candidate_id": "efc888135582a5db",
-        "title": "Just The Cover Of Action Comics #1 Sold For Over $400,000 At Auction - Bleeding Cool News",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVl4SUtqWU9nY0FWa2ZRR2oybVo3OFJXb1BqZjQxOEtOXzNrTUZuUW9MYnZfQjZrdXc5XzFjOFQyRUNmdU9SRkN4TTRqTGdDNm40bWdGT0M2cmVXSXVMWjBXa1VZbGVmb3V4a3FWajI2WFZHR0E3cllyUjNQajNlNks0ZHlBRG5Da1JJM0pkcllRMkpjdk8xemlweDcwelU?oc=5",
-        "publisher_name": "Bleeding Cool News",
-        "publisher_url": "https://bleedingcool.com",
-        "published_at": "2025-06-26T07:00:00+00:00",
-        "indicative_usd": 400000
       }
     ]
   },

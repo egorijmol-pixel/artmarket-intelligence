@@ -1050,6 +1050,20 @@
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
   {
+    "id": "4dd8d2ad17e172c1",
+    "title": "Painting by van Gogh sells for record $190.4 million at Sotheby’s auction - WHIO TV",
+    "summary": "Painting by van Gogh sells for record $190.4 million at Sotheby’s auction    WHIO TV",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1RYMHBiQmI3ZDJUVnFFUXlKdm1KWEJwem9nZURDNkU4ZGEzNVpjWEJiYlpmT3kzUXI0dUZDYUJhVUNwQ0tyRHhTSkJtSk85bDdReExZREphdktFVG9KVlBsN1A5amNRTkViblFyTlh2eHd3NC1udGR3eUxiMkhYdmIydVpmUHFZTG5oMVk4em9IV1F3TWdKMXNTbVZZanBCSkIzT1B2N3RTUW1GSy0ydHJtazNUMkVjOXdzZ2cwY2hsY3BB0gHYAUFVX3lxTE9tUUE5bDI3ejdUWlhabk9Zc2tuZVJ0R0Jrak9Zd0s2VUdTSUh4ZTh2ZmI1QmRXQWNPUHVRS2xLZk9uUWJqV0JEMUxGaTVKNTFuUGgyeHQ3c3VwSVlDcnRlUWdTMmpLWF9NVWhDZFZuZ0QxTUZnckUwSnNxQS11Y210NVZfN1A5c19rdl9TUUMxckl1eU12TXlBVmRFc3ZIeDhTUzRNbGxkZ2R4c2NtNDM1clFPZ0NsZnVDTG12aFBGdjVJVjdTb0MyaHpXNkRCZnN3bUgwcUY2aA?oc=5",
+    "published_at": "2026-11-19T08:00:00+00:00",
+    "indicative_usd": 190400000,
+    "category_hint": "art",
+    "source_name": "Google News: auction \"sold for\" \"million\"",
+    "publisher_name": "WHIO TV",
+    "publisher_url": "https://www.whio.com",
+    "status": "candidate",
+    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
+  },
+  {
     "id": "322010cb7d89f3b8",
     "title": "Van Gogh painting sets artist’s auction record at $190.4 million after settlement over Nazi-era sale - Digg",
     "summary": "Van Gogh painting sets artist’s auction record at $190.4 million after settlement over Nazi-era sale    Digg",
@@ -4142,6 +4156,20 @@
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
   {
+    "id": "0ee2e622f016f278",
+    "title": "Palm Beach developer’s watch collection sells for $1.65M at Christie’s - The Palm Beach Post",
+    "summary": "Palm Beach developer’s watch collection sells for $1.65M at Christie’s    The Palm Beach Post",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYU9HYk9VV29BZ21vVWdxejVQbnp3SU9rbURXNnBzUWlJREUtNjJiZF9faFdQV2lBbDNJZWZEM3oyU2hKYVg4a2JQV2RRekNkc3R0Zzg3SjloT3doVXdIMUxNdEE1MmpWQzhfckkyNVphVldPZlVOcTlET1hpbXhFR0NxR0p2b2RkeVUyUlhHNzl6Rkg3dnZTVEJHbUlUejdVV1lid0ZaVHFDU0R4OTg5R1RUeW9uN19yM2F1NllibFR1LXBScnNNcHNxWFlkN05hc0ZpbHpsOVVYSmxzU3c5Mko3dm1mN0JkNlFQc2NCUTZ3SWkzTzdGTA?oc=5",
+    "published_at": "2026-06-26T07:00:00+00:00",
+    "indicative_usd": 1650000,
+    "category_hint": "watch",
+    "source_name": "Google News: watch auction \"sold for\" million",
+    "publisher_name": "The Palm Beach Post",
+    "publisher_url": "https://www.palmbeachpost.com",
+    "status": "candidate",
+    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
+  },
+  {
     "id": "4698e46444a9a4e0",
     "title": "Extremely rare coin sells for $4.88m due to 'dragon' detailing dating to 1911 - The Sun",
     "summary": "Extremely rare coin sells for $4.88m due to 'dragon' detailing dating to 1911    The Sun",
@@ -6840,33 +6868,5 @@
     "publisher_url": "https://entertainment.ha.com",
     "status": "candidate",
     "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
-  },
-  {
-    "id": "56a2589eb43e5552",
-    "title": "Jane Birkin’s original Hermès bag sells for $10 million - CNN",
-    "summary": "Jane Birkin’s original Hermès bag sells for $10 million    CNN",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xVEFzakFHcy1jdGF3RURMYmhXdmZQWXJpZGFlZThVMVdDdjlpcnZzWXQ0Zk1lMFNMSzljc1V2UTBpZDF3VVpPZl9jS0Q4M242ZWd6VzVJX044QkIxQzgyR2VsZU9FUmxGSlI2RjhZYmoyMmM?oc=5",
-    "published_at": "2025-07-10T07:00:00+00:00",
-    "indicative_usd": 10000000,
-    "category_hint": "other",
-    "source_name": "Google News: auction \"sold for\" \"million\"",
-    "publisher_name": "CNN",
-    "publisher_url": "https://www.cnn.com",
-    "status": "candidate",
-    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
-  },
-  {
-    "id": "efc888135582a5db",
-    "title": "Just The Cover Of Action Comics #1 Sold For Over $400,000 At Auction - Bleeding Cool News",
-    "summary": "Just The Cover Of Action Comics #1 Sold For Over $400,000 At Auction    Bleeding Cool News",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVl4SUtqWU9nY0FWa2ZRR2oybVo3OFJXb1BqZjQxOEtOXzNrTUZuUW9MYnZfQjZrdXc5XzFjOFQyRUNmdU9SRkN4TTRqTGdDNm40bWdGT0M2cmVXSXVMWjBXa1VZbGVmb3V4a3FWajI2WFZHR0E3cllyUjNQajNlNks0ZHlBRG5Da1JJM0pkcllRMkpjdk8xemlweDcwelU?oc=5",
-    "published_at": "2025-06-26T07:00:00+00:00",
-    "indicative_usd": 400000,
-    "category_hint": "other",
-    "source_name": "Google News: comic book auction \"sold for\"",
-    "publisher_name": "Bleeding Cool News",
-    "publisher_url": "https://bleedingcool.com",
-    "status": "candidate",
-    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   }
 ]
