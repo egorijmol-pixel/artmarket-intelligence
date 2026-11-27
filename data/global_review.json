@@ -124,6 +124,30 @@
     ]
   },
   {
+    "id": "df9ffef9a966f8a5c281",
+    "house": "Heritage Auctions",
+    "country": "US",
+    "domain": "ha.com",
+    "source_type": "house",
+    "category": "books",
+    "title": "First Edition Harry Potter Brings $400,000 at Heritage Auctions - Heritage Auctions",
+    "publication_at": "2026-10-16T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdWNkaUZhdWVjM0hXQ0IzMVhBcmtGSlc3blNCT1RWNzZmNFl0NWpjbVN3eGE0TTZnZlRKczZma19NdFptRnVOc0NBQV92bUI0MzNGai1KUTRCeks5ZnZ0QWFOeHdJMjR0MmpVc1p2dnpZUTZIWHBMbWl5bjVQN2VvU2xFM2RfOS01TFpmTWxxZ29Ja0xsc1ZoR25ZclRUS2tERFhoVzhCTm5HRnN1YlVwODZLbTZYN0tENE4yeTRGMHFqWnE0OXdxOWtsUzJYTEE1OC15NW15TQ?oc=5",
+    "publisher_website": "https://www.ha.com",
+    "native_amount": 400000,
+    "native_currency": "USD",
+    "raw_price": "$400,000",
+    "indicative_usd": 400000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "a15372bb57fc8d8492c8",
     "house": "Bonhams",
     "country": "Global",
