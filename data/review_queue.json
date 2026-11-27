@@ -3534,6 +3534,48 @@
     ]
   },
   {
+    "group_id": "4f489c5c8d830247",
+    "title": "Phillips Sell $77m Watches, Sets Asia Auction Record - IDEX Online",
+    "category_hint": "watch",
+    "articles": 2,
+    "publishers": 1,
+    "indicative_usd_values": [
+      77000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-26T07:28:26+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "3fcea49190eef2a8",
+      "6dbebf7860f24363"
+    ],
+    "links": [
+      {
+        "candidate_id": "3fcea49190eef2a8",
+        "title": "Phillips Sell $77m Watches, Sets Asia Auction Record - IDEX Online",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FREFGVDVaNEdRdF81WktGZnJTN000bXp2OG1HSVdYbEVwSXh5QjNUSWNkbnB1c0NJU083aUFmTVJQZFNaQmlxTW5EMkplWVhobC1wY1dMYk5LM1k?oc=5",
+        "publisher_name": "IDEX Online",
+        "publisher_url": "https://www.idexonline.com",
+        "published_at": "2026-11-26T07:28:26+00:00",
+        "indicative_usd": 77000000
+      },
+      {
+        "candidate_id": "6dbebf7860f24363",
+        "title": "Phillips Sell $77m Watches, Sets Asia Auction Record - IDEX Online",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zOW9pLUd2UnljOEpsc3dvTW80U1ZncjJRdlNrMmQtdFdKOWtLOU1mZ1FOSDdDUXluN0lSTmxNS0VmVFVjZ2NISHBOWWdmS3VkajcxOVc5TmJmQU0?oc=5",
+        "publisher_name": "IDEX Online",
+        "publisher_url": "https://www.idexonline.com",
+        "published_at": "2026-11-25T07:03:49+00:00",
+        "indicative_usd": 77000000
+      }
+    ]
+  },
+  {
     "group_id": "9743a783d4be116d",
     "title": "Gooding Christie's Inaugural Retromobile New York Sale Achieves Over $51 Million, Steve McQueen's Former Ferrari NART Spider Leads as Top Seller - Christie's Press",
     "category_hint": "cars",
@@ -3920,38 +3962,6 @@
         "publisher_url": "https://www.panorama.am",
         "published_at": "2026-11-25T08:56:00+00:00",
         "indicative_usd": 1400000
-      }
-    ]
-  },
-  {
-    "group_id": "d05b1c6efe138bd4",
-    "title": "Phillips Sell $77m Watches, Sets Asia Auction Record - IDEX Online",
-    "category_hint": "watch",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      77000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-11-25T07:03:49+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "6dbebf7860f24363"
-    ],
-    "links": [
-      {
-        "candidate_id": "6dbebf7860f24363",
-        "title": "Phillips Sell $77m Watches, Sets Asia Auction Record - IDEX Online",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zOW9pLUd2UnljOEpsc3dvTW80U1ZncjJRdlNrMmQtdFdKOWtLOU1mZ1FOSDdDUXluN0lSTmxNS0VmVFVjZ2NISHBOWWdmS3VkajcxOVc5TmJmQU0?oc=5",
-        "publisher_name": "IDEX Online",
-        "publisher_url": "https://www.idexonline.com",
-        "published_at": "2026-11-25T07:03:49+00:00",
-        "indicative_usd": 77000000
       }
     ]
   },
@@ -11849,39 +11859,6 @@
         "publisher_url": "https://nationaljeweler.com",
         "published_at": "2025-05-15T07:00:00+00:00",
         "indicative_usd": 21000000
-      }
-    ]
-  },
-  {
-    "group_id": "ec3c1a12a570837b",
-    "title": "Rare Mondrian Sells for $47.6 Million at Christie’s, Short of Record - Artnet News",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      47600000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-05-12T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "28b8893f35527d06"
-    ],
-    "links": [
-      {
-        "candidate_id": "28b8893f35527d06",
-        "title": "Rare Mondrian Sells for $47.6 Million at Christie’s, Short of Record - Artnet News",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUU5tTi1WV0x0Y2YzQzFDSVZWdmhmOW1DMXJnbFREalNZWl9WcjBybjA5N1RtUl9fcXFCai1NM3ZhWTZqOTZFOEUzenNHNlFKdlZGLUM1RTFDWTZGTXZ5OWdUbE1mMDNOQkpOLUlrbGhHSDFwZko3SkNTZWdidUJHdmtsVdIBiwFBVV95cUxPRzFMVjZrQlRMQkhLRHRnVmNfdVU0eGZOSHZtX2IzYV9jelRuS2lTMjR5OGJCSHo2bjZkaDZrMjBxS1N4OFotS2xwZUptNzlKZ0ZDMVBySmMwOWIzVmFDMk9WWlh1c2FrbEJENnhmbWM3YUV4V1hURmxmRllDYkhoU2hHdjZDNnFqdklB?oc=5",
-        "publisher_name": "Artnet News",
-        "publisher_url": "",
-        "published_at": "2025-05-12T07:00:00+00:00",
-        "indicative_usd": 47600000
       }
     ]
   },
