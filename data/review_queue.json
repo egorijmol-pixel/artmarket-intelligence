@@ -3030,6 +3030,48 @@
     ]
   },
   {
+    "group_id": "8539bae09363c52d",
+    "title": "Diego Maradona's 'Hand of God' ball falls short of breaking records, but sells for $3.35 million at auction - Yahoo Sports",
+    "category_hint": "other",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      3350000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-08-23T07:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "64ad410e630ed6e4",
+      "15498be524439781"
+    ],
+    "links": [
+      {
+        "candidate_id": "64ad410e630ed6e4",
+        "title": "Diego Maradona's 'Hand of God' ball falls short of breaking records, but sells for $3.35 million at auction - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYkt3ZlNGVG5qNTBxZEZLak54V0o5MGVoTnNwb3Z0RDg1aDBZZGR0VEIxT0JwbmFwWEdjck1kMFhqTU5SVFVaLThDY2RJd1AydEh3ZG1rU0pNaUEyWlZqX0pwWXZUNnpodGpiVFRJdWotSlhURF9vdjNrVjhTb2cxR2NqRk94ejNlZlViNFU2akQyT3A3UkVWenNBaXVnTjRBM0xJLUJjMmQ3OUwtWmFPaFNmTEFqY2NHWUp1UGhlRVpaZExwcHZSWEpyMGJZYnZXRWQ2N1pyRzlLSnZCX044WDNFMmJRYXdOR1NYOVN4dVZHVWtM?oc=5",
+        "publisher_name": "Yahoo Sports",
+        "publisher_url": "https://sports.yahoo.com",
+        "published_at": "2026-08-23T07:00:00+00:00",
+        "indicative_usd": 3350000
+      },
+      {
+        "candidate_id": "15498be524439781",
+        "title": "Diego Maradona’s ‘Hand of God’ ball sells for $3.35 million at auction - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVWRLaUVkRE5lUU40TndQa1A3a3YtbXU2UWJGTG1Kak1RRVVjeFJjckJwMGJ6ODdvdVY4MnpKNDZWZ0dtMVkyT2xhWWgyanEzMUExM0FPMHhyZzBLeFA3U3VTLVFLZGVUeW05c3RxaXI2cFl0RlN0ZHV3UnFuS1BLRUk1MmU4c1pKeDFheA?oc=5",
+        "publisher_name": "The New York Times",
+        "publisher_url": "",
+        "published_at": "2026-08-23T07:00:00+00:00",
+        "indicative_usd": 3350000
+      }
+    ]
+  },
+  {
     "group_id": "ac21ad64b4e020c4",
     "title": "Luce, the first fully electric car produced by Ferrari, sold for a record $40 million in a charity sale on Saturday, setting a record for the most expensive new vehicle sold at an auction. - Facebook",
     "category_hint": "cars",
@@ -7708,39 +7750,6 @@
     ]
   },
   {
-    "group_id": "44eed4b3521422ee",
-    "title": "Diego Maradona’s ‘Hand of God’ ball sells for $3.35 million at auction - The New York Times",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      3350000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-08-23T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "15498be524439781"
-    ],
-    "links": [
-      {
-        "candidate_id": "15498be524439781",
-        "title": "Diego Maradona’s ‘Hand of God’ ball sells for $3.35 million at auction - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVWRLaUVkRE5lUU40TndQa1A3a3YtbXU2UWJGTG1Kak1RRVVjeFJjckJwMGJ6ODdvdVY4MnpKNDZWZ0dtMVkyT2xhWWgyanEzMUExM0FPMHhyZzBLeFA3U3VTLVFLZGVUeW05c3RxaXI2cFl0RlN0ZHV3UnFuS1BLRUk1MmU4c1pKeDFheA?oc=5",
-        "publisher_name": "The New York Times",
-        "publisher_url": "",
-        "published_at": "2026-08-23T07:00:00+00:00",
-        "indicative_usd": 3350000
-      }
-    ]
-  },
-  {
     "group_id": "8c651019ac41445b",
     "title": "15 Rare Banknotes That Sold for Serious Money (One Sold for Over $3 Million) - 24/7 Wall St.",
     "category_hint": "coins",
@@ -11754,38 +11763,6 @@
         "publisher_url": "",
         "published_at": "2025-07-18T07:00:00+00:00",
         "indicative_usd": 5300000
-      }
-    ]
-  },
-  {
-    "group_id": "644661e88a4650c5",
-    "title": "Rosebud, the Iconic Sled from Citizen Kane, Breaks Auction Records and Sells for $14.75 Million... - Heritage Auctions",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      14750000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-07-16T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "1a5726e933d5430f"
-    ],
-    "links": [
-      {
-        "candidate_id": "1a5726e933d5430f",
-        "title": "Rosebud, the Iconic Sled from Citizen Kane, Breaks Auction Records and Sells for $14.75 Million... - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNdGJfd2JKWjBlaWlGTXd4YmRVZG9Wdmk0dVdkejFRNG52M05DVFZGR3d3NWVQa1VFeXhNa0RUNjR2allGTXI2ZXNfMTNoTC1yczZVcmV2MDROQVBIMkF6REZhWi1rNkF2NXpOamRiQ2dMakFwNEQ2QW5yTDNTd200UlY5NFVRV0hsSjFmQkkxc2FGMmZEUGM2cElNMExaZF9nS2g4Tld6NVhZSEo0VmM3b2lmOHlUd3I2aDQ1cTFJMmh5eV8wQ1dGd0lZWTdSUUFxaDlseWtSaldzaHJqcndNTU9Pd3BQdEVsZFgxYV8yUnJ4a1NZNGNvb1otdHBsZ3BPa011Tk9kNjRqb1NvZ29EdU1mNUQ0dUxHSHhVWXR5MEU3OVZWalJ5Xw?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://entertainment.ha.com",
-        "published_at": "2025-07-16T07:00:00+00:00",
-        "indicative_usd": 14750000
       }
     ]
   },

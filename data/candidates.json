@@ -3702,6 +3702,20 @@
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
   {
+    "id": "64ad410e630ed6e4",
+    "title": "Diego Maradona's 'Hand of God' ball falls short of breaking records, but sells for $3.35 million at auction - Yahoo Sports",
+    "summary": "Diego Maradona's 'Hand of God' ball falls short of breaking records, but sells for $3.35 million at auction    Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYkt3ZlNGVG5qNTBxZEZLak54V0o5MGVoTnNwb3Z0RDg1aDBZZGR0VEIxT0JwbmFwWEdjck1kMFhqTU5SVFVaLThDY2RJd1AydEh3ZG1rU0pNaUEyWlZqX0pwWXZUNnpodGpiVFRJdWotSlhURF9vdjNrVjhTb2cxR2NqRk94ejNlZlViNFU2akQyT3A3UkVWenNBaXVnTjRBM0xJLUJjMmQ3OUwtWmFPaFNmTEFqY2NHWUp1UGhlRVpaZExwcHZSWEpyMGJZYnZXRWQ2N1pyRzlLSnZCX044WDNFMmJRYXdOR1NYOVN4dVZHVWtM?oc=5",
+    "published_at": "2026-08-23T07:00:00+00:00",
+    "indicative_usd": 3350000,
+    "category_hint": "other",
+    "source_name": "Google News: auction \"sold for\" \"million\"",
+    "publisher_name": "Yahoo Sports",
+    "publisher_url": "https://sports.yahoo.com",
+    "status": "candidate",
+    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
+  },
+  {
     "id": "15498be524439781",
     "title": "Diego Maradona’s ‘Hand of God’ ball sells for $3.35 million at auction - The New York Times",
     "summary": "Diego Maradona’s ‘Hand of God’ ball sells for $3.35 million at auction    The New York Times",
@@ -6854,19 +6868,5 @@
     "source_name": "Google News: auction \"sold for\" \"million\"",
     "status": "candidate",
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
-  },
-  {
-    "id": "1a5726e933d5430f",
-    "title": "Rosebud, the Iconic Sled from Citizen Kane, Breaks Auction Records and Sells for $14.75 Million... - Heritage Auctions",
-    "summary": "Rosebud, the Iconic Sled from Citizen Kane, Breaks Auction Records and Sells for $14.75 Million... Heritage Auctions",
-    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNdGJfd2JKWjBlaWlGTXd4YmRVZG9Wdmk0dVdkejFRNG52M05DVFZGR3d3NWVQa1VFeXhNa0RUNjR2allGTXI2ZXNfMTNoTC1yczZVcmV2MDROQVBIMkF6REZhWi1rNkF2NXpOamRiQ2dMakFwNEQ2QW5yTDNTd200UlY5NFVRV0hsSjFmQkkxc2FGMmZEUGM2cElNMExaZF9nS2g4Tld6NVhZSEo0VmM3b2lmOHlUd3I2aDQ1cTFJMmh5eV8wQ1dGd0lZWTdSUUFxaDlseWtSaldzaHJqcndNTU9Pd3BQdEVsZFgxYV8yUnJ4a1NZNGNvb1otdHBsZ3BPa011Tk9kNjRqb1NvZ29EdU1mNUQ0dUxHSHhVWXR5MEU3OVZWalJ5Xw?oc=5",
-    "published_at": "2025-07-16T07:00:00+00:00",
-    "indicative_usd": 14750000,
-    "category_hint": "other",
-    "source_name": "Google News (official publisher): Heritage Auctions",
-    "publisher_name": "Heritage Auctions",
-    "publisher_url": "https://entertainment.ha.com",
-    "status": "candidate",
-    "note": "Заголовок источника, проверка полного текста, суммы за лот и даты торгов ещё требуется."
   }
 ]
