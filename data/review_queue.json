@@ -227,11 +227,11 @@
     ]
   },
   {
-    "group_id": "c8566bec390e536f",
+    "group_id": "8e8f92499ef1af4b",
     "title": "Superman Comic Sells for Record $9.12 Million - NewsForKids.net",
     "category_hint": "other",
-    "articles": 23,
-    "publishers": 23,
+    "articles": 24,
+    "publishers": 24,
     "indicative_usd_values": [
       9000000,
       9100000,
@@ -262,6 +262,7 @@
       "78e85c20a671c6ec",
       "78121a36e1575145",
       "73b0f2961ea0d6ad",
+      "6d5b147f8f2eb29b",
       "4d019a2b3485faa6",
       "19ebc32707c24945",
       "ddee473bea80f691",
@@ -416,6 +417,15 @@
         "indicative_usd": 9000000
       },
       {
+        "candidate_id": "6d5b147f8f2eb29b",
+        "title": "Superman No 1 sells for $9.12m, becoming most expensive comic ever sold - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQWFYVUhPc2xLdjU4XzZUbHAyMW05Ym1pQmY0YnRJemt1ZmNZeHpoRHJsQnZydTluZGlta3VQNlp3WmdidVZtSjRsZ0RKTjV2NWsxNzVzT25MUDhoTVJaU1NKMHRKTEN1Vk45U0pFcnZKbmVOM2xoa19kM3o2QjFESDhNYlRxaE9yT0hOandzTXhSM0FzbHg0SFFXMFZxZw?oc=5",
+        "publisher_name": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
+        "published_at": "2025-11-21T08:00:00+00:00",
+        "indicative_usd": 9120000
+      },
+      {
         "candidate_id": "4d019a2b3485faa6",
         "title": "Rare Superman comic book found in mom’s attic breaks record and sells for over $9M - New York Post",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDZwNzZudXNpTmphYVdMZFFDUVA2NHppaUI3d05GU3cyeTJrNFktaGp6Szk2clJ6b1QtMUhRV1J0YllxSXlxbll6R3Q2bDU2UHRnVFpDX0NmSDNacXp0NDltVnF4a2xES3ZEX2gxYjdWaG1lLVNGZzRuelZLa0o2dzQwNHdWeDk1YzMwT3VPd3QxX0lObkxVOE9FaEVmUE5CS0h6bWJFQ3kzUQ?oc=5",
@@ -441,15 +451,6 @@
         "publisher_url": "https://www.hollywoodreporter.com",
         "published_at": "2025-11-20T08:00:00+00:00",
         "indicative_usd": 9000000
-      },
-      {
-        "candidate_id": "459a7ffde563ab3a",
-        "title": "‘Superman’ No. 1 Sells for $9.12 Million at Heritage, Becomes World’s Most Expensive Comic Book - Intelligent Collector",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV05LSS0xQWM2T1AtT2tLRkNTQi1WS2l2bENxd082QUdmYWM5TzZSV3JTWWlYMjY4OWhCdGZUT3gyWEpvUG5UdkdhV092VTJuc2o0aGlyc3BfVXAxZzItWlcySUlZUEM5WEhQREZoTGpNaUNCeFBCdXJCTzZaSkRLenI1NGU5QXUzVG5SaW9JRjlKSTllN3pBcUYtSm1OM0ZtVkJacGdERDJSbXJFOXFLaXJuT3p1RUhEdi03Vi1pb0U?oc=5",
-        "publisher_name": "Intelligent Collector",
-        "publisher_url": "https://intelligentcollector.com",
-        "published_at": "2025-11-20T08:00:00+00:00",
-        "indicative_usd": 9120000
       }
     ]
   },
@@ -5371,6 +5372,38 @@
         "publisher_url": "https://www.straitstimes.com",
         "published_at": "2026-11-17T08:02:00+00:00",
         "indicative_usd": 15000000
+      }
+    ]
+  },
+  {
+    "group_id": "3a7669d7c8adf8e5",
+    "title": "In 1998, Metal Universe made just one Barry Sanders Gem Master card; Heritage Auctions sold it for $512,400 in 2026 - Athlon Sports",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      512400
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-14T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "c36106e5508a0b28"
+    ],
+    "links": [
+      {
+        "candidate_id": "c36106e5508a0b28",
+        "title": "In 1998, Metal Universe made just one Barry Sanders Gem Master card; Heritage Auctions sold it for $512,400 in 2026 - Athlon Sports",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0F4VGJWbGlTT2RPOWV6QUdFa2o4a1lRa2RJMlZIeF95YmhhSWdqNTR5Qzg5MGdORTZZMmxTY3IzaEZBNWZLNUp3ZDZDZnJWU3E4SUtQMmxLdHZfRm9jUFlib3BUVnY5cXljQURCVk9Gb3JBSVRhdmpiVGN1M0dSZGs3eWUwdmRlRENGSmV0eEpQcEVBRWVlY2NQMVVLcXJfRXVhakpB?oc=5",
+        "publisher_name": "Athlon Sports",
+        "publisher_url": "https://athlonsports.com",
+        "published_at": "2026-11-14T08:00:00+00:00",
+        "indicative_usd": 512400
       }
     ]
   },
@@ -11697,71 +11730,6 @@
         "publisher_url": "https://fineart.ha.com",
         "published_at": "2025-08-13T07:00:00+00:00",
         "indicative_usd": 5190000
-      }
-    ]
-  },
-  {
-    "group_id": "43f23ebf07fc112b",
-    "title": "1955 Topps Roberto Clemente Rookie Card Brings Record $1.15 Million in Private Sale at Heritage... - Heritage Auctions",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      1150000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-08-07T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "74b7b91466eb657d"
-    ],
-    "links": [
-      {
-        "candidate_id": "74b7b91466eb657d",
-        "title": "1955 Topps Roberto Clemente Rookie Card Brings Record $1.15 Million in Private Sale at Heritage... - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSzhsV2pFTWJBZWpiZlhuSkE2VDNZelhTMlJiS2d5U1BzTTBOdW5aTk4tQ0VkQkItTWtJWjZ5VGw0b1JKM1dyaW5MM2FUQ1ZJU2pMOFlkZHVkYTFBVE1mc3NINFFKWGtkV0NzMzlwcF9jendsZ2pCd2tUQUZBemk4REtJS1hCQ2lzcUktaGZTYlBtTTRxTS12S203WFNVT0p2STE4NmFRVklOMnZYM3Q1M3hYelpFVXEyMS00QW5sSER5TEx5RmQ2dWdhZ1JJQktVTUpiYXJkSWxzSUJZOXY2UlZIYWo0c2RFckctYXd1MGJ0UkhoUXRmX0FkU19jcWVoT281bE9lMkpTMVNBR2JxWTBR?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://sports.ha.com",
-        "published_at": "2025-08-07T07:00:00+00:00",
-        "indicative_usd": 1150000
-      }
-    ]
-  },
-  {
-    "group_id": "bc66c8667438a0a9",
-    "title": "“Rosebud” Rides Again: Citizen Kane Sled Sells for $14.75M - Antique Trader",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      14750000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-07-21T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "aedeb834f5bc4f4e"
-    ],
-    "links": [
-      {
-        "candidate_id": "aedeb834f5bc4f4e",
-        "title": "“Rosebud” Rides Again: Citizen Kane Sled Sells for $14.75M - Antique Trader",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFBCNkRqNFB1Z3lCOUZBOEpZWUk1WV9TZURlVjk3RllfbDBnWWN2MlV2alg3UVhvclMtdkZiY21iZ1VwMHVRUVBTTlB3bXQ5M09JSmRnMzBVdmx4WXZFTkEzbEIzclJpUC0wTUxrMDJEWnFzSDhTMHJkLUxvN0toaWNBVUZFN2ZmZmYzbA?oc=5",
-        "publisher_name": "Antique Trader",
-        "publisher_url": "",
-        "published_at": "2025-07-21T07:00:00+00:00",
-        "indicative_usd": 14750000
       }
     ]
   },
