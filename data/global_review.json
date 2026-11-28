@@ -24,6 +24,30 @@
     ]
   },
   {
+    "id": "3a93fe292564db630c13",
+    "house": "Artinvestment",
+    "country": "RU",
+    "domain": "artinvestment.ru",
+    "source_type": "platform",
+    "category": "art",
+    "title": "Полотно Василия Кандинского «Акцентированные углы» (1922–1923) продано на вечерних торгах Christie’s в Нью-Йорке за рекордные для художника $85,8 млн - ARTinvestment.RU",
+    "publication_at": "2026-11-19T08:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TUxNQS1tMy0za05mQzVpWVJ0SDlEdEJQbTFuX0lfeFZDUWZ2TEotY2dFN0V5emV4SlFqeUpBN3NCWFIyQmRpUFhpMEdqWExBQnpkSmw3R3FUNmVsd2tSdllRVTlsT1FuYW5pSExRYw?oc=5",
+    "publisher_website": "https://artinvestment.ru",
+    "native_amount": 85800000,
+    "native_currency": "USD",
+    "raw_price": "$85,8 млн",
+    "indicative_usd": 85800000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
     "id": "9a6f3ebf79e68b803a89",
     "house": "Heritage Auctions",
     "country": "US",
@@ -817,6 +841,30 @@
     "native_currency": "USD",
     "raw_price": "$103,5 млн",
     "indicative_usd": 103500000,
+    "possible_aggregate": false,
+    "status": "needs_primary_source",
+    "verified_sale": false,
+    "review_reasons": [
+      "Требуется оригинальная страница с окончательной ценой конкретного лота",
+      "Дата публикации не считается датой продажи",
+      "Без официального результата запись не является подтверждённой"
+    ]
+  },
+  {
+    "id": "5242d85d0df780d5eecf",
+    "house": "Artinvestment",
+    "country": "RU",
+    "domain": "artinvestment.ru",
+    "source_type": "platform",
+    "category": "art",
+    "title": "Картина Жана-Мишеля Баскии продана за $93,1 млн - ARTinvestment.RU",
+    "publication_at": "2021-05-11T07:00:00+00:00",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQTQyMmhUQWxWSXhGTGpyWU5VM1U2bEt5UUxoakt5WnoyVHp6eDM2VHJMdVlQS3ZvMW9NSnQycExodUtLN2NsajVndG1GQ1JNNmw5LWd6LXNpTk5MbWhXel9zemFwN2tUVzRBUElibHRwZnp0RmZLWkNZN0VYMTdWX2lR?oc=5",
+    "publisher_website": "https://artinvestment.ru",
+    "native_amount": 93100000,
+    "native_currency": "USD",
+    "raw_price": "$93,1 млн",
+    "indicative_usd": 93100000,
     "possible_aggregate": false,
     "status": "needs_primary_source",
     "verified_sale": false,
