@@ -3580,6 +3580,50 @@
     ]
   },
   {
+    "group_id": "31ce74b86de7de8d",
+    "title": "Superman No.1 comic once stolen from Nicolas Cage sells for $22m - SMH.com.au",
+    "category_hint": "other",
+    "articles": 2,
+    "publishers": 2,
+    "indicative_usd_values": [
+      22000000,
+      26000000
+    ],
+    "amount_variation_pct": 15.4,
+    "last_publication_at": "2026-01-11T08:00:00+00:00",
+    "priority": 2,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника",
+      "Различающиеся суммы из публикаций — проверить округление и комиссию"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "5e033b333b60b875",
+      "19e12526a651ff24"
+    ],
+    "links": [
+      {
+        "candidate_id": "5e033b333b60b875",
+        "title": "Superman No.1 comic once stolen from Nicolas Cage sells for $22m - SMH.com.au",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTlBGVWRaRDI0RjJjS2NsNXljTXpjV2xyZzFuSEg3aVpoTGY1TkZjR0pMeXQ5RExsd1lkUkpQd21TcE5ueWFPTGpheGNMRE9zSEtpMURYaDRKMFUtU2JKWjc3WFBFeXBqX19lQ0dkWkdEalhwbXhRanhjcGZxX1VJYjBGLWhLLUFWMUNxa1pzbHpTcDJFeVl3anN0bWdRMTNFMmc1T0RacXhjMFJqTFZVV0c5cVVzMGRJbFFQcTBQNGdCeGVsTUE?oc=5",
+        "publisher_name": "SMH.com.au",
+        "publisher_url": "https://www.smh.com.au",
+        "published_at": "2026-01-11T08:00:00+00:00",
+        "indicative_usd": 22000000
+      },
+      {
+        "candidate_id": "19e12526a651ff24",
+        "title": "Superman’s first comic, once stolen from Nicolas Cage, sells for $26m - Stuff",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUduZnNfZ0NnR1d4a0dpNFJ4SkMxSkJEQlU4UW0xN3UtZ1VLTEQ4WWVfYWY4d1RjX1QzX0x1X21vcEJRYmZtNWFUT0RvcU5NTFpKbVRIX19OUkluVVNtTnM5eHJuN1pIOTVMVnpHa1U3a3NCanBRYThONVRkMWdTcTE1Q0FDb0liaDRiaWRwbFQta3BVQjJNcVhZMDNUa0FlME1B?oc=5",
+        "publisher_name": "Stuff",
+        "publisher_url": "https://www.stuff.co.nz",
+        "published_at": "2026-01-11T08:00:00+00:00",
+        "indicative_usd": 26000000
+      }
+    ]
+  },
+  {
     "group_id": "770027235054cf87",
     "title": "Gooding Christie's Records Highest-Grossing Year to Date with Over $234 Million Realized from Auction Sales in 2025 - Christie's Press",
     "category_hint": "other",
@@ -3922,48 +3966,6 @@
         "publisher_url": "",
         "published_at": "2025-09-26T07:00:00+00:00",
         "indicative_usd": 197000000
-      }
-    ]
-  },
-  {
-    "group_id": "6aa07a3617fa97e8",
-    "title": "Gooding Christie’s Achieves New Auction Record with $25.3 Million Ferrari 250 GT California Spider Competizione, Grosses over - Christie's Press",
-    "category_hint": "cars",
-    "articles": 2,
-    "publishers": 1,
-    "indicative_usd_values": [
-      25300000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-08-19T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "cfd44b8b455e43ef",
-      "5eae6d78fb841710"
-    ],
-    "links": [
-      {
-        "candidate_id": "cfd44b8b455e43ef",
-        "title": "Gooding Christie’s Achieves New Auction Record with $25.3 Million Ferrari 250 GT California Spider Competizione, Grosses over - Christie's Press",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONWxEQUdDSkl6cEtFeGxEcmlxYnJfSlhndXB3WW55RnBybWRwQVJ1Mnl2VTN3cTJNem9oNVpjUnp2TkZRU3ZjN0YtQzJZc2xjbXE0M3R0X3pFcjcxZkZsUVZrbDRMYWQtbDJTYmwyWTFMME5yOU1vakJDd2RSUkRsSHJSOGhZa3dLZk1zQVB4NTB2aktCQmc?oc=5",
-        "publisher_name": "Christie's Press",
-        "publisher_url": "https://press.christies.com",
-        "published_at": "2025-08-19T07:00:00+00:00",
-        "indicative_usd": 25300000
-      },
-      {
-        "candidate_id": "5eae6d78fb841710",
-        "title": "Gooding Christie’s Achieves New Auction Record with $25.3 Million Ferrari 250 GT California Spider Competizione, Grosses over - Christie's Press",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMkoxQ2QtQTZSME9QMXBvRWhUOWtKQTlCRnpiMG1PVEtfUkVoMVVpNzkwNWZEck44ZDBRUTcyN0FhMmM1a3JWT3A0OG5BU2JDRW9wcDN2cFo1dTN5QWJrNHBaWVY3dzJfSXJpWU1YUXJhVThCRjF2Vk1GOExlRlB5bEdBdzhLdFo1ekRtd2pDMEl1WFlKSFE?oc=5",
-        "publisher_name": "Christie's Press",
-        "publisher_url": "https://press.christies.com",
-        "published_at": "2025-08-19T07:00:00+00:00",
-        "indicative_usd": 25300000
       }
     ]
   },
@@ -4796,6 +4798,38 @@
         "publisher_url": "https://247wallst.com",
         "published_at": "2026-11-19T08:04:00+00:00",
         "indicative_usd": 16760000
+      }
+    ]
+  },
+  {
+    "group_id": "9bbc083d250b471b",
+    "title": "Dry Cleaner Saved Lou Gehrig's Final Jersey, Now Sold for $2.712 Million - Yahoo Sports",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      2712000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-11-19T08:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "d17063604d1403be"
+    ],
+    "links": [
+      {
+        "candidate_id": "d17063604d1403be",
+        "title": "Dry Cleaner Saved Lou Gehrig's Final Jersey, Now Sold for $2.712 Million - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenBiMW0tYVNQdm8zYmRTbHlWU3RFSWxqZkxJYTRuNGZfVlNHMWNaQlZlOWJVemV6SHBOcGZyR0xvTkxrTDhnbzdDVnJKcGZ1aXQ2ZzZXM2FlUVoxQmktZ2FlS2JzZ0llaU5zVk5fWnBteVc5aXREa200aGRseXd0eTU5Y0s?oc=5",
+        "publisher_name": "Yahoo Sports",
+        "publisher_url": "https://sports.yahoo.com",
+        "published_at": "2026-11-19T08:00:00+00:00",
+        "indicative_usd": 2712000
       }
     ]
   },
@@ -9228,6 +9262,38 @@
     ]
   },
   {
+    "group_id": "fbcb3cd313a38809",
+    "title": "SLASH GUITAR SHREDS WORLD RECORD AT $307K AS PROPSTORE ACHIEVES $ - The National Law Review",
+    "category_hint": "other",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      307000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-05-01T16:40:17+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "0fe30fceb7c43d49"
+    ],
+    "links": [
+      {
+        "candidate_id": "0fe30fceb7c43d49",
+        "title": "SLASH GUITAR SHREDS WORLD RECORD AT $307K AS PROPSTORE ACHIEVES $ - The National Law Review",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjBFTWx0VkdmWDhlZE10ZUcwUTRHSlZyUU1DcnZPR2tCQTI2TU0zazBIQXZDcTREdnRPQ092NFh6S0RjaklweFRzN0FRV3NJT0pXZnUtMVBPZF9uUVRLTDRFejEwQ3NzWUhiTDllZC1vWXZWaU9vd3BOUWVyZjZoeGo4a2N5TDJhd3hQdzZfdnhQOUJVRTBJbmFaWFExVVNwbTBZOEZuMmJMQQ?oc=5",
+        "publisher_name": "The National Law Review",
+        "publisher_url": "https://natlawreview.com",
+        "published_at": "2026-05-01T16:40:17+00:00",
+        "indicative_usd": 307000
+      }
+    ]
+  },
+  {
     "group_id": "0e123ce8d00fc288",
     "title": "SLASH GUITAR SHREDS WORLD RECORD AT $307K AS PROPSTORE ACHIEVES $2.4M IN MUSIC MEMORABILIA AUCTION SALES - EIN Presswire",
     "category_hint": "other",
@@ -10480,38 +10546,6 @@
     ]
   },
   {
-    "group_id": "947382c108a54510",
-    "title": "Superman No.1 comic once stolen from Nicolas Cage sells for $22m - SMH.com.au",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      22000000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2026-01-11T08:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "5e033b333b60b875"
-    ],
-    "links": [
-      {
-        "candidate_id": "5e033b333b60b875",
-        "title": "Superman No.1 comic once stolen from Nicolas Cage sells for $22m - SMH.com.au",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTlBGVWRaRDI0RjJjS2NsNXljTXpjV2xyZzFuSEg3aVpoTGY1TkZjR0pMeXQ5RExsd1lkUkpQd21TcE5ueWFPTGpheGNMRE9zSEtpMURYaDRKMFUtU2JKWjc3WFBFeXBqX19lQ0dkWkdEalhwbXhRanhjcGZxX1VJYjBGLWhLLUFWMUNxa1pzbHpTcDJFeVl3anN0bWdRMTNFMmc1T0RacXhjMFJqTFZVV0c5cVVzMGRJbFFQcTBQNGdCeGVsTUE?oc=5",
-        "publisher_name": "SMH.com.au",
-        "publisher_url": "https://www.smh.com.au",
-        "published_at": "2026-01-11T08:00:00+00:00",
-        "indicative_usd": 22000000
-      }
-    ]
-  },
-  {
     "group_id": "67fc5c6195c79145",
     "title": "Bluefin tuna sells for record $3.2 million at year-opening auction at Tokyo fish market - AP News",
     "category_hint": "other",
@@ -11698,38 +11732,6 @@
         "publisher_url": "",
         "published_at": "2025-08-20T07:00:00+00:00",
         "indicative_usd": 128000000
-      }
-    ]
-  },
-  {
-    "group_id": "e134fd9a3161e030",
-    "title": "Art of Disney Auction Celebrating the Studio’s Greatest Artists Brings Record $5.19 Million,... - Heritage Auctions",
-    "category_hint": "other",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      5190000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-08-13T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "bba7215709a30abf"
-    ],
-    "links": [
-      {
-        "candidate_id": "bba7215709a30abf",
-        "title": "Art of Disney Auction Celebrating the Studio’s Greatest Artists Brings Record $5.19 Million,... - Heritage Auctions",
-        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPSDd0bzhHOFpMWFh5ZXp2S2dCMGFWNFBoTnNWeTV2NTlOd1MxclFxMG9hZy1lX0U1R1ZrMlJWQkYyR21rTW9CSWFqSU11SDdzWV92eV9CbW04ak1tX0wtVjR6dmcyOFlrSk50clQ4VGc3Y0lzZ2VvTmVKZlhuLW1lV0piSFM4TEtQcU45LWJZUHAtRmRqUEVSRmZVX2pzUUtCWVI5TkszWHhhQnNRb2RpLW1rRWlHLUE1STBVWmZYMGtuSUcxRzZWMWlnVTFMVG9UYXVLb21LTlZhX1hfS2RMWU9LcHp0Z0swdXdJdFZrem9iNDlseXNwaW1sREdkYk0tTzgyTWxOWEdSTzBreFJ2TkthYzVjYTJRZ1doblVfc0owTnd6cXdKNnNqb1lUa0toWFFUUnNoN3hnM1FpZE1ZeFdn?oc=5",
-        "publisher_name": "Heritage Auctions",
-        "publisher_url": "https://fineart.ha.com",
-        "published_at": "2025-08-13T07:00:00+00:00",
-        "indicative_usd": 5190000
       }
     ]
   },

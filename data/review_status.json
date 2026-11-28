@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-11-28T13:26:21.792347+00:00",
+  "generated_at_utc": "2026-11-28T19:19:42.410250+00:00",
   "candidate_messages": 500,
   "potential_sale_groups": 313,
   "potential_repeats": 187,
-  "groups_with_multiple_publishers": 58,
-  "groups_with_price_conflicts": 2,
+  "groups_with_multiple_publishers": 59,
+  "groups_with_price_conflicts": 3,
   "officially_verified_by_this_step": 0,
   "status": "triage_only",
   "note": "Автоматическая группировка публикаций и поиск противоречий. Никакая группа не считается подтвержденной продажей без сверки официального результата конкретного лота."
