@@ -4392,6 +4392,20 @@
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   },
   {
+    "id": "4be2a29eaac361a0",
+    "title": "A Ferrari Enzo Has Just Sold for Over $10 Million at Auction in an Exclusive Color - Yahoo Autos",
+    "summary": "A Ferrari Enzo Has Just Sold for Over $10 Million at Auction in an Exclusive Color    Yahoo Autos",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1dHTWVWSmVGRG5FVkxaSTRDZGQwUDJFRF9HRHhldEw4RV9pODJjTXFGcG5qaG1GVVhjVTU1WGdGNEd3UElVd0NrYjU2NTJUVjdKVm81TkpTQUdwSjZhLXlueXVnNEExcUxXVzNla1QyTnZZWEZFdVJOT24wVDB4V3VGU3A1R2JJbmpUdU5POGNBdUxOdFBoOXJDcnk3QQ?oc=5",
+    "published_at": "2026-06-03T07:00:00+00:00",
+    "indicative_usd": 10000000,
+    "category_hint": "cars",
+    "source_name": "Google News: auction \"sold for\" \"million\"",
+    "publisher_name": "Yahoo Autos",
+    "publisher_url": "https://autos.yahoo.com",
+    "status": "candidate",
+    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
+  },
+  {
     "id": "64f1f58f6efc2a9b",
     "title": "11 Rare Coins That Have Sold for More Than $1 Million - AOL.com",
     "summary": "11 Rare Coins That Have Sold for More Than $1 Million    AOL.com",
@@ -6854,18 +6868,6 @@
     "indicative_usd": 14750000,
     "category_hint": "other",
     "source_name": "Google News: collectible auction \"sells for\"",
-    "status": "candidate",
-    "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
-  },
-  {
-    "id": "49188b03e5fa5f1b",
-    "title": "A massive rock from Mars sold at an auction sold for nearly $5.3 million, becoming the highest selling meteorite ever. - Facebook",
-    "summary": "A massive rock from Mars sold at an auction sold for nearly $5.3 million, becoming the highest selling meteorite ever.    Facebook",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPelFJVXY0dTdKYzN1TlkwTlpSXzVkeURRY19pdThWNUtYaW1IRll5MmtVZ05zS0t5YnNTYmlnOEp6blU5ZENZbWlJdUp1eWczZVR2NnhYU2xqUjBXSmMtZ04wVUVWU3RCMDhidklsM0lVdUxua01NbU1HN0pCX1Y4VGxwVlp1QkhTTWxUeVloencwNGFfRG4ybWVqWERxczV5VWJOZ1cxcHllV0R1ODdwdWpQR1ZSU1luUzRjUEZTbW96VDd1b0NyeUFzTk9QRC1CTWNqM213VkVDZlhS?oc=5",
-    "published_at": "2025-07-18T07:00:00+00:00",
-    "indicative_usd": 5300000,
-    "category_hint": "books",
-    "source_name": "Google News: auction \"sold for\" \"million\"",
     "status": "candidate",
     "note": "Сообщение требует проверки. Цена, тип сделки и дата продажи не установлены."
   }

@@ -8712,6 +8712,38 @@
     ]
   },
   {
+    "group_id": "3aa84442336f4b1c",
+    "title": "A Ferrari Enzo Has Just Sold for Over $10 Million at Auction in an Exclusive Color - Yahoo Autos",
+    "category_hint": "cars",
+    "articles": 1,
+    "publishers": 1,
+    "indicative_usd_values": [
+      10000000
+    ],
+    "amount_variation_pct": 0.0,
+    "last_publication_at": "2026-06-03T07:00:00+00:00",
+    "priority": 1,
+    "checks_needed": [
+      "Не найден проверенный результат конкретного лота из официального источника"
+    ],
+    "decision": "needs_official_primary_source",
+    "is_verified_sale": false,
+    "candidate_ids": [
+      "4be2a29eaac361a0"
+    ],
+    "links": [
+      {
+        "candidate_id": "4be2a29eaac361a0",
+        "title": "A Ferrari Enzo Has Just Sold for Over $10 Million at Auction in an Exclusive Color - Yahoo Autos",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1dHTWVWSmVGRG5FVkxaSTRDZGQwUDJFRF9HRHhldEw4RV9pODJjTXFGcG5qaG1GVVhjVTU1WGdGNEd3UElVd0NrYjU2NTJUVjdKVm81TkpTQUdwSjZhLXlueXVnNEExcUxXVzNla1QyTnZZWEZFdVJOT24wVDB4V3VGU3A1R2JJbmpUdU5POGNBdUxOdFBoOXJDcnk3QQ?oc=5",
+        "publisher_name": "Yahoo Autos",
+        "publisher_url": "https://autos.yahoo.com",
+        "published_at": "2026-06-03T07:00:00+00:00",
+        "indicative_usd": 10000000
+      }
+    ]
+  },
+  {
     "group_id": "b37f44d7acbbba23",
     "title": "11 Rare Coins That Have Sold for More Than $1 Million - AOL.com",
     "category_hint": "coins",
@@ -11730,39 +11762,6 @@
         "publisher_url": "",
         "published_at": "2025-07-21T07:00:00+00:00",
         "indicative_usd": 14750000
-      }
-    ]
-  },
-  {
-    "group_id": "ed2ff188ff0b7a78",
-    "title": "A massive rock from Mars sold at an auction sold for nearly $5.3 million, becoming the highest selling meteorite ever. - Facebook",
-    "category_hint": "books",
-    "articles": 1,
-    "publishers": 1,
-    "indicative_usd_values": [
-      5300000
-    ],
-    "amount_variation_pct": 0.0,
-    "last_publication_at": "2025-07-18T07:00:00+00:00",
-    "priority": 1,
-    "checks_needed": [
-      "Не найден проверенный результат конкретного лота из официального источника",
-      "Не указан адрес оригинального издателя"
-    ],
-    "decision": "needs_official_primary_source",
-    "is_verified_sale": false,
-    "candidate_ids": [
-      "49188b03e5fa5f1b"
-    ],
-    "links": [
-      {
-        "candidate_id": "49188b03e5fa5f1b",
-        "title": "A massive rock from Mars sold at an auction sold for nearly $5.3 million, becoming the highest selling meteorite ever. - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPelFJVXY0dTdKYzN1TlkwTlpSXzVkeURRY19pdThWNUtYaW1IRll5MmtVZ05zS0t5YnNTYmlnOEp6blU5ZENZbWlJdUp1eWczZVR2NnhYU2xqUjBXSmMtZ04wVUVWU3RCMDhidklsM0lVdUxua01NbU1HN0pCX1Y4VGxwVlp1QkhTTWxUeVloencwNGFfRG4ybWVqWERxczV5VWJOZ1cxcHllV0R1ODdwdWpQR1ZSU1luUzRjUEZTbW96VDd1b0NyeUFzTk9QRC1CTWNqM213VkVDZlhS?oc=5",
-        "publisher_name": "Facebook",
-        "publisher_url": "",
-        "published_at": "2025-07-18T07:00:00+00:00",
-        "indicative_usd": 5300000
       }
     ]
   },
