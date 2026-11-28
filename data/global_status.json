@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-27T23:26:58.988527+00:00",
+  "checked_utc": "2026-11-28T01:54:00.372532+00:00",
   "registry_sources": 156,
   "auctions_and_houses": 142,
   "discovery_platforms": 14,
@@ -38,13 +38,13 @@
   ],
   "registry_coverage": "curated, not exhaustive",
   "batch_size": 13,
-  "rss_ok": 13,
-  "rss_errors": 0,
+  "rss_ok": 0,
+  "rss_errors": 13,
   "new_candidates": 0,
   "candidate_queue_size": 45,
   "verified_sales_added": 0,
   "minimum_usd": 300000,
-  "next_cursor": 52,
+  "next_cursor": 65,
   "scan_cycles_completed": 10,
   "discovery_method": "official publisher-site filtered Google News RSS",
   "restrictions": [
@@ -55,108 +55,108 @@
   ],
   "checks": [
     {
-      "house": "Antiquorum",
-      "country": "CH",
-      "domain": "antiquorum.swiss",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Schuler Auktionen",
-      "country": "CH",
-      "domain": "schulerauktionen.ch",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
-    },
-    {
-      "house": "Galerie Kornfeld",
-      "country": "CH",
-      "domain": "kornfeld.ch",
-      "status": "ok",
-      "rss_items": 60,
-      "new_leads": 0
-    },
-    {
-      "house": "Dreweatts",
+      "house": "Morton & Eden",
       "country": "GB",
-      "domain": "dreweatts.com",
-      "status": "ok",
-      "rss_items": 45,
-      "new_leads": 0
+      "domain": "mortonandeden.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
     },
     {
-      "house": "Woolley & Wallis",
+      "house": "H&H Classics",
       "country": "GB",
-      "domain": "woolleyandwallis.co.uk",
-      "status": "ok",
-      "rss_items": 11,
-      "new_leads": 0
+      "domain": "handh.co.uk",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
     },
     {
-      "house": "Sworders",
+      "house": "Iconic Auctioneers",
       "country": "GB",
-      "domain": "sworder.co.uk",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
+      "domain": "iconicauctioneers.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
     },
     {
-      "house": "Chiswick Auctions",
+      "house": "Collecting Cars",
       "country": "GB",
-      "domain": "chiswickauctions.co.uk",
-      "status": "ok",
-      "rss_items": 8,
-      "new_leads": 0
+      "domain": "collectingcars.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
     },
     {
-      "house": "Roseberys",
+      "house": "Whisky Auctioneer",
       "country": "GB",
-      "domain": "roseberys.co.uk",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
+      "domain": "whiskyauctioneer.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
     },
     {
-      "house": "Lyon & Turnbull",
+      "house": "The Saleroom",
       "country": "GB",
-      "domain": "lyonandturnbull.com",
-      "status": "ok",
-      "rss_items": 27,
-      "new_leads": 0
+      "domain": "the-saleroom.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
     },
     {
-      "house": "Forum Auctions",
-      "country": "GB",
-      "domain": "forumauctions.co.uk",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
+      "house": "Invaluable",
+      "country": "US",
+      "domain": "invaluable.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
     },
     {
-      "house": "Dominic Winter",
-      "country": "GB",
-      "domain": "dominicwinter.co.uk",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
+      "house": "LiveAuctioneers",
+      "country": "US",
+      "domain": "liveauctioneers.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
     },
     {
-      "house": "Spink",
-      "country": "GB",
-      "domain": "spink.com",
-      "status": "ok",
-      "rss_items": 52,
-      "new_leads": 0
+      "house": "AuctionZip",
+      "country": "US",
+      "domain": "auctionzip.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
     },
     {
-      "house": "Noonans",
-      "country": "GB",
-      "domain": "noonans.co.uk",
-      "status": "ok",
-      "rss_items": 80,
-      "new_leads": 0
+      "house": "Catawiki",
+      "country": "NL",
+      "domain": "catawiki.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "house": "Rago",
+      "country": "US",
+      "domain": "ragoarts.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "house": "Wright",
+      "country": "US",
+      "domain": "wright20.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "house": "Doyle",
+      "country": "US",
+      "domain": "doyle.com",
+      "status": "error",
+      "http_code": 503,
+      "reason": "HTTP Error 503: Service Unavailable"
     }
   ]
 }
